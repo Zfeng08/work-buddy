@@ -1,0 +1,40 @@
+name: 部署 Pages
+
+on:
+  push:
+    branches: [main]
+    # 前端是运行时 fetch data/*.json 的，纯数据更新无需重新部署。
+    # 不加这条的话，快变数据每 30 分钟提交一次就触发一次部署，
+    # 一天 48 次毫无意义的 Pages 构建。
+    paths-ignore:
+      - "data/**"
+      - "knowledge/**"
+      - "README.md"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

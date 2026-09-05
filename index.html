@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WorkBuddy 工作台</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0b0e14">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="WorkBuddy">
+<link rel="stylesheet" href="assets/style.css">
+<script>
+  // 在样式生效前先定主题，避免深色页面一闪变浅色（或反之）
+  (function () {
+    try {
+      var saved = localStorage.getItem("wb-theme");
+      var sys = window.matchMedia && window.matchMedia("(prefers-color-scheme: light)").matches;
+      document.documentElement.dataset.theme = saved || (sys ? "light" : "dark");
+    } catch (e) { document.documentElement.dataset.theme = "dark"; }
+  })();
+</script>
+<script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script>
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="logo">◆</span>
+    <div>
+      <h1>WorkBuddy 工作台</h1>
+      <p class="sub" id="sub-title">数据由 GitHub Actions 自动采集 · 仓库即数据源</p>
+    </div>
+  </div>
+  <div class="topbar-right">
+    <div class="refresh-bar">
+      <button id="theme-toggle" class="theme-btn" title="切换浅色 / 深色">
+        <span class="t-icon" id="theme-icon">☀</span><span class="t-label" id="theme-label">浅色</span>
+      </button>
+      <span class="live-dot" id="live-dot"></span>
+      <span id="data-age">数据加载中…</span>
+      <span class="countdown" id="countdown">--</span>
+      <button id="refresh-toggle" class="refresh-btn" title="点击暂停/恢复自动刷新">自动刷新</button>
+    </div>
+    <nav class="tabs" id="tabs">
+      <button data-tab="overview" class="active">总览</button>
+      <button data-tab="news">资讯</button>
+      <button data-tab="finance">行情</button>
+      <button data-tab="weather">天气</button>
+      <button data-tab="jobs">岗位</button>
+      <button data-tab="trends">趋势</button>
+      <button data-tab="knowledge">知识库</button>
+      <button data-tab="graph">图谱</button>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <!-- 总览 -->
+  <section id="tab-overview" class="panel active">
+    <div class="stat-grid" id="stat-grid"></div>
+    <div class="grid-2">
+      <div class="card">
+        <h2>重点岗位 <span class="badge">关键词命中</span></h2>
+        <ul class="list" id="ov-jobs"></ul>
+      </div>
+      <div class="card">
+        <h2>天气速览</h2>
+        <div class="weather-mini" id="ov-weather"></div>
+      </div>
+    </div>
+    <div class="card">
+      <h2>最新资讯</h2>
+      <ul class="list" id="ov-news"></ul>
+    </div>
+  </section>
+
+  <!-- 资讯 -->
+  <section id="tab-news" class="panel">
+    <div class="card full">
+      <h2>资讯流 <span class="badge" id="news-meta"></span></h2>
+      <div class="filter-bar" id="news-filter"></div>
+      <ul class="list" id="news-list"></ul>
+    </div>
+  </section>
+
+  <!-- 行情 -->
+  <section id="tab-finance" class="panel">
+    <div class="card full">
+      <h2>行情快照</h2>
+      <div class="quote-grid" id="quote-grid"></div>
+    </div>
+    <div class="card full">
+      <h2>上证指数走势 <span class="badge">近 90 个采集日</span></h2>
+      <div id="finance-chart" class="chart"></div>
+    </div>
+  </section>
+
+  <!-- 天气 -->
+  <section id="tab-weather" class="panel">
+    <div class="grid-2" id="weather-grid"></div>
+  </section>
+
+  <!-- 岗位 -->
+  <section id="tab-jobs" class="panel">
+    <div class="card full">
+      <h2>岗位订阅 <span class="badge" id="jobs-meta"></span></h2>
+      <p class="hint">制造业工厂供应链/计划岗 · 成都 / 昆明 / 江浙沪 · 猎聘公开页每日自动采集，点击标题跳转详情</p>
+      <div class="filter-row"><span class="filter-label">城市</span><div class="filter-bar" id="jobs-filter"></div></div>
+      <div class="filter-row"><span class="filter-label">领域</span><div class="filter-bar" id="jobs-domain-filter"></div></div>
+      <div class="filter-row"><span class="filter-label">级别</span><div class="filter-bar" id="jobs-level-filter"></div></div>
+      <ul class="list" id="jobs-list"></ul>
+    </div>
+  </section>
+
+  <!-- 趋势 -->
+  <section id="tab-trends" class="panel">
+    <div class="card full">
+      <h2>GitHub Trending</h2>
+      <div id="trends-chart" class="chart"></div>
+    </div>
+    <div class="card full">
+      <h2>仓库列表</h2>
+      <ul class="list" id="trends-list"></ul>
+    </div>
+  </section>
+
+  <!-- 知识库 -->
+  <section id="tab-knowledge" class="panel">
+    <div class="grid-kb">
+      <aside class="card side">
+        <h2>关键词 <span class="badge" id="kb-kw-count">0</span></h2>
+        <div class="kw-cloud" id="kw-cloud"></div>
+        <h2 style="margin-top:18px">标签</h2>
+        <div class="tag-cloud" id="tag-cloud"></div>
+        <h2 style="margin-top:18px">统计</h2>
+        <div id="kb-stats" class="kb-stats"></div>
+      </aside>
+      <div class="card main-col">
+        <h2>笔记</h2>
+        <input id="kb-search" class="search" placeholder="搜索笔记标题 / 标签 / 摘要…">
+        <div id="kb-notes"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 关键词弹层 -->
+  <div id="kw-popover" class="kw-popover" hidden></div>
+
+  <!-- 图谱 -->
+  <section id="tab-graph" class="panel">
+    <div class="card full">
+      <h2>知识图谱 <span class="badge">边越粗关联越强</span></h2>
+      <div id="graph-chart" class="chart tall"></div>
+    </div>
+  </section>
+</main>
+
+<footer>WorkBuddy · 数据采集与分析由 GitHub Actions 定时执行 · <span id="foot-time"></span></footer>
+<script src="assets/app.js"></script>
+</body>
+</html>

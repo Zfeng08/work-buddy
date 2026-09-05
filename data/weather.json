@@ -1,0 +1,260 @@
+{
+  "cities": [
+    {
+      "name": "沈阳",
+      "note": "工作地",
+      "current": {
+        "temperature": 20.6,
+        "apparent": 22.6,
+        "humidity": 86,
+        "wind_speed": 6.5,
+        "weather_code": 0,
+        "pm25": 30.6,
+        "pm10": 33.4,
+        "time": "2026-09-06T06:15"
+      },
+      "daily": [
+        {
+          "date": "2026-09-06",
+          "weather_code": 2,
+          "temp_max": 30.0,
+          "temp_min": 20.3,
+          "precip_prob": 0
+        },
+        {
+          "date": "2026-09-07",
+          "weather_code": 53,
+          "temp_max": 26.4,
+          "temp_min": 16.7,
+          "precip_prob": 73
+        },
+        {
+          "date": "2026-09-08",
+          "weather_code": 3,
+          "temp_max": 21.8,
+          "temp_min": 14.7,
+          "precip_prob": 2
+        },
+        {
+          "date": "2026-09-09",
+          "weather_code": 0,
+          "temp_max": 22.6,
+          "temp_min": 12.7,
+          "precip_prob": 0
+        },
+        {
+          "date": "2026-09-10",
+          "weather_code": 3,
+          "temp_max": 26.0,
+          "temp_min": 12.8,
+          "precip_prob": 0
+        }
+      ]
+    },
+    {
+      "name": "昆明",
+      "note": "家",
+      "current": {
+        "temperature": 15.1,
+        "apparent": 15.6,
+        "humidity": 90,
+        "wind_speed": 3.7,
+        "weather_code": 0,
+        "pm25": 26.9,
+        "pm10": 27.5,
+        "time": "2026-09-06T06:15"
+      },
+      "daily": [
+        {
+          "date": "2026-09-06",
+          "weather_code": 51,
+          "temp_max": 27.3,
+          "temp_min": 14.9,
+          "precip_prob": 58
+        },
+        {
+          "date": "2026-09-07",
+          "weather_code": 53,
+          "temp_max": 25.8,
+          "temp_min": 16.4,
+          "precip_prob": 63
+        },
+        {
+          "date": "2026-09-08",
+          "weather_code": 1,
+          "temp_max": 27.0,
+          "temp_min": 14.8,
+          "precip_prob": 33
+        },
+        {
+          "date": "2026-09-09",
+          "weather_code": 51,
+          "temp_max": 26.7,
+          "temp_min": 15.3,
+          "precip_prob": 76
+        },
+        {
+          "date": "2026-09-10",
+          "weather_code": 80,
+          "temp_max": 21.5,
+          "temp_min": 16.1,
+          "precip_prob": 78
+        }
+      ]
+    },
+    {
+      "name": "海门区",
+      "note": "江苏南通",
+      "current": {
+        "temperature": 23.4,
+        "apparent": 26.5,
+        "humidity": 88,
+        "wind_speed": 9.1,
+        "weather_code": 0,
+        "pm25": 9.3,
+        "pm10": 11.0,
+        "time": "2026-09-06T06:15"
+      },
+      "daily": [
+        {
+          "date": "2026-09-06",
+          "weather_code": 51,
+          "temp_max": 28.1,
+          "temp_min": 22.5,
+          "precip_prob": 63
+        },
+        {
+          "date": "2026-09-07",
+          "weather_code": 3,
+          "temp_max": 27.9,
+          "temp_min": 21.3,
+          "precip_prob": 35
+        },
+        {
+          "date": "2026-09-08",
+          "weather_code": 51,
+          "temp_max": 27.7,
+          "temp_min": 21.6,
+          "precip_prob": 14
+        },
+        {
+          "date": "2026-09-09",
+          "weather_code": 51,
+          "temp_max": 26.9,
+          "temp_min": 21.0,
+          "precip_prob": 18
+        },
+        {
+          "date": "2026-09-10",
+          "weather_code": 81,
+          "temp_max": 28.2,
+          "temp_min": 19.5,
+          "precip_prob": 55
+        }
+      ]
+    },
+    {
+      "name": "邳州市",
+      "note": "江苏徐州",
+      "current": {
+        "temperature": 20.0,
+        "apparent": 21.9,
+        "humidity": 92,
+        "wind_speed": 8.8,
+        "weather_code": 0,
+        "pm25": 19.6,
+        "pm10": 23.5,
+        "time": "2026-09-06T06:15"
+      },
+      "daily": [
+        {
+          "date": "2026-09-06",
+          "weather_code": 1,
+          "temp_max": 29.1,
+          "temp_min": 19.8,
+          "precip_prob": 0
+        },
+        {
+          "date": "2026-09-07",
+          "weather_code": 3,
+          "temp_max": 30.4,
+          "temp_min": 19.6,
+          "precip_prob": 0
+        },
+        {
+          "date": "2026-09-08",
+          "weather_code": 2,
+          "temp_max": 29.6,
+          "temp_min": 20.1,
+          "precip_prob": 2
+        },
+        {
+          "date": "2026-09-09",
+          "weather_code": 2,
+          "temp_max": 26.2,
+          "temp_min": 20.1,
+          "precip_prob": 0
+        },
+        {
+          "date": "2026-09-10",
+          "weather_code": 51,
+          "temp_max": 23.5,
+          "temp_min": 19.1,
+          "precip_prob": 8
+        }
+      ]
+    },
+    {
+      "name": "成都市",
+      "note": "四川",
+      "current": {
+        "temperature": 25.6,
+        "apparent": 29.1,
+        "humidity": 71,
+        "wind_speed": 2.2,
+        "weather_code": 0,
+        "pm25": 103.8,
+        "pm10": 106.2,
+        "time": "2026-09-06T06:15"
+      },
+      "daily": [
+        {
+          "date": "2026-09-06",
+          "weather_code": 53,
+          "temp_max": 35.2,
+          "temp_min": 25.4,
+          "precip_prob": 53
+        },
+        {
+          "date": "2026-09-07",
+          "weather_code": 3,
+          "temp_max": 34.5,
+          "temp_min": 25.2,
+          "precip_prob": 12
+        },
+        {
+          "date": "2026-09-08",
+          "weather_code": 53,
+          "temp_max": 31.9,
+          "temp_min": 25.2,
+          "precip_prob": 63
+        },
+        {
+          "date": "2026-09-09",
+          "weather_code": 95,
+          "temp_max": 26.1,
+          "temp_min": 21.5,
+          "precip_prob": 98
+        },
+        {
+          "date": "2026-09-10",
+          "weather_code": 61,
+          "temp_max": 21.5,
+          "temp_min": 19.4,
+          "precip_prob": 92
+        }
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-06T06:22:18+08:00"
+}

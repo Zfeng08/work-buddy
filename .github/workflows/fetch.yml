@@ -1,0 +1,65 @@
+name: 定时采集数据（全量）
+
+# 低频全量：资讯、岗位、趋势、知识库每天三次。
+# 行情和天气在这里也会跑一次，作为 fetch-fast.yml 挂掉时的兜底——
+# 保证即使高频任务出问题，数据最多也不会超过 8 小时没更新。
+on:
+  schedule:
+    - cron: "5 1,5,9 * * *"   # UTC 1:05/5:05/9:05 = 北京时间 9:05/13:05/17:05
+  workflow_dispatch:            # 支持手动触发
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-data
+  cancel-in-progress: true
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 安装依赖
+        run: pip install requests feedparser beautifulsoup4 jieba
+
+      - name: 采集资讯
+        run: python scripts/fetch_news.py
+        working-directory: ${{ github.workspace }}
+        continue-on-error: true
+
+      - name: 采集行情
+        run: python scripts/fetch_finance.py
+        continue-on-error: true
+
+      - name: 采集天气
+        run: python scripts/fetch_weather.py
+        continue-on-error: true
+
+      - name: 采集趋势
+        run: python scripts/fetch_trends.py
+        continue-on-error: true
+
+      - name: 采集岗位
+        run: python scripts/fetch_jobs.py
+        continue-on-error: true
+
+      - name: 知识库分析
+        run: python scripts/build_knowledge.py
+
+      - name: 提交数据变更
+        run: |
+          git config user.name "workbuddy-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "无数据变更，跳过提交"
+          else
+            git commit -m "chore(data): 自动采集更新 $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
