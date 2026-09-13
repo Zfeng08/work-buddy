@@ -1,0 +1,186 @@
+{
+  "news": {
+    "max_items_per_source": 15,
+    "max_total": 60,
+    "sources": [
+      {
+        "name": "IT之家",
+        "url": "https://www.ithome.com/rss/",
+        "category": "科技商业"
+      },
+      {
+        "name": "少数派",
+        "url": "https://sspai.com/feed",
+        "category": "效率工具"
+      },
+      {
+        "name": "奇客 Solidot",
+        "url": "https://www.solidot.org/index.rss",
+        "category": "技术"
+      },
+      {
+        "name": "阮一峰的网络日志",
+        "url": "https://www.ruanyifeng.com/blog/atom.xml",
+        "category": "技术"
+      },
+      {
+        "name": "Hacker News 精选",
+        "url": "https://hnrss.org/newest?points=200",
+        "category": "技术"
+      }
+    ]
+  },
+  "finance": {
+    "symbols": [
+      {
+        "code": "sh000001",
+        "name": "上证指数"
+      },
+      {
+        "code": "sz399001",
+        "name": "深证成指"
+      },
+      {
+        "code": "sz399006",
+        "name": "创业板指"
+      },
+      {
+        "code": "hkHSI",
+        "name": "恒生指数"
+      },
+      {
+        "code": "hk00700",
+        "name": "腾讯控股"
+      },
+      {
+        "code": "whUSDCNY",
+        "name": "美元/人民币"
+      }
+    ]
+  },
+  "weather": {
+    "cities": [
+      {
+        "name": "沈阳",
+        "lat": 41.8,
+        "lon": 123.43,
+        "note": "工作地"
+      },
+      {
+        "name": "昆明",
+        "lat": 25.04,
+        "lon": 102.71,
+        "note": "家"
+      },
+      {
+        "name": "海门区",
+        "lat": 31.896,
+        "lon": 121.173,
+        "note": "江苏南通"
+      },
+      {
+        "name": "邳州市",
+        "lat": 34.311,
+        "lon": 117.95,
+        "note": "江苏徐州"
+      },
+      {
+        "name": "成都市",
+        "lat": 30.667,
+        "lon": 104.067,
+        "note": "四川"
+      }
+    ]
+  },
+  "trends": {
+    "max_repos": 25,
+    "languages": [
+      "",
+      "python",
+      "typescript",
+      "javascript",
+      "rust",
+      "go"
+    ]
+  },
+  "jobs": {
+    "max_total": 400,
+    "city_priority": [
+      "昆明",
+      "成都",
+      "上海",
+      "苏州",
+      "杭州",
+      "南京",
+      "宁波",
+      "无锡",
+      "常州",
+      "南通"
+    ],
+    "sources": [
+      {
+        "type": "liepin",
+        "cities": [
+          {
+            "name": "昆明",
+            "slug": "kunming"
+          },
+          {
+            "name": "成都",
+            "slug": "cd"
+          },
+          {
+            "name": "上海",
+            "slug": "sh"
+          },
+          {
+            "name": "苏州",
+            "slug": "suzhou"
+          },
+          {
+            "name": "杭州",
+            "slug": "hz"
+          },
+          {
+            "name": "南京",
+            "slug": "nj"
+          },
+          {
+            "name": "宁波",
+            "slug": "ningbo"
+          },
+          {
+            "name": "无锡",
+            "slug": "wuxi"
+          },
+          {
+            "name": "常州",
+            "slug": "changzhou"
+          },
+          {
+            "name": "南通",
+            "slug": "nantong"
+          }
+        ],
+        "careers": [
+          {
+            "slug": "PMC",
+            "label": "生产计划/物料管理"
+          },
+          {
+            "slug": "gongyinglian",
+            "label": "供应链"
+          },
+          {
+            "slug": "caigou",
+            "label": "采购"
+          }
+        ]
+      }
+    ],
+    "tier_caps": {
+      "core": 22,
+      "related": 15
+    }
+  }
+}
