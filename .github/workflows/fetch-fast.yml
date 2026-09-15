@@ -1,0 +1,58 @@
+name: 快变数据采集（准实时）
+
+# 只跑行情 + 天气这两个变化快、体积小的源，每 30 分钟一次。
+# 资讯/岗位/趋势/知识库由 fetch.yml 低频处理，不在这里跑，避免浪费。
+on:
+  schedule:
+    # UTC 的 17 分和 47 分 → 北京时间每小时的 :17 和 :47（每 30 分钟一次）
+    # 刻意避开整点：GitHub 在整点的调度最拥挤，最容易延迟甚至丢跑
+    - cron: "17,47 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-fast
+  cancel-in-progress: true
+
+jobs:
+  fetch-fast:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 安装依赖
+        run: pip install requests feedparser
+
+      - name: 采集行情
+        run: python scripts/fetch_finance.py
+        continue-on-error: true
+
+      - name: 采集天气
+        run: python scripts/fetch_weather.py
+        continue-on-error: true
+
+      - name: 提交快变数据
+        run: |
+          git config user.name "workbuddy-bot"
+          git config user.email "actions@github.com"
+          git add data/finance.json data/weather.json
+          if git diff --cached --quiet; then
+            echo "数据无变化，跳过提交"
+            exit 0
+          fi
+          # 滚动提交：如果上一条提交也是快变数据，就合并进去（amend）。
+          # 否则每天会产生 48 条提交，几个月就能把 git 历史撑到几十 MB。
+          # 数据是全量快照，幂等的，偶尔跳过一次不影响任何东西。
+          if git log -1 --pretty=%s | grep -q "^\[fast\]"; then
+            git commit --amend --no-edit
+            git push --force-with-lease || echo "远端已有新提交，本次跳过（下次采集会覆盖）"
+          else
+            git commit -m "[fast] 快变数据更新 $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
