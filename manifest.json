@@ -1,13 +1,13 @@
 {
-  "name": "WorkBuddy 工作台",
-  "short_name": "WorkBuddy",
+  "name": "珠峰工作台",
+  "short_name": "珠峰",
   "description": "个人数据中心：自动采集资讯/行情/天气/岗位/趋势 + 知识库关联分析",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
-  "background_color": "#0b0e14",
-  "theme_color": "#0b0e14",
+  "background_color": "#0e0e0f",
+  "theme_color": "#0e0e0f",
   "lang": "zh-CN",
   "icons": [
     {

@@ -3,20 +3,26 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>WorkBuddy 工作台</title>
+<title>珠峰工作台</title>
 <link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#0b0e14">
+<meta name="theme-color" content="#0e0e0f">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="WorkBuddy">
+<meta name="apple-mobile-web-app-title" content="珠峰">
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
 <link rel="stylesheet" href="assets/style.css">
 <script>
   // 在样式生效前先定主题，避免深色页面一闪变浅色（或反之）
   (function () {
+    var t;
     try {
       var saved = localStorage.getItem("wb-theme");
       var sys = window.matchMedia && window.matchMedia("(prefers-color-scheme: light)").matches;
-      document.documentElement.dataset.theme = saved || (sys ? "light" : "dark");
-    } catch (e) { document.documentElement.dataset.theme = "dark"; }
+      t = saved || (sys ? "light" : "dark");
+    } catch (e) { t = "dark"; }
+    document.documentElement.dataset.theme = t;
+    // 同步浏览器 UI 底色（地址栏 / 状态栏），避免首屏出现割裂色条
+    var m = document.querySelector('meta[name="theme-color"]');
+    if (m) m.setAttribute("content", t === "light" ? "#f7f6f3" : "#0e0e0f");
   })();
 </script>
 <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script>
@@ -24,10 +30,12 @@
 <body>
 <header class="topbar">
   <div class="brand">
-    <span class="logo">◆</span>
-    <div>
-      <h1>WorkBuddy 工作台</h1>
-      <p class="sub" id="sub-title">数据由 GitHub Actions 自动采集 · 仓库即数据源</p>
+    <svg class="mark" viewBox="0 0 40 32" aria-hidden="true" focusable="false">
+      <path fill-rule="evenodd" d="M2 30 L14 7 L20.5 19 L26 11 L38 30 Z M14 7 L11.3 13.2 L16.7 13.2 Z"/>
+    </svg>
+    <div class="brand-text">
+      <h1><b>珠峰</b><span>工作台</span></h1>
+      <p class="sub" id="sub-title">GitHub Actions 定时采集 · 仓库即数据源</p>
     </div>
   </div>
   <div class="topbar-right">
@@ -141,13 +149,13 @@
       <aside class="card side">
         <h2>关键词 <span class="badge" id="kb-kw-count">0</span></h2>
         <div class="kw-cloud" id="kw-cloud"></div>
-        <h2 style="margin-top:18px">标签</h2>
+        <h2 class="stack">标签</h2>
         <div class="tag-cloud" id="tag-cloud"></div>
-        <h2 style="margin-top:18px">统计</h2>
+        <h2 class="stack">统计</h2>
         <div id="kb-stats" class="kb-stats"></div>
-        <h2 style="margin-top:18px">私有笔记</h2>
+        <h2 class="stack">私有笔记</h2>
         <form id="lock-form" class="lock-box" autocomplete="on" method="post" action="#">
-          <input id="lock-pass" type="password" name="workbuddy-private-pass"
+          <input id="lock-pass" type="password" name="zhufeng-private-pass"
                  autocomplete="current-password" placeholder="输入口令解锁">
           <button id="lock-btn" type="submit">解锁</button>
         </form>
@@ -174,7 +182,7 @@
   </section>
 </main>
 
-<footer>WorkBuddy · 数据采集与分析由 GitHub Actions 定时执行 · <span id="foot-time"></span></footer>
+<footer>珠峰 · 数据采集与分析由 GitHub Actions 定时执行 · <span id="foot-time"></span></footer>
 <script src="assets/app.js"></script>
 </body>
 </html>

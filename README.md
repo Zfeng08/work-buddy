@@ -1,4 +1,4 @@
-# WorkBuddy 工作台
+# 珠峰工作台
 
 个人数据中心：GitHub 仓库即数据源，Actions 定时采集，Pages 展示。
 
