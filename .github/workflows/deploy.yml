@@ -1,0 +1,52 @@
+name: 部署站点（GitHub Pages）
+
+# 站点托管在 GitHub Pages。仓库为 public，Pages 免费可用。
+#
+# 只发布 scripts/build_site.py 拼出来的 dist/（页面 + 公开数据），
+# 不会把 scripts/、.github/、knowledge/ 以及 *.local.json 暴露到站点上。
+#
+# 数据更新后的重新部署由 fetch.yml / fetch-fast.yml 负责，这里只管前端改动。
+on:
+  push:
+    branches: [main]
+    paths:
+      - "index.html"
+      - "assets/**"
+      - "manifest.json"
+      - "scripts/build_site.py"
+      - ".github/workflows/deploy.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 生成发布目录
+        run: python3 scripts/build_site.py
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

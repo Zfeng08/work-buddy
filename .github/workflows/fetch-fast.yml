@@ -1,0 +1,68 @@
+name: 快变数据采集（准实时）
+
+# 只跑行情 + 天气这两个变化快、体积小的源。
+# 资讯/岗位/趋势/知识库由 fetch.yml 低频处理，不在这里跑，避免浪费。
+#
+# 频率说明：公开仓库的 Actions 不计入分钟额度，故恢复为每 30 分钟一次。
+on:
+  schedule:
+    # UTC 17 分和 47 分 → 北京时间每小时的 :17 和 :47（每 30 分钟一次）
+    # 刻意避开整点：GitHub 在整点的调度最拥挤，最容易延迟甚至丢跑
+    - cron: "17,47 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-fast
+  cancel-in-progress: true
+
+jobs:
+  fetch-fast:
+    runs-on: ubuntu-latest
+    steps:
+      # 必须 fetch-depth: 0（完整历史）。
+      # 默认的浅克隆(depth=1)只取 1 条提交，对「浅边界提交」执行 git commit --amend
+      # 会生成一条**无父根提交**；再 --force-with-lease 推上去，远端整条历史就被截断成 1 条。
+      # 2026-09-18 实际踩到：远端 main 被压成单条 "[fast] 快变数据更新" 根提交。
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 安装依赖
+        run: pip install requests feedparser
+
+      # 公开仓库一律使用 config/sources.json 里的通用城市。
+      # 个人城市清单只存在于私有库 Zfeng08/work-buddy-private，本地预览时才注入。
+      - name: 采集行情
+        run: python scripts/fetch_finance.py
+        continue-on-error: true
+
+      - name: 采集天气
+        run: python scripts/fetch_weather.py
+        continue-on-error: true
+
+      - name: 提交快变数据
+        run: |
+          git config user.name "workbuddy-bot"
+          git config user.email "actions@github.com"
+          git add data/finance.json data/weather.json
+          if git diff --cached --quiet; then
+            echo "数据无变化，跳过提交"
+            exit 0
+          fi
+          # 滚动提交：如果上一条提交也是快变数据，就合并进去（amend）。
+          # 否则每天会产生 48 条提交，几个月就能把 git 历史撑到几十 MB。
+          # 数据是全量快照，幂等的，偶尔跳过一次不影响任何东西。
+          if git log -1 --pretty=%s | grep -q "^\[fast\]"; then
+            git commit --amend --no-edit
+            git push --force-with-lease || echo "远端已有新提交，本次跳过（下次采集会覆盖）"
+          else
+            git commit -m "[fast] 快变数据更新 $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

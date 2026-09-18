@@ -1,0 +1,3848 @@
+{
+  "count": 70,
+  "on_air_count": 5,
+  "rated_count": 21,
+  "platforms": {
+    "youku": {
+      "name": "优酷",
+      "color": "#1f8ff9",
+      "home": "https://www.youku.com/",
+      "id": "youku",
+      "count": 12,
+      "items": [
+        {
+          "title": "难哄",
+          "platforms": [
+            "youku"
+          ],
+          "cover": "",
+          "url": "https://www.youku.com/v_show/id_aefa5bc564b44f50ae4d.html",
+          "status": "32集全",
+          "on_air": false,
+          "episodes": 32,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": 2025,
+          "rank": {
+            "youku": 1
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "月鳞绮纪",
+          "platforms": [
+            "youku"
+          ],
+          "cover": "",
+          "url": "https://www.youku.com/v_show/id_ccdb02ca7e5249ccbb3e.html",
+          "status": "29集全",
+          "on_air": false,
+          "episodes": 29,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": 2026,
+          "rank": {
+            "youku": 2
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "长安二十四计",
+          "platforms": [
+            "youku"
+          ],
+          "cover": "",
+          "url": "https://www.youku.com/v_show/id_beecc45b903b4ea9b19a.html",
+          "status": "28集全",
+          "on_air": false,
+          "episodes": 28,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": 2025,
+          "rank": {
+            "youku": 3
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "黑夜告白",
+          "platforms": [
+            "youku"
+          ],
+          "cover": "",
+          "url": "https://www.youku.com/v_show/id_dccc1a382ea3456eaa77.html",
+          "status": "28集全",
+          "on_air": false,
+          "episodes": 28,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": 2026,
+          "rank": {
+            "youku": 4
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "重案解密",
+          "platforms": [
+            "youku"
+          ],
+          "cover": "",
+          "url": "https://www.youku.com/v_show/id_bbaf2557249a4f2a9447.html",
+          "status": "12集全",
+          "on_air": false,
+          "episodes": 12,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": 2026,
+          "rank": {
+            "youku": 5
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "乡村爱情18",
+          "platforms": [
+            "youku"
+          ],
+          "cover": "",
+          "url": "https://www.youku.com/v_show/id_daeadf90a91e4056bec6.html",
+          "status": "40集全",
+          "on_air": false,
+          "episodes": 40,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": 2026,
+          "rank": {
+            "youku": 6
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "藏海传",
+          "platforms": [
+            "youku"
+          ],
+          "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2921513308.jpg",
+          "url": "https://www.youku.com/v_show/id_06efbfbd08efbfbdefbf.html",
+          "status": "40集全",
+          "on_air": false,
+          "episodes": 40,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": 2025,
+          "rank": {
+            "youku": 7
+          },
+          "douban": {
+            "douban_id": "27181010",
+            "douban_title": "藏海传",
+            "douban_rating": 7.1,
+            "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2921513308.jpg",
+            "douban_url": "https://movie.douban.com/subject/27181010/",
+            "episodes_info": "",
+            "is_new": false
+          },
+          "hot": false
+        },
+        {
+          "title": "七根心简",
+          "platforms": [
+            "youku"
+          ],
+          "cover": "",
+          "url": "https://www.youku.com/v_show/id_bdfb0949ae4c4ac39168.html",
+          "status": "32集全",
+          "on_air": false,
+          "episodes": 32,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": 2025,
+          "rank": {
+            "youku": 8
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "雨霖铃",
+          "platforms": [
+            "youku"
+          ],
+          "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2932378070.jpg",
+          "url": "https://www.youku.com/v_show/id_afcb2d65c6a34b798d77.html",
+          "status": "37集全",
+          "on_air": false,
+          "episodes": 37,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": 2026,
+          "rank": {
+            "youku": 9
+          },
+          "douban": {
+            "douban_id": "36310054",
+            "douban_title": "雨霖铃",
+            "douban_rating": 7.0,
+            "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2932378070.jpg",
+            "douban_url": "https://movie.douban.com/subject/36310054/",
+            "episodes_info": "",
+            "is_new": false
+          },
+          "hot": false
+        },
+        {
+          "title": "凤凰台上",
+          "platforms": [
+            "youku"
+          ],
+          "cover": "",
+          "url": "https://www.youku.com/v_show/id_eafa48f7fb394ffc9af4.html",
+          "status": "35集全",
+          "on_air": false,
+          "episodes": 35,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": 2025,
+          "rank": {
+            "youku": 10
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "我的山与海",
+          "platforms": [
+            "youku"
+          ],
+          "cover": "",
+          "url": "https://www.youku.com/v_show/id_beeacc87d8e8444d8615.html",
+          "status": "30集全",
+          "on_air": false,
+          "episodes": 30,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": 2026,
+          "rank": {
+            "youku": 11
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "唐宫奇案之青雾风鸣",
+          "platforms": [
+            "youku"
+          ],
+          "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2929534370.jpg",
+          "url": "https://www.youku.com/v_show/id_fedf2ce33488482391b5.html",
+          "status": "34集全",
+          "on_air": false,
+          "episodes": 34,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": 2026,
+          "rank": {
+            "youku": 12
+          },
+          "douban": {
+            "douban_id": "36415590",
+            "douban_title": "唐宫奇案之青雾风鸣",
+            "douban_rating": 6.8,
+            "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2929534370.jpg",
+            "douban_url": "https://movie.douban.com/subject/36415590/",
+            "episodes_info": "",
+            "is_new": false
+          },
+          "hot": false
+        }
+      ]
+    },
+    "iqiyi": {
+      "name": "爱奇艺",
+      "color": "#00be06",
+      "home": "https://www.iqiyi.com/",
+      "id": "iqiyi",
+      "count": 29,
+      "items": [
+        {
+          "title": "生逢其时",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic5.iqiyipic.com/image/20260901/8b/8f/a_100610836_m_601_m7.jpg",
+          "url": "http://www.iqiyi.com/v_2bkbhy2gi2w.html",
+          "status": "更新至21集 / 共26集",
+          "on_air": true,
+          "episodes": 26,
+          "categories": [
+            "家庭"
+          ],
+          "desc": "青梧小镇住着家庭模式完全不同的齐家和曹家。某天两家同时诞下齐时、曹信。身患白化病的齐时，自小就意识到了自己的\"与众不同\"，于是她喝酱油、戴假发，试图通过这样的方式，成为和普通人一样的存在。另一边的曹信，一路走来都是家长口中“别人家的孩子”，然而光环之下却始终伴随着父亲的严苛要求。当特立独行、勇敢倔强的少女齐时，遇上乖巧听话、优秀自律的少年曹信，两个家庭也在邻里间日积月累的相处中感情更加深厚，而孩子们经历着关于亲情、友情、爱情的考验，大人们也在面对关于事业、婚姻、家庭的难题。在时代洪流中，纵使生活跌跌撞撞，他们亦携手缝缝补补修炼人生，共同找寻属于自己的人生和幸福。",
+          "actors": [
+            "王子奇",
+            "关晓彤",
+            "刘琳"
+          ],
+          "premiere": "2026-09-15",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 1
+          },
+          "douban": {
+            "douban_id": "37233336",
+            "douban_title": "生逢其时",
+            "douban_rating": null,
+            "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2925528426.jpg",
+            "douban_url": "https://movie.douban.com/subject/37233336/",
+            "episodes_info": "更新至21集",
+            "is_new": false
+          },
+          "hot": false
+        },
+        {
+          "title": "深渊无间",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic1.iqiyipic.com/image/20260904/44/e9/a_100684437_m_601_m6.jpg",
+          "url": "http://www.iqiyi.com/v_257knoc22e8.html",
+          "status": "全16集",
+          "on_air": false,
+          "episodes": 16,
+          "categories": [
+            "悬疑"
+          ],
+          "desc": "一篇名为《深渊》的推理网文悄然上线，打破了保守小城多年来的平静，文中诸多情节与警方未曾公布的多年前悬案案情有着惊人的相似。热血正义的新警李成，与多方嫌疑人，一次次上演高智对弈。最终李成拨开迷雾，侦查出掩藏在令人扼腕的亲情和友情之下的真相。",
+          "actors": [
+            "任嘉伦",
+            "秦俊杰",
+            "王砚辉"
+          ],
+          "premiere": "2026-09-10",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 2
+          },
+          "douban": {
+            "douban_id": "36576514",
+            "douban_title": "深渊无间",
+            "douban_rating": 7.2,
+            "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931762705.jpg",
+            "douban_url": "https://movie.douban.com/subject/36576514/",
+            "episodes_info": "16集全",
+            "is_new": false
+          },
+          "hot": false
+        },
+        {
+          "title": "一瓯春",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic9.iqiyipic.com/image/20260917/28/fb/a_100801025_m_601_m9.jpg",
+          "url": "http://www.iqiyi.com/v_290syr52zds.html",
+          "status": "更新至6集 / 共30集",
+          "on_air": true,
+          "episodes": 30,
+          "categories": [
+            "言情",
+            "古装"
+          ],
+          "desc": "“杀伐千面腹黑男”沈润与“人间清醒黑莲花”谢清圆互为刀刃交错，在理智与情感中携手复仇，于高门大户里明争暗斗，立朝堂官场上搅弄风云。最终他们走出暗流深渊，奔赴璀璨新生。",
+          "actors": [
+            "许凯",
+            "周也",
+            "白澍"
+          ],
+          "premiere": "2026-09-16",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 3
+          },
+          "douban": {
+            "douban_id": "35644140",
+            "douban_title": "一瓯春",
+            "douban_rating": null,
+            "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935819627.jpg",
+            "douban_url": "https://movie.douban.com/subject/35644140/",
+            "episodes_info": "更新至6集",
+            "is_new": true
+          },
+          "hot": false,
+          "is_new": true
+        },
+        {
+          "title": "醒来",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic8.iqiyipic.com/image/20260828/1a/e7/a_100684407_m_601_m10.jpg",
+          "url": "http://www.iqiyi.com/v_o9400y1y48.html",
+          "status": "全22集",
+          "on_air": false,
+          "episodes": 22,
+          "categories": [],
+          "desc": "1941年冬，照相师陈开来在师父牺牲后，代其赴上海与地下党接头，路遇表面是舞厅头牌、实为军统特工的金宝，在其帮助下以照相馆为掩护开展潜伏。期间他结识身份各异的女子——汪伪特派员苏门、我党谍报人员沈克希。陈开来在多方势力间周旋斡旋，逐步成长为杰出的地下工作者，最终联合众人挫败日军“沉睡计划”。",
+          "actors": [
+            "欧豪",
+            "娜扎",
+            "冯绍峰"
+          ],
+          "premiere": "2026-08-25",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 4
+          },
+          "douban": {
+            "douban_id": "36126289",
+            "douban_title": "醒来",
+            "douban_rating": 6.8,
+            "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2925520765.jpg",
+            "douban_url": "https://movie.douban.com/subject/36126289/",
+            "episodes_info": "22集全",
+            "is_new": false
+          },
+          "hot": false
+        },
+        {
+          "title": "重案六组：消失的警号",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic4.iqiyipic.com/image/20260904/1d/cd/a_101315007_m_601_m9.jpg",
+          "url": "http://www.iqiyi.com/v_1p7uol7yaq0.html",
+          "status": "全26集",
+          "on_air": false,
+          "episodes": 26,
+          "categories": [
+            "悬疑",
+            "罪案",
+            "内地"
+          ],
+          "desc": "九十年代初，东安市，重案六组成立前夕。省厅刑警曾克强因专案调入地方重案组，接手牺牲的战友刘华生前未竟的调查。大曾背负误解，一面融入新团队，一面暗中追查真相。东安市的犯罪势力暗流涌动，赵氏集团少东家赵彬以采砂船走私起家，贿赂官员，暴力垄断，为掩盖罪行接连杀害知情人。大曾以卧底姿态周旋，季洁以正面突破反制对方挑衅。在与赵氏集团周旋的过程中，六组成员接连并肩破获了连环爆炸复仇案，河道碎尸烹煮案，矿难骗保诈尸案，仙人跳杀人案，幽灵船惨案，神秘美女公路劫车案等奇案。",
+          "actors": [
+            "张一山",
+            "李沐宸",
+            "郭晓东"
+          ],
+          "premiere": "2026-08-30",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 5
+          },
+          "douban": {
+            "douban_id": "38407616",
+            "douban_title": "重案六组：消失的警号",
+            "douban_rating": 4.4,
+            "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935392983.jpg",
+            "douban_url": "https://movie.douban.com/subject/38407616/",
+            "episodes_info": "26集全",
+            "is_new": false
+          },
+          "hot": false
+        },
+        {
+          "title": "重器",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic8.iqiyipic.com/image/20260812/f7/2b/a_100624469_m_601_m7.jpg",
+          "url": "http://www.iqiyi.com/v_2epw32dh310.html",
+          "status": "全33集",
+          "on_air": false,
+          "episodes": 33,
+          "categories": [
+            "剧情"
+          ],
+          "desc": "故事始于改革开放初期，一直延续到 1997 年《刑诉法》《刑法》修订。主要人物包括陈一众、余高远、张丽慧、夏英杰等法学院毕业生。讲述了他们毕业后进入了司法领域不同的部门，在如火如荼的司法实践中见证历史、参与历史、与时俱进、不断成长的故事。五人出身不同、个性迥异，在十几年的工作和生活中历经浮沉，走上不同的道路。本剧从整体司法进程的独特视角出发，同时聚集公检法律行业人物，呈现了波澜壮阔的法治历史和大时代中交织交错的人物命运。",
+          "actors": [
+            "黄景瑜",
+            "蒋奇明",
+            "于和伟"
+          ],
+          "premiere": "2026-08-21",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 6
+          },
+          "douban": {
+            "douban_id": "36554071",
+            "douban_title": "重器",
+            "douban_rating": 7.3,
+            "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2934828709.jpg",
+            "douban_url": "https://movie.douban.com/subject/36554071/",
+            "episodes_info": "33集全",
+            "is_new": false
+          },
+          "hot": false
+        },
+        {
+          "title": "车轮下的真相",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic5.iqiyipic.com/image/20260916/71/f6/a_101434792_m_601_m3.jpg",
+          "url": "http://www.iqiyi.com/v_23t9qkg7q54.html",
+          "status": "更新至12集 / 共30集",
+          "on_air": true,
+          "episodes": 30,
+          "categories": [
+            "悬疑",
+            "罪案",
+            "内地"
+          ],
+          "desc": "曾任职刑警的交警李星辰，在一个雨夜接手一桩离奇车祸案。企业家高玉海意外殒命，现场遭一名假交警清理破坏，关键证据被抹除。市局成立专案组由李星辰牵头彻查此案。肇事司机沈溪看似与死者毫无瓜葛，随着调查推进，李星辰逐步揭开层层谎言。案件本拟以交通意外结案，肖泽却离奇自缢于郊外树林，疑点再度浮出水面。星辰深挖真相，牵扯出舞蹈大赛的过往，舞剧公演当晚，沈溪舞台上服毒身亡，留下录音遗言，袒露自己遭受权贵侵害的惨痛经历。雨夜交通事故的外壳被彻底撕碎，李星辰见证权利光环下，普通人的悲剧，看清意外背后盘根错节的人性深渊。",
+          "actors": [
+            "于小彤",
+            "王智勇(王睿子)",
+            "张可盈"
+          ],
+          "premiere": "2026-09-16",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 7
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "师兄太稳健",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic4.iqiyipic.com/image/20260817/f1/74/a_101283421_m_601_m3.jpg",
+          "url": "http://www.iqiyi.com/v_19hly1wd1gg.html",
+          "status": "全30集",
+          "on_air": false,
+          "episodes": 30,
+          "categories": [],
+          "desc": "前世是重症患者的李长寿意外重生到洪荒世界，化身为一名珍视生命、不沾因果的小小炼气士，为躲避天道预言中的天下大劫，奉行“稳健”之道，一心想上天庭苟活，为此，他稳健操作，不动稳如老狗、一动“石破天惊”，他坚信打打杀杀的时代已经过去，能坑人绝不杀人，能单身绝不恋爱，奈何敌人和美人如潮水般涌来，他一不小心成了运筹帷幄的幕后大佬，卷入多方博弈之中，运作“龙族上天”，甚至那天下大劫也加速到来。",
+          "actors": [
+            "敖瑞鹏",
+            "孙珍妮",
+            "艾米"
+          ],
+          "premiere": "2026-08-31",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 8
+          },
+          "douban": {
+            "douban_id": "36406417",
+            "douban_title": "师兄太稳健",
+            "douban_rating": 5.7,
+            "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2934541050.jpg",
+            "douban_url": "https://movie.douban.com/subject/36406417/",
+            "episodes_info": "30集全",
+            "is_new": false
+          },
+          "hot": false
+        },
+        {
+          "title": "雀骨",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic2.iqiyipic.com/image/20260713/ad/f8/a_100654530_m_601_m4.jpg",
+          "url": "http://www.iqiyi.com/v_2c3zr1t103w.html",
+          "status": "全28集",
+          "on_air": false,
+          "episodes": 28,
+          "categories": [
+            "言情",
+            "古装"
+          ],
+          "desc": "当魔头将军强娶沉迷机关术的财迷假千金，从契约夫妻到生死局里互扒马甲，爱意与杀意同生共长，揭朝堂阴谋，破生死乱局，守家国太平。",
+          "actors": [
+            "艾米",
+            "侯明昊",
+            "马秋元"
+          ],
+          "premiere": "2026-07-20",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 9
+          },
+          "douban": {
+            "douban_id": "37317368",
+            "douban_title": "雀骨",
+            "douban_rating": 6.9,
+            "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931739796.jpg",
+            "douban_url": "https://movie.douban.com/subject/37317368/",
+            "episodes_info": "",
+            "is_new": false
+          },
+          "hot": false
+        },
+        {
+          "title": "天才，女友",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic0.iqiyipic.com/image/20260806/38/bd/a_100661341_m_601_m6.jpg",
+          "url": "http://www.iqiyi.com/v_23wm96kvzp8.html",
+          "status": "全28集",
+          "on_air": false,
+          "episodes": 28,
+          "categories": [
+            "言情",
+            "剧情",
+            "都市"
+          ],
+          "desc": "天才少女林知夏性格直接、不善交际，从小没有好友。考入省一中后，她因解题比拼与性格阳光的学霸江逾白相识并成为同桌。作为社交达人的江逾白帮林知夏融入集体交到汤婷婷、段启言、沈负暄、金百慧等朋友，林知夏为表达感谢帮他补习功课，两人渐渐从竞争走向互助，最终成为最好的朋友。俩人还一同解决同学被骗、一起参加社团活动与省数学竞赛，在这个过程中，江逾白对林知夏感情渐深，但只把爱意埋在心里。林知夏被保送复旦后，江逾白准备在毕业之旅对她告白，却因母亲卷入诈骗案而遗憾离开，俩人最终能否冲破阻碍走到一起",
+          "actors": [
+            "田曦薇",
+            "胡一天",
+            "厉嘉琪"
+          ],
+          "premiere": "2026-08-12",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 10
+          },
+          "douban": {
+            "douban_id": "36403345",
+            "douban_title": "天才，女友",
+            "douban_rating": 5.3,
+            "douban_cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2934521281.jpg",
+            "douban_url": "https://movie.douban.com/subject/36403345/",
+            "episodes_info": "",
+            "is_new": false
+          },
+          "hot": false
+        },
+        {
+          "title": "低智商犯罪",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic2.iqiyipic.com/image/20260428/3d/35/a_100577495_m_601_m9.jpg",
+          "url": "http://www.iqiyi.com/v_273nwjut4mk.html",
+          "status": "全24集",
+          "on_air": false,
+          "episodes": 24,
+          "categories": [
+            "悬疑",
+            "罪案",
+            "喜剧"
+          ],
+          "desc": "脱离一线刑侦几年的警察张一昂，因为省厅收到的匿名举报信，被派往三江口调查案件。张一昂到三江口不久就遇到刑警队长被害，张一昂在洗清自我嫌疑时意外逮捕了连环杀人案的凶手，迅速建立声望。张一昂将侦查方向锁定到当地富商周荣团伙，可蠢贼们层出不穷，蠢贼之间勾心斗角的蝴蝶效应，反而助张一昂带领的警察们屡建奇功。 “缘分”让张一昂跟所有蠢贼们齐聚一堂，凭借智慧和勇气笑到最后，也查明同僚遇害的起因，最终让真凶落入法网。",
+          "actors": [
+            "王骁",
+            "田曦薇",
+            "王传君"
+          ],
+          "premiere": "2026-05-12",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 11
+          },
+          "douban": {
+            "douban_id": "35517044",
+            "douban_title": "低智商犯罪",
+            "douban_rating": 8.2,
+            "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2932040107.jpg",
+            "douban_url": "https://movie.douban.com/subject/35517044/",
+            "episodes_info": "",
+            "is_new": false
+          },
+          "hot": false
+        },
+        {
+          "title": "家业",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic1.iqiyipic.com/image/20260517/10/c9/a_100591160_m_601_m12.jpg",
+          "url": "http://www.iqiyi.com/v_227sdi27y7k.html",
+          "status": "全42集",
+          "on_air": false,
+          "episodes": 42,
+          "categories": [
+            "古装"
+          ],
+          "desc": "明朝中期，一场贡墨案打破维持已久的徽州墨业格局，位居龙头多年的百年制墨世家李墨没落，李墨八房被除族。时光流转，八房幺女李祯为解决生计毅然走上制墨之路，凭借天资和努力惊艳沉寂已久的徽州墨业，而后以女子之身突破束缚，以墨为刃，重塑徽州墨业辉煌，振兴百年家族，再造千年徽墨光彩。",
+          "actors": [
+            "杨紫",
+            "韩东君",
+            "吴冕"
+          ],
+          "premiere": "2026-06-01",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 12
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "这一秒过火",
+          "platforms": [
+            "iqiyi",
+            "tencent"
+          ],
+          "cover": "http://pic8.iqiyipic.com/image/20260227/ec/73/a_100646254_m_601_m5.jpg",
+          "url": "http://www.iqiyi.com/v_c8g49ee4g4.html",
+          "status": "全33集",
+          "on_air": false,
+          "episodes": 33,
+          "categories": [
+            "言情"
+          ],
+          "desc": "讲述了民国乱世，备受冷眼的世家少爷慕容清峄与饱受苦难的复仇孤女任素素阴差阳错结缘相识，却因误会含恨而别。两人再重逢，却身份错位，陷入爱恨交织的极限拉扯中。二人历经世事波折与生离死别，最后携手直面乱世危局。",
+          "actors": [
+            "王楚然",
+            "张凌赫",
+            "毛孩"
+          ],
+          "premiere": "2026-08-03",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 13,
+            "tencent": 25
+          },
+          "douban": {
+            "douban_id": "37096230",
+            "douban_title": "这一秒过火",
+            "douban_rating": 5.0,
+            "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929907615.jpg",
+            "douban_url": "https://movie.douban.com/subject/37096230/",
+            "episodes_info": "",
+            "is_new": false
+          },
+          "hot": true
+        },
+        {
+          "title": "凛冬下的罪恶",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic4.iqiyipic.com/image/20260806/d6/d7/a_100922154_m_601_m7.jpg",
+          "url": "http://www.iqiyi.com/v_267dgad8wv4.html",
+          "status": "全26集",
+          "on_air": false,
+          "episodes": 26,
+          "categories": [
+            "悬疑",
+            "罪案",
+            "内地"
+          ],
+          "desc": "凛冬，一精神病女子拦车报案，称丈夫杀人，刑警沈栋梁吴红兵由此揭开系列碎尸案真相。然而风浪未平，储蓄所抢劫杀人案，少女失踪案，流窜抢车案接连发生，沈栋梁与吴红兵追凶之际，竟牵出改变二人命运的人性悲剧。",
+          "actors": [
+            "吴昊宸",
+            "张睿",
+            "王大奇"
+          ],
+          "premiere": "2026-08-04",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 14
+          },
+          "douban": {
+            "douban_id": "38194327",
+            "douban_title": "凛冬下的罪恶",
+            "douban_rating": 6.8,
+            "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2934675359.jpg",
+            "douban_url": "https://movie.douban.com/subject/38194327/",
+            "episodes_info": "",
+            "is_new": false
+          },
+          "hot": false
+        },
+        {
+          "title": "蝉",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic5.iqiyipic.com/image/20260901/0f/27/a_101247389_m_601_m8.jpg",
+          "url": "http://www.iqiyi.com/v_cix2gal5d8.html",
+          "status": "全21集",
+          "on_air": false,
+          "episodes": 21,
+          "categories": [
+            "悬疑",
+            "内地",
+            "家庭"
+          ],
+          "desc": "生父是绑架犯，继父是刑警的刑辩律师（钟楚曦 饰），多年前遭人报复痛失妻儿的大法官（吴镇宇 饰），善用人心，游走灰色地带的邪魅律政精英（郑云龙 饰），三个孤独的陌生人在硬核案件的刑事辩护中互相博弈，却越发惺惺相惜，是对手也似亲人，螳螂捕蝉，黄雀在后，三人间，互为猎物，亦互为猎手，究竟谁才是黄雀，谁又是那只蛰伏十二年，只为自由鸣叫，收获一季响亮夏天的蝉？",
+          "actors": [
+            "吴镇宇",
+            "郑云龙",
+            "钟楚曦"
+          ],
+          "premiere": "2026-08-31",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 15
+          },
+          "douban": {
+            "douban_id": "37252177",
+            "douban_title": "蝉",
+            "douban_rating": 6.1,
+            "douban_cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2923279291.jpg",
+            "douban_url": "https://movie.douban.com/subject/37252177/",
+            "episodes_info": "21集全",
+            "is_new": false
+          },
+          "hot": false
+        },
+        {
+          "title": "南部档案",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic0.iqiyipic.com/image/20260611/d6/17/a_100598207_m_601_m3.jpg",
+          "url": "http://www.iqiyi.com/v_1900juvzgko.html",
+          "status": "全33集",
+          "on_air": false,
+          "episodes": 33,
+          "categories": [
+            "剧情"
+          ],
+          "desc": "民国初年，南洋海上发生“水鬼望乡”离奇命案，张家外派调查神秘事务的南部档案馆坐办张海盐、张海虾二人搭档亲往调查，却意外卷入了一个用于猎杀海外张家人的绝命死局。张海虾以自己的死谋局求解，送张海盐上了“南安号”巨轮回厦城以图他能够有一线生机，但这趟波澜诡谲的航程似乎才刚刚起航，一手遮天的军阀大佬、单纯执着的少年账房、还有十年未见的至亲故人……张海盐独自面对着接踵而至的意外，而当他踏上厦城的那一刻，真正属于两个少年的命运才初初开始转动……",
+          "actors": [
+            "张新成",
+            "丁禹兮",
+            "姜珮瑶"
+          ],
+          "premiere": "2026-06-22",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 16
+          },
+          "douban": {
+            "douban_id": "35465012",
+            "douban_title": "南部档案",
+            "douban_rating": 6.6,
+            "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2915779333.jpg",
+            "douban_url": "https://movie.douban.com/subject/35465012/",
+            "episodes_info": "",
+            "is_new": false
+          },
+          "hot": false
+        },
+        {
+          "title": "她的罪名",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic1.iqiyipic.com/image/20260427/6a/34/a_100801018_m_601_m7.jpg",
+          "url": "http://www.iqiyi.com/v_1js3rma83q0.html",
+          "status": "全24集",
+          "on_air": false,
+          "episodes": 24,
+          "categories": [
+            "内地",
+            "悬疑",
+            "普通话"
+          ],
+          "desc": "广南市出租屋发生恶性双尸案，夜总会女子李娜琳达惨遭虐杀。刑警林威与经验老到的马国栋联手查案，从现场细节推翻劫财劫色判断，锁定失踪服务员曹爱媛及其背后团伙。经查，曹爱媛因长期受死者轻视羞辱，心怀怨恨，联合华卫红等人设局行凶。警方循线追踪，揭开团伙谋财害命、内讧逃亡的真相。案件跨越三年，曹爱媛隐姓埋名再犯命案，最终被林威抓获归案。老刑警马国栋带病追凶，壮烈牺牲。故事以连环命案为引，剖开原生家庭、人性善恶与底层挣扎，展现刑警坚守正义、追凶到底的使命担当。",
+          "actors": [
+            "徐洋",
+            "洪浚嘉",
+            "吴天琪"
+          ],
+          "premiere": "2026-04-24",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 17
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "盛唐奇案",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic1.iqiyipic.com/image/20260529/ee/4d/a_100799706_m_601_m4.jpg",
+          "url": "http://www.iqiyi.com/v_159dxzpa3mo.html",
+          "status": "全26集",
+          "on_air": false,
+          "episodes": 26,
+          "categories": [
+            "悬疑",
+            "古装",
+            "内地"
+          ],
+          "desc": "盛世大唐，太守之女李静澜天赋异禀，擅验尸断案，与神秘“鬼探”决明、武艺高强的捕快苏御安联手追凶，揭开一桩桩离奇悬案：双生姐妹的生死置换、跨越十七年的书生冤案、雅集会上的连环仪式杀人等。在迷雾与鲜血中，李静澜与决明暗生情愫，彼此扶持，坚守心中正道，挣脱宿命桎梏。盛世灯火之下，他们以智慧与勇气涤荡污浊，书写下一段守护正义与清明的传奇。",
+          "actors": [
+            "何泓姗",
+            "李菲",
+            "何泊远"
+          ],
+          "premiere": "2026-05-15",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 18
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "逆时追捕",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic5.iqiyipic.com/image/20260722/81/3a/a_100906681_m_601_m8.jpg",
+          "url": "http://www.iqiyi.com/v_gaierz9bi8.html",
+          "status": "全26集",
+          "on_air": false,
+          "episodes": 26,
+          "categories": [
+            "悬疑",
+            "内地",
+            "普通话"
+          ],
+          "desc": "2011年，刑警徐卫璋在破败的斯卡拉夜总会发现一具被封藏十六年的白骨女尸，意外地与1995年的警察刘新建建立了跨越时空的联系。两人双时空协作，在不同时间线中共同推进侦查，共同侦破了一个尘封十六年的连环杀人案。",
+          "actors": [
+            "金瀚",
+            "江一燕",
+            "曹卫宇"
+          ],
+          "premiere": "2026-07-04",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 19
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "兵自风中来",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic0.iqiyipic.com/image/20260813/46/48/a_100586666_m_601_m5.jpg",
+          "url": "http://www.iqiyi.com/v_2afkjwl98n8.html",
+          "status": "全36集",
+          "on_air": false,
+          "episodes": 36,
+          "categories": [
+            "内地",
+            "普通话",
+            "剧情"
+          ],
+          "desc": "本剧通过描述当前陆军最具新型作战特色的特战、空突、侦察、信息等代表性兵种的官兵练兵备战，在历次实战演习中磨砺意志技能、逐渐形成新质作战能力等故事，反映了某集团军党委坚决落实习主席新时代强军思想，着眼打造一流陆军，谋划转型，大力推进战斗力建设的历史担当，浓缩了陆军官兵改革面前备战打仗矢志强军的铁血追求、展现了新时代陆军官兵积极投身军队转型的全新风貌，是一部融合备战打仗、青春成长励志、英雄主义传承，同时将军人荣誉、使命、爱情熔为一炉的军事题材正能量大剧。",
+          "actors": [
+            "欧豪",
+            "蓝盈莹",
+            "丁勇岱"
+          ],
+          "premiere": "2026-08-04",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 20
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "设局",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic2.iqiyipic.com/image/20260828/41/c7/a_100103214_m_601_m4.jpg",
+          "url": "http://www.iqiyi.com/v_yzy3wmitc8.html",
+          "status": "全46集",
+          "on_air": false,
+          "episodes": 46,
+          "categories": [
+            "谍战",
+            "普通话",
+            "战争"
+          ],
+          "desc": "该剧讲述了抗日战争时期，海外募集的抗战资金藏匿地点不明，赵心怡与上海的抗日武装，开启寻宝夺金之旅，清除叛徒并找到珠宝，运往抗日根据地的故事。",
+          "actors": [
+            "何明翰",
+            "赵心怡",
+            "李丞峰"
+          ],
+          "premiere": "2026-08-26",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 21
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "灿如繁星",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic7.iqiyipic.com/image/20260705/71/e5/a_100614849_m_601_m7.jpg",
+          "url": "http://www.iqiyi.com/v_2f1sx772wzo.html",
+          "status": "全32集",
+          "on_air": false,
+          "episodes": 32,
+          "categories": [
+            "言情",
+            "青春",
+            "都市"
+          ],
+          "desc": "改编自晋江文学城作者长洱的小说《狭路》，讲述了心理学博士林晚星遭遇变故后回到家乡宏景任教，邂逅顶级教练王法，并带领一群垫底差生逆袭追梦，热血救赎的故事。林晚星用“自由式”教育，培养少年们的独立人格，帮助他们学会生活，融洽自我，发现所爱，勇于追求。未来人生里，不远狭路，终见光明。",
+          "actors": [
+            "陈靖可",
+            "虞书欣",
+            "马伯骞"
+          ],
+          "premiere": "2026-07-16",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 22
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "爱情有烟火",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic9.iqiyipic.com/image/20260625/77/a2/a_100838690_m_601_m8.jpg",
+          "url": "http://www.iqiyi.com/v_h4lrzbfteg.html",
+          "status": "全36集",
+          "on_air": false,
+          "episodes": 36,
+          "categories": [],
+          "desc": "投行精英李亦非投资失败，从\"贵公子\"沦为与人合租的租客。而\"沪漂\"社畜钱菲因失恋失业双重打击，为减轻房贷压力开始招租。就这样，傲娇男租客李亦非与强势女房东钱菲阴差阳错住在了同一屋檐下，开启了鸡飞狗跳的合租生活。\n由于性格、经历和观念不同，两人在诸多生活细节上产生分歧与摩擦，但在相处中也增进了对彼此的了解，在冲突中相互磨合，逐渐发现了对方身上的闪光点。李亦非凭借投行精英的身份，为钱菲打开了更广阔的视野，让她能更从容地奋斗；钱菲则如一股清泉，将平凡人的烟火气带入李亦非的世界。二人相互碰撞又相互交融，最终从室友变成情侣，携手并肩走向充满爱与期待的未来。",
+          "actors": [
+            "檀健次",
+            "王楚然",
+            "李乃文"
+          ],
+          "premiere": "2026-06-14",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 23
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "昨夜将至",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic4.iqiyipic.com/image/20260703/fb/ea/a_100644807_m_601_m5.jpg",
+          "url": "http://www.iqiyi.com/v_1pauc36ywdk.html",
+          "status": "全12集",
+          "on_air": false,
+          "episodes": 12,
+          "categories": [
+            "悬疑",
+            "罪案",
+            "剧情"
+          ],
+          "desc": "面馆老板韩栋与妻子林美月看似安稳的日常之下，各自埋藏着不愿被人知晓的过往。林美月曾经的身份被旧识要挟勒索，平静生活被骤然打破；韩栋尘封二十年的秘密，也随着一场蓄意的复仇逐渐浮出水面。旧友步步紧逼，夫妻二人被卷入层层交织的危机当中。多年前的遗憾与过错、旧日姐妹间的纠葛接连爆发，多方势力相互拉扯。为守护自己的小家，夫妻俩从被动周旋开始奋力反击，在迷雾重重的恩怨里，直面所有过往造成的困局。",
+          "actors": [
+            "佟大为",
+            "王佳佳",
+            "马苏"
+          ],
+          "premiere": "2026-06-25",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 24
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "深渊",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic2.iqiyipic.com/image/20260512/8d/7a/a_100806078_m_601_m4.jpg",
+          "url": "http://www.iqiyi.com/v_208o26m58dc.html",
+          "status": "全23集",
+          "on_air": false,
+          "episodes": 23,
+          "categories": [
+            "悬疑",
+            "内地",
+            "普通话"
+          ],
+          "desc": "在铜江市，短短三个月内连续爆发了三起恶性案件：先是游客在城郊大黑山发现了江中漂浮的残臂；随后，大学生路阳在家中不明原因死亡；紧接着，市青年企业家叶启明遭遇车祸不幸身亡。市局刑侦科的女刑警蒋梅与刚从省厅调来的沈峰奉命侦破这一系列案件。随着调查的艰难推进，案件背后残忍的杀戮、深藏的爱恨情仇以及错综复杂的关系渐渐显现，而血案背后的缘由也折射出物欲诱惑与扭曲心灵之间无法割裂的因果联系。",
+          "actors": [
+            "张承",
+            "朱美吉",
+            "孟子叶"
+          ],
+          "premiere": "2026-05-09",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 25
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "人生赢家",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic4.iqiyipic.com/image/20260914/4a/8a/a_101293765_m_601_m5.jpg",
+          "url": "http://www.iqiyi.com/v_2dv0todqcro.html",
+          "status": "全24集",
+          "on_air": false,
+          "episodes": 24,
+          "categories": [
+            "喜剧",
+            "内地",
+            "普通话"
+          ],
+          "desc": "前任车神阳关因遭人陷害，车行陷入困境，决定卖房还债。签约当日，父亲坠楼身亡，留下巨额债务。为替父还债，阳关赛车赌约惨败，一夜沦为大负翁。此时小女孩乐乐上门认亲，阳关被迫开启奶爸生活。房产销售叶知秋因父病危，接受阳关妹妹阳莹的委托，以讨债为名住进阳关家，实为卧底搜寻阳父科研成果。两人在同居中屡生摩擦，却在共渡难关中感情渐升温。阳莹因误会母亲之死与阳关有关，策划了一系列阴谋，并当众揭穿叶知秋卧底身份，令两人关系降至冰点。阳关为查身世直播跳楼，却因此引出尘封真相。最终真凶伏法，阳莹醒悟，阳关还清债务，与叶知秋、乐乐组成幸福家庭。",
+          "actors": [
+            "丁笑滢",
+            "贺鹏"
+          ],
+          "premiere": "2026-08-28",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 26
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "罪案痕迹",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic8.iqiyipic.com/image/20260519/cf/1c/a_100812101_m_601_m5.jpg",
+          "url": "http://www.iqiyi.com/v_e1n963610c.html",
+          "status": "全25集",
+          "on_air": false,
+          "episodes": 25,
+          "categories": [
+            "内地",
+            "罪案",
+            "普通话"
+          ],
+          "desc": "痕迹专家邱晨与刑警顾宇明联手侦破五桩离奇案件，从丈夫离奇死亡到痕迹清道夫，揭开一桩桩人性悲剧。随着调查深入，邱晨惊觉所有案件竟与十年前父亲被害案隐秘相连。那个擅长抹去一切痕迹的神秘人物，究竟是谁？",
+          "actors": [
+            "耿业庭",
+            "李沐风",
+            "吴翎薇"
+          ],
+          "premiere": "2026-05-15",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 27
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "济公之降龙现世",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic2.iqiyipic.com/image/20260813/1a/d0/a_101323565_m_601_m6.jpg",
+          "url": "http://www.iqiyi.com/v_pef5cgpszc.html",
+          "status": "全22集",
+          "on_air": false,
+          "episodes": 22,
+          "categories": [
+            "古装",
+            "奇幻",
+            "内地"
+          ],
+          "desc": "千年之前妖王噬心遭降龙围剿，其夫段公子魂魄附噬魂枪化为妖王迦楼，立誓复仇。蟠桃盛会迦楼设计陷害降龙，如来点破二人千年尘缘，降龙转世为李修缘，与被贬的玉竹相遇相爱。妖魔作祟祸乱临安，李修缘为救众人斩断情缘，觉醒降龙真身，出家为济公。迦楼躲入幻虚之境，借幽魂引路积蓄怨气，复活玉竹牵制济公，又附身书生欲修成天魔神功。天狗食日妖魔大举来袭，柳飘飘舍身重开天光，济公与醒悟的玉竹联手抗敌，挫败噬心灭世阴谋。最终灵隐众人安顿新生，济公留于人间，一边济世安民，一边追寻残余妖魔了结因果。",
+          "actors": [
+            "陈浩民",
+            "林子聪",
+            "高广泽"
+          ],
+          "premiere": "2026-08-13",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 28
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "暗金",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic6.iqiyipic.com/image/20260704/0f/0c/a_100897250_m_601_m4.jpg",
+          "url": "http://www.iqiyi.com/v_1ouuedmtgrg.html",
+          "status": "全25集",
+          "on_air": false,
+          "episodes": 25,
+          "categories": [
+            "悬疑",
+            "内地",
+            "普通话"
+          ],
+          "desc": "警校学生燕鸣宇没能入警，又因参与地下拳赛被开除。经侦队长陈昌杰安排他卧底生父麦忠伟的天曜集团，调查812洗钱案，追查母亲死亡真相。燕鸣宇随后得知，坎坷遭遇全是组织布置的卧底考验。他逐步获取信任，查清集团勾结黑恶势力借拍卖会洗钱，并成功执掌公司。收网前夜内鬼出手，燕鸣宇卧底身份暴露，麦忠伟舍身救子却遭章俊生杀害，燕鸣宇被诬陷通缉，队友重伤。燕鸣宇假意投靠高官章致远，依靠加密货币掌握15亿赃款与罪证。最终内外联动一网打尽所有罪犯，陈年命案水落石出燕鸣宇沉冤得雪，重返警队。",
+          "actors": [
+            "邓超元",
+            "郑中玉",
+            "匡牧野"
+          ],
+          "premiere": "2026-07-03",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 29
+          },
+          "douban": null,
+          "hot": false
+        }
+      ]
+    },
+    "tencent": {
+      "name": "腾讯视频",
+      "color": "#ff9c19",
+      "home": "https://v.qq.com/",
+      "id": "tencent",
+      "count": 30,
+      "items": [
+        {
+          "title": "兰香如故",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2933527614.jpg",
+          "url": "",
+          "status": "更新至16集",
+          "on_air": true,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 1
+          },
+          "douban": {
+            "douban_id": "36449295",
+            "douban_title": "兰香如故",
+            "douban_rating": null,
+            "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2933527614.jpg",
+            "douban_url": "https://movie.douban.com/subject/36449295/",
+            "episodes_info": "更新至16集",
+            "is_new": true
+          },
+          "hot": true,
+          "is_new": true
+        },
+        {
+          "title": "婚后引力",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 2
+          },
+          "douban": null,
+          "hot": true
+        },
+        {
+          "title": "交锋",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931558074.jpg",
+          "url": "",
+          "status": "更新至26集",
+          "on_air": true,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 3
+          },
+          "douban": {
+            "douban_id": "36314809",
+            "douban_title": "交锋",
+            "douban_rating": null,
+            "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931558074.jpg",
+            "douban_url": "https://movie.douban.com/subject/36314809/",
+            "episodes_info": "更新至26集",
+            "is_new": false
+          },
+          "hot": true
+        },
+        {
+          "title": "妾本草芥",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 4
+          },
+          "douban": null,
+          "hot": true
+        },
+        {
+          "title": "花开锦绣",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934718593.jpg",
+          "url": "",
+          "status": "36集全",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 5
+          },
+          "douban": {
+            "douban_id": "36810153",
+            "douban_title": "花开锦绣",
+            "douban_rating": 7.1,
+            "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934718593.jpg",
+            "douban_url": "https://movie.douban.com/subject/36810153/",
+            "episodes_info": "36集全",
+            "is_new": false
+          },
+          "hot": true
+        },
+        {
+          "title": "百花杀",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933518622.jpg",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 6
+          },
+          "douban": {
+            "douban_id": "36889962",
+            "douban_title": "百花杀",
+            "douban_rating": 5.9,
+            "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933518622.jpg",
+            "douban_url": "https://movie.douban.com/subject/36889962/",
+            "episodes_info": "",
+            "is_new": false
+          },
+          "hot": true
+        },
+        {
+          "title": "逐玉",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2920718637.jpg",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 7
+          },
+          "douban": {
+            "douban_id": "36554061",
+            "douban_title": "逐玉",
+            "douban_rating": 6.4,
+            "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2920718637.jpg",
+            "douban_url": "https://movie.douban.com/subject/36554061/",
+            "episodes_info": "",
+            "is_new": false
+          },
+          "hot": true
+        },
+        {
+          "title": "主角",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2932204747.jpg",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 8
+          },
+          "douban": {
+            "douban_id": "35295564",
+            "douban_title": "主角",
+            "douban_rating": 8.2,
+            "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2932204747.jpg",
+            "douban_url": "https://movie.douban.com/subject/35295564/",
+            "episodes_info": "",
+            "is_new": false
+          },
+          "hot": true
+        },
+        {
+          "title": "铁证",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 9
+          },
+          "douban": null,
+          "hot": true
+        },
+        {
+          "title": "爱情公寓3",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 10
+          },
+          "douban": null,
+          "hot": true
+        },
+        {
+          "title": "古乐风华录",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 11
+          },
+          "douban": null,
+          "hot": true
+        },
+        {
+          "title": "许我耀眼",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 12
+          },
+          "douban": null,
+          "hot": true
+        },
+        {
+          "title": "为爱正名",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 13
+          },
+          "douban": null,
+          "hot": true
+        },
+        {
+          "title": "锦心似玉",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 14
+          },
+          "douban": null,
+          "hot": true
+        },
+        {
+          "title": "骄阳似我",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 15
+          },
+          "douban": null,
+          "hot": true
+        },
+        {
+          "title": "莫离",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932891615.jpg",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 16
+          },
+          "douban": {
+            "douban_id": "37234503",
+            "douban_title": "莫离",
+            "douban_rating": 6.3,
+            "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932891615.jpg",
+            "douban_url": "https://movie.douban.com/subject/37234503/",
+            "episodes_info": "",
+            "is_new": false
+          },
+          "hot": true
+        },
+        {
+          "title": "桃花映江山",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 17
+          },
+          "douban": null,
+          "hot": true
+        },
+        {
+          "title": "九重紫",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 18
+          },
+          "douban": null,
+          "hot": true
+        },
+        {
+          "title": "熔城",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 19
+          },
+          "douban": null,
+          "hot": true
+        },
+        {
+          "title": "囧徒之预演告别",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2922760599.jpg",
+          "url": "",
+          "status": "15集全",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 20
+          },
+          "douban": {
+            "douban_id": "36448068",
+            "douban_title": "囧徒之预演告别",
+            "douban_rating": null,
+            "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2922760599.jpg",
+            "douban_url": "https://movie.douban.com/subject/36448068/",
+            "episodes_info": "15集全",
+            "is_new": false
+          },
+          "hot": true
+        },
+        {
+          "title": "独剑九天",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 21
+          },
+          "douban": null,
+          "hot": true
+        },
+        {
+          "title": "尚公主",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 22
+          },
+          "douban": null,
+          "hot": true
+        },
+        {
+          "title": "庆余年第二季",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 23
+          },
+          "douban": null,
+          "hot": true
+        },
+        {
+          "title": "济公之降龙除妖",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 24
+          },
+          "douban": null,
+          "hot": true
+        },
+        {
+          "title": "这一秒过火",
+          "platforms": [
+            "iqiyi",
+            "tencent"
+          ],
+          "cover": "http://pic8.iqiyipic.com/image/20260227/ec/73/a_100646254_m_601_m5.jpg",
+          "url": "http://www.iqiyi.com/v_c8g49ee4g4.html",
+          "status": "全33集",
+          "on_air": false,
+          "episodes": 33,
+          "categories": [
+            "言情"
+          ],
+          "desc": "讲述了民国乱世，备受冷眼的世家少爷慕容清峄与饱受苦难的复仇孤女任素素阴差阳错结缘相识，却因误会含恨而别。两人再重逢，却身份错位，陷入爱恨交织的极限拉扯中。二人历经世事波折与生离死别，最后携手直面乱世危局。",
+          "actors": [
+            "王楚然",
+            "张凌赫",
+            "毛孩"
+          ],
+          "premiere": "2026-08-03",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 13,
+            "tencent": 25
+          },
+          "douban": {
+            "douban_id": "37096230",
+            "douban_title": "这一秒过火",
+            "douban_rating": 5.0,
+            "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929907615.jpg",
+            "douban_url": "https://movie.douban.com/subject/37096230/",
+            "episodes_info": "",
+            "is_new": false
+          },
+          "hot": true
+        },
+        {
+          "title": "爱情公寓4",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 26
+          },
+          "douban": null,
+          "hot": true
+        },
+        {
+          "title": "嫁金枝",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 27
+          },
+          "douban": null,
+          "hot": true
+        },
+        {
+          "title": "我的前半生",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2478928137.jpg",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 28
+          },
+          "douban": {
+            "douban_id": "26358696",
+            "douban_title": "我的前半生",
+            "douban_rating": 6.4,
+            "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2478928137.jpg",
+            "douban_url": "https://movie.douban.com/subject/26358696/",
+            "episodes_info": "",
+            "is_new": false
+          },
+          "hot": true
+        },
+        {
+          "title": "折腰",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 29
+          },
+          "douban": null,
+          "hot": true
+        },
+        {
+          "title": "月升沧海",
+          "platforms": [
+            "tencent"
+          ],
+          "cover": "",
+          "url": "",
+          "status": "",
+          "on_air": false,
+          "episodes": 0,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": null,
+          "rank": {
+            "tencent": 30
+          },
+          "douban": null,
+          "hot": true
+        }
+      ]
+    }
+  },
+  "items": [
+    {
+      "title": "生逢其时",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic5.iqiyipic.com/image/20260901/8b/8f/a_100610836_m_601_m7.jpg",
+      "url": "http://www.iqiyi.com/v_2bkbhy2gi2w.html",
+      "status": "更新至21集 / 共26集",
+      "on_air": true,
+      "episodes": 26,
+      "categories": [
+        "家庭"
+      ],
+      "desc": "青梧小镇住着家庭模式完全不同的齐家和曹家。某天两家同时诞下齐时、曹信。身患白化病的齐时，自小就意识到了自己的\"与众不同\"，于是她喝酱油、戴假发，试图通过这样的方式，成为和普通人一样的存在。另一边的曹信，一路走来都是家长口中“别人家的孩子”，然而光环之下却始终伴随着父亲的严苛要求。当特立独行、勇敢倔强的少女齐时，遇上乖巧听话、优秀自律的少年曹信，两个家庭也在邻里间日积月累的相处中感情更加深厚，而孩子们经历着关于亲情、友情、爱情的考验，大人们也在面对关于事业、婚姻、家庭的难题。在时代洪流中，纵使生活跌跌撞撞，他们亦携手缝缝补补修炼人生，共同找寻属于自己的人生和幸福。",
+      "actors": [
+        "王子奇",
+        "关晓彤",
+        "刘琳"
+      ],
+      "premiere": "2026-09-15",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 1
+      },
+      "douban": {
+        "douban_id": "37233336",
+        "douban_title": "生逢其时",
+        "douban_rating": null,
+        "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2925528426.jpg",
+        "douban_url": "https://movie.douban.com/subject/37233336/",
+        "episodes_info": "更新至21集",
+        "is_new": false
+      },
+      "hot": false
+    },
+    {
+      "title": "一瓯春",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic9.iqiyipic.com/image/20260917/28/fb/a_100801025_m_601_m9.jpg",
+      "url": "http://www.iqiyi.com/v_290syr52zds.html",
+      "status": "更新至6集 / 共30集",
+      "on_air": true,
+      "episodes": 30,
+      "categories": [
+        "言情",
+        "古装"
+      ],
+      "desc": "“杀伐千面腹黑男”沈润与“人间清醒黑莲花”谢清圆互为刀刃交错，在理智与情感中携手复仇，于高门大户里明争暗斗，立朝堂官场上搅弄风云。最终他们走出暗流深渊，奔赴璀璨新生。",
+      "actors": [
+        "许凯",
+        "周也",
+        "白澍"
+      ],
+      "premiere": "2026-09-16",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 3
+      },
+      "douban": {
+        "douban_id": "35644140",
+        "douban_title": "一瓯春",
+        "douban_rating": null,
+        "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935819627.jpg",
+        "douban_url": "https://movie.douban.com/subject/35644140/",
+        "episodes_info": "更新至6集",
+        "is_new": true
+      },
+      "hot": false,
+      "is_new": true
+    },
+    {
+      "title": "车轮下的真相",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic5.iqiyipic.com/image/20260916/71/f6/a_101434792_m_601_m3.jpg",
+      "url": "http://www.iqiyi.com/v_23t9qkg7q54.html",
+      "status": "更新至12集 / 共30集",
+      "on_air": true,
+      "episodes": 30,
+      "categories": [
+        "悬疑",
+        "罪案",
+        "内地"
+      ],
+      "desc": "曾任职刑警的交警李星辰，在一个雨夜接手一桩离奇车祸案。企业家高玉海意外殒命，现场遭一名假交警清理破坏，关键证据被抹除。市局成立专案组由李星辰牵头彻查此案。肇事司机沈溪看似与死者毫无瓜葛，随着调查推进，李星辰逐步揭开层层谎言。案件本拟以交通意外结案，肖泽却离奇自缢于郊外树林，疑点再度浮出水面。星辰深挖真相，牵扯出舞蹈大赛的过往，舞剧公演当晚，沈溪舞台上服毒身亡，留下录音遗言，袒露自己遭受权贵侵害的惨痛经历。雨夜交通事故的外壳被彻底撕碎，李星辰见证权利光环下，普通人的悲剧，看清意外背后盘根错节的人性深渊。",
+      "actors": [
+        "于小彤",
+        "王智勇(王睿子)",
+        "张可盈"
+      ],
+      "premiere": "2026-09-16",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 7
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "兰香如故",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2933527614.jpg",
+      "url": "",
+      "status": "更新至16集",
+      "on_air": true,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 1
+      },
+      "douban": {
+        "douban_id": "36449295",
+        "douban_title": "兰香如故",
+        "douban_rating": null,
+        "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2933527614.jpg",
+        "douban_url": "https://movie.douban.com/subject/36449295/",
+        "episodes_info": "更新至16集",
+        "is_new": true
+      },
+      "hot": true,
+      "is_new": true
+    },
+    {
+      "title": "交锋",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931558074.jpg",
+      "url": "",
+      "status": "更新至26集",
+      "on_air": true,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 3
+      },
+      "douban": {
+        "douban_id": "36314809",
+        "douban_title": "交锋",
+        "douban_rating": null,
+        "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931558074.jpg",
+        "douban_url": "https://movie.douban.com/subject/36314809/",
+        "episodes_info": "更新至26集",
+        "is_new": false
+      },
+      "hot": true
+    },
+    {
+      "title": "低智商犯罪",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic2.iqiyipic.com/image/20260428/3d/35/a_100577495_m_601_m9.jpg",
+      "url": "http://www.iqiyi.com/v_273nwjut4mk.html",
+      "status": "全24集",
+      "on_air": false,
+      "episodes": 24,
+      "categories": [
+        "悬疑",
+        "罪案",
+        "喜剧"
+      ],
+      "desc": "脱离一线刑侦几年的警察张一昂，因为省厅收到的匿名举报信，被派往三江口调查案件。张一昂到三江口不久就遇到刑警队长被害，张一昂在洗清自我嫌疑时意外逮捕了连环杀人案的凶手，迅速建立声望。张一昂将侦查方向锁定到当地富商周荣团伙，可蠢贼们层出不穷，蠢贼之间勾心斗角的蝴蝶效应，反而助张一昂带领的警察们屡建奇功。 “缘分”让张一昂跟所有蠢贼们齐聚一堂，凭借智慧和勇气笑到最后，也查明同僚遇害的起因，最终让真凶落入法网。",
+      "actors": [
+        "王骁",
+        "田曦薇",
+        "王传君"
+      ],
+      "premiere": "2026-05-12",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 11
+      },
+      "douban": {
+        "douban_id": "35517044",
+        "douban_title": "低智商犯罪",
+        "douban_rating": 8.2,
+        "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2932040107.jpg",
+        "douban_url": "https://movie.douban.com/subject/35517044/",
+        "episodes_info": "",
+        "is_new": false
+      },
+      "hot": false
+    },
+    {
+      "title": "主角",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2932204747.jpg",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 8
+      },
+      "douban": {
+        "douban_id": "35295564",
+        "douban_title": "主角",
+        "douban_rating": 8.2,
+        "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2932204747.jpg",
+        "douban_url": "https://movie.douban.com/subject/35295564/",
+        "episodes_info": "",
+        "is_new": false
+      },
+      "hot": true
+    },
+    {
+      "title": "重器",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic8.iqiyipic.com/image/20260812/f7/2b/a_100624469_m_601_m7.jpg",
+      "url": "http://www.iqiyi.com/v_2epw32dh310.html",
+      "status": "全33集",
+      "on_air": false,
+      "episodes": 33,
+      "categories": [
+        "剧情"
+      ],
+      "desc": "故事始于改革开放初期，一直延续到 1997 年《刑诉法》《刑法》修订。主要人物包括陈一众、余高远、张丽慧、夏英杰等法学院毕业生。讲述了他们毕业后进入了司法领域不同的部门，在如火如荼的司法实践中见证历史、参与历史、与时俱进、不断成长的故事。五人出身不同、个性迥异，在十几年的工作和生活中历经浮沉，走上不同的道路。本剧从整体司法进程的独特视角出发，同时聚集公检法律行业人物，呈现了波澜壮阔的法治历史和大时代中交织交错的人物命运。",
+      "actors": [
+        "黄景瑜",
+        "蒋奇明",
+        "于和伟"
+      ],
+      "premiere": "2026-08-21",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 6
+      },
+      "douban": {
+        "douban_id": "36554071",
+        "douban_title": "重器",
+        "douban_rating": 7.3,
+        "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2934828709.jpg",
+        "douban_url": "https://movie.douban.com/subject/36554071/",
+        "episodes_info": "33集全",
+        "is_new": false
+      },
+      "hot": false
+    },
+    {
+      "title": "深渊无间",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic1.iqiyipic.com/image/20260904/44/e9/a_100684437_m_601_m6.jpg",
+      "url": "http://www.iqiyi.com/v_257knoc22e8.html",
+      "status": "全16集",
+      "on_air": false,
+      "episodes": 16,
+      "categories": [
+        "悬疑"
+      ],
+      "desc": "一篇名为《深渊》的推理网文悄然上线，打破了保守小城多年来的平静，文中诸多情节与警方未曾公布的多年前悬案案情有着惊人的相似。热血正义的新警李成，与多方嫌疑人，一次次上演高智对弈。最终李成拨开迷雾，侦查出掩藏在令人扼腕的亲情和友情之下的真相。",
+      "actors": [
+        "任嘉伦",
+        "秦俊杰",
+        "王砚辉"
+      ],
+      "premiere": "2026-09-10",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 2
+      },
+      "douban": {
+        "douban_id": "36576514",
+        "douban_title": "深渊无间",
+        "douban_rating": 7.2,
+        "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931762705.jpg",
+        "douban_url": "https://movie.douban.com/subject/36576514/",
+        "episodes_info": "16集全",
+        "is_new": false
+      },
+      "hot": false
+    },
+    {
+      "title": "藏海传",
+      "platforms": [
+        "youku"
+      ],
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2921513308.jpg",
+      "url": "https://www.youku.com/v_show/id_06efbfbd08efbfbdefbf.html",
+      "status": "40集全",
+      "on_air": false,
+      "episodes": 40,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": 2025,
+      "rank": {
+        "youku": 7
+      },
+      "douban": {
+        "douban_id": "27181010",
+        "douban_title": "藏海传",
+        "douban_rating": 7.1,
+        "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2921513308.jpg",
+        "douban_url": "https://movie.douban.com/subject/27181010/",
+        "episodes_info": "",
+        "is_new": false
+      },
+      "hot": false
+    },
+    {
+      "title": "花开锦绣",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934718593.jpg",
+      "url": "",
+      "status": "36集全",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 5
+      },
+      "douban": {
+        "douban_id": "36810153",
+        "douban_title": "花开锦绣",
+        "douban_rating": 7.1,
+        "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934718593.jpg",
+        "douban_url": "https://movie.douban.com/subject/36810153/",
+        "episodes_info": "36集全",
+        "is_new": false
+      },
+      "hot": true
+    },
+    {
+      "title": "雨霖铃",
+      "platforms": [
+        "youku"
+      ],
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2932378070.jpg",
+      "url": "https://www.youku.com/v_show/id_afcb2d65c6a34b798d77.html",
+      "status": "37集全",
+      "on_air": false,
+      "episodes": 37,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": 2026,
+      "rank": {
+        "youku": 9
+      },
+      "douban": {
+        "douban_id": "36310054",
+        "douban_title": "雨霖铃",
+        "douban_rating": 7.0,
+        "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2932378070.jpg",
+        "douban_url": "https://movie.douban.com/subject/36310054/",
+        "episodes_info": "",
+        "is_new": false
+      },
+      "hot": false
+    },
+    {
+      "title": "雀骨",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic2.iqiyipic.com/image/20260713/ad/f8/a_100654530_m_601_m4.jpg",
+      "url": "http://www.iqiyi.com/v_2c3zr1t103w.html",
+      "status": "全28集",
+      "on_air": false,
+      "episodes": 28,
+      "categories": [
+        "言情",
+        "古装"
+      ],
+      "desc": "当魔头将军强娶沉迷机关术的财迷假千金，从契约夫妻到生死局里互扒马甲，爱意与杀意同生共长，揭朝堂阴谋，破生死乱局，守家国太平。",
+      "actors": [
+        "艾米",
+        "侯明昊",
+        "马秋元"
+      ],
+      "premiere": "2026-07-20",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 9
+      },
+      "douban": {
+        "douban_id": "37317368",
+        "douban_title": "雀骨",
+        "douban_rating": 6.9,
+        "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931739796.jpg",
+        "douban_url": "https://movie.douban.com/subject/37317368/",
+        "episodes_info": "",
+        "is_new": false
+      },
+      "hot": false
+    },
+    {
+      "title": "唐宫奇案之青雾风鸣",
+      "platforms": [
+        "youku"
+      ],
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2929534370.jpg",
+      "url": "https://www.youku.com/v_show/id_fedf2ce33488482391b5.html",
+      "status": "34集全",
+      "on_air": false,
+      "episodes": 34,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": 2026,
+      "rank": {
+        "youku": 12
+      },
+      "douban": {
+        "douban_id": "36415590",
+        "douban_title": "唐宫奇案之青雾风鸣",
+        "douban_rating": 6.8,
+        "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2929534370.jpg",
+        "douban_url": "https://movie.douban.com/subject/36415590/",
+        "episodes_info": "",
+        "is_new": false
+      },
+      "hot": false
+    },
+    {
+      "title": "醒来",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic8.iqiyipic.com/image/20260828/1a/e7/a_100684407_m_601_m10.jpg",
+      "url": "http://www.iqiyi.com/v_o9400y1y48.html",
+      "status": "全22集",
+      "on_air": false,
+      "episodes": 22,
+      "categories": [],
+      "desc": "1941年冬，照相师陈开来在师父牺牲后，代其赴上海与地下党接头，路遇表面是舞厅头牌、实为军统特工的金宝，在其帮助下以照相馆为掩护开展潜伏。期间他结识身份各异的女子——汪伪特派员苏门、我党谍报人员沈克希。陈开来在多方势力间周旋斡旋，逐步成长为杰出的地下工作者，最终联合众人挫败日军“沉睡计划”。",
+      "actors": [
+        "欧豪",
+        "娜扎",
+        "冯绍峰"
+      ],
+      "premiere": "2026-08-25",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 4
+      },
+      "douban": {
+        "douban_id": "36126289",
+        "douban_title": "醒来",
+        "douban_rating": 6.8,
+        "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2925520765.jpg",
+        "douban_url": "https://movie.douban.com/subject/36126289/",
+        "episodes_info": "22集全",
+        "is_new": false
+      },
+      "hot": false
+    },
+    {
+      "title": "凛冬下的罪恶",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic4.iqiyipic.com/image/20260806/d6/d7/a_100922154_m_601_m7.jpg",
+      "url": "http://www.iqiyi.com/v_267dgad8wv4.html",
+      "status": "全26集",
+      "on_air": false,
+      "episodes": 26,
+      "categories": [
+        "悬疑",
+        "罪案",
+        "内地"
+      ],
+      "desc": "凛冬，一精神病女子拦车报案，称丈夫杀人，刑警沈栋梁吴红兵由此揭开系列碎尸案真相。然而风浪未平，储蓄所抢劫杀人案，少女失踪案，流窜抢车案接连发生，沈栋梁与吴红兵追凶之际，竟牵出改变二人命运的人性悲剧。",
+      "actors": [
+        "吴昊宸",
+        "张睿",
+        "王大奇"
+      ],
+      "premiere": "2026-08-04",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 14
+      },
+      "douban": {
+        "douban_id": "38194327",
+        "douban_title": "凛冬下的罪恶",
+        "douban_rating": 6.8,
+        "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2934675359.jpg",
+        "douban_url": "https://movie.douban.com/subject/38194327/",
+        "episodes_info": "",
+        "is_new": false
+      },
+      "hot": false
+    },
+    {
+      "title": "南部档案",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic0.iqiyipic.com/image/20260611/d6/17/a_100598207_m_601_m3.jpg",
+      "url": "http://www.iqiyi.com/v_1900juvzgko.html",
+      "status": "全33集",
+      "on_air": false,
+      "episodes": 33,
+      "categories": [
+        "剧情"
+      ],
+      "desc": "民国初年，南洋海上发生“水鬼望乡”离奇命案，张家外派调查神秘事务的南部档案馆坐办张海盐、张海虾二人搭档亲往调查，却意外卷入了一个用于猎杀海外张家人的绝命死局。张海虾以自己的死谋局求解，送张海盐上了“南安号”巨轮回厦城以图他能够有一线生机，但这趟波澜诡谲的航程似乎才刚刚起航，一手遮天的军阀大佬、单纯执着的少年账房、还有十年未见的至亲故人……张海盐独自面对着接踵而至的意外，而当他踏上厦城的那一刻，真正属于两个少年的命运才初初开始转动……",
+      "actors": [
+        "张新成",
+        "丁禹兮",
+        "姜珮瑶"
+      ],
+      "premiere": "2026-06-22",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 16
+      },
+      "douban": {
+        "douban_id": "35465012",
+        "douban_title": "南部档案",
+        "douban_rating": 6.6,
+        "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2915779333.jpg",
+        "douban_url": "https://movie.douban.com/subject/35465012/",
+        "episodes_info": "",
+        "is_new": false
+      },
+      "hot": false
+    },
+    {
+      "title": "逐玉",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2920718637.jpg",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 7
+      },
+      "douban": {
+        "douban_id": "36554061",
+        "douban_title": "逐玉",
+        "douban_rating": 6.4,
+        "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2920718637.jpg",
+        "douban_url": "https://movie.douban.com/subject/36554061/",
+        "episodes_info": "",
+        "is_new": false
+      },
+      "hot": true
+    },
+    {
+      "title": "我的前半生",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2478928137.jpg",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 28
+      },
+      "douban": {
+        "douban_id": "26358696",
+        "douban_title": "我的前半生",
+        "douban_rating": 6.4,
+        "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2478928137.jpg",
+        "douban_url": "https://movie.douban.com/subject/26358696/",
+        "episodes_info": "",
+        "is_new": false
+      },
+      "hot": true
+    },
+    {
+      "title": "莫离",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932891615.jpg",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 16
+      },
+      "douban": {
+        "douban_id": "37234503",
+        "douban_title": "莫离",
+        "douban_rating": 6.3,
+        "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932891615.jpg",
+        "douban_url": "https://movie.douban.com/subject/37234503/",
+        "episodes_info": "",
+        "is_new": false
+      },
+      "hot": true
+    },
+    {
+      "title": "蝉",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic5.iqiyipic.com/image/20260901/0f/27/a_101247389_m_601_m8.jpg",
+      "url": "http://www.iqiyi.com/v_cix2gal5d8.html",
+      "status": "全21集",
+      "on_air": false,
+      "episodes": 21,
+      "categories": [
+        "悬疑",
+        "内地",
+        "家庭"
+      ],
+      "desc": "生父是绑架犯，继父是刑警的刑辩律师（钟楚曦 饰），多年前遭人报复痛失妻儿的大法官（吴镇宇 饰），善用人心，游走灰色地带的邪魅律政精英（郑云龙 饰），三个孤独的陌生人在硬核案件的刑事辩护中互相博弈，却越发惺惺相惜，是对手也似亲人，螳螂捕蝉，黄雀在后，三人间，互为猎物，亦互为猎手，究竟谁才是黄雀，谁又是那只蛰伏十二年，只为自由鸣叫，收获一季响亮夏天的蝉？",
+      "actors": [
+        "吴镇宇",
+        "郑云龙",
+        "钟楚曦"
+      ],
+      "premiere": "2026-08-31",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 15
+      },
+      "douban": {
+        "douban_id": "37252177",
+        "douban_title": "蝉",
+        "douban_rating": 6.1,
+        "douban_cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2923279291.jpg",
+        "douban_url": "https://movie.douban.com/subject/37252177/",
+        "episodes_info": "21集全",
+        "is_new": false
+      },
+      "hot": false
+    },
+    {
+      "title": "百花杀",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933518622.jpg",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 6
+      },
+      "douban": {
+        "douban_id": "36889962",
+        "douban_title": "百花杀",
+        "douban_rating": 5.9,
+        "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933518622.jpg",
+        "douban_url": "https://movie.douban.com/subject/36889962/",
+        "episodes_info": "",
+        "is_new": false
+      },
+      "hot": true
+    },
+    {
+      "title": "师兄太稳健",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic4.iqiyipic.com/image/20260817/f1/74/a_101283421_m_601_m3.jpg",
+      "url": "http://www.iqiyi.com/v_19hly1wd1gg.html",
+      "status": "全30集",
+      "on_air": false,
+      "episodes": 30,
+      "categories": [],
+      "desc": "前世是重症患者的李长寿意外重生到洪荒世界，化身为一名珍视生命、不沾因果的小小炼气士，为躲避天道预言中的天下大劫，奉行“稳健”之道，一心想上天庭苟活，为此，他稳健操作，不动稳如老狗、一动“石破天惊”，他坚信打打杀杀的时代已经过去，能坑人绝不杀人，能单身绝不恋爱，奈何敌人和美人如潮水般涌来，他一不小心成了运筹帷幄的幕后大佬，卷入多方博弈之中，运作“龙族上天”，甚至那天下大劫也加速到来。",
+      "actors": [
+        "敖瑞鹏",
+        "孙珍妮",
+        "艾米"
+      ],
+      "premiere": "2026-08-31",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 8
+      },
+      "douban": {
+        "douban_id": "36406417",
+        "douban_title": "师兄太稳健",
+        "douban_rating": 5.7,
+        "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2934541050.jpg",
+        "douban_url": "https://movie.douban.com/subject/36406417/",
+        "episodes_info": "30集全",
+        "is_new": false
+      },
+      "hot": false
+    },
+    {
+      "title": "天才，女友",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic0.iqiyipic.com/image/20260806/38/bd/a_100661341_m_601_m6.jpg",
+      "url": "http://www.iqiyi.com/v_23wm96kvzp8.html",
+      "status": "全28集",
+      "on_air": false,
+      "episodes": 28,
+      "categories": [
+        "言情",
+        "剧情",
+        "都市"
+      ],
+      "desc": "天才少女林知夏性格直接、不善交际，从小没有好友。考入省一中后，她因解题比拼与性格阳光的学霸江逾白相识并成为同桌。作为社交达人的江逾白帮林知夏融入集体交到汤婷婷、段启言、沈负暄、金百慧等朋友，林知夏为表达感谢帮他补习功课，两人渐渐从竞争走向互助，最终成为最好的朋友。俩人还一同解决同学被骗、一起参加社团活动与省数学竞赛，在这个过程中，江逾白对林知夏感情渐深，但只把爱意埋在心里。林知夏被保送复旦后，江逾白准备在毕业之旅对她告白，却因母亲卷入诈骗案而遗憾离开，俩人最终能否冲破阻碍走到一起",
+      "actors": [
+        "田曦薇",
+        "胡一天",
+        "厉嘉琪"
+      ],
+      "premiere": "2026-08-12",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 10
+      },
+      "douban": {
+        "douban_id": "36403345",
+        "douban_title": "天才，女友",
+        "douban_rating": 5.3,
+        "douban_cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2934521281.jpg",
+        "douban_url": "https://movie.douban.com/subject/36403345/",
+        "episodes_info": "",
+        "is_new": false
+      },
+      "hot": false
+    },
+    {
+      "title": "这一秒过火",
+      "platforms": [
+        "iqiyi",
+        "tencent"
+      ],
+      "cover": "http://pic8.iqiyipic.com/image/20260227/ec/73/a_100646254_m_601_m5.jpg",
+      "url": "http://www.iqiyi.com/v_c8g49ee4g4.html",
+      "status": "全33集",
+      "on_air": false,
+      "episodes": 33,
+      "categories": [
+        "言情"
+      ],
+      "desc": "讲述了民国乱世，备受冷眼的世家少爷慕容清峄与饱受苦难的复仇孤女任素素阴差阳错结缘相识，却因误会含恨而别。两人再重逢，却身份错位，陷入爱恨交织的极限拉扯中。二人历经世事波折与生离死别，最后携手直面乱世危局。",
+      "actors": [
+        "王楚然",
+        "张凌赫",
+        "毛孩"
+      ],
+      "premiere": "2026-08-03",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 13,
+        "tencent": 25
+      },
+      "douban": {
+        "douban_id": "37096230",
+        "douban_title": "这一秒过火",
+        "douban_rating": 5.0,
+        "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929907615.jpg",
+        "douban_url": "https://movie.douban.com/subject/37096230/",
+        "episodes_info": "",
+        "is_new": false
+      },
+      "hot": true
+    },
+    {
+      "title": "重案六组：消失的警号",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic4.iqiyipic.com/image/20260904/1d/cd/a_101315007_m_601_m9.jpg",
+      "url": "http://www.iqiyi.com/v_1p7uol7yaq0.html",
+      "status": "全26集",
+      "on_air": false,
+      "episodes": 26,
+      "categories": [
+        "悬疑",
+        "罪案",
+        "内地"
+      ],
+      "desc": "九十年代初，东安市，重案六组成立前夕。省厅刑警曾克强因专案调入地方重案组，接手牺牲的战友刘华生前未竟的调查。大曾背负误解，一面融入新团队，一面暗中追查真相。东安市的犯罪势力暗流涌动，赵氏集团少东家赵彬以采砂船走私起家，贿赂官员，暴力垄断，为掩盖罪行接连杀害知情人。大曾以卧底姿态周旋，季洁以正面突破反制对方挑衅。在与赵氏集团周旋的过程中，六组成员接连并肩破获了连环爆炸复仇案，河道碎尸烹煮案，矿难骗保诈尸案，仙人跳杀人案，幽灵船惨案，神秘美女公路劫车案等奇案。",
+      "actors": [
+        "张一山",
+        "李沐宸",
+        "郭晓东"
+      ],
+      "premiere": "2026-08-30",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 5
+      },
+      "douban": {
+        "douban_id": "38407616",
+        "douban_title": "重案六组：消失的警号",
+        "douban_rating": 4.4,
+        "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935392983.jpg",
+        "douban_url": "https://movie.douban.com/subject/38407616/",
+        "episodes_info": "26集全",
+        "is_new": false
+      },
+      "hot": false
+    },
+    {
+      "title": "难哄",
+      "platforms": [
+        "youku"
+      ],
+      "cover": "",
+      "url": "https://www.youku.com/v_show/id_aefa5bc564b44f50ae4d.html",
+      "status": "32集全",
+      "on_air": false,
+      "episodes": 32,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": 2025,
+      "rank": {
+        "youku": 1
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "月鳞绮纪",
+      "platforms": [
+        "youku"
+      ],
+      "cover": "",
+      "url": "https://www.youku.com/v_show/id_ccdb02ca7e5249ccbb3e.html",
+      "status": "29集全",
+      "on_air": false,
+      "episodes": 29,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": 2026,
+      "rank": {
+        "youku": 2
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "长安二十四计",
+      "platforms": [
+        "youku"
+      ],
+      "cover": "",
+      "url": "https://www.youku.com/v_show/id_beecc45b903b4ea9b19a.html",
+      "status": "28集全",
+      "on_air": false,
+      "episodes": 28,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": 2025,
+      "rank": {
+        "youku": 3
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "黑夜告白",
+      "platforms": [
+        "youku"
+      ],
+      "cover": "",
+      "url": "https://www.youku.com/v_show/id_dccc1a382ea3456eaa77.html",
+      "status": "28集全",
+      "on_air": false,
+      "episodes": 28,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": 2026,
+      "rank": {
+        "youku": 4
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "重案解密",
+      "platforms": [
+        "youku"
+      ],
+      "cover": "",
+      "url": "https://www.youku.com/v_show/id_bbaf2557249a4f2a9447.html",
+      "status": "12集全",
+      "on_air": false,
+      "episodes": 12,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": 2026,
+      "rank": {
+        "youku": 5
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "乡村爱情18",
+      "platforms": [
+        "youku"
+      ],
+      "cover": "",
+      "url": "https://www.youku.com/v_show/id_daeadf90a91e4056bec6.html",
+      "status": "40集全",
+      "on_air": false,
+      "episodes": 40,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": 2026,
+      "rank": {
+        "youku": 6
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "七根心简",
+      "platforms": [
+        "youku"
+      ],
+      "cover": "",
+      "url": "https://www.youku.com/v_show/id_bdfb0949ae4c4ac39168.html",
+      "status": "32集全",
+      "on_air": false,
+      "episodes": 32,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": 2025,
+      "rank": {
+        "youku": 8
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "凤凰台上",
+      "platforms": [
+        "youku"
+      ],
+      "cover": "",
+      "url": "https://www.youku.com/v_show/id_eafa48f7fb394ffc9af4.html",
+      "status": "35集全",
+      "on_air": false,
+      "episodes": 35,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": 2025,
+      "rank": {
+        "youku": 10
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "我的山与海",
+      "platforms": [
+        "youku"
+      ],
+      "cover": "",
+      "url": "https://www.youku.com/v_show/id_beeacc87d8e8444d8615.html",
+      "status": "30集全",
+      "on_air": false,
+      "episodes": 30,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": 2026,
+      "rank": {
+        "youku": 11
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "家业",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic1.iqiyipic.com/image/20260517/10/c9/a_100591160_m_601_m12.jpg",
+      "url": "http://www.iqiyi.com/v_227sdi27y7k.html",
+      "status": "全42集",
+      "on_air": false,
+      "episodes": 42,
+      "categories": [
+        "古装"
+      ],
+      "desc": "明朝中期，一场贡墨案打破维持已久的徽州墨业格局，位居龙头多年的百年制墨世家李墨没落，李墨八房被除族。时光流转，八房幺女李祯为解决生计毅然走上制墨之路，凭借天资和努力惊艳沉寂已久的徽州墨业，而后以女子之身突破束缚，以墨为刃，重塑徽州墨业辉煌，振兴百年家族，再造千年徽墨光彩。",
+      "actors": [
+        "杨紫",
+        "韩东君",
+        "吴冕"
+      ],
+      "premiere": "2026-06-01",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 12
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "她的罪名",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic1.iqiyipic.com/image/20260427/6a/34/a_100801018_m_601_m7.jpg",
+      "url": "http://www.iqiyi.com/v_1js3rma83q0.html",
+      "status": "全24集",
+      "on_air": false,
+      "episodes": 24,
+      "categories": [
+        "内地",
+        "悬疑",
+        "普通话"
+      ],
+      "desc": "广南市出租屋发生恶性双尸案，夜总会女子李娜琳达惨遭虐杀。刑警林威与经验老到的马国栋联手查案，从现场细节推翻劫财劫色判断，锁定失踪服务员曹爱媛及其背后团伙。经查，曹爱媛因长期受死者轻视羞辱，心怀怨恨，联合华卫红等人设局行凶。警方循线追踪，揭开团伙谋财害命、内讧逃亡的真相。案件跨越三年，曹爱媛隐姓埋名再犯命案，最终被林威抓获归案。老刑警马国栋带病追凶，壮烈牺牲。故事以连环命案为引，剖开原生家庭、人性善恶与底层挣扎，展现刑警坚守正义、追凶到底的使命担当。",
+      "actors": [
+        "徐洋",
+        "洪浚嘉",
+        "吴天琪"
+      ],
+      "premiere": "2026-04-24",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 17
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "盛唐奇案",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic1.iqiyipic.com/image/20260529/ee/4d/a_100799706_m_601_m4.jpg",
+      "url": "http://www.iqiyi.com/v_159dxzpa3mo.html",
+      "status": "全26集",
+      "on_air": false,
+      "episodes": 26,
+      "categories": [
+        "悬疑",
+        "古装",
+        "内地"
+      ],
+      "desc": "盛世大唐，太守之女李静澜天赋异禀，擅验尸断案，与神秘“鬼探”决明、武艺高强的捕快苏御安联手追凶，揭开一桩桩离奇悬案：双生姐妹的生死置换、跨越十七年的书生冤案、雅集会上的连环仪式杀人等。在迷雾与鲜血中，李静澜与决明暗生情愫，彼此扶持，坚守心中正道，挣脱宿命桎梏。盛世灯火之下，他们以智慧与勇气涤荡污浊，书写下一段守护正义与清明的传奇。",
+      "actors": [
+        "何泓姗",
+        "李菲",
+        "何泊远"
+      ],
+      "premiere": "2026-05-15",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 18
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "逆时追捕",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic5.iqiyipic.com/image/20260722/81/3a/a_100906681_m_601_m8.jpg",
+      "url": "http://www.iqiyi.com/v_gaierz9bi8.html",
+      "status": "全26集",
+      "on_air": false,
+      "episodes": 26,
+      "categories": [
+        "悬疑",
+        "内地",
+        "普通话"
+      ],
+      "desc": "2011年，刑警徐卫璋在破败的斯卡拉夜总会发现一具被封藏十六年的白骨女尸，意外地与1995年的警察刘新建建立了跨越时空的联系。两人双时空协作，在不同时间线中共同推进侦查，共同侦破了一个尘封十六年的连环杀人案。",
+      "actors": [
+        "金瀚",
+        "江一燕",
+        "曹卫宇"
+      ],
+      "premiere": "2026-07-04",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 19
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "兵自风中来",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic0.iqiyipic.com/image/20260813/46/48/a_100586666_m_601_m5.jpg",
+      "url": "http://www.iqiyi.com/v_2afkjwl98n8.html",
+      "status": "全36集",
+      "on_air": false,
+      "episodes": 36,
+      "categories": [
+        "内地",
+        "普通话",
+        "剧情"
+      ],
+      "desc": "本剧通过描述当前陆军最具新型作战特色的特战、空突、侦察、信息等代表性兵种的官兵练兵备战，在历次实战演习中磨砺意志技能、逐渐形成新质作战能力等故事，反映了某集团军党委坚决落实习主席新时代强军思想，着眼打造一流陆军，谋划转型，大力推进战斗力建设的历史担当，浓缩了陆军官兵改革面前备战打仗矢志强军的铁血追求、展现了新时代陆军官兵积极投身军队转型的全新风貌，是一部融合备战打仗、青春成长励志、英雄主义传承，同时将军人荣誉、使命、爱情熔为一炉的军事题材正能量大剧。",
+      "actors": [
+        "欧豪",
+        "蓝盈莹",
+        "丁勇岱"
+      ],
+      "premiere": "2026-08-04",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 20
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "设局",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic2.iqiyipic.com/image/20260828/41/c7/a_100103214_m_601_m4.jpg",
+      "url": "http://www.iqiyi.com/v_yzy3wmitc8.html",
+      "status": "全46集",
+      "on_air": false,
+      "episodes": 46,
+      "categories": [
+        "谍战",
+        "普通话",
+        "战争"
+      ],
+      "desc": "该剧讲述了抗日战争时期，海外募集的抗战资金藏匿地点不明，赵心怡与上海的抗日武装，开启寻宝夺金之旅，清除叛徒并找到珠宝，运往抗日根据地的故事。",
+      "actors": [
+        "何明翰",
+        "赵心怡",
+        "李丞峰"
+      ],
+      "premiere": "2026-08-26",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 21
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "灿如繁星",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic7.iqiyipic.com/image/20260705/71/e5/a_100614849_m_601_m7.jpg",
+      "url": "http://www.iqiyi.com/v_2f1sx772wzo.html",
+      "status": "全32集",
+      "on_air": false,
+      "episodes": 32,
+      "categories": [
+        "言情",
+        "青春",
+        "都市"
+      ],
+      "desc": "改编自晋江文学城作者长洱的小说《狭路》，讲述了心理学博士林晚星遭遇变故后回到家乡宏景任教，邂逅顶级教练王法，并带领一群垫底差生逆袭追梦，热血救赎的故事。林晚星用“自由式”教育，培养少年们的独立人格，帮助他们学会生活，融洽自我，发现所爱，勇于追求。未来人生里，不远狭路，终见光明。",
+      "actors": [
+        "陈靖可",
+        "虞书欣",
+        "马伯骞"
+      ],
+      "premiere": "2026-07-16",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 22
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "爱情有烟火",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic9.iqiyipic.com/image/20260625/77/a2/a_100838690_m_601_m8.jpg",
+      "url": "http://www.iqiyi.com/v_h4lrzbfteg.html",
+      "status": "全36集",
+      "on_air": false,
+      "episodes": 36,
+      "categories": [],
+      "desc": "投行精英李亦非投资失败，从\"贵公子\"沦为与人合租的租客。而\"沪漂\"社畜钱菲因失恋失业双重打击，为减轻房贷压力开始招租。就这样，傲娇男租客李亦非与强势女房东钱菲阴差阳错住在了同一屋檐下，开启了鸡飞狗跳的合租生活。\n由于性格、经历和观念不同，两人在诸多生活细节上产生分歧与摩擦，但在相处中也增进了对彼此的了解，在冲突中相互磨合，逐渐发现了对方身上的闪光点。李亦非凭借投行精英的身份，为钱菲打开了更广阔的视野，让她能更从容地奋斗；钱菲则如一股清泉，将平凡人的烟火气带入李亦非的世界。二人相互碰撞又相互交融，最终从室友变成情侣，携手并肩走向充满爱与期待的未来。",
+      "actors": [
+        "檀健次",
+        "王楚然",
+        "李乃文"
+      ],
+      "premiere": "2026-06-14",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 23
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "昨夜将至",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic4.iqiyipic.com/image/20260703/fb/ea/a_100644807_m_601_m5.jpg",
+      "url": "http://www.iqiyi.com/v_1pauc36ywdk.html",
+      "status": "全12集",
+      "on_air": false,
+      "episodes": 12,
+      "categories": [
+        "悬疑",
+        "罪案",
+        "剧情"
+      ],
+      "desc": "面馆老板韩栋与妻子林美月看似安稳的日常之下，各自埋藏着不愿被人知晓的过往。林美月曾经的身份被旧识要挟勒索，平静生活被骤然打破；韩栋尘封二十年的秘密，也随着一场蓄意的复仇逐渐浮出水面。旧友步步紧逼，夫妻二人被卷入层层交织的危机当中。多年前的遗憾与过错、旧日姐妹间的纠葛接连爆发，多方势力相互拉扯。为守护自己的小家，夫妻俩从被动周旋开始奋力反击，在迷雾重重的恩怨里，直面所有过往造成的困局。",
+      "actors": [
+        "佟大为",
+        "王佳佳",
+        "马苏"
+      ],
+      "premiere": "2026-06-25",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 24
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "深渊",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic2.iqiyipic.com/image/20260512/8d/7a/a_100806078_m_601_m4.jpg",
+      "url": "http://www.iqiyi.com/v_208o26m58dc.html",
+      "status": "全23集",
+      "on_air": false,
+      "episodes": 23,
+      "categories": [
+        "悬疑",
+        "内地",
+        "普通话"
+      ],
+      "desc": "在铜江市，短短三个月内连续爆发了三起恶性案件：先是游客在城郊大黑山发现了江中漂浮的残臂；随后，大学生路阳在家中不明原因死亡；紧接着，市青年企业家叶启明遭遇车祸不幸身亡。市局刑侦科的女刑警蒋梅与刚从省厅调来的沈峰奉命侦破这一系列案件。随着调查的艰难推进，案件背后残忍的杀戮、深藏的爱恨情仇以及错综复杂的关系渐渐显现，而血案背后的缘由也折射出物欲诱惑与扭曲心灵之间无法割裂的因果联系。",
+      "actors": [
+        "张承",
+        "朱美吉",
+        "孟子叶"
+      ],
+      "premiere": "2026-05-09",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 25
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "人生赢家",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic4.iqiyipic.com/image/20260914/4a/8a/a_101293765_m_601_m5.jpg",
+      "url": "http://www.iqiyi.com/v_2dv0todqcro.html",
+      "status": "全24集",
+      "on_air": false,
+      "episodes": 24,
+      "categories": [
+        "喜剧",
+        "内地",
+        "普通话"
+      ],
+      "desc": "前任车神阳关因遭人陷害，车行陷入困境，决定卖房还债。签约当日，父亲坠楼身亡，留下巨额债务。为替父还债，阳关赛车赌约惨败，一夜沦为大负翁。此时小女孩乐乐上门认亲，阳关被迫开启奶爸生活。房产销售叶知秋因父病危，接受阳关妹妹阳莹的委托，以讨债为名住进阳关家，实为卧底搜寻阳父科研成果。两人在同居中屡生摩擦，却在共渡难关中感情渐升温。阳莹因误会母亲之死与阳关有关，策划了一系列阴谋，并当众揭穿叶知秋卧底身份，令两人关系降至冰点。阳关为查身世直播跳楼，却因此引出尘封真相。最终真凶伏法，阳莹醒悟，阳关还清债务，与叶知秋、乐乐组成幸福家庭。",
+      "actors": [
+        "丁笑滢",
+        "贺鹏"
+      ],
+      "premiere": "2026-08-28",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 26
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "罪案痕迹",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic8.iqiyipic.com/image/20260519/cf/1c/a_100812101_m_601_m5.jpg",
+      "url": "http://www.iqiyi.com/v_e1n963610c.html",
+      "status": "全25集",
+      "on_air": false,
+      "episodes": 25,
+      "categories": [
+        "内地",
+        "罪案",
+        "普通话"
+      ],
+      "desc": "痕迹专家邱晨与刑警顾宇明联手侦破五桩离奇案件，从丈夫离奇死亡到痕迹清道夫，揭开一桩桩人性悲剧。随着调查深入，邱晨惊觉所有案件竟与十年前父亲被害案隐秘相连。那个擅长抹去一切痕迹的神秘人物，究竟是谁？",
+      "actors": [
+        "耿业庭",
+        "李沐风",
+        "吴翎薇"
+      ],
+      "premiere": "2026-05-15",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 27
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "济公之降龙现世",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic2.iqiyipic.com/image/20260813/1a/d0/a_101323565_m_601_m6.jpg",
+      "url": "http://www.iqiyi.com/v_pef5cgpszc.html",
+      "status": "全22集",
+      "on_air": false,
+      "episodes": 22,
+      "categories": [
+        "古装",
+        "奇幻",
+        "内地"
+      ],
+      "desc": "千年之前妖王噬心遭降龙围剿，其夫段公子魂魄附噬魂枪化为妖王迦楼，立誓复仇。蟠桃盛会迦楼设计陷害降龙，如来点破二人千年尘缘，降龙转世为李修缘，与被贬的玉竹相遇相爱。妖魔作祟祸乱临安，李修缘为救众人斩断情缘，觉醒降龙真身，出家为济公。迦楼躲入幻虚之境，借幽魂引路积蓄怨气，复活玉竹牵制济公，又附身书生欲修成天魔神功。天狗食日妖魔大举来袭，柳飘飘舍身重开天光，济公与醒悟的玉竹联手抗敌，挫败噬心灭世阴谋。最终灵隐众人安顿新生，济公留于人间，一边济世安民，一边追寻残余妖魔了结因果。",
+      "actors": [
+        "陈浩民",
+        "林子聪",
+        "高广泽"
+      ],
+      "premiere": "2026-08-13",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 28
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "暗金",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic6.iqiyipic.com/image/20260704/0f/0c/a_100897250_m_601_m4.jpg",
+      "url": "http://www.iqiyi.com/v_1ouuedmtgrg.html",
+      "status": "全25集",
+      "on_air": false,
+      "episodes": 25,
+      "categories": [
+        "悬疑",
+        "内地",
+        "普通话"
+      ],
+      "desc": "警校学生燕鸣宇没能入警，又因参与地下拳赛被开除。经侦队长陈昌杰安排他卧底生父麦忠伟的天曜集团，调查812洗钱案，追查母亲死亡真相。燕鸣宇随后得知，坎坷遭遇全是组织布置的卧底考验。他逐步获取信任，查清集团勾结黑恶势力借拍卖会洗钱，并成功执掌公司。收网前夜内鬼出手，燕鸣宇卧底身份暴露，麦忠伟舍身救子却遭章俊生杀害，燕鸣宇被诬陷通缉，队友重伤。燕鸣宇假意投靠高官章致远，依靠加密货币掌握15亿赃款与罪证。最终内外联动一网打尽所有罪犯，陈年命案水落石出燕鸣宇沉冤得雪，重返警队。",
+      "actors": [
+        "邓超元",
+        "郑中玉",
+        "匡牧野"
+      ],
+      "premiere": "2026-07-03",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 29
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "婚后引力",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 2
+      },
+      "douban": null,
+      "hot": true
+    },
+    {
+      "title": "妾本草芥",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 4
+      },
+      "douban": null,
+      "hot": true
+    },
+    {
+      "title": "铁证",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 9
+      },
+      "douban": null,
+      "hot": true
+    },
+    {
+      "title": "爱情公寓3",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 10
+      },
+      "douban": null,
+      "hot": true
+    },
+    {
+      "title": "古乐风华录",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 11
+      },
+      "douban": null,
+      "hot": true
+    },
+    {
+      "title": "许我耀眼",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 12
+      },
+      "douban": null,
+      "hot": true
+    },
+    {
+      "title": "为爱正名",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 13
+      },
+      "douban": null,
+      "hot": true
+    },
+    {
+      "title": "锦心似玉",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 14
+      },
+      "douban": null,
+      "hot": true
+    },
+    {
+      "title": "骄阳似我",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 15
+      },
+      "douban": null,
+      "hot": true
+    },
+    {
+      "title": "桃花映江山",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 17
+      },
+      "douban": null,
+      "hot": true
+    },
+    {
+      "title": "九重紫",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 18
+      },
+      "douban": null,
+      "hot": true
+    },
+    {
+      "title": "熔城",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 19
+      },
+      "douban": null,
+      "hot": true
+    },
+    {
+      "title": "囧徒之预演告别",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2922760599.jpg",
+      "url": "",
+      "status": "15集全",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 20
+      },
+      "douban": {
+        "douban_id": "36448068",
+        "douban_title": "囧徒之预演告别",
+        "douban_rating": null,
+        "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2922760599.jpg",
+        "douban_url": "https://movie.douban.com/subject/36448068/",
+        "episodes_info": "15集全",
+        "is_new": false
+      },
+      "hot": true
+    },
+    {
+      "title": "独剑九天",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 21
+      },
+      "douban": null,
+      "hot": true
+    },
+    {
+      "title": "尚公主",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 22
+      },
+      "douban": null,
+      "hot": true
+    },
+    {
+      "title": "庆余年第二季",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 23
+      },
+      "douban": null,
+      "hot": true
+    },
+    {
+      "title": "济公之降龙除妖",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 24
+      },
+      "douban": null,
+      "hot": true
+    },
+    {
+      "title": "爱情公寓4",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 26
+      },
+      "douban": null,
+      "hot": true
+    },
+    {
+      "title": "嫁金枝",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 27
+      },
+      "douban": null,
+      "hot": true
+    },
+    {
+      "title": "折腰",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 29
+      },
+      "douban": null,
+      "hot": true
+    },
+    {
+      "title": "月升沧海",
+      "platforms": [
+        "tencent"
+      ],
+      "cover": "",
+      "url": "",
+      "status": "",
+      "on_air": false,
+      "episodes": 0,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": null,
+      "rank": {
+        "tencent": 30
+      },
+      "douban": null,
+      "hot": true
+    }
+  ],
+  "fetched_at": "2026-09-18T09:42:06+08:00"
+}

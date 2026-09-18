@@ -1,0 +1,94 @@
+name: 定时采集数据（全量）
+
+# 低频全量：资讯、岗位、趋势、知识库每天三次。
+# 行情和天气在这里也会跑一次，作为 fetch-fast.yml 挂掉时的兜底——
+# 保证即使高频任务出问题，数据最多也不会超过 8 小时没更新。
+# 剧集只在每天首次运行（北京 9:05）采集一次，剧集热度变化慢，不需要跟三班。
+on:
+  schedule:
+    - cron: "5 1,5,9 * * *"   # UTC 1:05/5:05/9:05 = 北京时间 9:05/13:05/17:05
+  workflow_dispatch:            # 支持手动触发
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-data
+  cancel-in-progress: true
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      # 全量历史（fetch-depth: 0）：本 workflow 会 git commit + push，
+      # 浅克隆下提交的父指向浅边界，配合 --force 有截断历史的风险。
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 安装依赖
+        run: pip install requests feedparser beautifulsoup4 jieba
+
+      # 公开仓库一律使用 config/sources.json 里的通用城市。
+      # 个人城市清单只存在于私有库 Zfeng08/work-buddy-private，本地预览时才注入。
+      - name: 采集资讯
+        run: python scripts/fetch_news.py
+        working-directory: ${{ github.workspace }}
+        continue-on-error: true
+
+      - name: 采集行情
+        run: python scripts/fetch_finance.py
+        continue-on-error: true
+
+      - name: 采集天气
+        run: python scripts/fetch_weather.py
+        continue-on-error: true
+
+      - name: 采集趋势
+        run: python scripts/fetch_trends.py
+        continue-on-error: true
+
+      - name: 采集岗位
+        run: python scripts/fetch_jobs.py
+        continue-on-error: true
+
+      # 剧集热度变化慢，每天只需刷新一次；只在当天首次运行（UTC 01 点 = 北京 9:05）跑。
+      # UTC 01/02/03 都算「当天首次」，兜住 GitHub cron 的延迟抖动。
+      - name: 判断是否需要采集剧集
+        id: drama_gate
+        run: |
+          H=$(date -u +%H)
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            echo "手动触发，采集剧集"
+          elif [ "$H" = "01" ] || [ "$H" = "02" ] || [ "$H" = "03" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            echo "UTC $H 点 = 当天首次运行，采集剧集"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "UTC $H 点 = 当天非首次运行，跳过剧集采集"
+          fi
+
+      - name: 采集剧集
+        if: steps.drama_gate.outputs.run == 'true'
+        run: python scripts/fetch_dramas.py
+        continue-on-error: true
+
+      - name: 知识库分析
+        run: python scripts/build_knowledge.py
+
+      - name: 提交数据变更
+        run: |
+          git config user.name "workbuddy-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "无数据变更，跳过提交"
+          else
+            git commit -m "chore(data): 自动采集更新 $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.DS_Store
+.workbuddy/
+.git.broken*/
+
+# 个人隐私：私有笔记、私有配置与本地完整版索引，永不入库/不推送
+knowledge/_private/
+config/sources.local.json
+data/knowledge.local.json
+
+# 私有笔记的加密口令（本机保管，绝不入库）
+config/private.key
+
+# 发布产物（由 scripts/build_site.py 生成）
+dist/
+
+# playwright-cli 运行时产物
+.playwright-cli/
