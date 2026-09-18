@@ -20,21 +20,21 @@
     },
     {
       "name": "恒生指数",
-      "price": 24747.35,
-      "change": 143.06,
-      "change_pct": 0.58
+      "price": 24750.78,
+      "change": 146.49,
+      "change_pct": 0.6
     },
     {
       "name": "腾讯控股",
-      "price": 421.0,
-      "change": -5.0,
-      "change_pct": -1.17
+      "price": 419.0,
+      "change": -7.0,
+      "change_pct": -1.64
     },
     {
       "name": "美元人民币",
-      "price": 6.6973,
-      "change": -0.0087,
-      "change_pct": -0.13
+      "price": 6.6982,
+      "change": -0.0078,
+      "change_pct": -0.12
     }
   ],
   "history": [
@@ -143,24 +143,24 @@
         },
         {
           "name": "恒生指数",
-          "price": 24747.35,
-          "change": 143.06,
-          "change_pct": 0.58
+          "price": 24750.78,
+          "change": 146.49,
+          "change_pct": 0.6
         },
         {
           "name": "腾讯控股",
-          "price": 421.0,
-          "change": -5.0,
-          "change_pct": -1.17
+          "price": 419.0,
+          "change": -7.0,
+          "change_pct": -1.64
         },
         {
           "name": "美元人民币",
-          "price": 6.6973,
-          "change": -0.0087,
-          "change_pct": -0.13
+          "price": 6.6982,
+          "change": -0.0078,
+          "change_pct": -0.12
         }
       ]
     }
   ],
-  "fetched_at": "2026-09-18T15:52:36+08:00"
+  "fetched_at": "2026-09-18T16:53:30+08:00"
 }
