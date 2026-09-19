@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "马里布：苹果首款折叠 iPhone Duo 铰链无松垮感、有信心遏制折痕加深",
+      "link": "https://www.ithome.com/1/004/383.htm",
+      "summary": "IT之家 9 月 19 日消息，科技媒体 techradar 昨日（9 月 18 日）发布博文，采访了苹果新任硬件工程副总裁汤姆 · 马里布（Tom Marieb，该职位此前由苹果现任 CEO 特努斯担任），围绕着苹果首款折叠 iPhone Duo 的铰链设计和折痕等用户关心话题展开。在采访中，马里布表示折叠手机的核心风险就是铰链的耐用性。普通用户会关注它在反复开合后，能否仍稳定停留在半折叠角度，",
+      "source": "IT之家",
+      "category": "科技商业",
+      "published": "Sat, 19 Sep 2026 01:25:11 GMT"
+    },
+    {
+      "title": "“机顶盒内置”引发网友热议：专家解读一体化电视到底长什么样，广电总局目标在今年实现数千万规模部署",
+      "link": "https://www.ithome.com/1/004/382.htm",
+      "summary": "IT之家 9 月 19 日消息，国家广播电视总局 9 月 17 日在国务院新闻办公室发布会上介绍，将会同工业和信息化部制定一体化电视技术标准，把机顶盒功能以软件形态内置于电视机中。按照规划，一台电视即可接收直播、点播等全类型电视业务。用户配备通用遥控器，可一键开关机、一键看频道节目。实际上，这已经不是什么新闻了，IT之家近两年来至少已经报道过 12 次相关内容。但没想到的是，9 月 17 日消息公",
+      "source": "IT之家",
+      "category": "科技商业",
+      "published": "Sat, 19 Sep 2026 01:25:09 GMT"
+    },
+    {
       "title": "不用展开就能读：研究人员开发含铅墨水检测技术，让庞贝古城碳化卷轴文字重现于世",
       "link": "https://www.ithome.com/1/004/381.htm",
       "summary": "IT之家 9 月 19 日消息，据 phys.org 报道，美国加州大学伯克利分校研究人员 Douglas Seiler 带领的团队开发出一种通过检测含铅墨水痕迹获取庞贝古城中遭维苏威火山喷发烧焦、碳化的古代卷轴内文字信息的技术，即使墨水中的铅含量极低，也能通过 X 射线计算机断层扫描（X-ray CT）识别，其亮度最高可达到碳化纸莎草的 25 倍，从而显著提高隐藏文字的可见度。据介绍，为了模拟遭",
@@ -103,22 +119,6 @@
       "source": "IT之家",
       "category": "科技商业",
       "published": "Sat, 19 Sep 2026 00:06:53 GMT"
-    },
-    {
-      "title": "航程约 5148 公里，Joby 称完成首次横跨美国全自主飞行",
-      "link": "https://www.ithome.com/1/004/367.htm",
-      "summary": "IT之家 9 月 19 日消息，航天公司 Joby Aviation 昨日（9 月 18 日）发布博文，宣布基于塞斯纳 Caravan 飞机改装、搭载自主飞行技术的 J208 完成美国首次全自主跨州飞行。该机从美国加州康科德起飞，结束于北卡罗来纳州外滩群岛附近。本次航程历时约 1 个月，累计飞行 3,199 英里（IT之家注：约 5,148 公里），自西向东经停凤凰城（亚利桑那）、沃斯堡（得克萨斯",
-      "source": "IT之家",
-      "category": "科技商业",
-      "published": "Sat, 19 Sep 2026 00:02:06 GMT"
-    },
-    {
-      "title": "三星 Galaxy Tab S12 Plus / Ultra 平板电脑规格曝光：搭天玑 9500 处理器、10 月 7 日发布",
-      "link": "https://www.ithome.com/1/004/366.htm",
-      "summary": "IT之家 9 月 19 日消息，外媒 WinFuture 现已曝光了三星 Galaxy Tab S12 Plus 和 Galaxy Tab S12 Ultra 两款平板电脑完整规格信息，两款平板均搭载联发科天玑 9500 处理器、提供 IP68 认证，但在屏幕、RAM 内存、摄像头和扬声器等方面存在差异。其中，Galaxy Tab S12 Plus 重量 555 克，将配备 12.6 英寸 280",
-      "source": "IT之家",
-      "category": "科技商业",
-      "published": "Fri, 18 Sep 2026 23:59:23 GMT"
     },
     {
       "title": "本周看什么 | 最近值得一看的 9 部作品",
@@ -347,7 +347,7 @@
     {
       "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
       "link": "https://code.claude.com/docs/en/changelog",
-      "summary": "Article URL: https://code.claude.com/docs/en/changelog Comments URL: https://news.ycombinator.com/item?id=49760187 Points: 498 # Comments: 181",
+      "summary": "Article URL: https://code.claude.com/docs/en/changelog Comments URL: https://news.ycombinator.com/item?id=49760187 Points: 503 # Comments: 181",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 21:00:32 +0000"
@@ -355,7 +355,7 @@
     {
       "title": "Korea raises data breach fines to 10% of revenue",
       "link": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
-      "summary": "Article URL: https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899 Comments URL: https://news.ycombinator.com/item?id=49759466 Points: 269 # Comments: 88",
+      "summary": "Article URL: https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899 Comments URL: https://news.ycombinator.com/item?id=49759466 Points: 270 # Comments: 89",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 20:02:54 +0000"
@@ -363,7 +363,7 @@
     {
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576 Comments URL: https://news.ycombinator.com/item?id=49758736 Points: 497 # Comments: 240",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576 Comments URL: https://news.ycombinator.com/item?id=49758736 Points: 514 # Comments: 252",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 19:03:09 +0000"
@@ -371,7 +371,7 @@
     {
       "title": "Saving another 100TB of RAM",
       "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "summary": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/ Comments URL: https://news.ycombinator.com/item?id=49758580 Points: 215 # Comments: 40",
+      "summary": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/ Comments URL: https://news.ycombinator.com/item?id=49758580 Points: 222 # Comments: 42",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 18:51:46 +0000"
@@ -379,7 +379,7 @@
     {
       "title": "US Military had close call after using AI for hallucinated intelligence report",
       "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-      "summary": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 391 # Comments: 306",
+      "summary": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 398 # Comments: 308",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 17:28:01 +0000"
@@ -387,7 +387,7 @@
     {
       "title": "I vibed a proof of Conway's conjecture",
       "link": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
-      "summary": "https://github.com/gaearon/conway-refinement#why-i-think-its... Comments URL: https://news.ycombinator.com/item?id=49755024 Points: 208 # Comments: 181",
+      "summary": "https://github.com/gaearon/conway-refinement#why-i-think-its... Comments URL: https://news.ycombinator.com/item?id=49755024 Points: 209 # Comments: 184",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 14:36:10 +0000"
@@ -395,7 +395,7 @@
     {
       "title": "Cloudflare Quick Tunnels",
       "link": "https://try.cloudflare.com/",
-      "summary": "Article URL: https://try.cloudflare.com/ Comments URL: https://news.ycombinator.com/item?id=49754785 Points: 558 # Comments: 242",
+      "summary": "Article URL: https://try.cloudflare.com/ Comments URL: https://news.ycombinator.com/item?id=49754785 Points: 568 # Comments: 247",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 14:18:41 +0000"
@@ -403,7 +403,7 @@
     {
       "title": "An empirical study of harness design for coding agents",
       "link": "https://arxiv.org/abs/2609.20804",
-      "summary": "Article URL: https://arxiv.org/abs/2609.20804 Comments URL: https://news.ycombinator.com/item?id=49753878 Points: 201 # Comments: 57",
+      "summary": "Article URL: https://arxiv.org/abs/2609.20804 Comments URL: https://news.ycombinator.com/item?id=49753878 Points: 202 # Comments: 57",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 13:06:30 +0000"
@@ -411,7 +411,7 @@
     {
       "title": "I don't like passkeys",
       "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
-      "summary": "Article URL: https://hawksley.dev/blog/i-dont-like-passkeys Comments URL: https://news.ycombinator.com/item?id=49753211 Points: 725 # Comments: 714",
+      "summary": "Article URL: https://hawksley.dev/blog/i-dont-like-passkeys Comments URL: https://news.ycombinator.com/item?id=49753211 Points: 730 # Comments: 715",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 12:06:50 +0000"
@@ -427,7 +427,7 @@
     {
       "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
       "link": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
-      "summary": "Article URL: https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html Comments URL: https://news.ycombinator.com/item?id=49752614 Points: 287 # Comments: 189",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html Comments URL: https://news.ycombinator.com/item?id=49752614 Points: 288 # Comments: 191",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 11:01:44 +0000"
@@ -451,7 +451,7 @@
     {
       "title": "OpenJev",
       "link": "https://openjev.com/",
-      "summary": "Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 550 # Comments: 245",
+      "summary": "Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 555 # Comments: 245",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 09:42:22 +0000"
@@ -459,7 +459,7 @@
     {
       "title": "Inside ZCode: Silently uploading your Git history to the cloud",
       "link": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
-      "summary": "Article URL: https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/ Comments URL: https://news.ycombinator.com/item?id=49750694 Points: 251 # Comments: 90",
+      "summary": "Article URL: https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/ Comments URL: https://news.ycombinator.com/item?id=49750694 Points: 253 # Comments: 90",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 06:11:17 +0000"
@@ -468,5 +468,5 @@
   "count": 58,
   "sources_ok": 5,
   "errors": [],
-  "fetched_at": "2026-09-19T09:15:53+08:00"
+  "fetched_at": "2026-09-19T09:39:57+08:00"
 }

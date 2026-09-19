@@ -1,7 +1,7 @@
 {
-  "count": 72,
+  "count": 74,
   "on_air_count": 5,
-  "rated_count": 22,
+  "rated_count": 23,
   "platforms": {
     "youku": {
       "name": "优酷",
@@ -40,6 +40,56 @@
           "hot": false
         },
         {
+          "title": "雨霖铃",
+          "platforms": [
+            "youku"
+          ],
+          "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2932378070.jpg",
+          "url": "https://www.youku.com/v_show/id_afcb2d65c6a34b798d77.html",
+          "status": "37集全",
+          "on_air": false,
+          "episodes": 37,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": 2026,
+          "rank": {
+            "youku": 2
+          },
+          "douban": {
+            "douban_id": "36310054",
+            "douban_title": "雨霖铃",
+            "douban_rating": 7.0,
+            "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2932378070.jpg",
+            "douban_url": "https://movie.douban.com/subject/36310054/",
+            "episodes_info": "",
+            "is_new": false
+          },
+          "hot": false
+        },
+        {
+          "title": "樱桃琥珀",
+          "platforms": [
+            "youku"
+          ],
+          "cover": "",
+          "url": "https://www.youku.com/v_show/id_ccaae91a82cf49e4a6fe.html",
+          "status": "24集全",
+          "on_air": false,
+          "episodes": 24,
+          "categories": [],
+          "desc": "",
+          "actors": [],
+          "premiere": "",
+          "year": 2025,
+          "rank": {
+            "youku": 3
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
           "title": "以法之名",
           "platforms": [
             "youku"
@@ -55,7 +105,7 @@
           "premiere": "",
           "year": 2025,
           "rank": {
-            "youku": 2
+            "youku": 4
           },
           "douban": null,
           "hot": false
@@ -76,7 +126,7 @@
           "premiere": "",
           "year": 2026,
           "rank": {
-            "youku": 3
+            "youku": 5
           },
           "douban": null,
           "hot": false
@@ -97,7 +147,7 @@
           "premiere": "",
           "year": 2025,
           "rank": {
-            "youku": 4
+            "youku": 6
           },
           "douban": null,
           "hot": false
@@ -118,7 +168,7 @@
           "premiere": "",
           "year": 2026,
           "rank": {
-            "youku": 5
+            "youku": 7
           },
           "douban": null,
           "hot": false
@@ -139,7 +189,7 @@
           "premiere": "",
           "year": 2025,
           "rank": {
-            "youku": 6
+            "youku": 8
           },
           "douban": null,
           "hot": false
@@ -160,7 +210,7 @@
           "premiere": "",
           "year": 2025,
           "rank": {
-            "youku": 7
+            "youku": 9
           },
           "douban": {
             "douban_id": "27181010",
@@ -189,7 +239,7 @@
           "premiere": "",
           "year": 2025,
           "rank": {
-            "youku": 8
+            "youku": 10
           },
           "douban": null,
           "hot": false
@@ -210,7 +260,7 @@
           "premiere": "",
           "year": 2026,
           "rank": {
-            "youku": 9
+            "youku": 11
           },
           "douban": null,
           "hot": false
@@ -231,7 +281,7 @@
           "premiere": "",
           "year": 2025,
           "rank": {
-            "youku": 10
+            "youku": 12
           },
           "douban": null,
           "hot": false
@@ -252,7 +302,7 @@
           "premiere": "",
           "year": 2025,
           "rank": {
-            "youku": 11
+            "youku": 13
           },
           "douban": null,
           "hot": false
@@ -273,48 +323,6 @@
           "premiere": "",
           "year": 2026,
           "rank": {
-            "youku": 12
-          },
-          "douban": null,
-          "hot": false
-        },
-        {
-          "title": "我的山与海",
-          "platforms": [
-            "youku"
-          ],
-          "cover": "",
-          "url": "https://www.youku.com/v_show/id_beeacc87d8e8444d8615.html",
-          "status": "30集全",
-          "on_air": false,
-          "episodes": 30,
-          "categories": [],
-          "desc": "",
-          "actors": [],
-          "premiere": "",
-          "year": 2026,
-          "rank": {
-            "youku": 13
-          },
-          "douban": null,
-          "hot": false
-        },
-        {
-          "title": "黑夜告白",
-          "platforms": [
-            "youku"
-          ],
-          "cover": "",
-          "url": "https://www.youku.com/v_show/id_dccc1a382ea3456eaa77.html",
-          "status": "28集全",
-          "on_air": false,
-          "episodes": 28,
-          "categories": [],
-          "desc": "",
-          "actors": [],
-          "premiere": "",
-          "year": 2026,
-          "rank": {
             "youku": 14
           },
           "douban": null,
@@ -327,7 +335,7 @@
       "color": "#00be06",
       "home": "https://www.iqiyi.com/",
       "id": "iqiyi",
-      "count": 30,
+      "count": 32,
       "items": [
         {
           "title": "生逢其时",
@@ -916,27 +924,27 @@
           "hot": false
         },
         {
-          "title": "她的罪名",
+          "title": "设局",
           "platforms": [
             "iqiyi"
           ],
-          "cover": "http://pic1.iqiyipic.com/image/20260427/6a/34/a_100801018_m_601_m7.jpg",
-          "url": "http://www.iqiyi.com/v_1js3rma83q0.html",
-          "status": "全24集",
+          "cover": "http://pic2.iqiyipic.com/image/20260828/41/c7/a_100103214_m_601_m4.jpg",
+          "url": "http://www.iqiyi.com/v_yzy3wmitc8.html",
+          "status": "全46集",
           "on_air": false,
-          "episodes": 24,
+          "episodes": 46,
           "categories": [
-            "内地",
-            "悬疑",
-            "普通话"
+            "谍战",
+            "普通话",
+            "战争"
           ],
-          "desc": "广南市出租屋发生恶性双尸案，夜总会女子李娜琳达惨遭虐杀。刑警林威与经验老到的马国栋联手查案，从现场细节推翻劫财劫色判断，锁定失踪服务员曹爱媛及其背后团伙。经查，曹爱媛因长期受死者轻视羞辱，心怀怨恨，联合华卫红等人设局行凶。警方循线追踪，揭开团伙谋财害命、内讧逃亡的真相。案件跨越三年，曹爱媛隐姓埋名再犯命案，最终被林威抓获归案。老刑警马国栋带病追凶，壮烈牺牲。故事以连环命案为引，剖开原生家庭、人性善恶与底层挣扎，展现刑警坚守正义、追凶到底的使命担当。",
+          "desc": "该剧讲述了抗日战争时期，海外募集的抗战资金藏匿地点不明，赵心怡与上海的抗日武装，开启寻宝夺金之旅，清除叛徒并找到珠宝，运往抗日根据地的故事。",
           "actors": [
-            "徐洋",
-            "洪浚嘉",
-            "吴天琪"
+            "何明翰",
+            "赵心怡",
+            "李丞峰"
           ],
-          "premiere": "2026-04-24",
+          "premiere": "2026-08-26",
           "year": 2026,
           "rank": {
             "iqiyi": 18
@@ -974,6 +982,35 @@
           "hot": false
         },
         {
+          "title": "她的罪名",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic1.iqiyipic.com/image/20260427/6a/34/a_100801018_m_601_m7.jpg",
+          "url": "http://www.iqiyi.com/v_1js3rma83q0.html",
+          "status": "全24集",
+          "on_air": false,
+          "episodes": 24,
+          "categories": [
+            "内地",
+            "悬疑",
+            "普通话"
+          ],
+          "desc": "广南市出租屋发生恶性双尸案，夜总会女子李娜琳达惨遭虐杀。刑警林威与经验老到的马国栋联手查案，从现场细节推翻劫财劫色判断，锁定失踪服务员曹爱媛及其背后团伙。经查，曹爱媛因长期受死者轻视羞辱，心怀怨恨，联合华卫红等人设局行凶。警方循线追踪，揭开团伙谋财害命、内讧逃亡的真相。案件跨越三年，曹爱媛隐姓埋名再犯命案，最终被林威抓获归案。老刑警马国栋带病追凶，壮烈牺牲。故事以连环命案为引，剖开原生家庭、人性善恶与底层挣扎，展现刑警坚守正义、追凶到底的使命担当。",
+          "actors": [
+            "徐洋",
+            "洪浚嘉",
+            "吴天琪"
+          ],
+          "premiere": "2026-04-24",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 20
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
           "title": "兵自风中来",
           "platforms": [
             "iqiyi"
@@ -997,7 +1034,7 @@
           "premiere": "2026-08-04",
           "year": 2026,
           "rank": {
-            "iqiyi": 20
+            "iqiyi": 21
           },
           "douban": null,
           "hot": false
@@ -1026,7 +1063,7 @@
           "premiere": "2026-07-16",
           "year": 2026,
           "rank": {
-            "iqiyi": 21
+            "iqiyi": 22
           },
           "douban": null,
           "hot": false
@@ -1051,7 +1088,7 @@
           "premiere": "2026-06-14",
           "year": 2026,
           "rank": {
-            "iqiyi": 22
+            "iqiyi": 23
           },
           "douban": null,
           "hot": false
@@ -1080,7 +1117,7 @@
           "premiere": "2026-06-25",
           "year": 2026,
           "rank": {
-            "iqiyi": 23
+            "iqiyi": 24
           },
           "douban": null,
           "hot": false
@@ -1109,7 +1146,7 @@
           "premiere": "2026-05-09",
           "year": 2026,
           "rank": {
-            "iqiyi": 24
+            "iqiyi": 25
           },
           "douban": null,
           "hot": false
@@ -1136,35 +1173,6 @@
             "吴翎薇"
           ],
           "premiere": "2026-05-15",
-          "year": 2026,
-          "rank": {
-            "iqiyi": 25
-          },
-          "douban": null,
-          "hot": false
-        },
-        {
-          "title": "逆时追捕",
-          "platforms": [
-            "iqiyi"
-          ],
-          "cover": "http://pic5.iqiyipic.com/image/20260722/81/3a/a_100906681_m_601_m8.jpg",
-          "url": "http://www.iqiyi.com/v_gaierz9bi8.html",
-          "status": "全26集",
-          "on_air": false,
-          "episodes": 26,
-          "categories": [
-            "悬疑",
-            "内地",
-            "普通话"
-          ],
-          "desc": "2011年，刑警徐卫璋在破败的斯卡拉夜总会发现一具被封藏十六年的白骨女尸，意外地与1995年的警察刘新建建立了跨越时空的联系。两人双时空协作，在不同时间线中共同推进侦查，共同侦破了一个尘封十六年的连环杀人案。",
-          "actors": [
-            "金瀚",
-            "江一燕",
-            "曹卫宇"
-          ],
-          "premiere": "2026-07-04",
           "year": 2026,
           "rank": {
             "iqiyi": 26
@@ -1202,27 +1210,27 @@
           "hot": false
         },
         {
-          "title": "暗金",
+          "title": "逆时追捕",
           "platforms": [
             "iqiyi"
           ],
-          "cover": "http://pic6.iqiyipic.com/image/20260704/0f/0c/a_100897250_m_601_m4.jpg",
-          "url": "http://www.iqiyi.com/v_1ouuedmtgrg.html",
-          "status": "全25集",
+          "cover": "http://pic5.iqiyipic.com/image/20260722/81/3a/a_100906681_m_601_m8.jpg",
+          "url": "http://www.iqiyi.com/v_gaierz9bi8.html",
+          "status": "全26集",
           "on_air": false,
-          "episodes": 25,
+          "episodes": 26,
           "categories": [
             "悬疑",
             "内地",
             "普通话"
           ],
-          "desc": "警校学生燕鸣宇没能入警，又因参与地下拳赛被开除。经侦队长陈昌杰安排他卧底生父麦忠伟的天曜集团，调查812洗钱案，追查母亲死亡真相。燕鸣宇随后得知，坎坷遭遇全是组织布置的卧底考验。他逐步获取信任，查清集团勾结黑恶势力借拍卖会洗钱，并成功执掌公司。收网前夜内鬼出手，燕鸣宇卧底身份暴露，麦忠伟舍身救子却遭章俊生杀害，燕鸣宇被诬陷通缉，队友重伤。燕鸣宇假意投靠高官章致远，依靠加密货币掌握15亿赃款与罪证。最终内外联动一网打尽所有罪犯，陈年命案水落石出燕鸣宇沉冤得雪，重返警队。",
+          "desc": "2011年，刑警徐卫璋在破败的斯卡拉夜总会发现一具被封藏十六年的白骨女尸，意外地与1995年的警察刘新建建立了跨越时空的联系。两人双时空协作，在不同时间线中共同推进侦查，共同侦破了一个尘封十六年的连环杀人案。",
           "actors": [
-            "邓超元",
-            "郑中玉",
-            "匡牧野"
+            "金瀚",
+            "江一燕",
+            "曹卫宇"
           ],
-          "premiere": "2026-07-03",
+          "premiere": "2026-07-04",
           "year": 2026,
           "rank": {
             "iqiyi": 28
@@ -1260,6 +1268,64 @@
           "hot": false
         },
         {
+          "title": "暗金",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic6.iqiyipic.com/image/20260704/0f/0c/a_100897250_m_601_m4.jpg",
+          "url": "http://www.iqiyi.com/v_1ouuedmtgrg.html",
+          "status": "全25集",
+          "on_air": false,
+          "episodes": 25,
+          "categories": [
+            "悬疑",
+            "内地",
+            "普通话"
+          ],
+          "desc": "警校学生燕鸣宇没能入警，又因参与地下拳赛被开除。经侦队长陈昌杰安排他卧底生父麦忠伟的天曜集团，调查812洗钱案，追查母亲死亡真相。燕鸣宇随后得知，坎坷遭遇全是组织布置的卧底考验。他逐步获取信任，查清集团勾结黑恶势力借拍卖会洗钱，并成功执掌公司。收网前夜内鬼出手，燕鸣宇卧底身份暴露，麦忠伟舍身救子却遭章俊生杀害，燕鸣宇被诬陷通缉，队友重伤。燕鸣宇假意投靠高官章致远，依靠加密货币掌握15亿赃款与罪证。最终内外联动一网打尽所有罪犯，陈年命案水落石出燕鸣宇沉冤得雪，重返警队。",
+          "actors": [
+            "邓超元",
+            "郑中玉",
+            "匡牧野"
+          ],
+          "premiere": "2026-07-03",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 30
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "大嫁风尚",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic4.iqiyipic.com/image/20260508/dd/45/a_100014554_m_601_m3.jpg",
+          "url": "http://www.iqiyi.com/v_ib8n1br3o0.html",
+          "status": "全44集",
+          "on_air": false,
+          "episodes": 44,
+          "categories": [
+            "家庭",
+            "普通话",
+            "都市"
+          ],
+          "desc": "婚礼策划师夏燃（杨紫饰）突然被男友蒋剑南提出分手。蒋剑南不知所踪，夏燃气不过，要找蒋剑南问个究竟，于是阴错阳差地认识了同蒋剑南租一套房的青年医生金志豪（乔振宇饰）。金志豪为了打消母亲（李萍饰）对他多年不恋的疑虑，便和夏燃商议：夏燃假扮金志豪的女友；金志豪帮夏燃找到蒋剑南。之后，两人一起解决了很多案例，帮助别人完成梦想，找到幸福。渐渐的二人产生了感情，不料金志豪的初恋女友聂璇（宁丹琳饰）出现。金志豪在得知聂璇当初离开的实情后，百感交集。夏燃见此，想用自己的退出去成全聂璇和金志豪的爱情。金志豪面对聂璇的猛烈追求，逐渐认识到责任不能代替爱情；他同夏燃再次相遇，紧紧拥抱，说好要共同面对一切问题。看到金志豪与夏燃真诚相爱的情景，聂璇明白了爱情真谛所在。爱情来之不易，夏燃外甥的满月酒席上，大家欢聚一堂。",
+          "actors": [
+            "杨紫",
+            "乔振宇",
+            "朱茵"
+          ],
+          "premiere": "2026-05-02",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 31
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
           "title": "人生赢家",
           "platforms": [
             "iqiyi"
@@ -1282,7 +1348,7 @@
           "premiere": "2026-08-28",
           "year": 2026,
           "rank": {
-            "iqiyi": 30
+            "iqiyi": 32
           },
           "douban": null,
           "hot": false
@@ -2413,7 +2479,7 @@
       "premiere": "",
       "year": 2025,
       "rank": {
-        "youku": 7
+        "youku": 9
       },
       "douban": {
         "douban_id": "27181010",
@@ -2454,6 +2520,35 @@
         "is_new": false
       },
       "hot": true
+    },
+    {
+      "title": "雨霖铃",
+      "platforms": [
+        "youku"
+      ],
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2932378070.jpg",
+      "url": "https://www.youku.com/v_show/id_afcb2d65c6a34b798d77.html",
+      "status": "37集全",
+      "on_air": false,
+      "episodes": 37,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": 2026,
+      "rank": {
+        "youku": 2
+      },
+      "douban": {
+        "douban_id": "36310054",
+        "douban_title": "雨霖铃",
+        "douban_rating": 7.0,
+        "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2932378070.jpg",
+        "douban_url": "https://movie.douban.com/subject/36310054/",
+        "episodes_info": "",
+        "is_new": false
+      },
+      "hot": false
     },
     {
       "title": "雀骨",
@@ -2886,6 +2981,27 @@
       "hot": false
     },
     {
+      "title": "樱桃琥珀",
+      "platforms": [
+        "youku"
+      ],
+      "cover": "",
+      "url": "https://www.youku.com/v_show/id_ccaae91a82cf49e4a6fe.html",
+      "status": "24集全",
+      "on_air": false,
+      "episodes": 24,
+      "categories": [],
+      "desc": "",
+      "actors": [],
+      "premiere": "",
+      "year": 2025,
+      "rank": {
+        "youku": 3
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
       "title": "以法之名",
       "platforms": [
         "youku"
@@ -2901,7 +3017,7 @@
       "premiere": "",
       "year": 2025,
       "rank": {
-        "youku": 2
+        "youku": 4
       },
       "douban": null,
       "hot": false
@@ -2922,7 +3038,7 @@
       "premiere": "",
       "year": 2026,
       "rank": {
-        "youku": 3
+        "youku": 5
       },
       "douban": null,
       "hot": false
@@ -2943,7 +3059,7 @@
       "premiere": "",
       "year": 2025,
       "rank": {
-        "youku": 4
+        "youku": 6
       },
       "douban": null,
       "hot": false
@@ -2964,7 +3080,7 @@
       "premiere": "",
       "year": 2026,
       "rank": {
-        "youku": 5
+        "youku": 7
       },
       "douban": null,
       "hot": false
@@ -2985,7 +3101,7 @@
       "premiere": "",
       "year": 2025,
       "rank": {
-        "youku": 6
+        "youku": 8
       },
       "douban": null,
       "hot": false
@@ -3006,7 +3122,7 @@
       "premiere": "",
       "year": 2025,
       "rank": {
-        "youku": 8
+        "youku": 10
       },
       "douban": null,
       "hot": false
@@ -3027,7 +3143,7 @@
       "premiere": "",
       "year": 2026,
       "rank": {
-        "youku": 9
+        "youku": 11
       },
       "douban": null,
       "hot": false
@@ -3048,7 +3164,7 @@
       "premiere": "",
       "year": 2025,
       "rank": {
-        "youku": 10
+        "youku": 12
       },
       "douban": null,
       "hot": false
@@ -3069,7 +3185,7 @@
       "premiere": "",
       "year": 2025,
       "rank": {
-        "youku": 11
+        "youku": 13
       },
       "douban": null,
       "hot": false
@@ -3084,48 +3200,6 @@
       "status": "34集全",
       "on_air": false,
       "episodes": 34,
-      "categories": [],
-      "desc": "",
-      "actors": [],
-      "premiere": "",
-      "year": 2026,
-      "rank": {
-        "youku": 12
-      },
-      "douban": null,
-      "hot": false
-    },
-    {
-      "title": "我的山与海",
-      "platforms": [
-        "youku"
-      ],
-      "cover": "",
-      "url": "https://www.youku.com/v_show/id_beeacc87d8e8444d8615.html",
-      "status": "30集全",
-      "on_air": false,
-      "episodes": 30,
-      "categories": [],
-      "desc": "",
-      "actors": [],
-      "premiere": "",
-      "year": 2026,
-      "rank": {
-        "youku": 13
-      },
-      "douban": null,
-      "hot": false
-    },
-    {
-      "title": "黑夜告白",
-      "platforms": [
-        "youku"
-      ],
-      "cover": "",
-      "url": "https://www.youku.com/v_show/id_dccc1a382ea3456eaa77.html",
-      "status": "28集全",
-      "on_air": false,
-      "episodes": 28,
       "categories": [],
       "desc": "",
       "actors": [],
@@ -3202,27 +3276,27 @@
       "hot": false
     },
     {
-      "title": "她的罪名",
+      "title": "设局",
       "platforms": [
         "iqiyi"
       ],
-      "cover": "http://pic1.iqiyipic.com/image/20260427/6a/34/a_100801018_m_601_m7.jpg",
-      "url": "http://www.iqiyi.com/v_1js3rma83q0.html",
-      "status": "全24集",
+      "cover": "http://pic2.iqiyipic.com/image/20260828/41/c7/a_100103214_m_601_m4.jpg",
+      "url": "http://www.iqiyi.com/v_yzy3wmitc8.html",
+      "status": "全46集",
       "on_air": false,
-      "episodes": 24,
+      "episodes": 46,
       "categories": [
-        "内地",
-        "悬疑",
-        "普通话"
+        "谍战",
+        "普通话",
+        "战争"
       ],
-      "desc": "广南市出租屋发生恶性双尸案，夜总会女子李娜琳达惨遭虐杀。刑警林威与经验老到的马国栋联手查案，从现场细节推翻劫财劫色判断，锁定失踪服务员曹爱媛及其背后团伙。经查，曹爱媛因长期受死者轻视羞辱，心怀怨恨，联合华卫红等人设局行凶。警方循线追踪，揭开团伙谋财害命、内讧逃亡的真相。案件跨越三年，曹爱媛隐姓埋名再犯命案，最终被林威抓获归案。老刑警马国栋带病追凶，壮烈牺牲。故事以连环命案为引，剖开原生家庭、人性善恶与底层挣扎，展现刑警坚守正义、追凶到底的使命担当。",
+      "desc": "该剧讲述了抗日战争时期，海外募集的抗战资金藏匿地点不明，赵心怡与上海的抗日武装，开启寻宝夺金之旅，清除叛徒并找到珠宝，运往抗日根据地的故事。",
       "actors": [
-        "徐洋",
-        "洪浚嘉",
-        "吴天琪"
+        "何明翰",
+        "赵心怡",
+        "李丞峰"
       ],
-      "premiere": "2026-04-24",
+      "premiere": "2026-08-26",
       "year": 2026,
       "rank": {
         "iqiyi": 18
@@ -3260,6 +3334,35 @@
       "hot": false
     },
     {
+      "title": "她的罪名",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic1.iqiyipic.com/image/20260427/6a/34/a_100801018_m_601_m7.jpg",
+      "url": "http://www.iqiyi.com/v_1js3rma83q0.html",
+      "status": "全24集",
+      "on_air": false,
+      "episodes": 24,
+      "categories": [
+        "内地",
+        "悬疑",
+        "普通话"
+      ],
+      "desc": "广南市出租屋发生恶性双尸案，夜总会女子李娜琳达惨遭虐杀。刑警林威与经验老到的马国栋联手查案，从现场细节推翻劫财劫色判断，锁定失踪服务员曹爱媛及其背后团伙。经查，曹爱媛因长期受死者轻视羞辱，心怀怨恨，联合华卫红等人设局行凶。警方循线追踪，揭开团伙谋财害命、内讧逃亡的真相。案件跨越三年，曹爱媛隐姓埋名再犯命案，最终被林威抓获归案。老刑警马国栋带病追凶，壮烈牺牲。故事以连环命案为引，剖开原生家庭、人性善恶与底层挣扎，展现刑警坚守正义、追凶到底的使命担当。",
+      "actors": [
+        "徐洋",
+        "洪浚嘉",
+        "吴天琪"
+      ],
+      "premiere": "2026-04-24",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 20
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
       "title": "兵自风中来",
       "platforms": [
         "iqiyi"
@@ -3283,7 +3386,7 @@
       "premiere": "2026-08-04",
       "year": 2026,
       "rank": {
-        "iqiyi": 20
+        "iqiyi": 21
       },
       "douban": null,
       "hot": false
@@ -3312,7 +3415,7 @@
       "premiere": "2026-07-16",
       "year": 2026,
       "rank": {
-        "iqiyi": 21
+        "iqiyi": 22
       },
       "douban": null,
       "hot": false
@@ -3337,7 +3440,7 @@
       "premiere": "2026-06-14",
       "year": 2026,
       "rank": {
-        "iqiyi": 22
+        "iqiyi": 23
       },
       "douban": null,
       "hot": false
@@ -3366,7 +3469,7 @@
       "premiere": "2026-06-25",
       "year": 2026,
       "rank": {
-        "iqiyi": 23
+        "iqiyi": 24
       },
       "douban": null,
       "hot": false
@@ -3395,7 +3498,7 @@
       "premiere": "2026-05-09",
       "year": 2026,
       "rank": {
-        "iqiyi": 24
+        "iqiyi": 25
       },
       "douban": null,
       "hot": false
@@ -3422,35 +3525,6 @@
         "吴翎薇"
       ],
       "premiere": "2026-05-15",
-      "year": 2026,
-      "rank": {
-        "iqiyi": 25
-      },
-      "douban": null,
-      "hot": false
-    },
-    {
-      "title": "逆时追捕",
-      "platforms": [
-        "iqiyi"
-      ],
-      "cover": "http://pic5.iqiyipic.com/image/20260722/81/3a/a_100906681_m_601_m8.jpg",
-      "url": "http://www.iqiyi.com/v_gaierz9bi8.html",
-      "status": "全26集",
-      "on_air": false,
-      "episodes": 26,
-      "categories": [
-        "悬疑",
-        "内地",
-        "普通话"
-      ],
-      "desc": "2011年，刑警徐卫璋在破败的斯卡拉夜总会发现一具被封藏十六年的白骨女尸，意外地与1995年的警察刘新建建立了跨越时空的联系。两人双时空协作，在不同时间线中共同推进侦查，共同侦破了一个尘封十六年的连环杀人案。",
-      "actors": [
-        "金瀚",
-        "江一燕",
-        "曹卫宇"
-      ],
-      "premiere": "2026-07-04",
       "year": 2026,
       "rank": {
         "iqiyi": 26
@@ -3488,27 +3562,27 @@
       "hot": false
     },
     {
-      "title": "暗金",
+      "title": "逆时追捕",
       "platforms": [
         "iqiyi"
       ],
-      "cover": "http://pic6.iqiyipic.com/image/20260704/0f/0c/a_100897250_m_601_m4.jpg",
-      "url": "http://www.iqiyi.com/v_1ouuedmtgrg.html",
-      "status": "全25集",
+      "cover": "http://pic5.iqiyipic.com/image/20260722/81/3a/a_100906681_m_601_m8.jpg",
+      "url": "http://www.iqiyi.com/v_gaierz9bi8.html",
+      "status": "全26集",
       "on_air": false,
-      "episodes": 25,
+      "episodes": 26,
       "categories": [
         "悬疑",
         "内地",
         "普通话"
       ],
-      "desc": "警校学生燕鸣宇没能入警，又因参与地下拳赛被开除。经侦队长陈昌杰安排他卧底生父麦忠伟的天曜集团，调查812洗钱案，追查母亲死亡真相。燕鸣宇随后得知，坎坷遭遇全是组织布置的卧底考验。他逐步获取信任，查清集团勾结黑恶势力借拍卖会洗钱，并成功执掌公司。收网前夜内鬼出手，燕鸣宇卧底身份暴露，麦忠伟舍身救子却遭章俊生杀害，燕鸣宇被诬陷通缉，队友重伤。燕鸣宇假意投靠高官章致远，依靠加密货币掌握15亿赃款与罪证。最终内外联动一网打尽所有罪犯，陈年命案水落石出燕鸣宇沉冤得雪，重返警队。",
+      "desc": "2011年，刑警徐卫璋在破败的斯卡拉夜总会发现一具被封藏十六年的白骨女尸，意外地与1995年的警察刘新建建立了跨越时空的联系。两人双时空协作，在不同时间线中共同推进侦查，共同侦破了一个尘封十六年的连环杀人案。",
       "actors": [
-        "邓超元",
-        "郑中玉",
-        "匡牧野"
+        "金瀚",
+        "江一燕",
+        "曹卫宇"
       ],
-      "premiere": "2026-07-03",
+      "premiere": "2026-07-04",
       "year": 2026,
       "rank": {
         "iqiyi": 28
@@ -3546,6 +3620,64 @@
       "hot": false
     },
     {
+      "title": "暗金",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic6.iqiyipic.com/image/20260704/0f/0c/a_100897250_m_601_m4.jpg",
+      "url": "http://www.iqiyi.com/v_1ouuedmtgrg.html",
+      "status": "全25集",
+      "on_air": false,
+      "episodes": 25,
+      "categories": [
+        "悬疑",
+        "内地",
+        "普通话"
+      ],
+      "desc": "警校学生燕鸣宇没能入警，又因参与地下拳赛被开除。经侦队长陈昌杰安排他卧底生父麦忠伟的天曜集团，调查812洗钱案，追查母亲死亡真相。燕鸣宇随后得知，坎坷遭遇全是组织布置的卧底考验。他逐步获取信任，查清集团勾结黑恶势力借拍卖会洗钱，并成功执掌公司。收网前夜内鬼出手，燕鸣宇卧底身份暴露，麦忠伟舍身救子却遭章俊生杀害，燕鸣宇被诬陷通缉，队友重伤。燕鸣宇假意投靠高官章致远，依靠加密货币掌握15亿赃款与罪证。最终内外联动一网打尽所有罪犯，陈年命案水落石出燕鸣宇沉冤得雪，重返警队。",
+      "actors": [
+        "邓超元",
+        "郑中玉",
+        "匡牧野"
+      ],
+      "premiere": "2026-07-03",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 30
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "大嫁风尚",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic4.iqiyipic.com/image/20260508/dd/45/a_100014554_m_601_m3.jpg",
+      "url": "http://www.iqiyi.com/v_ib8n1br3o0.html",
+      "status": "全44集",
+      "on_air": false,
+      "episodes": 44,
+      "categories": [
+        "家庭",
+        "普通话",
+        "都市"
+      ],
+      "desc": "婚礼策划师夏燃（杨紫饰）突然被男友蒋剑南提出分手。蒋剑南不知所踪，夏燃气不过，要找蒋剑南问个究竟，于是阴错阳差地认识了同蒋剑南租一套房的青年医生金志豪（乔振宇饰）。金志豪为了打消母亲（李萍饰）对他多年不恋的疑虑，便和夏燃商议：夏燃假扮金志豪的女友；金志豪帮夏燃找到蒋剑南。之后，两人一起解决了很多案例，帮助别人完成梦想，找到幸福。渐渐的二人产生了感情，不料金志豪的初恋女友聂璇（宁丹琳饰）出现。金志豪在得知聂璇当初离开的实情后，百感交集。夏燃见此，想用自己的退出去成全聂璇和金志豪的爱情。金志豪面对聂璇的猛烈追求，逐渐认识到责任不能代替爱情；他同夏燃再次相遇，紧紧拥抱，说好要共同面对一切问题。看到金志豪与夏燃真诚相爱的情景，聂璇明白了爱情真谛所在。爱情来之不易，夏燃外甥的满月酒席上，大家欢聚一堂。",
+      "actors": [
+        "杨紫",
+        "乔振宇",
+        "朱茵"
+      ],
+      "premiere": "2026-05-02",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 31
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
       "title": "人生赢家",
       "platforms": [
         "iqiyi"
@@ -3568,7 +3700,7 @@
       "premiere": "2026-08-28",
       "year": 2026,
       "rank": {
-        "iqiyi": 30
+        "iqiyi": 32
       },
       "douban": null,
       "hot": false
@@ -3960,5 +4092,5 @@
       "hot": true
     }
   ],
-  "fetched_at": "2026-09-19T09:17:56+08:00"
+  "fetched_at": "2026-09-19T09:41:19+08:00"
 }
