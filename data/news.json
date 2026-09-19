@@ -1,124 +1,132 @@
 {
   "items": [
     {
-      "title": "OpenAI 示警：先进 AI 可在 2 台相邻物理隔离 PC 间“对话”",
-      "link": "https://www.ithome.com/1/004/430.htm",
-      "summary": "IT之家 9 月 19 日消息，科技媒体 Wccftech 昨日（9 月 18 日）发布博文，报道称在先进 AI 模型交互方面，物理隔离电脑未必能完全阻断两台相邻计算机间的信息交换。OpenAI 研究员诺姆 · 布朗（Noam Brown）表示：“人类绝对不要低估 AI 的能力”，基于学术研究成果，发现相邻的物理隔离计算机可借 CPU 升温与温度传感器读数，形成低带宽隐蔽通信通道，充当“摩斯电码”",
+      "title": "百度地图张朝远：两轮车用户对地图需求排在 TOP3，如果一辆两轮车没有地图导航能力，很难说它是真的智能",
+      "link": "https://www.ithome.com/1/004/478.htm",
+      "summary": "9 月 19 日下午消息，在 2026 中国摩托车重庆论坛上，百度地图智能服务产品负责人张朝远发表《骑行智能新旅程》演讲。他表示，地图从四轮到两轮上车，并不是简单的搬运。在智能化上，两轮车的用户对地图的需求排在 TOP3。如果一辆智能的两轮没有地图导航能力，很难说它是真的智能。百度地图两轮车出行 App 目前覆盖了主流数十款厂商，搭载了近百款车型。今天百度地图正式发布摩托车出行智能体，它覆盖六大核",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 19 Sep 2026 05:11:50 GMT"
+      "published": "Sat, 19 Sep 2026 09:06:47 GMT"
     },
     {
-      "title": "OpenAI 研究员示警：AI 能力越强，越容易“隐藏内心想法”",
-      "link": "https://www.ithome.com/1/004/429.htm",
-      "summary": "IT之家 9 月 19 日消息，OpenAI 研究员诺姆 · 布朗（Noam Brown）最新表示，伴随着 AI 模型能力越来越强，模型的思维链可监测性正逐渐下降，未来开发者可能无法有效、可靠地发现、解释并约束 AI 的风险行为。IT之家查询公开资料，布朗目前在 OpenAI 公司担任研究科学家（Research Scientist），同时也是推理模型 o1、o3 系列的核心贡献者，目前领导多智能",
+      "title": "“西贝被曝将彻底倒闭”登上热搜，客服回应称目前全国门店均正常运营、恳请大家理性看待网络信息",
+      "link": "https://www.ithome.com/1/004/477.htm",
+      "summary": "IT之家 9 月 19 日消息，“西贝被曝将彻底倒闭”的话题今日登上微博热搜，目前位居热搜榜第一位。据博主 @理记 透露，连续十一年中式正餐第一名，也是连续十一年规模、营收、盈利增长（截至去年九月）的西贝至多再有两三个月，就要彻底倒闭了。博主称贾国龙个人将揽下绝大部分债务，放弃股份，干干净净留下 100 来家有利润的店交给员工自营，努力维持 3000-4000 人的生计。不得不下岗失业的西贝员工截",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 19 Sep 2026 04:54:21 GMT"
+      "published": "Sat, 19 Sep 2026 09:05:02 GMT"
     },
     {
-      "title": "12306 持续遏制恶意抢票：已拒绝出票 133.1 万张，通过第三方购票可能更慢或失败",
-      "link": "https://www.ithome.com/1/004/428.htm",
-      "summary": "IT之家 9 月 19 日消息，今年的中秋假期是 9 月 25 日至 27 日，国庆假期是 10 月 1 日到 7 日。按照火车票提前 15 天预售的规定，10 月 3 日也就是国庆假期第 3 天的火车票今天开售。国铁集团今日宣布，自 9 月 23 日中秋国庆假期运输火车票开售以来，为营造公平公正购票环境，铁路 12306 持续识别遏制恶意抢票行为。据介绍，铁路 12306 采用大数据分析和风控技",
+      "title": "一处“毫秒级”软件故障，导致英国多地机场上周突遭瘫痪、逾 2000 架次航班取消",
+      "link": "https://www.ithome.com/1/004/475.htm",
+      "summary": "IT之家 9 月 19 日消息，据央视新闻报道，当地时间 18 日，英国全国空中交通管理公司发布的一份初步调查报告认定，上周英国多地机场大范围瘫痪、进出港逾 2000 架次航班取消，根源是一处“毫秒级”软件故障。调查显示，英国空管系统 9 月 8 日发生软件故障，“整个故障发生在 1 毫秒之内”，而非当时很多人猜测的人为操作失误。该系统负责分配航班代码，供空管人员在雷达上识别航班。这一故障迫使大量",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 19 Sep 2026 04:50:40 GMT"
+      "published": "Sat, 19 Sep 2026 09:03:10 GMT"
     },
     {
-      "title": "Ubuntu 26.10 确认改用 Linux 7.3 内核：原计划为 Linux 7.2，预计 10 月 15 日正式发布",
-      "link": "https://www.ithome.com/1/004/427.htm",
-      "summary": "IT之家 9 月 19 日消息，据 Phoronix 今日报道，Canonical 内核团队确认 Ubuntu 26.10 原计划搭载 Linux 7.2 内核，现改为 Linux 7.3。Canonical 表示，此次调整与上游 Linux 内核开发进度顺利有关，同时可以让 Ubuntu 26.10 获得更新的硬件支持。Canonical 内核团队此前于 2026 年 5 月宣布，Ubuntu ",
+      "title": "荣耀 HONOR Life 墨水屏官宣，9 月 28 日亮相",
+      "link": "https://www.ithome.com/1/004/474.htm",
+      "summary": "IT之家 9 月 19 日消息，荣耀 HONOR Life 墨水屏今日官宣，并发布倒计时海报。据官方透露，这款新品将于荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会亮相。目前尚不清楚这款新品的具体参数。HONOR Life 是荣耀旗下的智慧生活品牌，主打全场景智能生态产品，2020 年上线，属于荣耀亲选生态体系。截至 2026 年 9 月，该品牌已推出耳夹耳机、5G 随身 WiFi、纯",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 19 Sep 2026 04:48:24 GMT"
+      "published": "Sat, 19 Sep 2026 09:01:59 GMT"
     },
     {
-      "title": "问卷调查显示华为正在评估无屏幕健康手环产品",
-      "link": "https://www.ithome.com/1/004/426.htm",
-      "summary": "IT之家 9 月 19 日消息，科技媒体 the5krunner 昨日（9 月 18 日）发布博文，报道称基于最新问卷调查，华为可能会推出无屏幕的健康手环，在上市后可能会和 Whoop 等产品竞争。报道称本次问卷调查针对拥有华为智能手表的用户，出现在应用的“设备”选项卡中，调查包含 28 个问题，内容涉及无屏幕健康手环的价格、电池续航时间、表带以及人工智能功能等。IT之家附上相关截图如下：调查还询",
+      "title": "交通运输部徐剑：规模化落地干线自动驾驶，有望降低超九成事故率",
+      "link": "https://www.ithome.com/1/004/473.htm",
+      "summary": "IT之家 9 月 19 日消息，在今天（19 日）的 2026 中国汽车产业发展（泰达）国际论坛上，交通运输部公路科学研究院副院长徐剑发表演讲指出，自动驾驶为解决传统干线运输的结构性难题提供了全新路径。“根据行业研究数据，规模化落地干线自动驾驶以后，能够降低综合运输成本 20% 以上，可以消除绝大部分的人为操作失误，有望把事故率降低 90% 以上，并在夜间长途高强度干线场景形成有效运力补充。”据徐",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 19 Sep 2026 04:35:26 GMT"
+      "published": "Sat, 19 Sep 2026 08:43:28 GMT"
     },
     {
-      "title": "佳明战术智能手表 Tactix 9 踪迹曝光，预估 2027 年 2 月发布",
-      "link": "https://www.ithome.com/1/004/425.htm",
-      "summary": "IT之家 9 月 19 日消息，科技媒体 the5krunner 昨日（9 月 18 日）发布博文，报道称在俄罗斯监管文件中，发现了佳明 (Garmin) 战术智能手表 Tactix 9 的踪迹。IT之家注：Tactix 是佳明旗下面向硬核户外玩家打造的高端战术 GPS 智能手表系列，在 Fēnix 旗舰户外运动平台基础上，加入夜视、隐蔽行动、跳伞、战术导航等专业功能，并采用更耐用的外壳与镜面。上",
+      "title": "长安汽车张晓宇：2027 年 L3 级自动驾驶将实现量产，2028 年 L4 级开始商业化运营",
+      "link": "https://www.ithome.com/1/004/472.htm",
+      "summary": "IT之家 9 月 19 日消息，据每日经济新闻报道，9 月 19 日，中国长安汽车集团首席科学家、重庆长安汽车股份有限公司执行副总裁张晓宇在 2026 中国汽车产业发展（泰达）国际论坛上表示，2027 年 L3 级自动驾驶将实现量产，2028 年 L4 级自动驾驶开始商业化运营。张晓宇表示，2025 年 L2 级辅助驾驶渗透率达到 66.1%，智能驾驶快速渗透已是全球科技发展的必然趋势。据IT之家",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 19 Sep 2026 04:26:33 GMT"
+      "published": "Sat, 19 Sep 2026 08:41:27 GMT"
     },
     {
-      "title": "四家 AI 巨头因呼吁放缓研发遭反垄断诉讼：Anthropic、OpenAI、SpaceXAI、谷歌面临集体诉讼",
-      "link": "https://www.ithome.com/1/004/423.htm",
-      "summary": "IT之家 9 月 19 日消息，美国加利福尼亚州北区联邦法院当地时间 9 月 18 日受理了一宗诉讼案，原告指控 Anthropic、OpenAI、SpaceXAI 和谷歌四大 AI 巨头共同非法协调以限制 AI 发展速度。起诉书显示，案件名称为 Buist v. Anthropic PBC，编号为 3:26-cv-10693。原告为订阅上述公司 AI 服务的消费者，包括 Cheyenne Hun",
+      "title": "奇瑞捷豹路虎神行者 8 开启交付：华为乾崑智驾 ADS 5，28.99 万元起",
+      "link": "https://www.ithome.com/1/004/471.htm",
+      "summary": "IT之家 9 月 19 日消息，奇瑞捷豹路虎神行者 8 今日正式开启交付。新车官方指导价区间 30.99-39.99 万元，叠加购车权益后售价区间为 28.99-37.99 万元。奇瑞捷豹路虎神行者 8 已于 9 月 3 日晚上市，上市 12 小时大定突破 5000 台。该车设计语言延续 Concept 97 概念车风格，以硬朗大气的造型、简洁有力的车身线条，融合豪华质感与越野基因。该车尺寸为 5",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 19 Sep 2026 04:10:28 GMT"
+      "published": "Sat, 19 Sep 2026 08:34:22 GMT"
     },
     {
-      "title": "权益价 9.99 万元起，东风星海 V6 乾崑智驾 ADS SE 版车型上市",
-      "link": "https://www.ithome.com/1/004/422.htm",
-      "summary": "IT之家 9 月 19 日消息，在东风柳汽 2026 年秋季新品发布会中，东风星海 V6 乾崑智驾 ADS SE 版正式上市。新车共推出 3 款配置，上市指导价 10.49 万-12.49 万元，上市权益价 9.99 万-11.99 万元。星海 V6 搭载华为乾崑智驾 ADS 5 SE，采用 10 摄像头、12 超声波雷达、3 毫米波雷达共 25 个感知硬件，覆盖家庭最高频的“开得累、停得难”场景",
+      "title": "AOC AG277QSD 行业首款 HDR 校色显示器开售：26.5 英寸 2K 320Hz QD-OLED，政府补贴价 2799 元",
+      "link": "https://www.ithome.com/1/004/469.htm",
+      "summary": "IT之家 9 月 19 日消息，AOC 爱攻昊天 AG277QSD 显示器现已开售，电商平台标价 3160 元，券后到手价 3110 元，政府补贴到手价 2799 元。这款显示器采用 26.5 英寸 QHD 面板，搭载新一代 QD-OLED Penta Tandem 显示屏，采用 EL Gen.3 技术，将上一代“3 层蓝色＋1 层绿色”的四层发光结构升级为“3 层蓝色＋2 层绿色”的五层串联结构",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 19 Sep 2026 03:59:59 GMT"
+      "published": "Sat, 19 Sep 2026 08:30:10 GMT"
     },
     {
-      "title": "B 社《辐射 76》正式为 XBOX Series X|S、PS5 版本提供原生支持",
-      "link": "https://www.ithome.com/1/004/421.htm",
-      "summary": "IT之家 9 月 19 日消息，B 社宣布正式为《辐射 76》引入 XBOX Series X|S、PS5 原生支持，在兼容的电视或显示器上以最高 4K 分辨率和 60fps 运行。具体来看，《辐射 76》在 XBOX Series X|S、PS5 及 PS5 Pro 平台均以 60 FPS 为目标帧率运行。其中，XBOX Series X、XBOX One X 及 PS5 Pro 在兼容显示设备",
+      "title": "极米投影 Z6X Pro 三色激光旗舰版 2026 焕新升级：亮度 1500CVIA，首发 2399 元",
+      "link": "https://www.ithome.com/1/004/468.htm",
+      "summary": "IT之家 9 月 19 日消息，极米投影 Z6X Pro 三色激光旗舰版推出 2026 焕新升级款，首发到手价 2399 元。IT之家从官方介绍获悉，这款新品的亮度升级至 1500CVIA，高亮观影体验更进一步；搭载旗舰同款行业最新 QuaLas® 42 三色激光器，更高光效、更低发热，高亮输出稳定运行。新品搭载万元机同款 DLP 技术，号称“画面更清晰、细节更突出”；相比 LED 光源，拥有更广",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 19 Sep 2026 03:54:16 GMT"
+      "published": "Sat, 19 Sep 2026 08:27:39 GMT"
     },
     {
-      "title": "AI 太烧钱：报道称 OpenAI 未来 5 年自由现金流为负 2780 亿美元",
-      "link": "https://www.ithome.com/1/004/420.htm",
-      "summary": "IT之家 9 月 19 日消息，金融时报（FT）昨日（9 月 18 日）发布博文，称获得一份演示文稿，显示 OpenAI 公司预计 2026 年至 2030 年累计产生 2,780 亿美元（IT之家注：现汇率约合 1.87 万亿元人民币）负自由现金流，此外计划在算力和基础设施上投入约 8,560 亿美元（现汇率约合 5.75 万亿元人民币）。自由现金流（Free Cash Flow）是企业在支付经",
+      "title": "OpenAI CEO 奥尔特曼下周将出席联合国大会，向安理会作 AI 议题简报",
+      "link": "https://www.ithome.com/1/004/467.htm",
+      "summary": "IT之家 9 月 19 日消息，据路透社报道，当地时间 18 日，OpenAI 发言人确认，CEO 萨姆 · 奥尔特曼将于下周在纽约举行的联合国大会期间，向联合国安全理事会介绍人工智能议题并作简报。由 15 个成员组成的安理会计划在当地时间 23 日召开人工智能与国际安全会议。几周前，多名 AI 行业领导者呼吁各方协调放缓 AI 发展速度，并警告称，随着技术能力不断提升，AI 可能很快具备自我改进",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 19 Sep 2026 03:53:04 GMT"
+      "published": "Sat, 19 Sep 2026 08:23:03 GMT"
     },
     {
-      "title": "Steam 喜加一：原价 22 元第一人称射击游戏《Deadshot》免费领",
-      "link": "https://www.ithome.com/1/004/419.htm",
-      "summary": "IT之家 9 月 19 日消息，独立游戏开发者 v0lt 制作的复古风格第一人称射击游戏《Deadshot》目前正在 Steam 平台进行限时免费领取“喜加一”活动。本作在国区定价为 22 元，玩家可以在北京时间 9 月 24 日前领取，IT之家附游戏地址（https://store.steampowered.com/app/2484180/Deadshot/）。《Deadshot》的游戏风格受到",
+      "title": "AMD 晒 256 核 EPYC 9996 官方跑分，代际吞吐量提升约 73%",
+      "link": "https://www.ithome.com/1/004/466.htm",
+      "summary": "IT之家 9 月 19 日消息，在官方 9 月 17 日公布的《EPYC Venice 架构与性能概览》白皮书中，AMD 公布了旗舰第六代霄龙 EPYC 9996 处理器的多项跑分成绩。AMD EPYC 9996 是 AMD 第六代 EPYC 9006（代号“Venice”）服务器 CPU 的顶级型号之一，主打单路 256 核心、512 线程的超高并发计算能力，定位云计算、虚拟化、企业数据库、HP",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 19 Sep 2026 03:45:12 GMT"
+      "published": "Sat, 19 Sep 2026 08:10:09 GMT"
     },
     {
-      "title": "微软发布 Win11 26H2 评估版 ISO 镜像：用于企业 IT 管理员测试新系统，可免费试用 90 天",
-      "link": "https://www.ithome.com/1/004/418.htm",
-      "summary": "IT之家 9 月 19 日消息，微软现已开始发布基于 Windows 11 26H2 的评估版 ISO 镜像，用户可以免费下载并免费试用 90 天，无需激活。IT之家注：评估版 ISO 主要面向企业 IT 管理员，用于提前测试评估新版本系统是否适合现有 IT 环境，微软并不建议普通家庭用户使用这一版本，目前提供的 ISO 基于最新的 KB5129195 OOB 更新，系统版本号为 Build 26",
+      "title": "小米 REDMI K100 新机入网，有望搭载万级大电池",
+      "link": "https://www.ithome.com/1/004/465.htm",
+      "summary": "IT之家 9 月 19 日消息，一款型号为 M786BC 的小米新机于 9 月 18 日完成工信部申报，预计为 REDMI K100 标准版。在 8 月 11 日的 REDMI K100 Pro 系列新品发布会上，小米中国区市场部总经理魏思琪公开了 REDMI K100 系列手机的产品矩阵。除了 K100 Pro Max 和 K100 Pro 外，REDMI K100 系列还规划了标准版和一款游戏",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 19 Sep 2026 03:40:53 GMT"
+      "published": "Sat, 19 Sep 2026 08:07:12 GMT"
     },
     {
-      "title": "消息称《漫威金刚狼》上市前三天销量达 190 万份，为 2026 年 PS5 平台表现最好的索尼第一方游戏",
-      "link": "https://www.ithome.com/1/004/416.htm",
-      "summary": "IT之家 9 月 19 日消息，分析机构 Alinea Analytics 现已公布了《漫威金刚狼》的首发销售数据。数据显示，游戏上市前三天销量达到 190 万份，营收约 1.3 亿美元（IT之家注：现汇率约合 8.73 亿元人民币），其中约 100 万份来自发售前数字预购，实体版销售贡献了 22.9% 的营收。Alinea Analytics 强调，其统计的是实际售出（sell-through）",
+      "title": "我国舱外航天服整体技术位居国际先进水平，登月服攻克数十项关键技术",
+      "link": "https://www.ithome.com/1/004/463.htm",
+      "summary": "IT之家 9 月 19 日消息，据新华社今天（19 日）从天津召开的首届航天医学工程大会上了解到，目前我国舱外航天服整体技术居于国际先进水平，“望宇”登月服研制进展顺利，已攻克数十项关键技术。舱外航天服是航天员在太空出舱活动过程中的核心装备，保障着航天员在舱外活动中的生命安全和高效作业。因研制涉及学科领域广泛，技术复杂，目前世界上只有少数国家具备舱外航天服自主研制能力。据中国航天员科研训练中心张万",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 19 Sep 2026 03:34:37 GMT"
+      "published": "Sat, 19 Sep 2026 08:06:29 GMT"
     },
     {
-      "title": "北京市市场监督管理局对四家在线酒店旅游预订平台立案调查，飞猪、同程、途家、美团回应",
-      "link": "https://www.ithome.com/1/004/415.htm",
-      "summary": "9 月 19 日消息，北京市市场监督管理局根据国家市场监督管理总局工作部署和前期核查情况，依据《反不正当竞争法》《电子商务法》等法律法规，对杭州淘美航空服务有限公司（飞猪）、同程网络科技股份有限公司、途家在线信息技术（天津）有限公司、北京三快信息科技有限公司（美团）四家在线酒店旅游预订平台企业涉嫌相关违法行为立案调查，四家平台当天对此发布回应。飞猪表示，公司高度重视，并将积极配合北京市市场监督管理",
+      "title": "欣旺达动力：预计到 2027 年年底将建成 1 万个兆瓦闪充站，适配多品牌车型",
+      "link": "https://www.ithome.com/1/004/462.htm",
+      "summary": "IT之家 9 月 19 日消息，9 月 16 日-17 日，2026 新能源电池产业发展大会暨欣旺达动力供应链合作伙伴大会在山东枣庄举行。大会期间，欣旺达动力发布“智能闪充电池系统解决方案”与“‘全能 · 无界’光储闪充开放生态平台”两大成果。据介绍，智能闪充电池依托智能电芯 3.0、能量域控制器、AI 云控平台三位一体的 AI 智慧管家，实现 20 余类故障可提前 2-10 天预警，准确率达 9",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 19 Sep 2026 03:33:41 GMT"
+      "published": "Sat, 19 Sep 2026 08:06:28 GMT"
     },
     {
-      "title": "12.8 万元张雪 820RR-RC 赛道版发布：冠军同款涂装风格，不可上路",
-      "link": "https://www.ithome.com/1/004/414.htm",
-      "summary": "IT之家 9 月 19 日消息，张雪机车今日正式发布了 820RR-RC 赛道版车型，采用与 SBK 超级运动赛车同款的外观涂装风格，全国统一指导价为 128000 元。IT之家提醒：该车型定位为赛道专用车辆，不具备道路行驶资质，主要针对赛道日及竞速场景使用。820RR-RC 搭载一台 818.8cc 直列三缸发动机，采用 DOHC 每缸四气门、水冷 + 油冷散热结构，最大功率 113 千瓦，在每",
+      "title": "别克至境 E7 全新至境绿、淡暮粉官图公布，9 月 23 日焕新发布",
+      "link": "https://www.ithome.com/1/004/461.htm",
+      "summary": "IT之家 9 月 19 日消息，别克今日公布至境 E7 全新至境绿、淡暮粉官图，9 月 23 日焕新发布。IT之家注意到，别克至境 E7 于 9 月 16 日迎来第 3 万台整车下线，在售别克至境 E7 限时置换价为 14.99 万元起，该车长宽高为 4850×1910×1676mm，轴距 2850mm。智能安全方面，在售别克至境 E7 搭载 Momenta R6 强化学习大模型，覆盖高速、城区、",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 19 Sep 2026 03:25:22 GMT"
+      "published": "Sat, 19 Sep 2026 07:55:51 GMT"
+    },
+    {
+      "title": "你的脸红是什么红：了解玫瑰痤疮",
+      "link": "https://sspai.com/post/114641",
+      "summary": "脸红发烫却没有小鹿乱撞：警惕玫瑰痤疮。查看全文",
+      "source": "少数派",
+      "category": "效率工具",
+      "published": "Sat, 19 Sep 2026 15:00:00 +0800"
     },
     {
       "title": "本周看什么 | 最近值得一看的 9 部作品",
@@ -193,17 +201,9 @@
       "published": "Thu, 17 Sep 2026 08:25:30 +0800"
     },
     {
-      "title": "探秘柬埔寨，千年吴哥窟",
-      "link": "https://sspai.com/post/114454",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-      "source": "少数派",
-      "category": "效率工具",
-      "published": "Wed, 16 Sep 2026 17:33:41 +0800"
-    },
-    {
-      "title": "微软高管称 AI 的训练数据是人类历史上最大规模的劳动盗窃",
+      "title": "微软高管称 AI 的训练数据是人类历史上最大规模的劳动成果盗窃",
       "link": "https://www.solidot.org/story?sid=85423",
-      "summary": "根据内部文件，微软应用科学总监 Brent Hecht 警告，抓取新闻内容训练 AI 是一次规模空前的盗窃，可能是人类历史上最大规模的劳动盗窃。他不认为抓取新闻内容训练 AI 是合理使用，认为这种做法完全是对合理使用理念的嘲弄。微软的另一份文件认为会形成“恶性循环”，会同时伤害模型和整个 Web。OpenAI 的产品如 ChatGPT 可能会危及新闻出版商的经济基础。OpenAI 和微软的数据都显",
+      "summary": "根据内部文件，微软应用科学总监 Brent Hecht 警告，抓取新闻内容训练 AI 是一次规模空前的盗窃，可能是人类历史上最大规模的劳动成果盗窃。他不认为抓取新闻内容训练 AI 是合理使用，认为这种做法完全是对合理使用理念的嘲弄。微软的另一份文件认为会形成“恶性循环”，会同时伤害模型和整个 Web。OpenAI 的产品如 ChatGPT 可能会危及新闻出版商的经济基础。OpenAI 和微软的数据",
       "source": "奇客 Solidot",
       "category": "技术",
       "published": "Sat, 19 Sep 2026 00:11:37 +0800"
@@ -347,7 +347,7 @@
     {
       "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
       "link": "https://code.claude.com/docs/en/changelog",
-      "summary": "Article URL: https://code.claude.com/docs/en/changelog Comments URL: https://news.ycombinator.com/item?id=49760187 Points: 585 # Comments: 208",
+      "summary": "Article URL: https://code.claude.com/docs/en/changelog Comments URL: https://news.ycombinator.com/item?id=49760187 Points: 651 # Comments: 231",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 21:00:32 +0000"
@@ -355,7 +355,7 @@
     {
       "title": "Korea raises data breach fines to 10% of revenue",
       "link": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
-      "summary": "Article URL: https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899 Comments URL: https://news.ycombinator.com/item?id=49759466 Points: 296 # Comments: 90",
+      "summary": "Article URL: https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899 Comments URL: https://news.ycombinator.com/item?id=49759466 Points: 307 # Comments: 93",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 20:02:54 +0000"
@@ -363,7 +363,7 @@
     {
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576 Comments URL: https://news.ycombinator.com/item?id=49758736 Points: 689 # Comments: 332",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576 Comments URL: https://news.ycombinator.com/item?id=49758736 Points: 818 # Comments: 402",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 19:03:09 +0000"
@@ -371,23 +371,39 @@
     {
       "title": "Saving another 100TB of RAM",
       "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "summary": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/ Comments URL: https://news.ycombinator.com/item?id=49758580 Points: 287 # Comments: 58",
+      "summary": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/ Comments URL: https://news.ycombinator.com/item?id=49758580 Points: 352 # Comments: 69",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 18:51:46 +0000"
     },
     {
+      "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
+      "link": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
+      "summary": "Article URL: https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Fri, 18 Sep 2026 18:08:32 +0000"
+    },
+    {
       "title": "US Military had close call after using AI for hallucinated intelligence report",
       "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-      "summary": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 428 # Comments: 318",
+      "summary": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 452 # Comments: 335",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 17:28:01 +0000"
     },
     {
+      "title": "North Korean nuclear test sets off years of earthquakes",
+      "link": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
+      "summary": "https://archive.is/xjmvA Comments URL: https://news.ycombinator.com/item?id=49755160 Points: 203 # Comments: 163",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Fri, 18 Sep 2026 14:45:32 +0000"
+    },
+    {
       "title": "I vibed a proof of Conway's conjecture",
       "link": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
-      "summary": "https://github.com/gaearon/conway-refinement#why-i-think-its... Comments URL: https://news.ycombinator.com/item?id=49755024 Points: 223 # Comments: 197",
+      "summary": "https://github.com/gaearon/conway-refinement#why-i-think-its... Comments URL: https://news.ycombinator.com/item?id=49755024 Points: 237 # Comments: 221",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 14:36:10 +0000"
@@ -395,7 +411,7 @@
     {
       "title": "Cloudflare Quick Tunnels",
       "link": "https://try.cloudflare.com/",
-      "summary": "Article URL: https://try.cloudflare.com/ Comments URL: https://news.ycombinator.com/item?id=49754785 Points: 636 # Comments: 267",
+      "summary": "Article URL: https://try.cloudflare.com/ Comments URL: https://news.ycombinator.com/item?id=49754785 Points: 697 # Comments: 277",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 14:18:41 +0000"
@@ -403,7 +419,7 @@
     {
       "title": "An empirical study of harness design for coding agents",
       "link": "https://arxiv.org/abs/2609.20804",
-      "summary": "Article URL: https://arxiv.org/abs/2609.20804 Comments URL: https://news.ycombinator.com/item?id=49753878 Points: 205 # Comments: 57",
+      "summary": "Article URL: https://arxiv.org/abs/2609.20804 Comments URL: https://news.ycombinator.com/item?id=49753878 Points: 210 # Comments: 57",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 13:06:30 +0000"
@@ -411,7 +427,7 @@
     {
       "title": "I don't like passkeys",
       "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
-      "summary": "Article URL: https://hawksley.dev/blog/i-dont-like-passkeys Comments URL: https://news.ycombinator.com/item?id=49753211 Points: 748 # Comments: 730",
+      "summary": "Article URL: https://hawksley.dev/blog/i-dont-like-passkeys Comments URL: https://news.ycombinator.com/item?id=49753211 Points: 769 # Comments: 759",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 12:06:50 +0000"
@@ -419,7 +435,7 @@
     {
       "title": "Bend 2 and the Vibe-Coding Trap",
       "link": "https://blog.liampwll.com/posts/bend_vibe_coding/",
-      "summary": "Article URL: https://blog.liampwll.com/posts/bend_vibe_coding/ Comments URL: https://news.ycombinator.com/item?id=49753179 Points: 314 # Comments: 230",
+      "summary": "Article URL: https://blog.liampwll.com/posts/bend_vibe_coding/ Comments URL: https://news.ycombinator.com/item?id=49753179 Points: 319 # Comments: 231",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 12:03:55 +0000"
@@ -427,7 +443,7 @@
     {
       "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
       "link": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
-      "summary": "Article URL: https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html Comments URL: https://news.ycombinator.com/item?id=49752614 Points: 294 # Comments: 196",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html Comments URL: https://news.ycombinator.com/item?id=49752614 Points: 306 # Comments: 200",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 11:01:44 +0000"
@@ -435,7 +451,7 @@
     {
       "title": "ZCode, the GLM coding agent, silently uploads your Git history",
       "link": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-      "summary": "Article URL: https://tokenstead.ai/guides/zcode-silent-git-history-upload Comments URL: https://news.ycombinator.com/item?id=49752422 Points: 258 # Comments: 14",
+      "summary": "Article URL: https://tokenstead.ai/guides/zcode-silent-git-history-upload Comments URL: https://news.ycombinator.com/item?id=49752422 Points: 259 # Comments: 14",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 10:35:28 +0000"
@@ -447,26 +463,10 @@
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 18 Sep 2026 09:45:07 +0000"
-    },
-    {
-      "title": "OpenJev",
-      "link": "https://openjev.com/",
-      "summary": "Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 587 # Comments: 250",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Fri, 18 Sep 2026 09:42:22 +0000"
-    },
-    {
-      "title": "Inside ZCode: Silently uploading your Git history to the cloud",
-      "link": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
-      "summary": "Article URL: https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/ Comments URL: https://news.ycombinator.com/item?id=49750694 Points: 278 # Comments: 94",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Fri, 18 Sep 2026 06:11:17 +0000"
     }
   ],
   "count": 58,
   "sources_ok": 5,
   "errors": [],
-  "fetched_at": "2026-09-19T13:16:26+08:00"
+  "fetched_at": "2026-09-19T17:17:32+08:00"
 }
