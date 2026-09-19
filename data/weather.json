@@ -4,14 +4,14 @@
       "name": "北京",
       "note": "北京",
       "current": {
-        "temperature": 22.2,
-        "apparent": 24.4,
-        "humidity": 72,
-        "wind_speed": 1.1,
+        "temperature": 22.8,
+        "apparent": 25.1,
+        "humidity": 70,
+        "wind_speed": 1.0,
         "weather_code": 2,
-        "pm25": 57.4,
-        "pm10": 65.2,
-        "time": "2026-09-19T08:45"
+        "pm25": 49.8,
+        "pm10": 59.4,
+        "time": "2026-09-19T09:15"
       },
       "daily": [
         {
@@ -55,14 +55,14 @@
       "name": "上海",
       "note": "上海",
       "current": {
-        "temperature": 28.2,
-        "apparent": 31.8,
-        "humidity": 67,
-        "wind_speed": 6.6,
+        "temperature": 28.7,
+        "apparent": 32.2,
+        "humidity": 65,
+        "wind_speed": 6.8,
         "weather_code": 1,
-        "pm25": 23.2,
-        "pm10": 27.2,
-        "time": "2026-09-19T08:45"
+        "pm25": 20.7,
+        "pm10": 24.8,
+        "time": "2026-09-19T09:15"
       },
       "daily": [
         {
@@ -106,14 +106,14 @@
       "name": "广州",
       "note": "广东",
       "current": {
-        "temperature": 28.3,
-        "apparent": 34.3,
-        "humidity": 79,
-        "wind_speed": 2.1,
+        "temperature": 29.1,
+        "apparent": 35.0,
+        "humidity": 75,
+        "wind_speed": 2.3,
         "weather_code": 0,
-        "pm25": 83.6,
-        "pm10": 88.7,
-        "time": "2026-09-19T08:45"
+        "pm25": 65.0,
+        "pm10": 70.5,
+        "time": "2026-09-19T09:15"
       },
       "daily": [
         {
@@ -157,14 +157,14 @@
       "name": "成都",
       "note": "四川",
       "current": {
-        "temperature": 21.2,
-        "apparent": 24.7,
-        "humidity": 91,
-        "wind_speed": 0.9,
+        "temperature": 21.6,
+        "apparent": 25.2,
+        "humidity": 89,
+        "wind_speed": 1.1,
         "weather_code": 3,
-        "pm25": 71.9,
-        "pm10": 72.2,
-        "time": "2026-09-19T08:45"
+        "pm25": 62.2,
+        "pm10": 62.2,
+        "time": "2026-09-19T09:15"
       },
       "daily": [
         {
@@ -208,14 +208,14 @@
       "name": "杭州",
       "note": "浙江",
       "current": {
-        "temperature": 28.1,
-        "apparent": 31.9,
-        "humidity": 66,
-        "wind_speed": 4.4,
+        "temperature": 29.0,
+        "apparent": 32.5,
+        "humidity": 61,
+        "wind_speed": 4.7,
         "weather_code": 1,
-        "pm25": 46.7,
-        "pm10": 54.4,
-        "time": "2026-09-19T08:45"
+        "pm25": 37.4,
+        "pm10": 45.1,
+        "time": "2026-09-19T09:15"
       },
       "daily": [
         {
@@ -256,5 +256,5 @@
       ]
     }
   ],
-  "fetched_at": "2026-09-19T08:54:31+08:00"
+  "fetched_at": "2026-09-19T09:15:59+08:00"
 }
