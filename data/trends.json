@@ -4,7 +4,7 @@
       "full_name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stars": 16412,
+      "stars": 16727,
       "stars_today": 3155,
       "language": "JavaScript"
     },
@@ -12,7 +12,7 @@
       "full_name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 262973,
+      "stars": 263058,
       "stars_today": 1012,
       "language": "JavaScript"
     },
@@ -20,7 +20,7 @@
       "full_name": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
-      "stars": 37590,
+      "stars": 37792,
       "stars_today": 985,
       "language": "Go"
     },
@@ -28,7 +28,7 @@
       "full_name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 24440,
+      "stars": 24612,
       "stars_today": 859,
       "language": "HTML"
     },
@@ -36,7 +36,7 @@
       "full_name": "Tencent/BrowserSkill",
       "url": "https://github.com/Tencent/BrowserSkill",
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "stars": 5748,
+      "stars": 5831,
       "stars_today": 612,
       "language": "TypeScript"
     },
@@ -44,7 +44,7 @@
       "full_name": "vercel-labs/json-render",
       "url": "https://github.com/vercel-labs/json-render",
       "description": "The Generative UI framework",
-      "stars": 16857,
+      "stars": 16886,
       "stars_today": 585,
       "language": "TypeScript"
     },
@@ -52,7 +52,7 @@
       "full_name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 97054,
+      "stars": 97170,
       "stars_today": 556,
       "language": "JavaScript"
     },
@@ -60,7 +60,7 @@
       "full_name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "stars": 146727,
+      "stars": 146788,
       "stars_today": 483,
       "language": "TypeScript"
     },
@@ -68,7 +68,7 @@
       "full_name": "Tencent/WeKnora",
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "stars": 27450,
+      "stars": 27585,
       "stars_today": 478,
       "language": "Go"
     },
@@ -76,7 +76,7 @@
       "full_name": "Open-Dev-Society/OpenStock",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "stars": 16071,
+      "stars": 16218,
       "stars_today": 472,
       "language": "TypeScript"
     },
@@ -84,7 +84,7 @@
       "full_name": "asciimoo/hister",
       "url": "https://github.com/asciimoo/hister",
       "description": "Your own search engine",
-      "stars": 5234,
+      "stars": 5300,
       "stars_today": 420,
       "language": "Go"
     },
@@ -92,7 +92,7 @@
       "full_name": "coder/coder",
       "url": "https://github.com/coder/coder",
       "description": "Secure environments for developers and their agents",
-      "stars": 15631,
+      "stars": 15682,
       "stars_today": 402,
       "language": "Go"
     },
@@ -100,7 +100,7 @@
       "full_name": "supermemoryai/supermemory",
       "url": "https://github.com/supermemoryai/supermemory",
       "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
-      "stars": 30606,
+      "stars": 30645,
       "stars_today": 392,
       "language": "TypeScript"
     },
@@ -108,7 +108,7 @@
       "full_name": "Fission-AI/OpenSpec",
       "url": "https://github.com/Fission-AI/OpenSpec",
       "description": "Spec-driven development (SDD) for AI coding assistants.",
-      "stars": 69577,
+      "stars": 69593,
       "stars_today": 367,
       "language": "TypeScript"
     },
@@ -116,7 +116,7 @@
       "full_name": "rustfs/rustfs",
       "url": "https://github.com/rustfs/rustfs",
       "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-      "stars": 33358,
+      "stars": 33388,
       "stars_today": 295,
       "language": "Rust"
     },
@@ -124,7 +124,7 @@
       "full_name": "ahmedkhaleel2004/gitdiagram",
       "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
       "description": "Free, simple, fast interactive diagrams for any GitHub repository",
-      "stars": 16661,
+      "stars": 16676,
       "stars_today": 285,
       "language": "TypeScript"
     },
@@ -132,7 +132,7 @@
       "full_name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "stars": 25134,
+      "stars": 25179,
       "stars_today": 281,
       "language": "Python"
     },
@@ -140,7 +140,7 @@
       "full_name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "stars": 4170,
+      "stars": 4241,
       "stars_today": 281,
       "language": "Python"
     },
@@ -148,7 +148,7 @@
       "full_name": "cactus-compute/needle",
       "url": "https://github.com/cactus-compute/needle",
       "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
-      "stars": 11617,
+      "stars": 11675,
       "stars_today": 234,
       "language": "Python"
     },
@@ -156,7 +156,7 @@
       "full_name": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "stars": 106791,
+      "stars": 106814,
       "stars_today": 220,
       "language": "Go"
     },
@@ -164,7 +164,7 @@
       "full_name": "mcncarl/yichen-skills",
       "url": "https://github.com/mcncarl/yichen-skills",
       "description": "",
-      "stars": 3914,
+      "stars": 3944,
       "stars_today": 219,
       "language": "Python"
     },
@@ -172,7 +172,7 @@
       "full_name": "higgsfield-ai/higgsfield",
       "url": "https://github.com/higgsfield-ai/higgsfield",
       "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
-      "stars": 4967,
+      "stars": 5030,
       "stars_today": 196,
       "language": "Jupyter Notebook"
     },
@@ -180,7 +180,7 @@
       "full_name": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
       "description": "Agents that use the browser.",
-      "stars": 115345,
+      "stars": 115381,
       "stars_today": 194,
       "language": "Python"
     },
@@ -188,7 +188,7 @@
       "full_name": "tradesdontlie/tradingview-mcp",
       "url": "https://github.com/tradesdontlie/tradingview-mcp",
       "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
-      "stars": 6569,
+      "stars": 6571,
       "stars_today": 162,
       "language": "JavaScript"
     },
@@ -196,11 +196,11 @@
       "full_name": "byoungd/up",
       "url": "https://github.com/byoungd/up",
       "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-      "stars": 63276,
+      "stars": 63295,
       "stars_today": 148,
       "language": "JavaScript"
     }
   ],
   "count": 88,
-  "fetched_at": "2026-09-20T09:37:31+08:00"
+  "fetched_at": "2026-09-20T13:17:22+08:00"
 }
