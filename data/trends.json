@@ -4,203 +4,203 @@
       "full_name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stars": 17175,
-      "stars_today": 3155,
+      "stars": 18044,
+      "stars_today": 2428,
       "language": "JavaScript"
-    },
-    {
-      "full_name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 263170,
-      "stars_today": 1012,
-      "language": "JavaScript"
-    },
-    {
-      "full_name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
-      "stars": 37999,
-      "stars_today": 985,
-      "language": "Go"
     },
     {
       "full_name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 24791,
-      "stars_today": 859,
+      "stars": 25156,
+      "stars_today": 1018,
       "language": "HTML"
     },
     {
-      "full_name": "Tencent/BrowserSkill",
-      "url": "https://github.com/Tencent/BrowserSkill",
-      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "stars": 5889,
-      "stars_today": 612,
-      "language": "TypeScript"
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 263754,
+      "stars_today": 826,
+      "language": "JavaScript"
     },
     {
-      "full_name": "vercel-labs/json-render",
-      "url": "https://github.com/vercel-labs/json-render",
-      "description": "The Generative UI framework",
-      "stars": 16925,
-      "stars_today": 585,
+      "full_name": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "stars": 16838,
+      "stars_today": 755,
       "language": "TypeScript"
     },
     {
       "full_name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 97323,
-      "stars_today": 556,
+      "stars": 97706,
+      "stars_today": 736,
       "language": "JavaScript"
     },
     {
-      "full_name": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "stars": 146858,
-      "stars_today": 483,
-      "language": "TypeScript"
-    },
-    {
-      "full_name": "Tencent/WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "stars": 27746,
-      "stars_today": 478,
-      "language": "Go"
-    },
-    {
-      "full_name": "Open-Dev-Society/OpenStock",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "stars": 16374,
-      "stars_today": 472,
-      "language": "TypeScript"
-    },
-    {
-      "full_name": "asciimoo/hister",
-      "url": "https://github.com/asciimoo/hister",
-      "description": "Your own search engine",
-      "stars": 5352,
-      "stars_today": 420,
-      "language": "Go"
-    },
-    {
-      "full_name": "coder/coder",
-      "url": "https://github.com/coder/coder",
-      "description": "Secure environments for developers and their agents",
-      "stars": 15765,
-      "stars_today": 402,
-      "language": "Go"
-    },
-    {
-      "full_name": "supermemoryai/supermemory",
-      "url": "https://github.com/supermemoryai/supermemory",
-      "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
-      "stars": 30658,
-      "stars_today": 392,
-      "language": "TypeScript"
-    },
-    {
-      "full_name": "Fission-AI/OpenSpec",
-      "url": "https://github.com/Fission-AI/OpenSpec",
-      "description": "Spec-driven development (SDD) for AI coding assistants.",
-      "stars": 69619,
-      "stars_today": 367,
-      "language": "TypeScript"
-    },
-    {
-      "full_name": "rustfs/rustfs",
-      "url": "https://github.com/rustfs/rustfs",
-      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-      "stars": 33429,
-      "stars_today": 295,
-      "language": "Rust"
-    },
-    {
-      "full_name": "ahmedkhaleel2004/gitdiagram",
-      "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
-      "description": "Free, simple, fast interactive diagrams for any GitHub repository",
-      "stars": 16692,
-      "stars_today": 285,
-      "language": "TypeScript"
-    },
-    {
-      "full_name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "stars": 25221,
-      "stars_today": 281,
-      "language": "Python"
-    },
-    {
-      "full_name": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "stars": 4308,
-      "stars_today": 281,
-      "language": "Python"
-    },
-    {
-      "full_name": "cactus-compute/needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
-      "stars": 11771,
-      "stars_today": 234,
-      "language": "Python"
-    },
-    {
-      "full_name": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "stars": 106863,
-      "stars_today": 220,
-      "language": "Go"
-    },
-    {
-      "full_name": "mcncarl/yichen-skills",
-      "url": "https://github.com/mcncarl/yichen-skills",
-      "description": "",
-      "stars": 3957,
-      "stars_today": 219,
+      "full_name": "docling-project/docling",
+      "url": "https://github.com/docling-project/docling",
+      "description": "Get your documents ready for gen AI",
+      "stars": 67431,
+      "stars_today": 585,
       "language": "Python"
     },
     {
       "full_name": "higgsfield-ai/higgsfield",
       "url": "https://github.com/higgsfield-ai/higgsfield",
       "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
-      "stars": 5091,
-      "stars_today": 196,
+      "stars": 5388,
+      "stars_today": 465,
       "language": "Jupyter Notebook"
     },
     {
-      "full_name": "browser-use/browser-use",
-      "url": "https://github.com/browser-use/browser-use",
-      "description": "Agents that use the browser.",
-      "stars": 115428,
-      "stars_today": 194,
+      "full_name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": 147133,
+      "stars_today": 419,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "ZuodaoTech/everyone-can-use-english",
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "description": "人人都能用英语",
+      "stars": 38113,
+      "stars_today": 398,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "stars": 7895,
+      "stars_today": 395,
       "language": "Python"
     },
     {
-      "full_name": "tradesdontlie/tradingview-mcp",
-      "url": "https://github.com/tradesdontlie/tradingview-mcp",
-      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
-      "stars": 6574,
+      "full_name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+      "stars": 11906,
+      "stars_today": 381,
+      "language": "Python"
+    },
+    {
+      "full_name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "stars": 16066,
+      "stars_today": 379,
+      "language": "Go"
+    },
+    {
+      "full_name": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "stars": 6063,
+      "stars_today": 324,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "vercel-labs/json-render",
+      "url": "https://github.com/vercel-labs/json-render",
+      "description": "The Generative UI framework",
+      "stars": 17326,
+      "stars_today": 291,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "asciimoo/hister",
+      "url": "https://github.com/asciimoo/hister",
+      "description": "Your own search engine",
+      "stars": 5433,
+      "stars_today": 271,
+      "language": "Go"
+    },
+    {
+      "full_name": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "stars": 10372,
+      "stars_today": 265,
+      "language": "Python"
+    },
+    {
+      "full_name": "krillinai/OpenCreator",
+      "url": "https://github.com/krillinai/OpenCreator",
+      "description": "Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place.",
+      "stars": 11954,
+      "stars_today": 263,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "stars": 35372,
+      "stars_today": 260,
+      "language": "Python"
+    },
+    {
+      "full_name": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "stars": 12138,
+      "stars_today": 242,
+      "language": "Rust"
+    },
+    {
+      "full_name": "yynxxxxx/Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "stars": 3557,
+      "stars_today": 210,
+      "language": "Rust"
+    },
+    {
+      "full_name": "mihail911/modern-software-dev-assignments",
+      "url": "https://github.com/mihail911/modern-software-dev-assignments",
+      "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+      "stars": 4559,
+      "stars_today": 172,
+      "language": "Python"
+    },
+    {
+      "full_name": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+      "stars": 30688,
+      "stars_today": 169,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "guohuiyuan/go-music-dl",
+      "url": "https://github.com/guohuiyuan/go-music-dl",
+      "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
+      "stars": 4607,
       "stars_today": 162,
+      "language": "Go"
+    },
+    {
+      "full_name": "mnfst/awesome-free-llm-apis",
+      "url": "https://github.com/mnfst/awesome-free-llm-apis",
+      "description": "List of Permanent Free LLM API (API Keys)",
+      "stars": 7952,
+      "stars_today": 151,
       "language": "JavaScript"
     },
     {
-      "full_name": "byoungd/up",
-      "url": "https://github.com/byoungd/up",
-      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-      "stars": 63321,
-      "stars_today": 148,
-      "language": "JavaScript"
+      "full_name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "stars": 90058,
+      "stars_today": 129,
+      "language": "TypeScript"
     }
   ],
-  "count": 88,
-  "fetched_at": "2026-09-20T17:17:38+08:00"
+  "count": 74,
+  "fetched_at": "2026-09-21T09:17:30+08:00"
 }

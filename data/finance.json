@@ -2,33 +2,33 @@
   "quotes": [
     {
       "name": "上证指数",
-      "price": 3911.87,
-      "change": 36.27,
-      "change_pct": 0.94
+      "price": 3911.75,
+      "change": -0.12,
+      "change_pct": -0.0
     },
     {
       "name": "深证成指",
       "price": 13640.87,
-      "change": 230.96,
-      "change_pct": 1.72
+      "change": 0.0,
+      "change_pct": 0.0
     },
     {
       "name": "创业板指",
       "price": 3372.68,
-      "change": 74.37,
-      "change_pct": 2.25
+      "change": 0.0,
+      "change_pct": 0.0
     },
     {
       "name": "恒生指数",
       "price": 24750.78,
-      "change": 146.49,
-      "change_pct": 0.6
+      "change": 0.0,
+      "change_pct": 0.0
     },
     {
       "name": "腾讯控股",
-      "price": 419.0,
-      "change": -7.0,
-      "change_pct": -1.64
+      "price": 420.0,
+      "change": 1.0,
+      "change_pct": 0.24
     },
     {
       "name": "美元人民币",
@@ -248,33 +248,33 @@
       "quotes": [
         {
           "name": "上证指数",
-          "price": 3911.87,
-          "change": 36.27,
-          "change_pct": 0.94
+          "price": 3911.75,
+          "change": -0.12,
+          "change_pct": -0.0
         },
         {
           "name": "深证成指",
           "price": 13640.87,
-          "change": 230.96,
-          "change_pct": 1.72
+          "change": 0.0,
+          "change_pct": 0.0
         },
         {
           "name": "创业板指",
           "price": 3372.68,
-          "change": 74.37,
-          "change_pct": 2.25
+          "change": 0.0,
+          "change_pct": 0.0
         },
         {
           "name": "恒生指数",
           "price": 24750.78,
-          "change": 146.49,
-          "change_pct": 0.6
+          "change": 0.0,
+          "change_pct": 0.0
         },
         {
           "name": "腾讯控股",
-          "price": 419.0,
-          "change": -7.0,
-          "change_pct": -1.64
+          "price": 420.0,
+          "change": 1.0,
+          "change_pct": 0.24
         },
         {
           "name": "美元人民币",
@@ -285,5 +285,5 @@
       ]
     }
   ],
-  "fetched_at": "2026-09-21T08:56:25+08:00"
+  "fetched_at": "2026-09-21T09:17:19+08:00"
 }
