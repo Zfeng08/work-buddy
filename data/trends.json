@@ -4,7 +4,7 @@
       "full_name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stars": 18056,
+      "stars": 18245,
       "stars_today": 2428,
       "language": "JavaScript"
     },
@@ -12,7 +12,7 @@
       "full_name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 25161,
+      "stars": 25288,
       "stars_today": 1018,
       "language": "HTML"
     },
@@ -20,7 +20,7 @@
       "full_name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 263766,
+      "stars": 263948,
       "stars_today": 826,
       "language": "JavaScript"
     },
@@ -28,7 +28,7 @@
       "full_name": "Open-Dev-Society/OpenStock",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "stars": 16856,
+      "stars": 16989,
       "stars_today": 755,
       "language": "TypeScript"
     },
@@ -36,7 +36,7 @@
       "full_name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 97713,
+      "stars": 97806,
       "stars_today": 736,
       "language": "JavaScript"
     },
@@ -44,7 +44,7 @@
       "full_name": "docling-project/docling",
       "url": "https://github.com/docling-project/docling",
       "description": "Get your documents ready for gen AI",
-      "stars": 67433,
+      "stars": 67462,
       "stars_today": 585,
       "language": "Python"
     },
@@ -52,7 +52,7 @@
       "full_name": "higgsfield-ai/higgsfield",
       "url": "https://github.com/higgsfield-ai/higgsfield",
       "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
-      "stars": 5394,
+      "stars": 5464,
       "stars_today": 465,
       "language": "Jupyter Notebook"
     },
@@ -60,7 +60,7 @@
       "full_name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "stars": 147141,
+      "stars": 147240,
       "stars_today": 419,
       "language": "TypeScript"
     },
@@ -68,7 +68,7 @@
       "full_name": "ZuodaoTech/everyone-can-use-english",
       "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
       "description": "人人都能用英语",
-      "stars": 38117,
+      "stars": 38127,
       "stars_today": 398,
       "language": "TypeScript"
     },
@@ -76,7 +76,7 @@
       "full_name": "zhouxiaoka/autoclip",
       "url": "https://github.com/zhouxiaoka/autoclip",
       "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
-      "stars": 7895,
+      "stars": 7930,
       "stars_today": 395,
       "language": "Python"
     },
@@ -84,7 +84,7 @@
       "full_name": "cactus-compute/needle",
       "url": "https://github.com/cactus-compute/needle",
       "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
-      "stars": 11907,
+      "stars": 11935,
       "stars_today": 381,
       "language": "Python"
     },
@@ -92,7 +92,7 @@
       "full_name": "coder/coder",
       "url": "https://github.com/coder/coder",
       "description": "Secure environments for developers and their agents",
-      "stars": 16070,
+      "stars": 16137,
       "stars_today": 379,
       "language": "Go"
     },
@@ -100,7 +100,7 @@
       "full_name": "Tencent/BrowserSkill",
       "url": "https://github.com/Tencent/BrowserSkill",
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "stars": 6066,
+      "stars": 6123,
       "stars_today": 324,
       "language": "TypeScript"
     },
@@ -108,7 +108,7 @@
       "full_name": "vercel-labs/json-render",
       "url": "https://github.com/vercel-labs/json-render",
       "description": "The Generative UI framework",
-      "stars": 17336,
+      "stars": 17501,
       "stars_today": 291,
       "language": "TypeScript"
     },
@@ -116,7 +116,7 @@
       "full_name": "asciimoo/hister",
       "url": "https://github.com/asciimoo/hister",
       "description": "Your own search engine",
-      "stars": 5434,
+      "stars": 5443,
       "stars_today": 271,
       "language": "Go"
     },
@@ -124,15 +124,15 @@
       "full_name": "FareedKhan-dev/train-llm-from-scratch",
       "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
       "description": "A straightforward method for training your LLM, from downloading data to generating text.",
-      "stars": 10377,
+      "stars": 10458,
       "stars_today": 265,
       "language": "Python"
     },
     {
       "full_name": "krillinai/OpenCreator",
       "url": "https://github.com/krillinai/OpenCreator",
-      "description": "Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place.",
-      "stars": 11956,
+      "description": "Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, video translation, and edits with Agents in one place.",
+      "stars": 11979,
       "stars_today": 263,
       "language": "TypeScript"
     },
@@ -140,7 +140,7 @@
       "full_name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
-      "stars": 35384,
+      "stars": 35470,
       "stars_today": 260,
       "language": "Python"
     },
@@ -148,7 +148,7 @@
       "full_name": "cloudflare/quiche",
       "url": "https://github.com/cloudflare/quiche",
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "stars": 12138,
+      "stars": 12141,
       "stars_today": 242,
       "language": "Rust"
     },
@@ -156,7 +156,7 @@
       "full_name": "yynxxxxx/Codex-X",
       "url": "https://github.com/yynxxxxx/Codex-X",
       "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
-      "stars": 3557,
+      "stars": 3569,
       "stars_today": 210,
       "language": "Rust"
     },
@@ -164,7 +164,7 @@
       "full_name": "mihail911/modern-software-dev-assignments",
       "url": "https://github.com/mihail911/modern-software-dev-assignments",
       "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
-      "stars": 4566,
+      "stars": 4632,
       "stars_today": 172,
       "language": "Python"
     },
@@ -172,7 +172,7 @@
       "full_name": "supermemoryai/supermemory",
       "url": "https://github.com/supermemoryai/supermemory",
       "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
-      "stars": 30688,
+      "stars": 30698,
       "stars_today": 169,
       "language": "TypeScript"
     },
@@ -180,7 +180,7 @@
       "full_name": "guohuiyuan/go-music-dl",
       "url": "https://github.com/guohuiyuan/go-music-dl",
       "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
-      "stars": 4607,
+      "stars": 4623,
       "stars_today": 162,
       "language": "Go"
     },
@@ -188,7 +188,7 @@
       "full_name": "mnfst/awesome-free-llm-apis",
       "url": "https://github.com/mnfst/awesome-free-llm-apis",
       "description": "List of Permanent Free LLM API (API Keys)",
-      "stars": 7953,
+      "stars": 7956,
       "stars_today": 151,
       "language": "JavaScript"
     },
@@ -196,11 +196,11 @@
       "full_name": "OpenCut-app/OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
-      "stars": 90061,
+      "stars": 90135,
       "stars_today": 129,
       "language": "TypeScript"
     }
   ],
   "count": 74,
-  "fetched_at": "2026-09-21T09:32:52+08:00"
+  "fetched_at": "2026-09-21T13:18:30+08:00"
 }

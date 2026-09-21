@@ -2,26 +2,26 @@
   "quotes": [
     {
       "name": "上证指数",
-      "price": 3933.37,
-      "change": 21.5,
-      "change_pct": 0.55
+      "price": 3930.35,
+      "change": 18.48,
+      "change_pct": 0.47
     },
     {
       "name": "深证成指",
-      "price": 13718.23,
-      "change": 77.36,
-      "change_pct": 0.57
+      "price": 13657.06,
+      "change": 16.19,
+      "change_pct": 0.12
     },
     {
       "name": "创业板指",
-      "price": 3403.97,
-      "change": 31.29,
-      "change_pct": 0.93
+      "price": 3379.23,
+      "change": 6.55,
+      "change_pct": 0.19
     },
     {
       "name": "恒生指数",
-      "price": 24891.58,
-      "change": 140.8,
+      "price": 24890.64,
+      "change": 139.86,
       "change_pct": 0.57
     },
     {
@@ -32,8 +32,8 @@
     },
     {
       "name": "美元人民币",
-      "price": 6.696,
-      "change": -0.001,
+      "price": 6.6962,
+      "change": -0.0008,
       "change_pct": -0.01
     }
   ],
@@ -248,26 +248,26 @@
       "quotes": [
         {
           "name": "上证指数",
-          "price": 3933.37,
-          "change": 21.5,
-          "change_pct": 0.55
+          "price": 3930.35,
+          "change": 18.48,
+          "change_pct": 0.47
         },
         {
           "name": "深证成指",
-          "price": 13718.23,
-          "change": 77.36,
-          "change_pct": 0.57
+          "price": 13657.06,
+          "change": 16.19,
+          "change_pct": 0.12
         },
         {
           "name": "创业板指",
-          "price": 3403.97,
-          "change": 31.29,
-          "change_pct": 0.93
+          "price": 3379.23,
+          "change": 6.55,
+          "change_pct": 0.19
         },
         {
           "name": "恒生指数",
-          "price": 24891.58,
-          "change": 140.8,
+          "price": 24890.64,
+          "change": 139.86,
           "change_pct": 0.57
         },
         {
@@ -278,12 +278,12 @@
         },
         {
           "name": "美元人民币",
-          "price": 6.696,
-          "change": -0.001,
+          "price": 6.6962,
+          "change": -0.0008,
           "change_pct": -0.01
         }
       ]
     }
   ],
-  "fetched_at": "2026-09-21T12:54:20+08:00"
+  "fetched_at": "2026-09-21T13:18:18+08:00"
 }
