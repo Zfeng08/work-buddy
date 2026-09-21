@@ -58,6 +58,40 @@ STOP_WORDS = set("""
 MIN_FREQ = 2
 MIN_DOCS = 1
 
+# 生成摘要时剥掉的 markdown 标记（否则折叠态会显示 "# 标题 > 引用 **加粗**" 这类原文语法）
+MD_SUMMARY_STRIP = [
+    (re.compile(r"```.*?```", re.S), " "),                 # 围栏代码块
+    (re.compile(r"`([^`]*)`"), r"\1"),                     # 行内代码
+    (re.compile(r"\*\*(.+?)\*\*"), r"\1"),                 # 加粗
+    (re.compile(r"!\[[^\]]*\]\([^)]*\)"), " "),            # 图片
+    (re.compile(r"\[([^\]]+)\]\([^)]*\)"), r"\1"),         # 行内链接
+    (re.compile(r"\[\[([^\]|]+)(?:\|[^\]]+)?\]\]"), r"\1"),  # 双向链接
+    (re.compile(r"^\s{0,3}#{1,6}\s*", re.M), ""),          # 标题标记
+    (re.compile(r"^\s*>\s?", re.M), ""),                   # 引用标记
+    (re.compile(r"^\s*(?:[-*+]|\d+[.)])\s+", re.M), ""),   # 列表标记
+]
+
+
+def make_summary(body, title, explicit=""):
+    """生成折叠态摘要：优先用 frontmatter 的 summary，否则取正文开头并剥掉 markdown 标记。
+
+    正文首个 H1 若与标题重复（知识库笔记的常见写法），先去掉以免摘要以标题开头。
+    """
+    if explicit.strip():
+        return re.sub(r"\s+", " ", explicit.strip())[:150]
+
+    lines = body.strip().splitlines()
+    if lines and re.match(r"^\s*#\s+\S", lines[0]):
+        h1 = re.sub(r"^\s*#\s+", "", lines[0]).strip()
+        if h1 and (h1 == title or title.startswith(h1) or h1.startswith(title[:12])):
+            body = "\n".join(lines[1:])
+
+    text = body
+    for pat, rep in MD_SUMMARY_STRIP:
+        text = pat.sub(rep, text)
+    lines = [ln for ln in text.splitlines() if ln.strip()]
+    return re.sub(r"\s+", " ", " ".join(lines))[:150]
+
 
 def parse_front_matter(fm_text):
     """极简 YAML 子集解析：只支持 key: value 与 key: 列表。"""
@@ -164,7 +198,7 @@ def load_notes(include_private=False):
             "links": links,
             "date": meta.get("date", ""),
             "source": meta.get("source", ""),
-            "summary": re.sub(r"\s+", " ", body.strip())[:150],
+            "summary": make_summary(body, title, meta.get("summary", "")),
             "body": body,
             "path": f"knowledge/{rel}",
             "word_count": len(body),
@@ -206,18 +240,74 @@ def build_keyword_index(notes):
     return dict(items)
 
 
-def render_body_html(body, keywords):
-    """渲染笔记正文为 HTML：[[wiki]] 转链接、# 标题转 h、关键词转可点击链接。
+FENCE_RE = re.compile(r"```([^\n`]*)\n(.*?)```", re.S)
+LIST_RE = re.compile(r"^\s*(?:[-*+]|\d+[.)])\s+")
+ORDERED_RE = re.compile(r"^\s*\d+[.)]")
 
-    实现思路：先把会冲突的特殊语法替换成占位符（避免里头的关键词被提前匹配），
-    再做 HTML 转义，最后把占位符还原成真实标签。
+
+def _render_paragraph(escaped):
+    """按行组装单个段落（输入已完成 HTML 转义与关键词替换）。
+
+    连续的 `- ` / `* ` / `1. ` 行合并为 <ul>/<ol>，其余行用 <br> 连接。
+    这样原文里的项目符号列表能渲染成真正的列表，而不是一串字面短横线。
     """
+    lines = escaped.split("\n")
+    parts = []
+    buf = []
+
+    def flush():
+        if buf:
+            parts.append("<br>".join(buf))
+            buf.clear()
+
+    i = 0
+    while i < len(lines):
+        if LIST_RE.match(lines[i]):
+            ordered = bool(ORDERED_RE.match(lines[i]))
+            items = []
+            while i < len(lines):
+                m = LIST_RE.match(lines[i])
+                if not m:
+                    break
+                items.append(lines[i][m.end():])
+                i += 1
+            flush()
+            tag = "ol" if ordered else "ul"
+            parts.append(f"<{tag}>" + "".join(f"<li>{it}</li>" for it in items) + f"</{tag}>")
+        elif lines[i].lstrip().startswith("&gt;"):
+            # 引用块：esc() 已把 ">" 转成 "&gt;"，所以这里匹配转义后的形式
+            quotes = []
+            while i < len(lines) and lines[i].lstrip().startswith("&gt;"):
+                quotes.append(re.sub(r"^\s*&gt;\s?", "", lines[i]))
+                i += 1
+            flush()
+            parts.append("<blockquote>" + "<br>".join(quotes) + "</blockquote>")
+        else:
+            buf.append(lines[i])
+            i += 1
+    flush()
+    return "".join(parts)
+
+
+def render_body_html(body, keywords):
+    """渲染笔记正文为 HTML：代码块 / 行内代码、[[wiki]]、# 标题、**加粗**、列表、关键词链接。
+
+    实现思路：先把会冲突的特殊语法替换成占位符（避免里头的关键词被提前匹配或提前 HTML 转义），
+    再做 HTML 转义与关键词替换，最后按依赖顺序还原占位符。
+    """
+    # 0. 围栏代码块整段抽出 —— 内容原样保留，不参与关键词链接、不按 markdown 处理
+    code_blocks = []
+    def _fence(m):
+        code_blocks.append((m.group(1).strip(), m.group(2)))
+        return f"\x00CODE{len(code_blocks) - 1}\x00"
+    text = FENCE_RE.sub(_fence, body)
+
     # 1. [[wikilink]] → 占位符（标题文本本身不参与关键词链接，否则会出现嵌套 <a>）
     wiki_store = []
     def _wiki(m):
         wiki_store.append(m.group(1).strip())
         return f"\x00WIKI{len(wiki_store) - 1}\x00"
-    text = LINK_RE.sub(_wiki, body)
+    text = LINK_RE.sub(_wiki, text)
 
     # 2. markdown 标题 → 占位符（每行处理一次）
     def _md(m):
@@ -225,7 +315,21 @@ def render_body_html(body, keywords):
         return f"\x00H{n}\x00{m.group(2)}"
     text = re.sub(r"^(#{1,6})\s+(.+)$", _md, text, flags=re.M)
 
-    # 3. 切段（保留段落分隔符）
+    # 3. **加粗** → 占位符
+    bold_store = []
+    def _bold(m):
+        bold_store.append(m.group(1))
+        return f"\x00B{len(bold_store) - 1}\x00"
+    text = re.sub(r"\*\*(.+?)\*\*", _bold, text)
+
+    # 4. `行内代码` → 占位符
+    tick_store = []
+    def _tick(m):
+        tick_store.append(m.group(1))
+        return f"\x00C{len(tick_store) - 1}\x00"
+    text = re.sub(r"`([^`\n]+)`", _tick, text)
+
+    # 5. 切段（保留段落分隔符）
     paragraphs = re.split(r"(\n\s*\n)", text)
 
     kws = sorted(keywords, key=len, reverse=True)
@@ -254,14 +358,26 @@ def render_body_html(body, keywords):
                 f"\x00WIKI{i}\x00",
                 f'<a class="wikilink" href="#note-{urllib_quote(title)}">{esc(title)}</a>',
             )
+        # 加粗还原（先于行内代码，保证 **`code`** 这类嵌套写法也能还原）
+        for i, t in enumerate(bold_store):
+            escaped = escaped.replace(f"\x00B{i}\x00", f"<strong>{esc(t)}</strong>")
+        # 行内代码还原
+        for i, t in enumerate(tick_store):
+            escaped = escaped.replace(f"\x00C{i}\x00", f"<code>{esc(t)}</code>")
+        # 列表合并 + 段内换行
+        escaped = _render_paragraph(escaped)
         # markdown 标题还原（1~6 级）
         for lvl in range(1, 7):
             escaped = re.sub(rf"\x00H{lvl}\x00(.+?)(?=<br>|$)",
                              lambda m, lvl=lvl: f"<h{lvl}>{m.group(1)}</h{lvl}>", escaped)
-        # 段内换行
-        out.append(escaped.replace("\n", "<br>"))
+        out.append(escaped)
 
-    return "".join(out)
+    html = "".join(out)
+    # 围栏代码块最后还原：放在 <br> 替换之后，避免 <pre> 内的换行被破坏
+    for i, (lang, code) in enumerate(code_blocks):
+        cls = f' class="lang-{esc_attr(lang)}"' if lang else ""
+        html = html.replace(f"\x00CODE{i}\x00", f"<pre{cls}><code>{esc(code)}</code></pre>")
+    return html
 
 
 def esc(s):

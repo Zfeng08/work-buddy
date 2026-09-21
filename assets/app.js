@@ -685,7 +685,7 @@ function renderKnowledge() {
       </div>
       ${isOpen ? `
         <div class="body">${n.body_html || `<p>${esc(n.summary)}…</p>`}
-          ${n.source ? `<a class="source-link" href="${esc(n.source)}" target="_blank" rel="noopener">原文链接 ↗</a>` : ""}
+          ${/^https?:\/\//i.test(n.source || "") ? `<a class="source-link" href="${esc(n.source)}" target="_blank" rel="noopener">原文链接 ↗</a>` : ""}
         </div>
         ${rel ? `<div class="rel-box"><h4>相关笔记</h4>${rel}</div>` : ""}
       ` : `<div class="summary">${esc(n.summary)}…</div>`}
