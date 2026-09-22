@@ -1,9 +1,17 @@
 {
   "items": [
     {
-      "title": "索尼推出 Blackpink 女星 Lisa 限量款 PlayStation 5 DualSense 手柄控制器，10 月 30 日正式发售",
+      "title": "韩 AI 芯片企业 FuriosaAI 披露新一代推理加速器规格：32 倍算力、32 倍内存带宽",
+      "link": "https://www.ithome.com/1/005/531.htm",
+      "summary": "IT之家 9 月 22 日消息，据韩媒 ZDNET Korea 当地时间 21 日报道，韩媒 AI 半导体初创企业 FuriosaAI 昨日公布了其第三代 AI 推理加速器的技术细节。该加速器由 FuriosaAI 与 Broadcom（博通）合作开发，拥有 2 颗“光罩极限级”2nm 计算裸晶、1 颗独立 I/O 裸晶、12 个 48GB HBM4 (E) 内存堆栈，机架内采用 SUE 全连接拓",
+      "source": "IT之家",
+      "category": "科技商业",
+      "published": "Tue, 22 Sep 2026 01:21:14 GMT"
+    },
+    {
+      "title": "索尼推出女星 Lisa 限量款 DualSense 手柄控制器及 PlayStation 联名周边，10 月 30 日正式发售",
       "link": "https://www.ithome.com/1/005/530.htm",
-      "summary": "IT之家 9 月 22 日消息，索尼 SIE 昨晚宣布推出与 Blackpink 成员 Lisa 合作打造的限量版 DualSense 无线控制器。该手柄以 Chroma Pearl 幻彩珍珠配色为主，触控板中央印有 Lisa 标志性的刘海与眼睛轮廓，并搭配星星图案和加粗“LL”字母标识。索尼表示，Chroma Pearl 是 Lisa 本人最喜爱的配色方案。索尼表示，这是双方继去年全球 PS5 ",
+      "summary": "IT之家 9 月 22 日消息，索尼 SIE 昨晚宣布推出与全球顶流巨星 Lisa（拉莉莎 · 玛诺班，泰国籍，担任 Blackpink 主舞及 Rapper）合作打造的限量版 DualSense 无线控制器。该手柄以 Chroma Pearl 幻彩珍珠配色为主，触控板中央印有 Lisa 标志性的刘海与眼睛轮廓，并搭配星星图案和加粗“LL”字母标识。索尼表示，Chroma Pearl 是 Lisa",
       "source": "IT之家",
       "category": "科技商业",
       "published": "Tue, 22 Sep 2026 01:15:48 GMT"
@@ -111,14 +119,6 @@
       "source": "IT之家",
       "category": "科技商业",
       "published": "Tue, 22 Sep 2026 00:05:52 GMT"
-    },
-    {
-      "title": "经典黑色幽默恶搞游戏《死亡独轮车》登陆 Steam 平台，国区 22 元",
-      "link": "https://www.ithome.com/1/005/511.htm",
-      "summary": "IT之家 9 月 22 日消息，独立开发者 Jim Bonacci 推出的经典 Flash 网页游戏《死亡独轮车（Happy Wheels）》现已登陆 Steam 平台，该版本主要移除了网页版的广告，并支持使用手柄游玩，国区定价为 22 元，IT之家附游戏商品页（https://store.steampowered.com/app/4705510/Happy_Wheels/）。《死亡独轮车》的玩法",
-      "source": "IT之家",
-      "category": "科技商业",
-      "published": "Tue, 22 Sep 2026 00:01:15 GMT"
     },
     {
       "title": "派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等",
@@ -347,7 +347,7 @@
     {
       "title": "I don't want to read what you didn't write",
       "link": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-      "summary": "Article URL: https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/ Comments URL: https://news.ycombinator.com/item?id=49794330 Points: 203 # Comments: 74",
+      "summary": "Article URL: https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/ Comments URL: https://news.ycombinator.com/item?id=49794330 Points: 220 # Comments: 86",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Mon, 21 Sep 2026 22:30:41 +0000"
@@ -355,7 +355,7 @@
     {
       "title": "Xiaomi MiMo v2.6",
       "link": "https://mimo.xiaomi.com/mimo-v2-6",
-      "summary": "Article URL: https://mimo.xiaomi.com/mimo-v2-6 Comments URL: https://news.ycombinator.com/item?id=49792730 Points: 501 # Comments: 261",
+      "summary": "Article URL: https://mimo.xiaomi.com/mimo-v2-6 Comments URL: https://news.ycombinator.com/item?id=49792730 Points: 519 # Comments: 269",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Mon, 21 Sep 2026 20:12:12 +0000"
@@ -363,7 +363,7 @@
     {
       "title": "NASA’s Mars Sample Return mission is dead",
       "link": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-      "summary": "Article URL: https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead Comments URL: https://news.ycombinator.com/item?id=49791939 Points: 295 # Comments: 228",
+      "summary": "Article URL: https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead Comments URL: https://news.ycombinator.com/item?id=49791939 Points: 305 # Comments: 233",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Mon, 21 Sep 2026 19:14:12 +0000"
@@ -371,7 +371,7 @@
     {
       "title": "Turn off and restrict access to Apple Intelligence features on Mac",
       "link": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
-      "summary": "Article URL: https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac Comments URL: https://news.ycombinator.com/item?id=49790409 Points: 237 # Comments: 158",
+      "summary": "Article URL: https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac Comments URL: https://news.ycombinator.com/item?id=49790409 Points: 239 # Comments: 162",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Mon, 21 Sep 2026 17:30:21 +0000"
@@ -379,7 +379,7 @@
     {
       "title": "Fable 5 – Median thinking declined in August",
       "link": "https://twitter.com/Lon/status/2101793422487204027",
-      "summary": "Article URL: https://twitter.com/Lon/status/2101793422487204027 Comments URL: https://news.ycombinator.com/item?id=49789224 Points: 349 # Comments: 243",
+      "summary": "Article URL: https://twitter.com/Lon/status/2101793422487204027 Comments URL: https://news.ycombinator.com/item?id=49789224 Points: 355 # Comments: 245",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Mon, 21 Sep 2026 16:13:57 +0000"
@@ -387,7 +387,7 @@
     {
       "title": "Grok 4.7",
       "link": "https://x.ai/news/grok-4-7",
-      "summary": "Article URL: https://x.ai/news/grok-4-7 Comments URL: https://news.ycombinator.com/item?id=49788838 Points: 492 # Comments: 410",
+      "summary": "Article URL: https://x.ai/news/grok-4-7 Comments URL: https://news.ycombinator.com/item?id=49788838 Points: 497 # Comments: 411",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Mon, 21 Sep 2026 15:50:15 +0000"
@@ -395,7 +395,7 @@
     {
       "title": "Attention is all you have",
       "link": "https://alicegg.tech/2026/09/21/attention",
-      "summary": "Article URL: https://alicegg.tech/2026/09/21/attention Comments URL: https://news.ycombinator.com/item?id=49787726 Points: 566 # Comments: 169",
+      "summary": "Article URL: https://alicegg.tech/2026/09/21/attention Comments URL: https://news.ycombinator.com/item?id=49787726 Points: 572 # Comments: 170",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Mon, 21 Sep 2026 14:26:56 +0000"
@@ -403,7 +403,7 @@
     {
       "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
       "link": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-      "summary": "Article URL: https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/ Comments URL: https://news.ycombinator.com/item?id=49787535 Points: 208 # Comments: 98",
+      "summary": "Article URL: https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/ Comments URL: https://news.ycombinator.com/item?id=49787535 Points: 208 # Comments: 100",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Mon, 21 Sep 2026 14:10:49 +0000"
@@ -411,7 +411,7 @@
     {
       "title": "What Sun got wrong",
       "link": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/ Comments URL: https://news.ycombinator.com/item?id=49787436 Points: 493 # Comments: 279",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/ Comments URL: https://news.ycombinator.com/item?id=49787436 Points: 494 # Comments: 283",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Mon, 21 Sep 2026 14:03:18 +0000"
@@ -419,7 +419,7 @@
     {
       "title": "M5 Ultra Mac Studio Review",
       "link": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
-      "summary": "Article URL: https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49787313 Points: 227 # Comments: 228",
+      "summary": "Article URL: https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49787313 Points: 227 # Comments: 229",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Mon, 21 Sep 2026 13:53:27 +0000"
@@ -427,7 +427,7 @@
     {
       "title": "Raspberry Pi blocks changing RAM chips",
       "link": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
-      "summary": "Article URL: https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888 Comments URL: https://news.ycombinator.com/item?id=49786689 Points: 220 # Comments: 180",
+      "summary": "Article URL: https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888 Comments URL: https://news.ycombinator.com/item?id=49786689 Points: 223 # Comments: 181",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Mon, 21 Sep 2026 12:54:24 +0000"
@@ -443,7 +443,7 @@
     {
       "title": "ZuckOff is a free app that sees Meta glasses before they see you",
       "link": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
-      "summary": "https://zuckoff.app/ Comments URL: https://news.ycombinator.com/item?id=49785397 Points: 365 # Comments: 332",
+      "summary": "https://zuckoff.app/ Comments URL: https://news.ycombinator.com/item?id=49785397 Points: 367 # Comments: 332",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Mon, 21 Sep 2026 10:27:50 +0000"
@@ -468,5 +468,5 @@
   "count": 58,
   "sources_ok": 5,
   "errors": [],
-  "fetched_at": "2026-09-22T09:16:03+08:00"
+  "fetched_at": "2026-09-22T09:31:31+08:00"
 }

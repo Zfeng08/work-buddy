@@ -4,7 +4,7 @@
       "full_name": "Open-Dev-Society/OpenStock",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "stars": 17745,
+      "stars": 17761,
       "stars_today": 844,
       "language": "TypeScript"
     },
@@ -12,7 +12,7 @@
       "full_name": "vercel-labs/json-render",
       "url": "https://github.com/vercel-labs/json-render",
       "description": "The Generative UI framework",
-      "stars": 17941,
+      "stars": 17945,
       "stars_today": 763,
       "language": "TypeScript"
     },
@@ -20,7 +20,7 @@
       "full_name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 25702,
+      "stars": 25712,
       "stars_today": 609,
       "language": "HTML"
     },
@@ -28,7 +28,7 @@
       "full_name": "BuilderIO/agent-native",
       "url": "https://github.com/BuilderIO/agent-native",
       "description": "A framework for building agentic apps",
-      "stars": 5920,
+      "stars": 5926,
       "stars_today": 607,
       "language": "TypeScript"
     },
@@ -36,7 +36,7 @@
       "full_name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 98141,
+      "stars": 98148,
       "stars_today": 568,
       "language": "JavaScript"
     },
@@ -52,7 +52,7 @@
       "full_name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "stars": 147471,
+      "stars": 147473,
       "stars_today": 468,
       "language": "TypeScript"
     },
@@ -60,7 +60,7 @@
       "full_name": "clash-verge-rev/clash-verge-rev",
       "url": "https://github.com/clash-verge-rev/clash-verge-rev",
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
-      "stars": 146180,
+      "stars": 146186,
       "stars_today": 466,
       "language": "Rust"
     },
@@ -68,7 +68,7 @@
       "full_name": "coder/coder",
       "url": "https://github.com/coder/coder",
       "description": "Secure environments for developers and their agents",
-      "stars": 16430,
+      "stars": 16432,
       "stars_today": 460,
       "language": "Go"
     },
@@ -76,7 +76,7 @@
       "full_name": "earendil-works/pi",
       "url": "https://github.com/earendil-works/pi",
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "stars": 108128,
+      "stars": 108139,
       "stars_today": 432,
       "language": "TypeScript"
     },
@@ -84,7 +84,7 @@
       "full_name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
-      "stars": 35840,
+      "stars": 35845,
       "stars_today": 424,
       "language": "Python"
     },
@@ -92,7 +92,7 @@
       "full_name": "Crosstalk-Solutions/project-nomad",
       "url": "https://github.com/Crosstalk-Solutions/project-nomad",
       "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
-      "stars": 37873,
+      "stars": 37880,
       "stars_today": 394,
       "language": "TypeScript"
     },
@@ -100,7 +100,7 @@
       "full_name": "paperless-ngx/paperless-ngx",
       "url": "https://github.com/paperless-ngx/paperless-ngx",
       "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
-      "stars": 45838,
+      "stars": 45839,
       "stars_today": 377,
       "language": "Python"
     },
@@ -116,7 +116,7 @@
       "full_name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "stars": 89059,
+      "stars": 89061,
       "stars_today": 269,
       "language": "JavaScript"
     },
@@ -124,7 +124,7 @@
       "full_name": "zhouxiaoka/autoclip",
       "url": "https://github.com/zhouxiaoka/autoclip",
       "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
-      "stars": 8255,
+      "stars": 8267,
       "stars_today": 250,
       "language": "Python"
     },
@@ -132,7 +132,7 @@
       "full_name": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
       "description": "Agents that use the browser.",
-      "stars": 115778,
+      "stars": 115779,
       "stars_today": 248,
       "language": "Python"
     },
@@ -140,7 +140,7 @@
       "full_name": "laoma2053/awesome-zhuiju-free",
       "url": "https://github.com/laoma2053/awesome-zhuiju-free",
       "description": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。",
-      "stars": 9298,
+      "stars": 9302,
       "stars_today": 235,
       "language": "JavaScript"
     },
@@ -148,7 +148,7 @@
       "full_name": "virgiliojr94/book-to-skill",
       "url": "https://github.com/virgiliojr94/book-to-skill",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "stars": 31828,
+      "stars": 31830,
       "stars_today": 210,
       "language": "Python"
     },
@@ -156,7 +156,7 @@
       "full_name": "bendlang/bend",
       "url": "https://github.com/bendlang/bend",
       "description": "Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh",
-      "stars": 22334,
+      "stars": 22338,
       "stars_today": 193,
       "language": "TypeScript"
     },
@@ -164,7 +164,7 @@
       "full_name": "ruanyf/weekly",
       "url": "https://github.com/ruanyf/weekly",
       "description": "科技爱好者周刊，每周五发布",
-      "stars": 103945,
+      "stars": 103965,
       "stars_today": 182,
       "language": "—"
     },
@@ -172,7 +172,7 @@
       "full_name": "mvt-project/mvt",
       "url": "https://github.com/mvt-project/mvt",
       "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-      "stars": 13600,
+      "stars": 13606,
       "stars_today": 169,
       "language": "Python"
     },
@@ -188,7 +188,7 @@
       "full_name": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "stars": 7693,
+      "stars": 7703,
       "stars_today": 167,
       "language": "Rust"
     },
@@ -202,5 +202,5 @@
     }
   ],
   "count": 75,
-  "fetched_at": "2026-09-22T09:16:15+08:00"
+  "fetched_at": "2026-09-22T09:31:59+08:00"
 }
