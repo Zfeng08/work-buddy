@@ -1,5 +1,5 @@
 {
-  "count": 67,
+  "count": 70,
   "on_air_count": 2,
   "rated_count": 19,
   "platforms": {
@@ -269,7 +269,7 @@
       "color": "#00be06",
       "home": "https://www.iqiyi.com/",
       "id": "iqiyi",
-      "count": 27,
+      "count": 30,
       "items": [
         {
           "title": "一瓯春",
@@ -842,6 +842,35 @@
           "hot": false
         },
         {
+          "title": "设局",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic2.iqiyipic.com/image/20260828/41/c7/a_100103214_m_601_m4.jpg",
+          "url": "http://www.iqiyi.com/v_yzy3wmitc8.html",
+          "status": "全46集",
+          "on_air": false,
+          "episodes": 46,
+          "categories": [
+            "谍战",
+            "普通话",
+            "战争"
+          ],
+          "desc": "该剧讲述了抗日战争时期，海外募集的抗战资金藏匿地点不明，赵心怡与上海的抗日武装，开启寻宝夺金之旅，清除叛徒并找到珠宝，运往抗日根据地的故事。",
+          "actors": [
+            "何明翰",
+            "赵心怡",
+            "李丞峰"
+          ],
+          "premiere": "2026-08-26",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 18
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
           "title": "爱情有烟火",
           "platforms": [
             "iqiyi"
@@ -861,7 +890,7 @@
           "premiere": "2026-06-14",
           "year": 2026,
           "rank": {
-            "iqiyi": 18
+            "iqiyi": 19
           },
           "douban": null,
           "hot": false
@@ -890,7 +919,7 @@
           "premiere": "2026-05-09",
           "year": 2026,
           "rank": {
-            "iqiyi": 19
+            "iqiyi": 20
           },
           "douban": null,
           "hot": false
@@ -919,7 +948,32 @@
           "premiere": "2026-05-15",
           "year": 2026,
           "rank": {
-            "iqiyi": 20
+            "iqiyi": 21
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "进错门的女人",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic0.iqiyipic.com/image/20260827/65/39/a_100903698_m_601_m1.jpg",
+          "url": "http://www.iqiyi.com/v_1v8yhhlj5q8.html",
+          "status": "全34集",
+          "on_air": false,
+          "episodes": 34,
+          "categories": [],
+          "desc": "该剧讲述了绣工花彩蝶和赵文宇有了私生子之后，赵文宇举家搬迁，绝望之时，花彩蝶被刘长生搭救并结婚，一起经历人生风雨的故事。",
+          "actors": [
+            "田丽",
+            "刘佩琦",
+            "刘骐"
+          ],
+          "premiere": "2026-08-27",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 22
           },
           "douban": null,
           "hot": false
@@ -948,7 +1002,7 @@
           "premiere": "2026-08-04",
           "year": 2026,
           "rank": {
-            "iqiyi": 21
+            "iqiyi": 23
           },
           "douban": null,
           "hot": false
@@ -977,7 +1031,7 @@
           "premiere": "2026-07-16",
           "year": 2026,
           "rank": {
-            "iqiyi": 22
+            "iqiyi": 24
           },
           "douban": null,
           "hot": false
@@ -1006,7 +1060,7 @@
           "premiere": "2026-06-25",
           "year": 2026,
           "rank": {
-            "iqiyi": 23
+            "iqiyi": 25
           },
           "douban": null,
           "hot": false
@@ -1035,7 +1089,7 @@
           "premiere": "2026-05-15",
           "year": 2026,
           "rank": {
-            "iqiyi": 24
+            "iqiyi": 26
           },
           "douban": null,
           "hot": false
@@ -1064,7 +1118,7 @@
           "premiere": "2026-07-29",
           "year": 2026,
           "rank": {
-            "iqiyi": 25
+            "iqiyi": 27
           },
           "douban": null,
           "hot": false
@@ -1093,7 +1147,35 @@
           "premiere": "2026-07-08",
           "year": 2026,
           "rank": {
-            "iqiyi": 26
+            "iqiyi": 28
+          },
+          "douban": null,
+          "hot": false
+        },
+        {
+          "title": "斥侯之剑",
+          "platforms": [
+            "iqiyi"
+          ],
+          "cover": "http://pic6.iqiyipic.com/image/20260828/42/fd/a_100084012_m_601_m4.jpg",
+          "url": "http://www.iqiyi.com/v_ocy2qk2n50.html",
+          "status": "全38集",
+          "on_air": false,
+          "episodes": 38,
+          "categories": [
+            "历史",
+            "普通话",
+            "剧情"
+          ],
+          "desc": "该剧讲述了解放初中国人民解放军便衣队历尽凶险，最终把以国民党四川省政府主席王陵辉为首的潜伏特务抓获故事。",
+          "actors": [
+            "李丞峰",
+            "刘芳毓"
+          ],
+          "premiere": "2026-08-26",
+          "year": 2026,
+          "rank": {
+            "iqiyi": 29
           },
           "douban": null,
           "hot": false
@@ -1122,7 +1204,7 @@
           "premiere": "2026-09-17",
           "year": 2026,
           "rank": {
-            "iqiyi": 27
+            "iqiyi": 30
           },
           "douban": null,
           "hot": false
@@ -2958,6 +3040,35 @@
       "hot": false
     },
     {
+      "title": "设局",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic2.iqiyipic.com/image/20260828/41/c7/a_100103214_m_601_m4.jpg",
+      "url": "http://www.iqiyi.com/v_yzy3wmitc8.html",
+      "status": "全46集",
+      "on_air": false,
+      "episodes": 46,
+      "categories": [
+        "谍战",
+        "普通话",
+        "战争"
+      ],
+      "desc": "该剧讲述了抗日战争时期，海外募集的抗战资金藏匿地点不明，赵心怡与上海的抗日武装，开启寻宝夺金之旅，清除叛徒并找到珠宝，运往抗日根据地的故事。",
+      "actors": [
+        "何明翰",
+        "赵心怡",
+        "李丞峰"
+      ],
+      "premiere": "2026-08-26",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 18
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
       "title": "爱情有烟火",
       "platforms": [
         "iqiyi"
@@ -2977,7 +3088,7 @@
       "premiere": "2026-06-14",
       "year": 2026,
       "rank": {
-        "iqiyi": 18
+        "iqiyi": 19
       },
       "douban": null,
       "hot": false
@@ -3006,7 +3117,7 @@
       "premiere": "2026-05-09",
       "year": 2026,
       "rank": {
-        "iqiyi": 19
+        "iqiyi": 20
       },
       "douban": null,
       "hot": false
@@ -3035,7 +3146,32 @@
       "premiere": "2026-05-15",
       "year": 2026,
       "rank": {
-        "iqiyi": 20
+        "iqiyi": 21
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "进错门的女人",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic0.iqiyipic.com/image/20260827/65/39/a_100903698_m_601_m1.jpg",
+      "url": "http://www.iqiyi.com/v_1v8yhhlj5q8.html",
+      "status": "全34集",
+      "on_air": false,
+      "episodes": 34,
+      "categories": [],
+      "desc": "该剧讲述了绣工花彩蝶和赵文宇有了私生子之后，赵文宇举家搬迁，绝望之时，花彩蝶被刘长生搭救并结婚，一起经历人生风雨的故事。",
+      "actors": [
+        "田丽",
+        "刘佩琦",
+        "刘骐"
+      ],
+      "premiere": "2026-08-27",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 22
       },
       "douban": null,
       "hot": false
@@ -3064,7 +3200,7 @@
       "premiere": "2026-08-04",
       "year": 2026,
       "rank": {
-        "iqiyi": 21
+        "iqiyi": 23
       },
       "douban": null,
       "hot": false
@@ -3093,7 +3229,7 @@
       "premiere": "2026-07-16",
       "year": 2026,
       "rank": {
-        "iqiyi": 22
+        "iqiyi": 24
       },
       "douban": null,
       "hot": false
@@ -3122,7 +3258,7 @@
       "premiere": "2026-06-25",
       "year": 2026,
       "rank": {
-        "iqiyi": 23
+        "iqiyi": 25
       },
       "douban": null,
       "hot": false
@@ -3151,7 +3287,7 @@
       "premiere": "2026-05-15",
       "year": 2026,
       "rank": {
-        "iqiyi": 24
+        "iqiyi": 26
       },
       "douban": null,
       "hot": false
@@ -3180,7 +3316,7 @@
       "premiere": "2026-07-29",
       "year": 2026,
       "rank": {
-        "iqiyi": 25
+        "iqiyi": 27
       },
       "douban": null,
       "hot": false
@@ -3209,7 +3345,35 @@
       "premiere": "2026-07-08",
       "year": 2026,
       "rank": {
-        "iqiyi": 26
+        "iqiyi": 28
+      },
+      "douban": null,
+      "hot": false
+    },
+    {
+      "title": "斥侯之剑",
+      "platforms": [
+        "iqiyi"
+      ],
+      "cover": "http://pic6.iqiyipic.com/image/20260828/42/fd/a_100084012_m_601_m4.jpg",
+      "url": "http://www.iqiyi.com/v_ocy2qk2n50.html",
+      "status": "全38集",
+      "on_air": false,
+      "episodes": 38,
+      "categories": [
+        "历史",
+        "普通话",
+        "剧情"
+      ],
+      "desc": "该剧讲述了解放初中国人民解放军便衣队历尽凶险，最终把以国民党四川省政府主席王陵辉为首的潜伏特务抓获故事。",
+      "actors": [
+        "李丞峰",
+        "刘芳毓"
+      ],
+      "premiere": "2026-08-26",
+      "year": 2026,
+      "rank": {
+        "iqiyi": 29
       },
       "douban": null,
       "hot": false
@@ -3238,7 +3402,7 @@
       "premiere": "2026-09-17",
       "year": 2026,
       "rank": {
-        "iqiyi": 27
+        "iqiyi": 30
       },
       "douban": null,
       "hot": false
@@ -3630,5 +3794,5 @@
       "hot": true
     }
   ],
-  "fetched_at": "2026-09-23T09:19:01+08:00"
+  "fetched_at": "2026-09-23T09:36:59+08:00"
 }

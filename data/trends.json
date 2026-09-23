@@ -4,7 +4,7 @@
       "full_name": "google/ax",
       "url": "https://github.com/google/ax",
       "description": "Google's open agentic orchestration runtime",
-      "stars": 7621,
+      "stars": 7645,
       "stars_today": 2305,
       "language": "Go"
     },
@@ -12,7 +12,7 @@
       "full_name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "stars": 75653,
+      "stars": 75668,
       "stars_today": 944,
       "language": "TypeScript"
     },
@@ -20,7 +20,7 @@
       "full_name": "Open-Dev-Society/OpenStock",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "stars": 18381,
+      "stars": 18386,
       "stars_today": 832,
       "language": "TypeScript"
     },
@@ -44,7 +44,7 @@
       "full_name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 265461,
+      "stars": 265469,
       "stars_today": 727,
       "language": "JavaScript"
     },
@@ -60,7 +60,7 @@
       "full_name": "zhouxiaoka/autoclip",
       "url": "https://github.com/zhouxiaoka/autoclip",
       "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
-      "stars": 8721,
+      "stars": 8723,
       "stars_today": 594,
       "language": "Python"
     },
@@ -76,7 +76,7 @@
       "full_name": "Crosstalk-Solutions/project-nomad",
       "url": "https://github.com/Crosstalk-Solutions/project-nomad",
       "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
-      "stars": 38133,
+      "stars": 38136,
       "stars_today": 445,
       "language": "TypeScript"
     },
@@ -84,7 +84,7 @@
       "full_name": "laoma2053/awesome-zhuiju-free",
       "url": "https://github.com/laoma2053/awesome-zhuiju-free",
       "description": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。",
-      "stars": 9808,
+      "stars": 9814,
       "stars_today": 445,
       "language": "JavaScript"
     },
@@ -92,7 +92,7 @@
       "full_name": "mvt-project/mvt",
       "url": "https://github.com/mvt-project/mvt",
       "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-      "stars": 14118,
+      "stars": 14126,
       "stars_today": 441,
       "language": "Python"
     },
@@ -100,7 +100,7 @@
       "full_name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
-      "stars": 36348,
+      "stars": 36356,
       "stars_today": 438,
       "language": "Python"
     },
@@ -108,7 +108,7 @@
       "full_name": "clash-verge-rev/clash-verge-rev",
       "url": "https://github.com/clash-verge-rev/clash-verge-rev",
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
-      "stars": 146476,
+      "stars": 146485,
       "stars_today": 300,
       "language": "Rust"
     },
@@ -116,7 +116,7 @@
       "full_name": "coder/coder",
       "url": "https://github.com/coder/coder",
       "description": "Secure environments for developers and their agents",
-      "stars": 16611,
+      "stars": 16613,
       "stars_today": 290,
       "language": "Go"
     },
@@ -124,7 +124,7 @@
       "full_name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "stars": 15419,
+      "stars": 15432,
       "stars_today": 255,
       "language": "TypeScript"
     },
@@ -132,7 +132,7 @@
       "full_name": "cloudflare/quiche",
       "url": "https://github.com/cloudflare/quiche",
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "stars": 12496,
+      "stars": 12497,
       "stars_today": 250,
       "language": "Rust"
     },
@@ -140,7 +140,7 @@
       "full_name": "agent-substrate/substrate",
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
-      "stars": 2982,
+      "stars": 2986,
       "stars_today": 245,
       "language": "Go"
     },
@@ -148,7 +148,7 @@
       "full_name": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "stars": 107393,
+      "stars": 107398,
       "stars_today": 233,
       "language": "Go"
     },
@@ -156,7 +156,7 @@
       "full_name": "superdesigndev/treg",
       "url": "https://github.com/superdesigndev/treg",
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "stars": 2227,
+      "stars": 2239,
       "stars_today": 230,
       "language": "Python"
     },
@@ -164,7 +164,7 @@
       "full_name": "yynxxxxx/Codex-X",
       "url": "https://github.com/yynxxxxx/Codex-X",
       "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
-      "stars": 3862,
+      "stars": 3863,
       "stars_today": 220,
       "language": "Rust"
     },
@@ -172,7 +172,7 @@
       "full_name": "vercel-labs/json-render",
       "url": "https://github.com/vercel-labs/json-render",
       "description": "The Generative UI framework",
-      "stars": 18100,
+      "stars": 18102,
       "stars_today": 209,
       "language": "TypeScript"
     },
@@ -180,7 +180,7 @@
       "full_name": "upscayl/upscayl",
       "url": "https://github.com/upscayl/upscayl",
       "description": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
-      "stars": 49790,
+      "stars": 49791,
       "stars_today": 200,
       "language": "TypeScript"
     },
@@ -188,7 +188,7 @@
       "full_name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "stars": 147660,
+      "stars": 147662,
       "stars_today": 195,
       "language": "TypeScript"
     },
@@ -196,11 +196,11 @@
       "full_name": "weave-os/router",
       "url": "https://github.com/weave-os/router",
       "description": "Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.",
-      "stars": 4830,
+      "stars": 4832,
       "stars_today": 192,
       "language": "Go"
     }
   ],
   "count": 70,
-  "fetched_at": "2026-09-23T09:17:19+08:00"
+  "fetched_at": "2026-09-23T09:36:07+08:00"
 }
