@@ -2,21 +2,21 @@
   "quotes": [
     {
       "name": "上证指数",
-      "price": 3951.96,
-      "change": -0.17,
-      "change_pct": -0.0
+      "price": 3951.37,
+      "change": -0.76,
+      "change_pct": -0.02
     },
     {
       "name": "深证成指",
-      "price": 13723.74,
-      "change": 0.0,
-      "change_pct": 0.0
+      "price": 13742.55,
+      "change": 18.81,
+      "change_pct": 0.14
     },
     {
       "name": "创业板指",
-      "price": 3399.93,
-      "change": 0.0,
-      "change_pct": 0.0
+      "price": 3412.53,
+      "change": 12.6,
+      "change_pct": 0.37
     },
     {
       "name": "恒生指数",
@@ -26,9 +26,9 @@
     },
     {
       "name": "腾讯控股",
-      "price": 463.0,
-      "change": 11.4,
-      "change_pct": 2.52
+      "price": 452.4,
+      "change": 0.8,
+      "change_pct": 0.18
     },
     {
       "name": "美元人民币",
@@ -330,21 +330,21 @@
       "quotes": [
         {
           "name": "上证指数",
-          "price": 3951.96,
-          "change": -0.17,
-          "change_pct": -0.0
+          "price": 3951.37,
+          "change": -0.76,
+          "change_pct": -0.02
         },
         {
           "name": "深证成指",
-          "price": 13723.74,
-          "change": 0.0,
-          "change_pct": 0.0
+          "price": 13742.55,
+          "change": 18.81,
+          "change_pct": 0.14
         },
         {
           "name": "创业板指",
-          "price": 3399.93,
-          "change": 0.0,
-          "change_pct": 0.0
+          "price": 3412.53,
+          "change": 12.6,
+          "change_pct": 0.37
         },
         {
           "name": "恒生指数",
@@ -354,9 +354,9 @@
         },
         {
           "name": "腾讯控股",
-          "price": 463.0,
-          "change": 11.4,
-          "change_pct": 2.52
+          "price": 452.4,
+          "change": 0.8,
+          "change_pct": 0.18
         },
         {
           "name": "美元人民币",
@@ -367,5 +367,5 @@
       ]
     }
   ],
-  "fetched_at": "2026-09-23T09:17:06+08:00"
+  "fetched_at": "2026-09-23T09:26:47+08:00"
 }
