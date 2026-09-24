@@ -4,7 +4,7 @@
       "full_name": "google/ax",
       "url": "https://github.com/google/ax",
       "description": "Google's open agentic orchestration runtime",
-      "stars": 9319,
+      "stars": 9565,
       "stars_today": 1543,
       "language": "Go"
     },
@@ -12,7 +12,7 @@
       "full_name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "stars": 16474,
+      "stars": 16581,
       "stars_today": 1142,
       "language": "TypeScript"
     },
@@ -20,7 +20,7 @@
       "full_name": "browser-use/video-use",
       "url": "https://github.com/browser-use/video-use",
       "description": "Edit videos with coding agents",
-      "stars": 26601,
+      "stars": 26697,
       "stars_today": 746,
       "language": "Python"
     },
@@ -28,7 +28,7 @@
       "full_name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
-      "stars": 37050,
+      "stars": 37149,
       "stars_today": 664,
       "language": "Python"
     },
@@ -36,7 +36,7 @@
       "full_name": "flexprice/flexprice",
       "url": "https://github.com/flexprice/flexprice",
       "description": "Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime usage metering 🎟 Credits &amp; top-ups 🔑 Control feature access",
-      "stars": 6932,
+      "stars": 6935,
       "stars_today": 617,
       "language": "Go"
     },
@@ -44,7 +44,7 @@
       "full_name": "agent-substrate/substrate",
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
-      "stars": 3568,
+      "stars": 3651,
       "stars_today": 558,
       "language": "Go"
     },
@@ -52,7 +52,7 @@
       "full_name": "mvt-project/mvt",
       "url": "https://github.com/mvt-project/mvt",
       "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-      "stars": 14519,
+      "stars": 14567,
       "stars_today": 543,
       "language": "Python"
     },
@@ -60,7 +60,7 @@
       "full_name": "superdesigndev/treg",
       "url": "https://github.com/superdesigndev/treg",
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "stars": 2812,
+      "stars": 2892,
       "stars_today": 506,
       "language": "Python"
     },
@@ -68,7 +68,7 @@
       "full_name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": 290796,
+      "stars": 290926,
       "stars_today": 474,
       "language": "Shell"
     },
@@ -76,7 +76,7 @@
       "full_name": "laoma2053/awesome-zhuiju-free",
       "url": "https://github.com/laoma2053/awesome-zhuiju-free",
       "description": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。",
-      "stars": 10123,
+      "stars": 10163,
       "stars_today": 432,
       "language": "JavaScript"
     },
@@ -84,7 +84,7 @@
       "full_name": "clash-verge-rev/clash-verge-rev",
       "url": "https://github.com/clash-verge-rev/clash-verge-rev",
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
-      "stars": 146927,
+      "stars": 146992,
       "stars_today": 396,
       "language": "Rust"
     },
@@ -92,7 +92,7 @@
       "full_name": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
-      "stars": 31574,
+      "stars": 31655,
       "stars_today": 389,
       "language": "Python"
     },
@@ -100,7 +100,7 @@
       "full_name": "can1357/oh-my-pi",
       "url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
-      "stars": 33045,
+      "stars": 33099,
       "stars_today": 371,
       "language": "TypeScript"
     },
@@ -108,7 +108,7 @@
       "full_name": "Open-Dev-Society/OpenStock",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "stars": 18934,
+      "stars": 19049,
       "stars_today": 344,
       "language": "TypeScript"
     },
@@ -116,7 +116,7 @@
       "full_name": "hydra-db/hydradb",
       "url": "https://github.com/hydra-db/hydradb",
       "description": "HydraDB - fast graph database on object storage",
-      "stars": 5378,
+      "stars": 5494,
       "stars_today": 305,
       "language": "Rust"
     },
@@ -124,7 +124,7 @@
       "full_name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
-      "stars": 70453,
+      "stars": 70566,
       "stars_today": 304,
       "language": "JavaScript"
     },
@@ -132,7 +132,7 @@
       "full_name": "Nasiko-Labs/nasiko",
       "url": "https://github.com/Nasiko-Labs/nasiko",
       "description": "Developer Control Plane for your AI Agents",
-      "stars": 8765,
+      "stars": 8841,
       "stars_today": 288,
       "language": "Rust"
     },
@@ -140,7 +140,7 @@
       "full_name": "browserbase/stagehand",
       "url": "https://github.com/browserbase/stagehand",
       "description": "The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.",
-      "stars": 25344,
+      "stars": 25354,
       "stars_today": 237,
       "language": "TypeScript"
     },
@@ -148,7 +148,7 @@
       "full_name": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 134755,
+      "stars": 134789,
       "stars_today": 209,
       "language": "Python"
     },
@@ -156,7 +156,7 @@
       "full_name": "byoungd/up",
       "url": "https://github.com/byoungd/up",
       "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-      "stars": 63719,
+      "stars": 63726,
       "stars_today": 197,
       "language": "JavaScript"
     },
@@ -164,7 +164,7 @@
       "full_name": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "stars": 44667,
+      "stars": 44750,
       "stars_today": 190,
       "language": "C"
     },
@@ -172,7 +172,7 @@
       "full_name": "weave-os/router",
       "url": "https://github.com/weave-os/router",
       "description": "Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.",
-      "stars": 5019,
+      "stars": 5045,
       "stars_today": 185,
       "language": "Go"
     },
@@ -180,7 +180,7 @@
       "full_name": "router-for-me/CLIProxyAPI",
       "url": "https://github.com/router-for-me/CLIProxyAPI",
       "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
-      "stars": 53058,
+      "stars": 53091,
       "stars_today": 179,
       "language": "Go"
     },
@@ -188,7 +188,7 @@
       "full_name": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "stars": 8246,
+      "stars": 8253,
       "stars_today": 158,
       "language": "Rust"
     },
@@ -196,11 +196,11 @@
       "full_name": "zhouxiaoka/autoclip",
       "url": "https://github.com/zhouxiaoka/autoclip",
       "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
-      "stars": 8847,
+      "stars": 8864,
       "stars_today": 139,
       "language": "Python"
     }
   ],
   "count": 87,
-  "fetched_at": "2026-09-24T13:17:50+08:00"
+  "fetched_at": "2026-09-24T17:20:02+08:00"
 }
