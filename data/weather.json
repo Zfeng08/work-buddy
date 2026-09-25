@@ -4,49 +4,49 @@
       "name": "北京",
       "note": "北京",
       "current": {
-        "temperature": 22.8,
-        "apparent": 24.7,
-        "humidity": 68,
-        "wind_speed": 3.0,
+        "temperature": 24.7,
+        "apparent": 27.0,
+        "humidity": 66,
+        "wind_speed": 3.5,
         "weather_code": 2,
-        "pm25": 48.0,
-        "pm10": 55.2,
-        "time": "2026-09-25T13:15"
+        "pm25": 50.8,
+        "pm10": 54.1,
+        "time": "2026-09-25T16:45"
       },
       "daily": [
         {
           "date": "2026-09-25",
           "weather_code": 3,
-          "temp_max": 24.1,
+          "temp_max": 24.7,
           "temp_min": 18.3,
           "precip_prob": 94
         },
         {
           "date": "2026-09-26",
-          "weather_code": 53,
-          "temp_max": 24.5,
+          "weather_code": 95,
+          "temp_max": 26.6,
           "temp_min": 18.4,
           "precip_prob": 73
         },
         {
           "date": "2026-09-27",
-          "weather_code": 95,
-          "temp_max": 26.0,
-          "temp_min": 17.8,
+          "weather_code": 51,
+          "temp_max": 26.3,
+          "temp_min": 18.1,
           "precip_prob": 69
         },
         {
           "date": "2026-09-28",
           "weather_code": 3,
-          "temp_max": 22.6,
-          "temp_min": 15.1,
+          "temp_max": 22.4,
+          "temp_min": 15.7,
           "precip_prob": 18
         },
         {
           "date": "2026-09-29",
-          "weather_code": 1,
-          "temp_max": 26.7,
-          "temp_min": 16.5,
+          "weather_code": 51,
+          "temp_max": 26.5,
+          "temp_min": 16.6,
           "precip_prob": 8
         }
       ]
@@ -55,49 +55,49 @@
       "name": "上海",
       "note": "上海",
       "current": {
-        "temperature": 31.8,
-        "apparent": 34.2,
-        "humidity": 52,
-        "wind_speed": 12.0,
-        "weather_code": 1,
-        "pm25": 32.5,
-        "pm10": 42.4,
-        "time": "2026-09-25T13:15"
+        "temperature": 30.8,
+        "apparent": 33.7,
+        "humidity": 57,
+        "wind_speed": 10.8,
+        "weather_code": 2,
+        "pm25": 36.6,
+        "pm10": 46.6,
+        "time": "2026-09-25T16:45"
       },
       "daily": [
         {
           "date": "2026-09-25",
           "weather_code": 51,
-          "temp_max": 31.8,
+          "temp_max": 33.2,
           "temp_min": 23.5,
           "precip_prob": 49
         },
         {
           "date": "2026-09-26",
-          "weather_code": 96,
-          "temp_max": 33.8,
-          "temp_min": 25.1,
+          "weather_code": 95,
+          "temp_max": 32.9,
+          "temp_min": 25.3,
           "precip_prob": 59
         },
         {
           "date": "2026-09-27",
-          "weather_code": 81,
-          "temp_max": 29.6,
-          "temp_min": 23.1,
+          "weather_code": 96,
+          "temp_max": 28.9,
+          "temp_min": 23.2,
           "precip_prob": 73
         },
         {
           "date": "2026-09-28",
           "weather_code": 95,
-          "temp_max": 27.8,
+          "temp_max": 28.1,
           "temp_min": 23.8,
           "precip_prob": 76
         },
         {
           "date": "2026-09-29",
-          "weather_code": 51,
-          "temp_max": 27.3,
-          "temp_min": 23.3,
+          "weather_code": 95,
+          "temp_max": 26.5,
+          "temp_min": 24.0,
           "precip_prob": 57
         }
       ]
@@ -106,49 +106,49 @@
       "name": "广州",
       "note": "广东",
       "current": {
-        "temperature": 34.4,
-        "apparent": 40.0,
-        "humidity": 45,
-        "wind_speed": 2.5,
-        "weather_code": 0,
-        "pm25": 36.7,
-        "pm10": 39.2,
-        "time": "2026-09-25T13:15"
+        "temperature": 31.8,
+        "apparent": 35.4,
+        "humidity": 56,
+        "wind_speed": 9.2,
+        "weather_code": 53,
+        "pm25": 41.8,
+        "pm10": 43.5,
+        "time": "2026-09-25T16:45"
       },
       "daily": [
         {
           "date": "2026-09-25",
           "weather_code": 53,
-          "temp_max": 34.9,
+          "temp_max": 35.6,
           "temp_min": 24.1,
           "precip_prob": 90
         },
         {
           "date": "2026-09-26",
-          "weather_code": 3,
-          "temp_max": 35.4,
-          "temp_min": 25.1,
+          "weather_code": 0,
+          "temp_max": 35.0,
+          "temp_min": 24.9,
           "precip_prob": 13
         },
         {
           "date": "2026-09-27",
-          "weather_code": 51,
-          "temp_max": 35.1,
-          "temp_min": 25.2,
+          "weather_code": 1,
+          "temp_max": 34.8,
+          "temp_min": 25.1,
           "precip_prob": 4
         },
         {
           "date": "2026-09-28",
-          "weather_code": 55,
-          "temp_max": 35.1,
-          "temp_min": 26.1,
+          "weather_code": 51,
+          "temp_max": 35.2,
+          "temp_min": 26.2,
           "precip_prob": 69
         },
         {
           "date": "2026-09-29",
           "weather_code": 51,
-          "temp_max": 35.7,
-          "temp_min": 26.3,
+          "temp_max": 36.1,
+          "temp_min": 26.6,
           "precip_prob": 25
         }
       ]
@@ -157,28 +157,28 @@
       "name": "成都",
       "note": "四川",
       "current": {
-        "temperature": 26.3,
-        "apparent": 29.7,
-        "humidity": 64,
-        "wind_speed": 3.2,
+        "temperature": 27.0,
+        "apparent": 29.3,
+        "humidity": 61,
+        "wind_speed": 6.5,
         "weather_code": 2,
-        "pm25": 41.1,
-        "pm10": 41.4,
-        "time": "2026-09-25T13:15"
+        "pm25": 45.3,
+        "pm10": 45.5,
+        "time": "2026-09-25T16:45"
       },
       "daily": [
         {
           "date": "2026-09-25",
           "weather_code": 51,
-          "temp_max": 27.5,
+          "temp_max": 27.2,
           "temp_min": 20.7,
           "precip_prob": 91
         },
         {
           "date": "2026-09-26",
           "weather_code": 3,
-          "temp_max": 28.8,
-          "temp_min": 22.2,
+          "temp_max": 28.7,
+          "temp_min": 22.0,
           "precip_prob": 4
         },
         {
@@ -190,16 +190,16 @@
         },
         {
           "date": "2026-09-28",
-          "weather_code": 51,
-          "temp_max": 25.1,
-          "temp_min": 22.9,
+          "weather_code": 53,
+          "temp_max": 24.7,
+          "temp_min": 22.6,
           "precip_prob": 37
         },
         {
           "date": "2026-09-29",
           "weather_code": 3,
-          "temp_max": 28.2,
-          "temp_min": 22.4,
+          "temp_max": 29.4,
+          "temp_min": 22.5,
           "precip_prob": 21
         }
       ]
@@ -208,19 +208,19 @@
       "name": "杭州",
       "note": "浙江",
       "current": {
-        "temperature": 34.0,
-        "apparent": 39.8,
+        "temperature": 33.0,
+        "apparent": 37.3,
         "humidity": 51,
-        "wind_speed": 3.1,
-        "weather_code": 0,
-        "pm25": 43.4,
-        "pm10": 46.1,
-        "time": "2026-09-25T13:15"
+        "wind_speed": 2.7,
+        "weather_code": 1,
+        "pm25": 39.3,
+        "pm10": 41.1,
+        "time": "2026-09-25T16:45"
       },
       "daily": [
         {
           "date": "2026-09-25",
-          "weather_code": 55,
+          "weather_code": 80,
           "temp_max": 34.6,
           "temp_min": 23.3,
           "precip_prob": 54
@@ -228,33 +228,33 @@
         {
           "date": "2026-09-26",
           "weather_code": 96,
-          "temp_max": 35.3,
+          "temp_max": 35.1,
           "temp_min": 25.2,
           "precip_prob": 92
         },
         {
           "date": "2026-09-27",
           "weather_code": 96,
-          "temp_max": 30.2,
-          "temp_min": 24.5,
+          "temp_max": 31.2,
+          "temp_min": 24.8,
           "precip_prob": 94
         },
         {
           "date": "2026-09-28",
           "weather_code": 95,
-          "temp_max": 30.6,
-          "temp_min": 24.8,
+          "temp_max": 31.0,
+          "temp_min": 24.4,
           "precip_prob": 76
         },
         {
           "date": "2026-09-29",
-          "weather_code": 51,
-          "temp_max": 30.9,
-          "temp_min": 23.5,
+          "weather_code": 53,
+          "temp_max": 29.9,
+          "temp_min": 24.6,
           "precip_prob": 71
         }
       ]
     }
   ],
-  "fetched_at": "2026-09-25T13:18:02+08:00"
+  "fetched_at": "2026-09-25T16:54:47+08:00"
 }
