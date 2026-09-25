@@ -4,203 +4,203 @@
       "full_name": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
-      "stars": 27031,
-      "stars_today": 1607,
+      "stars": 27791,
+      "stars_today": 1668,
       "language": "Python"
     },
     {
       "full_name": "google/ax",
       "url": "https://github.com/google/ax",
       "description": "Google's open agentic orchestration runtime",
-      "stars": 9789,
-      "stars_today": 1376,
+      "stars": 10466,
+      "stars_today": 1373,
       "language": "Go"
+    },
+    {
+      "full_name": "hydra-db/hydradb",
+      "url": "https://github.com/hydra-db/hydradb",
+      "description": "HydraDB - fast graph database on object storage",
+      "stars": 5906,
+      "stars_today": 1344,
+      "language": "Rust"
+    },
+    {
+      "full_name": "Nasiko-Labs/nasiko",
+      "url": "https://github.com/Nasiko-Labs/nasiko",
+      "description": "Developer Control Plane for your AI Agents",
+      "stars": 8876,
+      "stars_today": 1160,
+      "language": "Rust"
     },
     {
       "full_name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "stars": 17153,
-      "stars_today": 1060,
+      "stars": 17689,
+      "stars_today": 1082,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "stars": 77550,
+      "stars_today": 934,
       "language": "TypeScript"
     },
     {
       "full_name": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io",
-      "stars": 136332,
-      "stars_today": 957,
+      "stars": 136480,
+      "stars_today": 920,
       "language": "Rust"
-    },
-    {
-      "full_name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "stars": 77165,
-      "stars_today": 942,
-      "language": "TypeScript"
-    },
-    {
-      "full_name": "experientiallabs/experiential",
-      "url": "https://github.com/experientiallabs/experiential",
-      "description": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.",
-      "stars": 6679,
-      "stars_today": 774,
-      "language": "Python"
-    },
-    {
-      "full_name": "flexprice/flexprice",
-      "url": "https://github.com/flexprice/flexprice",
-      "description": "Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime usage metering 🎟 Credits &amp; top-ups 🔑 Control feature access",
-      "stars": 6933,
-      "stars_today": 617,
-      "language": "Go"
     },
     {
       "full_name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": 291012,
-      "stars_today": 606,
+      "stars": 291233,
+      "stars_today": 611,
       "language": "Shell"
     },
     {
       "full_name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
-      "stars": 70656,
-      "stars_today": 564,
+      "stars": 70805,
+      "stars_today": 527,
       "language": "JavaScript"
     },
     {
       "full_name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
-      "stars": 37224,
-      "stars_today": 510,
+      "stars": 37357,
+      "stars_today": 509,
+      "language": "Python"
+    },
+    {
+      "full_name": "experientiallabs/experiential",
+      "url": "https://github.com/experientiallabs/experiential",
+      "description": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.",
+      "stars": 6790,
+      "stars_today": 481,
       "language": "Python"
     },
     {
       "full_name": "superdesigndev/treg",
       "url": "https://github.com/superdesigndev/treg",
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "stars": 2977,
-      "stars_today": 470,
+      "stars": 3166,
+      "stars_today": 468,
       "language": "Python"
     },
     {
       "full_name": "strands-agents/harness-sdk",
       "url": "https://github.com/strands-agents/harness-sdk",
       "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.",
-      "stars": 8098,
-      "stars_today": 463,
+      "stars": 8261,
+      "stars_today": 455,
       "language": "Python"
-    },
-    {
-      "full_name": "agent-substrate/substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "stars": 3692,
-      "stars_today": 439,
-      "language": "Go"
     },
     {
       "full_name": "every-app/open-seo",
       "url": "https://github.com/every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
-      "stars": 20783,
-      "stars_today": 426,
+      "stars": 20933,
+      "stars_today": 441,
       "language": "TypeScript"
     },
     {
       "full_name": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "stars": 50167,
-      "stars_today": 415,
+      "stars": 50335,
+      "stars_today": 413,
       "language": "Python"
     },
     {
-      "full_name": "clash-verge-rev/clash-verge-rev",
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
-      "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
-      "stars": 147057,
-      "stars_today": 396,
-      "language": "Rust"
+      "full_name": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "stars": 3721,
+      "stars_today": 357,
+      "language": "Go"
+    },
+    {
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 56569,
+      "stars_today": 347,
+      "language": "Python"
     },
     {
       "full_name": "TNT-Likely/PanWatch",
       "url": "https://github.com/TNT-Likely/PanWatch",
       "description": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
-      "stars": 1751,
-      "stars_today": 386,
+      "stars": 1767,
+      "stars_today": 327,
       "language": "Python"
     },
     {
       "full_name": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
-      "stars": 31689,
-      "stars_today": 382,
+      "stars": 31732,
+      "stars_today": 325,
       "language": "Python"
     },
     {
-      "full_name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "stars": 56011,
+      "full_name": "clash-verge-rev/clash-verge-rev",
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+      "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+      "stars": 147131,
       "stars_today": 310,
-      "language": "Python"
-    },
-    {
-      "full_name": "hydra-db/hydradb",
-      "url": "https://github.com/hydra-db/hydradb",
-      "description": "HydraDB - fast graph database on object storage",
-      "stars": 5572,
-      "stars_today": 305,
-      "language": "Rust"
-    },
-    {
-      "full_name": "op7418/Humanizer-zh",
-      "url": "https://github.com/op7418/Humanizer-zh",
-      "description": "Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。",
-      "stars": 18351,
-      "stars_today": 290,
-      "language": "Python"
-    },
-    {
-      "full_name": "Nasiko-Labs/nasiko",
-      "url": "https://github.com/Nasiko-Labs/nasiko",
-      "description": "Developer Control Plane for your AI Agents",
-      "stars": 8841,
-      "stars_today": 288,
       "language": "Rust"
     },
     {
       "full_name": "mvt-project/mvt",
       "url": "https://github.com/mvt-project/mvt",
       "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-      "stars": 14615,
-      "stars_today": 275,
+      "stars": 14732,
+      "stars_today": 272,
+      "language": "Python"
+    },
+    {
+      "full_name": "Asymptote-Labs/agent-beacon",
+      "url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "description": "The cross-harness self-improving memory layer for AI agents.",
+      "stars": 1511,
+      "stars_today": 269,
+      "language": "Go"
+    },
+    {
+      "full_name": "op7418/Humanizer-zh",
+      "url": "https://github.com/op7418/Humanizer-zh",
+      "description": "Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。",
+      "stars": 18403,
+      "stars_today": 249,
       "language": "Python"
     },
     {
       "full_name": "can1357/oh-my-pi",
       "url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
-      "stars": 33135,
-      "stars_today": 210,
+      "stars": 33195,
+      "stars_today": 201,
       "language": "TypeScript"
     },
     {
-      "full_name": "weave-os/router",
-      "url": "https://github.com/weave-os/router",
-      "description": "Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.",
-      "stars": 5068,
-      "stars_today": 185,
-      "language": "Go"
+      "full_name": "FxEmbed/FxEmbed",
+      "url": "https://github.com/FxEmbed/FxEmbed",
+      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+      "stars": 5368,
+      "stars_today": 182,
+      "language": "TypeScript"
     }
   ],
-  "count": 84,
-  "fetched_at": "2026-09-24T21:47:17+08:00"
+  "count": 85,
+  "fetched_at": "2026-09-25T09:17:35+08:00"
 }
