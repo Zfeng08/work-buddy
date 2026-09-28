@@ -4,7 +4,7 @@
       "full_name": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
-      "stars": 38153,
+      "stars": 38377,
       "stars_today": 4520,
       "language": "Python"
     },
@@ -12,7 +12,7 @@
       "full_name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
-      "stars": 40749,
+      "stars": 40854,
       "stars_today": 3086,
       "language": "Python"
     },
@@ -20,7 +20,7 @@
       "full_name": "hydra-db/hydradb",
       "url": "https://github.com/hydra-db/hydradb",
       "description": "HydraDB - fast graph database on object storage",
-      "stars": 11080,
+      "stars": 11179,
       "stars_today": 2809,
       "language": "Rust"
     },
@@ -28,7 +28,7 @@
       "full_name": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
-      "stars": 90592,
+      "stars": 90736,
       "stars_today": 2401,
       "language": "TypeScript"
     },
@@ -36,7 +36,7 @@
       "full_name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "stars": 20748,
+      "stars": 20773,
       "stars_today": 895,
       "language": "TypeScript"
     },
@@ -44,7 +44,7 @@
       "full_name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
-      "stars": 59629,
+      "stars": 59705,
       "stars_today": 790,
       "language": "Python"
     },
@@ -52,7 +52,7 @@
       "full_name": "juspay/hyperswitch",
       "url": "https://github.com/juspay/hyperswitch",
       "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
-      "stars": 44942,
+      "stars": 44955,
       "stars_today": 623,
       "language": "Rust"
     },
@@ -60,7 +60,7 @@
       "full_name": "pacifio/atlas",
       "url": "https://github.com/pacifio/atlas",
       "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "stars": 8128,
+      "stars": 8133,
       "stars_today": 588,
       "language": "Rust"
     },
@@ -68,7 +68,7 @@
       "full_name": "mobile-next/mobile-mcp",
       "url": "https://github.com/mobile-next/mobile-mcp",
       "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
-      "stars": 7990,
+      "stars": 8006,
       "stars_today": 577,
       "language": "TypeScript"
     },
@@ -76,7 +76,7 @@
       "full_name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 147025,
+      "stars": 147051,
       "stars_today": 511,
       "language": "JavaScript"
     },
@@ -84,7 +84,7 @@
       "full_name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
-      "stars": 53707,
+      "stars": 53718,
       "stars_today": 304,
       "language": "TypeScript"
     },
@@ -92,7 +92,7 @@
       "full_name": "NVIDIA/Model-Optimizer",
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-      "stars": 4963,
+      "stars": 4969,
       "stars_today": 276,
       "language": "Python"
     },
@@ -100,7 +100,7 @@
       "full_name": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
-      "stars": 142812,
+      "stars": 142817,
       "stars_today": 276,
       "language": "JavaScript"
     },
@@ -108,7 +108,7 @@
       "full_name": "derv82/wifit3",
       "url": "https://github.com/derv82/wifit3",
       "description": "Wifite but USB-only &amp; cross-platform.",
-      "stars": 1424,
+      "stars": 1428,
       "stars_today": 255,
       "language": "Python"
     },
@@ -116,7 +116,7 @@
       "full_name": "InfinityLoop1308/PipePipe",
       "url": "https://github.com/InfinityLoop1308/PipePipe",
       "description": "An open-source Android app to let you browse YouTube and other services freely.",
-      "stars": 6670,
+      "stars": 6686,
       "stars_today": 242,
       "language": "Shell"
     },
@@ -124,7 +124,7 @@
       "full_name": "block/buzz",
       "url": "https://github.com/block/buzz",
       "description": "A hive mind communication platform",
-      "stars": 35124,
+      "stars": 35134,
       "stars_today": 233,
       "language": "Rust"
     },
@@ -132,7 +132,7 @@
       "full_name": "openbao/openbao",
       "url": "https://github.com/openbao/openbao",
       "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
-      "stars": 8147,
+      "stars": 8149,
       "stars_today": 199,
       "language": "Go"
     },
@@ -140,7 +140,7 @@
       "full_name": "EbookFoundation/free-programming-books",
       "url": "https://github.com/EbookFoundation/free-programming-books",
       "description": "📚 Freely available programming books",
-      "stars": 398011,
+      "stars": 398014,
       "stars_today": 157,
       "language": "Python"
     },
@@ -148,7 +148,7 @@
       "full_name": "melgarafael/DeskcommCRM",
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-      "stars": 4159,
+      "stars": 4161,
       "stars_today": 133,
       "language": "TypeScript"
     },
@@ -156,7 +156,7 @@
       "full_name": "Gimanh/taskview-community",
       "url": "https://github.com/Gimanh/taskview-community",
       "description": "TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.",
-      "stars": 1089,
+      "stars": 1096,
       "stars_today": 116,
       "language": "TypeScript"
     },
@@ -164,7 +164,7 @@
       "full_name": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-      "stars": 1148,
+      "stars": 1177,
       "stars_today": 114,
       "language": "TypeScript"
     },
@@ -172,7 +172,7 @@
       "full_name": "microsoft/data-formulator",
       "url": "https://github.com/microsoft/data-formulator",
       "description": "🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.",
-      "stars": 17456,
+      "stars": 17457,
       "stars_today": 112,
       "language": "Python"
     },
@@ -180,7 +180,7 @@
       "full_name": "vercel-labs/scriptc",
       "url": "https://github.com/vercel-labs/scriptc",
       "description": "TypeScript-to-Native Compiler",
-      "stars": 5478,
+      "stars": 5496,
       "stars_today": 102,
       "language": "TypeScript"
     },
@@ -188,7 +188,7 @@
       "full_name": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "stars": 456389,
+      "stars": 456396,
       "stars_today": 100,
       "language": "TypeScript"
     },
@@ -196,11 +196,11 @@
       "full_name": "willfaust/Madeira",
       "url": "https://github.com/willfaust/Madeira",
       "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
-      "stars": 870,
+      "stars": 882,
       "stars_today": 83,
       "language": "C"
     }
   ],
   "count": 69,
-  "fetched_at": "2026-09-28T13:46:47+08:00"
+  "fetched_at": "2026-09-28T14:39:38+08:00"
 }
