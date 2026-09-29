@@ -1,66 +1,114 @@
 {
   "repos": [
     {
-      "full_name": "vectorize-io/hindsight",
-      "url": "https://github.com/vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
-      "stars": 41530,
-      "stars_today": 4561,
-      "language": "Python"
-    },
-    {
       "full_name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
-      "stars": 45189,
-      "stars_today": 3221,
+      "stars": 46987,
+      "stars_today": 4712,
+      "language": "Python"
+    },
+    {
+      "full_name": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "stars": 42314,
+      "stars_today": 2541,
       "language": "Python"
     },
     {
       "full_name": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
-      "stars": 93381,
-      "stars_today": 3197,
+      "stars": 94119,
+      "stars_today": 2412,
       "language": "TypeScript"
     },
     {
       "full_name": "hydra-db/hydradb",
       "url": "https://github.com/hydra-db/hydradb",
       "description": "HydraDB - fast graph database on object storage",
-      "stars": 12413,
+      "stars": 12635,
       "stars_today": 1679,
+      "language": "Rust"
+    },
+    {
+      "full_name": "byoungd/up",
+      "url": "https://github.com/byoungd/up",
+      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "stars": 65551,
+      "stars_today": 1111,
+      "language": "JavaScript"
+    },
+    {
+      "full_name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "stars": 10198,
+      "stars_today": 978,
       "language": "Rust"
     },
     {
       "full_name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
-      "stars": 60602,
-      "stars_today": 1287,
+      "stars": 60999,
+      "stars_today": 855,
       "language": "Python"
     },
     {
-      "full_name": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "stars": 21448,
-      "stars_today": 1099,
-      "language": "TypeScript"
+      "full_name": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars": 36950,
+      "stars_today": 822,
+      "language": "Python"
+    },
+    {
+      "full_name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "stars": 74030,
+      "stars_today": 737,
+      "language": "JavaScript"
     },
     {
       "full_name": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-      "stars": 1918,
-      "stars_today": 734,
+      "stars": 2189,
+      "stars_today": 733,
       "language": "TypeScript"
+    },
+    {
+      "full_name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 147991,
+      "stars_today": 712,
+      "language": "JavaScript"
+    },
+    {
+      "full_name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars": 21685,
+      "stars_today": 692,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "cs341-illinois/coursebook",
+      "url": "https://github.com/cs341-illinois/coursebook",
+      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "stars": 2926,
+      "stars_today": 569,
+      "language": "TeX"
     },
     {
       "full_name": "t8y2/dbx",
       "url": "https://github.com/t8y2/dbx",
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-      "stars": 21541,
+      "stars": 21761,
       "stars_today": 460,
       "language": "Rust"
     },
@@ -68,139 +116,91 @@
       "full_name": "mobile-next/mobile-mcp",
       "url": "https://github.com/mobile-next/mobile-mcp",
       "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
-      "stars": 8332,
+      "stars": 8384,
       "stars_today": 449,
       "language": "TypeScript"
+    },
+    {
+      "full_name": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "stars": 13651,
+      "stars_today": 436,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": 72410,
+      "stars_today": 389,
+      "language": "JavaScript"
     },
     {
       "full_name": "juspay/hyperswitch",
       "url": "https://github.com/juspay/hyperswitch",
       "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
-      "stars": 45199,
+      "stars": 45235,
       "stars_today": 348,
       "language": "Rust"
     },
     {
-      "full_name": "byoungd/up",
-      "url": "https://github.com/byoungd/up",
-      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-      "stars": 65033,
-      "stars_today": 327,
-      "language": "JavaScript"
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "stars": 126924,
+      "stars_today": 325,
+      "language": "Python"
     },
     {
       "full_name": "vercel-labs/scriptc",
       "url": "https://github.com/vercel-labs/scriptc",
       "description": "TypeScript-to-Native Compiler",
-      "stars": 5638,
+      "stars": 5677,
       "stars_today": 317,
       "language": "TypeScript"
     },
     {
-      "full_name": "satnaing/shadcn-admin",
-      "url": "https://github.com/satnaing/shadcn-admin",
-      "description": "Admin Dashboard UI built with Shadcn and Vite.",
-      "stars": 15023,
-      "stars_today": 279,
+      "full_name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "stars": 54131,
+      "stars_today": 312,
       "language": "TypeScript"
     },
     {
       "full_name": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "stars": 49766,
+      "stars": 49802,
       "stars_today": 274,
       "language": "TypeScript"
     },
     {
-      "full_name": "pacifio/atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "stars": 8308,
-      "stars_today": 274,
-      "language": "Rust"
-    },
-    {
-      "full_name": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "description": "A hive mind communication platform",
-      "stars": 35248,
+      "full_name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "stars": 5739,
       "stars_today": 234,
-      "language": "Rust"
-    },
-    {
-      "full_name": "practical-tutorials/project-based-learning",
-      "url": "https://github.com/practical-tutorials/project-based-learning",
-      "description": "Curated list of project-based tutorials",
-      "stars": 285165,
-      "stars_today": 206,
       "language": "Python"
     },
     {
-      "full_name": "kitao/pyxel",
-      "url": "https://github.com/kitao/pyxel",
-      "description": "A retro game engine for Python",
-      "stars": 18258,
-      "stars_today": 197,
-      "language": "Rust"
+      "full_name": "willfaust/Madeira",
+      "url": "https://github.com/willfaust/Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "stars": 1047,
+      "stars_today": 229,
+      "language": "C"
     },
     {
-      "full_name": "tokio-rs/topcoat",
-      "url": "https://github.com/tokio-rs/topcoat",
-      "description": "A batteries-included framework for building web apps",
-      "stars": 5700,
-      "stars_today": 196,
-      "language": "Rust"
-    },
-    {
-      "full_name": "cs341-illinois/coursebook",
-      "url": "https://github.com/cs341-illinois/coursebook",
-      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-      "stars": 2646,
-      "stars_today": 195,
-      "language": "TeX"
-    },
-    {
-      "full_name": "NawfalMotii79/PLFM_RADAR",
-      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-      "stars": 25872,
-      "stars_today": 158,
-      "language": "PLSQL"
-    },
-    {
-      "full_name": "alirezarezvani/claude-skills",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "description": "380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
-      "stars": 26799,
-      "stars_today": 145,
-      "language": "Python"
-    },
-    {
-      "full_name": "microsoft/SkillOpt",
-      "url": "https://github.com/microsoft/SkillOpt",
-      "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
-      "stars": 17822,
-      "stars_today": 136,
-      "language": "Python"
-    },
-    {
-      "full_name": "ashhart/TensorFold",
-      "url": "https://github.com/ashhart/TensorFold",
-      "description": "Fast, exact LLM decoding on Apple Silicon (MLX) behind an OpenAI-compatible endpoint",
-      "stars": 563,
-      "stars_today": 120,
-      "language": "Python"
-    },
-    {
-      "full_name": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 95347,
-      "stars_today": 115,
-      "language": "Rust"
+      "full_name": "Gaurav-Gosain/tuios",
+      "url": "https://github.com/Gaurav-Gosain/tuios",
+      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
+      "stars": 4281,
+      "stars_today": 215,
+      "language": "Go"
     }
   ],
-  "count": 66,
-  "fetched_at": "2026-09-29T14:47:30+08:00"
+  "count": 77,
+  "fetched_at": "2026-09-29T23:41:09+08:00"
 }
