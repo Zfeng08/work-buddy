@@ -1,124 +1,140 @@
 {
   "items": [
     {
-      "title": "微信鸿蒙版 App 获 8.0.22.35 邀测升级，修复了一些已知问题",
-      "link": "https://www.ithome.com/1/008/517.htm",
-      "summary": "IT之家 9 月 29 日消息，微信鸿蒙版 App 在华为应用市场（App Gallery）开启了 8.0.22.35 (8394275) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/9/29-2026/10/29。和往常一样，本次更新的说明依旧为“修复了一些已知问题”。IT之家附网友 @伤心萨摩耶 和 MeoW 整理的最新版本已知灰度测试内容（不绑定版本号）：微信鸿蒙",
+      "title": "微软 Win11 预览版测试新装机流程：可选引导安装 TikTok / Netflix 等应用",
+      "link": "https://www.ithome.com/1/008/728.htm",
+      "summary": "IT之家 9 月 30 日消息，科技媒体 Windows Latest 今天（9 月 30 日）发布博文，报道称微软在 Windows 11 Build 26340.9354 预览版（9 月 8 日发布）中，测试“辅助安装”（Assisted Setup）可选引导，在用户完成首次开箱体验（OOBE）后，一键安装 TikTok、Netflix、Spotify（顺序按照原文小标题选择）等热门应用。报道",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Tue, 29 Sep 2026 15:39:40 GMT"
+      "published": "Wed, 30 Sep 2026 06:27:24 GMT"
     },
     {
-      "title": "古尔曼：苹果新任 CEO 特努斯着手全面改革，加快产品开发、精简管理层",
-      "link": "https://www.ithome.com/1/008/516.htm",
-      "summary": "IT之家 9 月 29 日消息，彭博社马克 · 古尔曼刚刚报道称，苹果新任 CEO 约翰 · 特努斯（John Ternus）上任不到一个月，便已着手对公司内部展开大刀阔斧的改革。特努斯希望调整公司组织和产品开发方式，目标包括加快产品研发节奏、扩大硬件产品线，并精简管理层，将更多资源和决策重心放在工程团队上。当然，相关方案目前仍处于内部讨论阶段。特努斯于 9 月 1 日正式接替蒂姆 · 库克（Ti",
+      "title": "被罗永浩炮轰后东方甄选回应溜溜凳事件：退双倍货款不退货",
+      "link": "https://www.ithome.com/1/008/726.htm",
+      "summary": "IT之家 9 月 30 日消息，今日，东方甄选直播间发布声明，针对近期消费者反馈的“溜溜凳”产品质量问题作出正式回应。声明称，东方甄选在接到消费者反馈后高度重视，已第一时间展开反复核审查，要求商家对相关产品再次送检，同时独立安排了该产品进行送检。考虑到检测报告出具周期较长，为保障消费者权益，东方甄选决定：对所有在东方甄选直播间购买该产品的用户，进行全面退款不退货处理，退款金额为货价的二倍。IT之家",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Tue, 29 Sep 2026 15:21:45 GMT"
+      "published": "Wed, 30 Sep 2026 06:25:19 GMT"
     },
     {
-      "title": "苹果 iPhone 18 Pro 售价大涨，越来越多日本人开始考虑二手手机",
-      "link": "https://www.ithome.com/1/008/515.htm",
-      "summary": "IT之家 9 月 29 日消息，苹果本月初推出 iPhone 18 Pro 系列手机。新机带来可变光圈、灵动岛尺寸缩小等一系列升级，售价增长也引发热议。在日本市场，iPhone 18 Pro 与 5 年前同级机型相比，价格几乎翻了一番。▲ IT之家 Apple Park 实拍：iPhone 18 Pro 系列真机据共同社今天报道，苹果 iPhone 18 Pro 在日本直营渠道起售价 21.98 ",
+      "title": "超 30 万辆 2009-2016 款保时捷“老车”焕发第二春，获官方无线苹果 CarPlay 等升级",
+      "link": "https://www.ithome.com/1/008/725.htm",
+      "summary": "IT之家 9 月 30 日消息，针对旗下的“老车”，保时捷正式推出新一代 PCCM Plus 车机，为超过 30 万辆 2009 至 2016 年款车型补上当代车机功能。新款 PCCM Plus 适用于 997.2 和 991.1 代 911，以及 987.2、981 代 Boxster 和 Cayman。最受关注的升级，无疑是无线苹果 CarPlay 和 Android Auto。手机可通过蓝牙",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Tue, 29 Sep 2026 15:15:39 GMT"
+      "published": "Wed, 30 Sep 2026 06:24:22 GMT"
     },
     {
-      "title": "RGB 硬件最后一环：英特尔专利提出在 CPU 封装中集成 Micro LED，可用作指示灯或装饰",
-      "link": "https://www.ithome.com/1/008/511.htm",
-      "summary": "IT之家 9 月 29 日消息，TomsHardWare 发现，英特尔本月初公开了一项关于 CPU 封装的新专利，提出将 Micro LED 灯珠直接集成到处理器内部的想法。这意味着，未来处理器表面不仅可以显示 RGB 灯效，还可以自定义点亮 Logo 或文字，或者根据处理器负载、温度或执行状态实时改变光效。这项专利于 2022 年提交，并于本月正式公开。该专利描述了一种基于玻璃基板（Glass ",
+      "title": "松下发布首款 USB-C 接口爱乐普镍氢充电电池充电器 BQ-CCE5",
+      "link": "https://www.ithome.com/1/008/724.htm",
+      "summary": "IT之家 9 月 30 日消息，Panasonic（松下）今日发布了其首款采用 USB-C 输入接口的 eneloop（爱乐普）镍氢充电电池充电器 BQ-CCE5。BQ-CCE5 意味着用户仅需使用标准智能手机充电套装和该设备即可为能循环使用的 eneloop 电池补电，使用更为便捷。BQ-CCE5 也是松下 eneloop 电池充电器中充电速度并列最快的产品。其仅需 1.5 小时就能完成 2 节",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Tue, 29 Sep 2026 15:07:24 GMT"
+      "published": "Wed, 30 Sep 2026 06:22:54 GMT"
     },
     {
-      "title": "报道称 OpenAI 年化经常性收入接近 700 亿美元，较三季度初增长超 70%",
-      "link": "https://www.ithome.com/1/008/510.htm",
-      "summary": "IT之家 9 月 29 日消息，据外媒 Axios 今天报道，据知情人士透露，OpenAI 年化经常性收入（ARR）已接近 700 亿美元（IT之家注：现汇率约合 4,705.11 亿元人民币）。据报道，自 2026 年三季度初以来，OpenAI 的年化经常性收入增长超 70%，其 B2B（企业对企业）收入增长超 100%。消费者业务层面，OpenAI 三季度新增收入超 2025 年全年新增收入，",
+      "title": "“迄今最强效减肥药”：礼来 Lilly 公布三受体激动剂 Retatrutide 研究结果",
+      "link": "https://www.ithome.com/1/008/706.htm",
+      "summary": "IT之家 9 月 30 日消息，科技媒体 Ars Technica 今天（9 月 30 日）发布博文，报道称礼来公司（Eli Lilly）研发的三受体激动剂瑞他曲肽（Retatrutide）是“迄今为止最强效的减肥药”。官方介绍如下：Retatrutide 是一种处于研发阶段的每周一次给药的三激素受体激动剂，可激活人体内葡萄糖依赖性促胰岛素多肽（GIP）、胰高糖素样肽-1（GLP-1）和胰高糖素受",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Tue, 29 Sep 2026 15:05:17 GMT"
+      "published": "Wed, 30 Sep 2026 06:07:14 GMT"
     },
     {
-      "title": "阿里 Qoder 平台 Qwen3.8-Flash 限时免费活动延期，10 月之后继续用",
-      "link": "https://www.ithome.com/1/008/506.htm",
-      "summary": "IT之家 9 月 29 日消息，根据 Qoder 官方公告，阿里 Qwen3.8-Flash 限时免费活动已延期 —— 原定 2026 年 9 月 30 日 23:59:59 结束，现改为 10 月 1 日起继续免费（结束时间未定）。该活动自 2026 年 9 月 18 日 10:00 起面向 Qoder 新老个人用户开放。活动期间，Qwen3.8-Flash 计费系数由 0.1× 降至 0.0×",
+      "title": "微软推出实验性多模态 AI 研究系统 Project Quine，有望大幅加速药物发现",
+      "link": "https://www.ithome.com/1/008/704.htm",
+      "summary": "IT之家 9 月 30 日消息，当地时间 29 日，微软研究院推出了实验性多模态 AI 研究系统 Project Quine。据悉，Project Quine 是一套用于生物学研究的“世界模型”，目标是把计算生物学建模与实际湿实验衔接起来。Project Quine 由微软研究院与哈佛大学和麻省理工学院博德研究所共同开发。系统将覆盖基因组学、蛋白质、化学、细胞状态和生物成像的联合表征世界模型，与交",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Tue, 29 Sep 2026 14:51:10 GMT"
+      "published": "Wed, 30 Sep 2026 06:02:26 GMT"
     },
     {
-      "title": "别克全新君越 10 月 10 日上市，号称“搭载 50 项豪华升级”",
-      "link": "https://www.ithome.com/1/008/505.htm",
-      "summary": "IT之家 9 月 29 日消息，别克汽车今日宣布，全新君越焕新而来，搭载 50 项豪华升级，10 月 10 日正式上市。据此前官方预热，全新君越拥有超 5 米车身尺寸，轮距 1.6 米、轴距 2.9 米，均为同级最长或最宽。IT之家注意到，新车配有凌空展翼前脸、羽翼循光 LED 大灯，并带来全新的“墨竹青”车色，座舱采用环抱式游艇设计，并用大面积软质包覆搭配金属饰面，四座支持加热、通风、按摩，座椅",
+      "title": "银昕推出 ITX NAS 机箱 CS340，提供 4 个三模热插拔硬盘位",
+      "link": "https://www.ithome.com/1/008/703.htm",
+      "summary": "IT之家 9 月 30 日消息，SilverStone（银欣 / 银昕）近日推出了 ITX NAS 机箱 CS340。其兼容 Mini-ITX 与 Deep Mini-ITX 主板，支持 Flex ATX 电源，提供 4 个可热插拔的 3.5\" / 2.5\" 兼容 U.2 / SAS / SATA 三模盘位。CS340 三维 220×225×300 (mm)，内部采用可拆式主板托盘设计，拥有 1 ",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Tue, 29 Sep 2026 14:49:25 GMT"
+      "published": "Wed, 30 Sep 2026 05:58:38 GMT"
     },
     {
-      "title": "30 美元：树莓派发布智能显示模块，适配英特尔 SDM 商用屏",
-      "link": "https://www.ithome.com/1/008/504.htm",
-      "summary": "IT之家 9 月 29 日消息，树莓派官方今天宣布推出智能显示模块（Smart Display Module）。该产品适用于 Compute Module 5，可将 CM5 计算模块化身为低功耗、高质量的数字标牌显示设备，售价 30 美元（IT之家注：现汇率约合 201.6 元人民币）。据介绍，这款产品由树莓派与夏普显示解决（欧洲）共同研发，支持符合英特尔 SDM（Smart Display Mo",
+      "title": "徐直军 10 月 1 日起当值华为轮值董事长",
+      "link": "https://www.ithome.com/1/008/701.htm",
+      "summary": "IT之家 9 月 30 日消息，华为今日发布公告，根据公司轮值董事长制度，2026 年 10 月 1 日～2027 年 3 月 31 日期间由徐直军当值轮值董事长，主持公司董事会及董事会常务委员会。IT之家附徐直军简历：1993 年加入华为，徐直军历任公司无线产品线总裁、战略与 Marketing 总裁、产品与解决方案总裁、产品投资评审委员会主任、公司轮值 CEO、战略与发展委员会主任等，现任公司",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Tue, 29 Sep 2026 14:47:50 GMT"
+      "published": "Wed, 30 Sep 2026 05:51:57 GMT"
     },
     {
-      "title": "吉利登陆葡萄牙市场，三款车型同步亮相",
-      "link": "https://www.ithome.com/1/008/503.htm",
-      "summary": "IT之家 9 月 29 日消息，吉利汽车上周（9 月 24 日）宣布，吉利汽车品牌暨产品上市发布会在葡萄牙波尔图成功举办，标志着 Geely Auto 品牌正式登陆葡萄牙市场。IT之家从 Geely International 公众号获悉，吉利本次登陆葡萄牙市场的车型有 Geely E2、Geely E5 及 STARRAY EM-i 三款，覆盖纯电动与插电混动两大核心新能源赛道。满足城市通勤、全",
+      "title": "R 星剧透《GTA 6》更多玩法：玩家能打网约车、刷 SNS、健身……",
+      "link": "https://www.ithome.com/1/008/700.htm",
+      "summary": "IT之家 9 月 30 日消息，随着《GTA 6》发售日临近，Rockstar 开始加大宣传力度。《GTA 6》今天登上《Game Informer》最新一期封面，R 星进一步披露了天气系统和地图等方面的细节。R 星确认，《GTA 6》的地图规模超过其此前制作的所有游戏，面积达到《GTA 5》的两倍，细节密度也大幅增加。整个地图分为六大区域，分别是雷奥奈达礁岛群、大草泽、盖尔霍恩港、安柏西亚、卡拉",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Tue, 29 Sep 2026 14:35:36 GMT"
+      "published": "Wed, 30 Sep 2026 05:51:37 GMT"
     },
     {
-      "title": "AMD 霄龙 9006 系列服务器 CPU 发布：旗舰 256 核 EPYC 9996 售 14904 美元",
-      "link": "https://www.ithome.com/1/008/502.htm",
-      "summary": "IT之家 9 月 29 日消息，AMD 今日正式公布了 EPYC 9006 系列服务器 CPU 的定价，从 700 美元到 14,904 美元（IT之家注：现汇率约合 4,705 元到 10 万元人民币）不等。第六代 EPYC 9006（代号 Venice）服务器处理器全系共 31 款 sku，覆盖 8 核到 256 核产品。其中，旗舰型号 EPYC 9996 配备 256 个 Zen 6 核心，",
+      "title": "极氪：没有开发换电车型的规划，聚焦超快充与电混",
+      "link": "https://www.ithome.com/1/008/699.htm",
+      "summary": "IT之家 9 月 30 日消息，在吉利控股集团与蔚来公司达成充换电领域战略合作后，市场开始关注极氪是否会顺势开发换电车型。对此，极氪方面 9 月 29 日晚给出明确回应：极氪没有开发换电车型的规划。极氪表示，未来的产品路线仍将聚焦两大方向：一是具备超快充能力的纯电车型，二是行业首创的浩瀚超级电混车型，通过极致的补能技术与产品体验，为用户带来科技豪华出行体验。极氪表示，在纯电方向上，极氪拥有目前业内",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Tue, 29 Sep 2026 14:33:48 GMT"
+      "published": "Wed, 30 Sep 2026 05:37:36 GMT"
     },
     {
-      "title": "千里科技：子公司拟 3443.88 万元购买极氪智能驾驶相关资产",
-      "link": "https://www.ithome.com/1/008/501.htm",
-      "summary": "IT之家 9 月 29 日消息，千里科技今日发布公告，控股子公司重庆千里智驾科技有限公司（以下简称“千里智驾”）拟与浙江极氪汽车研究开发有限公司（以下简称“浙江极氪”）签署《资产转让协议》，向浙江极氪购买智能驾驶业务研发相关的电子设备及设备安装工程（以下简称“标的资产”），交易价格为人民币 3,443.88 万元（含增值税）。本次交易的标的资产：电子设备：本次交易的资产主要购置于 2022 年至 ",
+      "title": "Fairphone 预告 TWS 耳机 Fairbuds 2，延续模块化可维修设计",
+      "link": "https://www.ithome.com/1/008/698.htm",
+      "summary": "IT之家 9 月 30 日消息，模块化消费电子硬件品牌 Fairphone 近日正式启动新款 TWS 耳机的预热。根据其向 The Verge 透露的消息，该产品就是 Fairphone (Gen. 6+) 新闻稿中提到的 Fairbuds 2，将于 10 月 14 日正式发布。Fairbuds 2 将延续 Fairphone 产品一贯的维修友好设计，由 7 个可完全更换的模块化部件组成。其在 S",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Tue, 29 Sep 2026 14:30:20 GMT"
+      "published": "Wed, 30 Sep 2026 05:32:28 GMT"
     },
     {
-      "title": "暴雪确认《暗黑破坏神 5》游戏推出后，《暗黑破坏神 4》将持续更新赛季",
-      "link": "https://www.ithome.com/1/008/500.htm",
-      "summary": "IT之家 9 月 29 日消息，据外媒 VGC 今天报道，暴雪游戏总监 Brent Gibson 最近确认，他们并不会在《暗黑破坏神 5》推出后，强迫 4 代游戏玩家转移至新作。IT之家注意到，这名总监表示，《暗黑破坏神 5》正式上线后，《暗黑破坏神 4》仍将会持续更新赛季。他对此解释称：“我打个比方。如果你站在时代广场中央，举着一块写着‘末日将至’的牌子，那么末日并不会真的到来。我们还有很多内容",
+      "title": "戴森 AI 电动牙刷 CamaraJet 一度“下架”，官方承认早期批次产品存在渗水故障",
+      "link": "https://www.ithome.com/1/008/697.htm",
+      "summary": "IT之家 9 月 30 日消息，据彭博社今天（30 日）报道，戴森确认，新推出的 CameraJet 可视成像牙刷早期一个批次因渗水发生故障。这也是戴森首次说明 CameraJet 为何一度从零售渠道消失。CameraJet 售价 499 美元（IT之家注：现汇率约合 3,352 元人民币），通过 AI 和内置摄像头实时提供刷牙反馈。名称中的“Jet”来自牙刷喷出的漱口水水流，水流会对准牙菌斑，起",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Tue, 29 Sep 2026 14:20:47 GMT"
+      "published": "Wed, 30 Sep 2026 05:17:54 GMT"
     },
     {
-      "title": "AMD 发布 Adrenalin 26.9.2 肾上腺素驱动：新增《我的世界：地下城 2》等多款游戏支持",
-      "link": "https://www.ithome.com/1/008/498.htm",
-      "summary": "IT之家 9 月 29 日消息，AMD 今日发布了最新的 Adrenalin Edition 26.9.2 可选显卡驱动，本次更新重点带来多款新游戏支持，修复了多个主流游戏运行中的驱动异常问题。新游戏支持与性能优化《我的世界：地下城 2》《使命召唤：现代战争 4》战役抢先体验《巫师 3：狂猎 完全版》十周年纪念补丁《战争机器：事变日》《控制：共振》《不朽遗志》（Valor Mortis）Bug 修",
+      "title": "抖音终止收购联动优势，标的支付牌照此前已被中止续展",
+      "link": "https://www.ithome.com/1/008/696.htm",
+      "summary": "IT之家 9 月 30 日消息，海联金汇今日发布公告称，收到天津同融《关于终止股权转让协议的函》，经双方友好协商，终止天津同融对海联金汇旗下支付牌照公司联动优势的收购。公开资料显示，天津同融为抖音体系内公司。此前，今年 8 月底，联动优势因存在《中国人民银行行政许可实施办法》第二十四条规定情形，支付牌照被中止续展。据IT之家 2024 年 4 月报道，海联金汇当时发布公告称，拟将旗下的支付机构（联",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Tue, 29 Sep 2026 14:15:37 GMT"
+      "published": "Wed, 30 Sep 2026 05:16:33 GMT"
     },
     {
-      "title": "时隔七年重映：漫威《复仇者联盟 4：终局之战（加码臻享版）》电影票房突破 1 亿",
-      "link": "https://www.ithome.com/1/008/499.htm",
-      "summary": "IT之家 9 月 29 日消息，据灯塔专业版，截至 9 月 29 日，《复仇者联盟 4：终局之战（加码臻享版）》重映票房突破 1 亿。IT之家注意到，漫威《复仇者联盟 4：终局之战》（加码臻享版）于 9 月 25 日起正式登陆全国影院，此次重映版本总片长 185 分钟，较 2019 年原版的 181 分钟多出约 4 分钟全新内容，覆盖 IMAX、杜比影院、CINITY、中国巨幕等高规格影厅制式，同",
+      "title": "苹果 Apple Pay 登陆印度市场，初期仅支持一家银行",
+      "link": "https://www.ithome.com/1/008/694.htm",
+      "summary": "IT之家 9 月 30 日消息，据 TechCrunch 报道，苹果已于当地时间周二在印度正式推出 Apple Pay 服务。首家合作银行是印度第三大私营银行 Axis 银行。印度本土市场长期由政府支持的统一支付接口（UPI）占据主导，历经数年耽搁之后，苹果终于把这项支付服务落地到这个全球人口最多的国家。初期上线的服务范围较为有限，Apple Pay 仅支持 Axis 银行符合条件的 Visa 与",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Tue, 29 Sep 2026 14:18:02 GMT"
+      "published": "Wed, 30 Sep 2026 05:00:50 GMT"
     },
     {
-      "title": "微软将优化 Win11 ARM 设备初次开机 OOBE 流程，厂商可延后非关键驱动和固件更新",
-      "link": "https://www.ithome.com/1/008/497.htm",
-      "summary": "IT之家 9 月 29 日消息，据科技媒体 neowin 今天报道，微软正在改进使用 Win11 系统的 WoA 设备初次开机流程，让 OOBE 可以只更新关键驱动和固件。据报道，微软现已告知硬件合作伙伴，称 OOBE 现可提供特定版本的系统清单（System Manifest）。据IT之家了解，系统清单用于协调 WoA（Windows on ARM）设备的驱动程序和固件更新。如今厂商可选择在 O",
+      "title": "特朗普签署行政令把 AI 改叫 SI，推出美国政府对话式问答网站",
+      "link": "https://www.ithome.com/1/008/693.htm",
+      "summary": "IT之家 9 月 30 日消息，美东时间周二（9 月 29 日），美国总统特朗普正式签署行政令，下令所有行政部门和机构使用“超级智能”（Super Intelligence，简称 SI）一词代替人工智能（AI）。特朗普在行政令中表示：美国创新者开创的非凡技术远超“人工智能”一词初次出现时的设想。当今前沿系统的能力远不止模仿或自动化人类智能的离散方面。它们不断放大人类的创造力，解锁新的创造力形式，使",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Tue, 29 Sep 2026 14:04:37 GMT"
+      "published": "Wed, 30 Sep 2026 04:49:02 GMT"
+    },
+    {
+      "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
+      "link": "https://sspai.com/post/114945",
+      "summary": "祝你旅途顺遂，假期自由。查看全文",
+      "source": "少数派",
+      "category": "效率工具",
+      "published": "Wed, 30 Sep 2026 11:02:18 +0800"
+    },
+    {
+      "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
+      "link": "https://sspai.com/post/115197",
+      "summary": "Nothing 发布旗舰耳机 Headphone 1 Pro，AMD 斥资 82 亿美元收购 World Labs 等。查看全文",
+      "source": "少数派",
+      "category": "效率工具",
+      "published": "Wed, 30 Sep 2026 07:39:21 +0800"
     },
     {
       "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
@@ -185,20 +201,36 @@
       "published": "Mon, 28 Sep 2026 11:00:30 +0800"
     },
     {
-      "title": "派早报：OpenAI 称与苹果合作效果不佳",
-      "link": "https://sspai.com/post/115079",
-      "summary": "OpenAI 称与苹果合作效果不佳iPhone 4「天线门」媒体问答录像时隔十六年现身F-Droid 2.0 发布三星冰箱固件升级后罢工，影响韩国用户过中秋Excel 单元格将支持数组微软不再使用 Copilot+ PC 品牌看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
-      "source": "少数派",
-      "category": "效率工具",
-      "published": "Mon, 28 Sep 2026 07:03:45 +0800"
+      "title": "AMD CEO 苏姿丰成为清华经管学院顾问委员会委员",
+      "link": "https://www.solidot.org/story?sid=85510",
+      "summary": "据清华大学经济管理学院官方微信公号称，今年清华经管学院顾问委员会新增委员三人，新增接任委员五人。三位新增委员分别是黄仁勋、苏姿丰，以及瑞士百达集团高级管理合伙人百达铭（Marc Pictet）。五位新增接任委员分别是宝马集团董事长聂科维（Milan Nedeljković）、沃尔玛公司总裁兼首席执行官方威翰（John Furner）、可口可乐公司首席执行官柏瑞凯（Henrique Braun）、泛",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Wed, 30 Sep 2026 14:08:21 +0800"
     },
     {
-      "title": "本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等",
-      "link": "https://sspai.com/post/115056",
-      "summary": "《鬼武者》系列的惊艳复活，《风花雪月》的世界观延续，赛璐珞动画风格的双人历险……查看全文",
-      "source": "少数派",
-      "category": "效率工具",
-      "published": "Sun, 27 Sep 2026 17:50:09 +0800"
+      "title": "加州禁止公职人员发行模因币",
+      "link": "https://www.solidot.org/story?sid=85509",
+      "summary": "加州州长 Gavin Newsom 签署了 AB 2409 法案，禁止加州公职人员发行模因币（memecoin），也禁止企业使用公职人员的肖像或形象发行模因币。这项新法规的背景是美国总统特朗普及第一夫人在正式上任前夕发行了自己的模因币，据报道百万购买特朗普模因币的投资者损失了 38 亿美元——模因币的币值与热度密切相关，因此币值波动巨大，最知名的模因币是狗币（Dogecoin）。Newsom 表示",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Wed, 30 Sep 2026 14:03:50 +0800"
+    },
+    {
+      "title": "八分之一癌症病例由感染引起",
+      "link": "https://www.solidot.org/story?sid=85507",
+      "summary": "根据本周发表在《The Lancet Oncology》期刊上的一项研究，全世界八分之一癌症病例由感染引起。研究发现，2024 年感染性病原体相关的新癌症病例有 230 万例，占到了总新癌症病例的 12%。其中幽门螺杆菌会增加胃癌风险，这种病菌导致了 76 万例新癌症病例，数量最多，主要集中在东亚地区。其次是人乳头瘤病毒（HPV）导致了近 75 万例新癌症病例，撒哈拉以南非洲地区最多，这种病毒与宫",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Tue, 29 Sep 2026 23:25:25 +0800"
+    },
+    {
+      "title": "银行高管被 Deepfake 语音骗走 1 亿美元",
+      "link": "https://www.solidot.org/story?sid=85506",
+      "summary": "意大利最大银行 Intesa Sanpaolo 旗下私人银行业务部门 Fideuram 的总裁 Paolo Molesini 今年 2 月成为一起组合利用 WhatsApp 假信息和 Deepfake 语音的诈骗行动目标，导致逾 1 亿美元被骗走，他本人则在 3 月份辞职。Molesini 首先是收到了看起来是母公司 CEO Carlo Messina 发来的 WhatsApp 信息，要求他帮助处",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Tue, 29 Sep 2026 22:57:57 +0800"
     },
     {
       "title": "美光台工厂工会准备罢工",
@@ -289,38 +321,6 @@
       "published": "Mon, 28 Sep 2026 21:15:28 +0800"
     },
     {
-      "title": "冲动与拖延之间共享神经遗传基础",
-      "link": "https://www.solidot.org/story?sid=85494",
-      "summary": "你是否有过这样的经历，明知截止时间越来越近，却忍不住频繁刷手机、告诉自己“明天再说”？这种情况被称为拖延。一直以来，拖延被贴上懒惰、自律不足或意志力薄弱的标签，但这种看似影响学习工作以及身心健康的行为，为什么普遍存在且在进化过程中被保留下来？中国科学院心理研究所等团队证实，拖延与冲动这两种看似相反的行为，存在部分共同的生物学基础。有理论认为，拖延其实是非计划冲动性（无预案的即时冲动）的进化副产物。",
-      "source": "奇客 Solidot",
-      "category": "技术",
-      "published": "Mon, 28 Sep 2026 18:22:28 +0800"
-    },
-    {
-      "title": "英伟达 GeForce RTX 5090 成为热门走私商品",
-      "link": "https://www.solidot.org/story?sid=85493",
-      "summary": "澳门海关公布，近日积极打击水客活动，加强口岸关检执法，并运用科技手段严厉打击偷运物品进出本澳的不法行为。海关仅于一周内便破获 12 宗走私案，货物总市值达 151 万，当中包括 359 件 Apple AirPods 耳机及 2 张 GeForce RTX 5090 显卡等。12 名涉案人士年龄介乎 18 至 53 岁，当中包括 7 名内地旅客、3 名澳门居民及 2 名香港居民。澳门海关已根据《对",
-      "source": "奇客 Solidot",
-      "category": "技术",
-      "published": "Mon, 28 Sep 2026 17:52:16 +0800"
-    },
-    {
-      "title": "小偷想要偷英伟达芯片结果偷了 20 吨沙子",
-      "link": "https://www.solidot.org/story?sid=85492",
-      "summary": "上周小偷在加州 Fremont 偷走了两辆印有英伟达和 PlusAI 公司 logo 的拖车，他们可能以为发了大财，因为英伟达芯片一直在涨价，结果他们发现拖车装载了 20 吨沙子。警方和公司代表证实，两辆拖车属于自动驾驶卡车公司 PlusAI，于上周三深夜在 Fremont 仓库的装卸区被盗。PlusAI 高级营销经理 Jocelyn Ren 表示，两辆拖车里装载了总计 20 吨的沙子，公司在研发",
-      "source": "奇客 Solidot",
-      "category": "技术",
-      "published": "Mon, 28 Sep 2026 17:16:46 +0800"
-    },
-    {
-      "title": "KDE 和 GNOME 考虑如何处理 AI 生成的贡献",
-      "link": "https://www.solidot.org/story?sid=85491",
-      "summary": "众多大型自由软件开源项目近期都在讨论如何处理 AI 生成代码，其中包括了两大桌面环境 KDE 和 GNOME。两位近期没有贡献的 KDE 知名开发者在 KDE 年度 Akademy 大会上发表了 lovable, sovereign, AI-native KDE 的主题演讲，随后开发者 Nate Graham 发起了如何限制 AI 辅助贡献的讨论，但讨论很快超出了预定的范围。参与者有很多都是 KD",
-      "source": "奇客 Solidot",
-      "category": "技术",
-      "published": "Mon, 28 Sep 2026 17:03:56 +0800"
-    },
-    {
       "title": "科技爱好者周刊（第 413 期）：再见了，React Native",
       "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
       "summary": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五开始的中秋和十一假期，周刊休息。）...",
@@ -345,12 +345,116 @@
       "published": "2026-09-03T23:59:05Z"
     },
     {
-      "title": "How Delhi Cut Electricity Loss from 50 to 5 Percent",
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "link": "https://github.com/ninjahawk/livenerf",
+      "summary": "Article URL: https://github.com/ninjahawk/livenerf Comments URL: https://news.ycombinator.com/item?id=49901736 Points: 462 # Comments: 195",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Tue, 29 Sep 2026 22:36:14 +0000"
+    },
+    {
+      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+      "link": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+      "summary": "Article URL: https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/ Comments URL: https://news.ycombinator.com/item?i",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Tue, 29 Sep 2026 19:30:17 +0000"
+    },
+    {
+      "title": "AI needs $6T in annual revenue to justify data centre boom",
+      "link": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
+      "summary": "Article URL: https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/ Comments URL: https://news.ycombinator.com/item?id=49898",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Tue, 29 Sep 2026 19:21:25 +0000"
+    },
+    {
+      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+      "link": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "summary": "Article URL: https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities Comments URL: https://news.ycombinator.com/item?id=49897075 Points: 213 # Comments: 211",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Tue, 29 Sep 2026 17:31:26 +0000"
+    },
+    {
+      "title": "Tcl/Tk 9.1",
+      "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+      "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html Comments URL: https://news.ycombinator.com/item?id=49896712 Points: 261 # Comments: 105",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Tue, 29 Sep 2026 17:13:38 +0000"
+    },
+    {
+      "title": "Dots: Always-on agents",
+      "link": "https://openai.com/index/introducing-dots/",
+      "summary": "Article URL: https://openai.com/index/introducing-dots/ Comments URL: https://news.ycombinator.com/item?id=49896604 Points: 545 # Comments: 405",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Tue, 29 Sep 2026 17:07:57 +0000"
+    },
+    {
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 873 # Comments: 792",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Tue, 29 Sep 2026 17:06:45 +0000"
+    },
+    {
+      "title": "DraftKings is using AI to behaviorally target chronic gamblers",
+      "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49896050 Points: 537 # Comment",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Tue, 29 Sep 2026 16:30:48 +0000"
+    },
+    {
+      "title": "PS5 Relapse Exploit",
+      "link": "https://github.com/ntfargo/Relapse-Exploit",
+      "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit Comments URL: https://news.ycombinator.com/item?id=49895304 Points: 273 # Comments: 159",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Tue, 29 Sep 2026 15:44:41 +0000"
+    },
+    {
+      "title": "macOS Golden Gate Is a Buggy Mess",
+      "link": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
+      "summary": "Article URL: https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/ Comments URL: https://news.ycombinator.com/item?id=49894005 Points: 450 # Comments: 325",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Tue, 29 Sep 2026 14:32:33 +0000"
+    },
+    {
+      "title": "America.gov",
+      "link": "https://america.gov/",
+      "summary": "Article URL: https://america.gov/ Comments URL: https://news.ycombinator.com/item?id=49893509 Points: 491 # Comments: 413",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Tue, 29 Sep 2026 14:04:57 +0000"
+    },
+    {
+      "title": "Ask HN: What are you reading?",
+      "link": "https://news.ycombinator.com/item?id=49893157",
+      "summary": "I'm plowing through the Dungeon Crawler Carl series, which is not particularly challenging as sci-fi/LitRPG goes, but entertaining enough. I'm also wrapping up Doctorow's _Enshittification_, and I'm l",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Tue, 29 Sep 2026 13:44:43 +0000"
+    },
+    {
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
       "link": "https://spectrum.ieee.org/delhi-electricity-loss",
-      "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss Comments URL: https://news.ycombinator.com/item?id=49892245 Points: 210 # Comments: 128",
+      "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss Comments URL: https://news.ycombinator.com/item?id=49892245 Points: 489 # Comments: 277",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Tue, 29 Sep 2026 12:43:29 +0000"
+    },
+    {
+      "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
+      "link": "https://www.cbc.ca/lite/story/9.7361622",
+      "summary": "Article URL: https://www.cbc.ca/lite/story/9.7361622 Comments URL: https://news.ycombinator.com/item?id=49892120 Points: 249 # Comments: 132",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Tue, 29 Sep 2026 12:33:50 +0000"
     },
     {
       "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
@@ -359,114 +463,10 @@
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Tue, 29 Sep 2026 11:44:25 +0000"
-    },
-    {
-      "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
-      "link": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive Comments URL: https://news.ycombinator.com/item?id=49891480 Points:",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Tue, 29 Sep 2026 11:35:18 +0000"
-    },
-    {
-      "title": "You Are No Longer Invited to Dinner",
-      "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
-      "summary": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host Comments URL: https://news.ycombinator.com/item?id=49891295 Points: 435 # Comments: 378",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Tue, 29 Sep 2026 11:14:45 +0000"
-    },
-    {
-      "title": "AI companies leak data to advertisers [pdf]",
-      "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "summary": "Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf Comments URL: https://news.ycombinator.com/item?id=49890226 Points",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Tue, 29 Sep 2026 09:03:41 +0000"
-    },
-    {
-      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "link": "https://github.com/firelex/jeff",
-      "summary": "Article URL: https://github.com/firelex/jeff Comments URL: https://news.ycombinator.com/item?id=49883844 Points: 545 # Comments: 209",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Mon, 28 Sep 2026 20:23:36 +0000"
-    },
-    {
-      "title": "World Labs is Joining AMD",
-      "link": "https://www.worldlabs.ai/blog/amd-announcement",
-      "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement Comments URL: https://news.ycombinator.com/item?id=49883760 Points: 293 # Comments: 111",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Mon, 28 Sep 2026 20:18:05 +0000"
-    },
-    {
-      "title": "California farmers are struggling to sell grapes as demand for wine drops",
-      "link": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
-      "summary": "Article URL: https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops Comments URL: https://news.ycombinator.com/item?id=49883539 Points: 313 # Comm",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Mon, 28 Sep 2026 20:00:06 +0000"
-    },
-    {
-      "title": "It's Time to Investigate the AI Labs",
-      "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-      "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/ Comments URL: https://news.ycombinator.com/item?id=49883471 Points: 561 # Comments: 238",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Mon, 28 Sep 2026 19:53:35 +0000"
-    },
-    {
-      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "link": "https://stateofutopia.com/experiments/microllmlab/",
-      "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/ Comments URL: https://news.ycombinator.com/item?id=49882781 Points: 265 # Comments: 98",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Mon, 28 Sep 2026 18:58:53 +0000"
-    },
-    {
-      "title": "So long Google, and thanks for all the nudes",
-      "link": "https://lecaro.me/20260921-google-less.html",
-      "summary": "Article URL: https://lecaro.me/20260921-google-less.html Comments URL: https://news.ycombinator.com/item?id=49881951 Points: 255 # Comments: 106",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Mon, 28 Sep 2026 18:04:47 +0000"
-    },
-    {
-      "title": "Sonnet 5.5",
-      "link": "https://www.anthropic.com/claude-sonnet-5-5",
-      "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5 Comments URL: https://news.ycombinator.com/item?id=49881850 Points: 848 # Comments: 580",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Mon, 28 Sep 2026 17:58:11 +0000"
-    },
-    {
-      "title": "Windows 11½",
-      "link": "https://definitelynotwindows.com/",
-      "summary": "Article URL: https://definitelynotwindows.com/ Comments URL: https://news.ycombinator.com/item?id=49881747 Points: 503 # Comments: 166",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Mon, 28 Sep 2026 17:51:24 +0000"
-    },
-    {
-      "title": "Phyllotaxis: An audio-reactive LED display",
-      "link": "https://jagi.studio/posts/phyllotaxis/",
-      "summary": "Article URL: https://jagi.studio/posts/phyllotaxis/ Comments URL: https://news.ycombinator.com/item?id=49880411 Points: 204 # Comments: 30",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Mon, 28 Sep 2026 16:18:57 +0000"
-    },
-    {
-      "title": "The problem is not AI code, but not knowing about system architecture or intent",
-      "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
-      "summary": "Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/ Comments URL: https://news.ycombinator.com/item?id=49880312 Points: 374 # Comments: 237",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Mon, 28 Sep 2026 16:11:42 +0000"
     }
   ],
   "count": 58,
   "sources_ok": 5,
   "errors": [],
-  "fetched_at": "2026-09-29T23:40:52+08:00"
+  "fetched_at": "2026-09-30T14:35:34+08:00"
 }
