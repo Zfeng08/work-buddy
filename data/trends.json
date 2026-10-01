@@ -4,203 +4,203 @@
       "full_name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
-      "stars": 49965,
-      "stars_today": 3481,
+      "stars": 50475,
+      "stars_today": 3483,
       "language": "Python"
     },
     {
       "full_name": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "stars": 11775,
-      "stars_today": 1280,
+      "stars": 12730,
+      "stars_today": 1281,
       "language": "Rust"
     },
     {
       "full_name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
-      "stars": 62034,
-      "stars_today": 1203,
+      "stars": 62143,
+      "stars_today": 1205,
       "language": "Python"
     },
     {
       "full_name": "t8y2/dbx",
       "url": "https://github.com/t8y2/dbx",
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-      "stars": 22931,
-      "stars_today": 1133,
+      "stars": 23206,
+      "stars_today": 1138,
       "language": "Rust"
-    },
-    {
-      "full_name": "byoungd/up",
-      "url": "https://github.com/byoungd/up",
-      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-      "stars": 66246,
-      "stars_today": 1102,
-      "language": "JavaScript"
     },
     {
       "full_name": "VectifyAI/PageIndex",
       "url": "https://github.com/VectifyAI/PageIndex",
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "stars": 37949,
-      "stars_today": 1095,
+      "stars": 38144,
+      "stars_today": 1097,
       "language": "Python"
     },
     {
       "full_name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 272734,
-      "stars_today": 736,
+      "stars": 273026,
+      "stars_today": 876,
       "language": "Shell"
     },
     {
       "full_name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 148801,
-      "stars_today": 675,
+      "stars": 149214,
+      "stars_today": 743,
+      "language": "JavaScript"
+    },
+    {
+      "full_name": "byoungd/up",
+      "url": "https://github.com/byoungd/up",
+      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "stars": 66400,
+      "stars_today": 743,
       "language": "JavaScript"
     },
     {
       "full_name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 270027,
-      "stars_today": 650,
+      "stars": 270226,
+      "stars_today": 664,
       "language": "JavaScript"
+    },
+    {
+      "full_name": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "stars": 15994,
+      "stars_today": 635,
+      "language": "Python"
     },
     {
       "full_name": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-      "stars": 2800,
-      "stars_today": 622,
+      "stars": 3039,
+      "stars_today": 624,
       "language": "TypeScript"
     },
     {
       "full_name": "oblien/openship",
       "url": "https://github.com/oblien/openship",
       "description": "Self-hosted deployment platform",
-      "stars": 14165,
-      "stars_today": 582,
+      "stars": 14220,
+      "stars_today": 581,
       "language": "TypeScript"
-    },
-    {
-      "full_name": "HunxByts/GhostTrack",
-      "url": "https://github.com/HunxByts/GhostTrack",
-      "description": "Useful tool to track location or mobile number",
-      "stars": 15877,
-      "stars_today": 579,
-      "language": "Python"
     },
     {
       "full_name": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "description": "🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.",
-      "stars": 186992,
-      "stars_today": 579,
+      "stars": 187199,
+      "stars_today": 555,
       "language": "TypeScript"
-    },
-    {
-      "full_name": "NawfalMotii79/PLFM_RADAR",
-      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-      "stars": 26343,
-      "stars_today": 466,
-      "language": "PLSQL"
     },
     {
       "full_name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
-      "stars": 72855,
-      "stars_today": 403,
+      "stars": 73036,
+      "stars_today": 463,
       "language": "JavaScript"
-    },
-    {
-      "full_name": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "stars": 54519,
-      "stars_today": 352,
-      "language": "TypeScript"
     },
     {
       "full_name": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "stars": 127367,
-      "stars_today": 338,
+      "stars": 127578,
+      "stars_today": 431,
+      "language": "Python"
+    },
+    {
+      "full_name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "stars": 54751,
+      "stars_today": 349,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "stars": 17377,
+      "stars_today": 340,
       "language": "Python"
     },
     {
       "full_name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "stars": 91467,
-      "stars_today": 333,
+      "stars": 91561,
+      "stars_today": 323,
       "language": "JavaScript"
     },
     {
       "full_name": "alphaXiv/OpenResearch",
       "url": "https://github.com/alphaXiv/OpenResearch",
       "description": "Turn your coding agents into research agents",
-      "stars": 6259,
-      "stars_today": 280,
+      "stars": 6304,
+      "stars_today": 308,
       "language": "Rust"
     },
     {
       "full_name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "stars": 6021,
-      "stars_today": 278,
+      "stars": 6097,
+      "stars_today": 285,
       "language": "Python"
+    },
+    {
+      "full_name": "NawfalMotii79/PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "stars": 26426,
+      "stars_today": 263,
+      "language": "PLSQL"
     },
     {
       "full_name": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 95678,
-      "stars_today": 272,
+      "stars": 95736,
+      "stars_today": 236,
       "language": "Rust"
-    },
-    {
-      "full_name": "ifixai-ai/iFixAi",
-      "url": "https://github.com/ifixai-ai/iFixAi",
-      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
-      "stars": 16864,
-      "stars_today": 250,
-      "language": "Python"
     },
     {
       "full_name": "longbridge/gpui-kit",
       "url": "https://github.com/longbridge/gpui-kit",
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
-      "stars": 15237,
-      "stars_today": 187,
+      "stars": 15330,
+      "stars_today": 190,
       "language": "Rust"
-    },
-    {
-      "full_name": "qbittorrent/search-plugins",
-      "url": "https://github.com/qbittorrent/search-plugins",
-      "description": "Search plugins for qBittorrent search feature",
-      "stars": 7040,
-      "stars_today": 174,
-      "language": "Python"
     },
     {
       "full_name": "github/spec-kit",
       "url": "https://github.com/github/spec-kit",
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "stars": 139529,
-      "stars_today": 170,
+      "stars": 139607,
+      "stars_today": 168,
+      "language": "Python"
+    },
+    {
+      "full_name": "qbittorrent/search-plugins",
+      "url": "https://github.com/qbittorrent/search-plugins",
+      "description": "Search plugins for qBittorrent search feature",
+      "stars": 7055,
+      "stars_today": 150,
       "language": "Python"
     }
   ],
-  "count": 90,
-  "fetched_at": "2026-09-30T23:51:10+08:00"
+  "count": 91,
+  "fetched_at": "2026-10-01T09:37:49+08:00"
 }

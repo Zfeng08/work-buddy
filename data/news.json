@@ -1,92 +1,12 @@
 {
   "items": [
     {
-      "title": "三星发布 Galaxy SmartTag 3 追踪器：体积缩小 35%，续航最长 790 天",
-      "link": "https://www.ithome.com/1/008/944.htm",
-      "summary": "IT之家 9 月 30 日消息，三星电子今日宣布推出新一代 Galaxy SmartTag3 追踪器。该产品体积比前代小约 35%，重量轻 33%，单个售价 29.99 美元（现汇率约合 201.5 元人民币），四件装 99.99 美元（IT之家注：现汇率约合 671.7 元人民币），将于 11 月初上市，提供白、黑两色，还可单独购买硅胶保护壳和环扣保护壳等配件。三星 Galaxy SmartTa",
+      "title": "2026 年 9 月汽车销量 / 交付汇总（持续更新）：小米超 4 万台，华境 S 大六座 SUV 交付 7416 台",
+      "link": "https://www.ithome.com/1/008/990.htm",
+      "summary": "IT之家 10 月 1 日消息，各大车企今日起陆续交出了 2026 年 9 月份销量、交付量的成绩单，IT之家为大家实时更新和汇总如下。小米汽车：40,000 辆（备注：原文为“交付量超过 40,000 台”，2026 年 8 月交付量持续超过 30,000 台；小米澎程：原文为“小米澎程首月交付超过 10,000 台”；澎程系列具体首销月数据定在 10 月 7 日公布）。其中：小米澎程：10,0",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Wed, 30 Sep 2026 15:46:55 GMT"
-    },
-    {
-      "title": "微软 Win11 27H2 前瞻：预计将基于全新 Strontium 平台，Win12 仍难现身",
-      "link": "https://www.ithome.com/1/008/943.htm",
-      "summary": "IT之家 9 月 30 日消息，据 Windows Central 今日报道，尽管微软尚未确认 Windows 11 27H2 的发布计划，但消息人士称 27H2 可能重新统一目前分裂的 Windows 11 平台。自 25H2/26H1 开始，微软首次将 Win11 用户群分成两部分。多数用户继续使用 Germanium 平台，包括 24H2、25H2 和 26H2；而 26H1 则基于新的 B",
-      "source": "IT之家",
-      "category": "科技商业",
-      "published": "Wed, 30 Sep 2026 15:29:35 GMT"
-    },
-    {
-      "title": "美国外卖平台 DoorDash 将在加州北部推出无人机送餐服务，最快 5 分钟送达",
-      "link": "https://www.ithome.com/1/008/942.htm",
-      "summary": "IT之家 9 月 30 日消息，美国外卖平台 DoorDash 宣布将在加利福尼亚州北部推出无人机送餐服务，初期合作餐厅涵盖 Chipotle（奇波雷墨西哥烧烤）、Popeyes（博派斯）。据介绍，DoorDash 将使用轻型无人机完成送餐任务。执行送餐的无人机配备 6 个螺旋桨，飞行时噪音与行驶的汽车相近。理想情况下，外卖从商家送到顾客家门口的速度为 5 分钟。该公司将应用全新配送管理系统，综合",
-      "source": "IT之家",
-      "category": "科技商业",
-      "published": "Wed, 30 Sep 2026 15:29:30 GMT"
-    },
-    {
-      "title": "169 美元：舒尔发布第二代 MV6 USB 游戏麦克风，支持实时降噪",
-      "link": "https://www.ithome.com/1/008/941.htm",
-      "summary": "IT之家 9 月 30 日消息，舒尔（Shure）今天宣布推出第二代 MV6 USB 游戏麦克风（MV6 Gen 2）。新品专为电竞发烧友、主播等群体打造，带来一系列新技术，售价 169 美元（IT之家注：现汇率约合 1,135 元人民币）/150 欧元（现汇率约合 1,143 元人民币）。据介绍，这款麦克风采用舒尔全新语音隔离技术，新增自动电平模式和实时可调降噪，可以更好地滤除环境噪音，并平衡说",
-      "source": "IT之家",
-      "category": "科技商业",
-      "published": "Wed, 30 Sep 2026 15:21:22 GMT"
-    },
-    {
-      "title": "Glow Security：AI 智能体无意间泄露企业敏感信息，超 1.3 万张截图被放在 GitHub 公开仓库",
-      "link": "https://www.ithome.com/1/008/938.htm",
-      "summary": "IT之家 9 月 30 日消息，据科技媒体 TechRadar 今天报道，网络安全研究机构 Glow Security 近日发现，多个 AI 智能体创建的公开 GitHub 仓库存在超 1.3 万张屏幕截图，其中部分截图包含各种科技公司的敏感信息。IT之家从原报道获悉，这种泄密方式被称为“PixelLeak”。研究人员解释称，人类有时候可能会要求 AI 智能体提供项目修改前后的对比图，这时智能体需",
-      "source": "IT之家",
-      "category": "科技商业",
-      "published": "Wed, 30 Sep 2026 15:11:23 GMT"
-    },
-    {
-      "title": "砺算 LX 7G100 显卡获推 Windows 驱动程序 30.0.2260.773，含 34 修复、33 优化",
-      "link": "https://www.ithome.com/1/008/937.htm",
-      "summary": "IT之家 9 月 30 日消息，砺算 (LiSuan) 本月 28 日为其消费级显卡 LX 7G100 推送了 Pilot Release v30.0.2260.773 和 WHQL Release v29.0.2260.697 两版 Windows 操作系统驱动程序。IT之家注意到，WHQL Release v29.0.2260.697 的发行说明并未提及具体改进；Pilot Release v",
-      "source": "IT之家",
-      "category": "科技商业",
-      "published": "Wed, 30 Sep 2026 15:06:15 GMT"
-    },
-    {
-      "title": "OpenAI Dot 虚拟机配置曝光：AMD 霄龙 9V74 处理器 + 9.73GB 内存，Geekbench 7 多核 9435 分",
-      "link": "https://www.ithome.com/1/008/936.htm",
-      "summary": "IT之家 9 月 30 日消息，OpenAI 今日凌晨在 DevDay 活动上发布了 Dot 智能体，而每个 Dot 运行在独立的云端虚拟机中。Dot 虚拟机现已出现在 Geekbench 基准测试平台中，显示其搭载了 AMD EPYC 9V74 服务器处理器，每个 Dot 虚拟机实例分配 9 个核心，单核得分 1667，多核得分 9435。另外，该实例配备 9.73GB 内存和 32GB 存储空",
-      "source": "IT之家",
-      "category": "科技商业",
-      "published": "Wed, 30 Sep 2026 15:03:39 GMT"
-    },
-    {
-      "title": "GEEKOM 推出 GeekBook M14 笔记本，可选酷睿 Ultra 5 125U / 锐龙 5 220 处理器",
-      "link": "https://www.ithome.com/1/008/935.htm",
-      "summary": "IT之家 9 月 30 日消息，GEEKOM（积核）现已在美国市场推出 GeekBook M14 笔记本，新品可选英特尔或 AMD 处理器，最高可选配 16GB 内存和 72Wh 电池。据介绍，这款笔记本可选择英特尔酷睿 Ultra 5 125U 或 AMD 锐龙 5 220 处理器，内存为 16GB，硬盘可选 256GB/512GB SSD。同时，该笔记本配备 72Wh 电池，续航最长可达 17",
-      "source": "IT之家",
-      "category": "科技商业",
-      "published": "Wed, 30 Sep 2026 14:56:11 GMT"
-    },
-    {
-      "title": "TrendForce 预测：DRAM 内存、NAND 闪存合约价 2026Q4 还将上涨 15~20%",
-      "link": "https://www.ithome.com/1/008/934.htm",
-      "summary": "IT之家 9 月 30 日消息，TrendForce（集邦）今日发布存储器市场 2026Q4 走势预测：一般 DRAM 合约价将环比上涨 10~15%，计入 HBM 后的整体 DRAM 合约价上涨 15~20%；NAND 闪存整体合约价也将环比上涨 15~20%。从整体上来看，DRAM 上游原厂将持续把先进制程产能投入高性能服务器产品，整体维持供应不足格局，但合约价涨势放缓；NAND 市场则呈现 ",
-      "source": "IT之家",
-      "category": "科技商业",
-      "published": "Wed, 30 Sep 2026 14:51:17 GMT"
-    },
-    {
-      "title": "《足球经理 27》11 月 10 日发售：新增动态天气，球员建模升级",
-      "link": "https://www.ithome.com/1/008/933.htm",
-      "summary": "IT之家 9 月 30 日消息，由 Sports Interactive 开发、世嘉发行的足球模拟游戏《足球经理 27》确认将于 11 月 10 日发售。新作将在比赛观感、球场环境和玩家战术表达等方面进行改进。《足球经理 27》将采用更加直观的操作界面，减少玩家完成常用操作所需的点击次数。同时，游戏世界进一步丰富，加入更加细致的观众反应、动态天气和改进后的光照效果，并为玩家提供更大的战术表达空间。",
-      "source": "IT之家",
-      "category": "科技商业",
-      "published": "Wed, 30 Sep 2026 14:48:37 GMT"
-    },
-    {
-      "title": "《英雄不再》系列游戏开发商草蜢工作室宣布脱离网易，独立运营",
-      "link": "https://www.ithome.com/1/008/932.htm",
-      "summary": "IT之家 9 月 30 日消息，据外媒 Insider Gaming 今天报道，曾开发《英雄不再》系列游戏的草蜢工作室（Grasshopper Manufacture）宣布，自 2026 年 10 月 1 日起公司将脱离网易游戏，重新成为独立开发商。IT之家了解到，网易游戏 2021 年宣布收购草蜢工作室。网易方面为草蜢提供游戏开发资金，并提供数千名开发人员支持。草蜢工作室创办人须田刚一对此表示，",
-      "source": "IT之家",
-      "category": "科技商业",
-      "published": "Wed, 30 Sep 2026 14:42:08 GMT"
+      "published": "Thu, 01 Oct 2026 01:36:55 GMT"
     },
     {
       "title": "黑爵带来 AJ159 V2 ULTRA 鼠标：PAW3955，换电设计，319 元起",
@@ -97,28 +17,108 @@
       "published": "Wed, 30 Sep 2026 14:37:05 GMT"
     },
     {
-      "title": "Sonnet 推出 Solo10G T5，号称首款总线供电雷电 5 万兆网卡",
-      "link": "https://www.ithome.com/1/008/927.htm",
-      "summary": "IT之家 9 月 30 日消息，连接性外设制造商 Sonnet 近日推出号称首款总线供电雷电 5 万兆网卡的 Solo10G T5 适配器。Solo10G T5 采用 Marvell AQC113C 芯片，提供 1 个 10GbE RJ-45 有线网口，功耗 7.5W。其三维 79.5×114×27.2 (mm)，拥有铝制被动散热机身，附带可更换的雷电 5 线缆。其兼容基于 M 系列芯片的苹果 M",
+      "title": "HAVN HS 360 机箱发售：标准版 999 元，VGPU 套装 1499 元",
+      "link": "https://www.ithome.com/1/008/989.htm",
+      "summary": "IT之家 10 月 1 日消息，HAVN（辉帆）现已在电商平台销售 HS 360 机箱，标准版 999 元、包含显卡竖装套件（含 PCIe Gen5 延长线、风道导流板）的 VGPU 套装 1499 元。HS 360 机箱三维 490.9 × 242.1 × 520.9 (mm)，属于中塔 ATX 类型。其采用左右分舱布局，配备 R7.5mm 大曲率全景钢化玻璃面板，兼容背插主板，支持 430mm",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Wed, 30 Sep 2026 14:25:30 GMT"
+      "published": "Thu, 01 Oct 2026 01:35:11 GMT"
     },
     {
-      "title": "598 元，微软 XBOX 手柄《战争机器：事变日》限定版开售",
-      "link": "https://www.ithome.com/1/008/925.htm",
-      "summary": "IT之家 9 月 30 日消息，微软 XBOX 手柄《战争机器：事变日》限定版现已开售，新品拥有别具一格的外观，功能与普通版 XBOX Series 手柄无任何区别，售价 598 元。据介绍，这款手柄整体采用黑红配色，手柄正中央带有象征死亡降临的“猩红预兆”标记，配备纯黑 ABY 按键、透明红色扳机键、X 键与方向键，致敬守卫卡洛纳、抵御怪物浪潮的战斗。电池盖上还带有 COG 兵籍牌，致敬“永不独",
+      "title": "Take-Two 新协议曝光：XBOX“Project Helix”并非单台主机，而是硬件全家桶",
+      "link": "https://www.ithome.com/1/008/988.htm",
+      "summary": "IT之家 10 月 1 日消息，《GTA 6》的发行商 Take‑Two 已经签署了一份全新协议。根据这份协议，Take‑Two 有权在全部 XBOX 设备上制作并销售适配 XBOX 平台的新款游戏。这进一步说明，代号为“Project Helix”的项目将会是一整套硬件产品线，并非单一主机。IT之家注意到，微软正在筹备自家的下一代硬件平台。这套平台显然是一套完整的产品生态，而不是一台独立的游戏机",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Wed, 30 Sep 2026 14:19:57 GMT"
+      "published": "Thu, 01 Oct 2026 01:32:12 GMT"
     },
     {
-      "title": "曝美国联邦贸易委员会对 Anthropic、OpenAI 及其他 AI 实验室加大调查力度",
-      "link": "https://www.ithome.com/1/008/924.htm",
-      "summary": "IT之家 9 月 30 日消息，据纽约邮报消息，政府官员透露，美国联邦贸易委员会 FTC 正在加大对 Anthropic、OpenAI 及其他前沿人工智能实验室的全面调查力度，旨在彻查其技术可能对消费者造成的潜在风险。FTC 计划向这些科技巨头下达类似于传票的正式要求，强制其提交相关信息。2026 年 7 月，Hugging Face 的人工智能开源社区遭遇 OpenAI 智能体入侵。据悉，FTC",
+      "title": "生物安全领域里程碑：谷歌 DeepMind 首创 AI 蛋白质水印技术",
+      "link": "https://www.ithome.com/1/008/940.htm",
+      "summary": "IT之家 9 月 30 日消息，谷歌今日推出 SynthID Bio，将数字水印技术引入合成生物学领域。该技术可将不可感知的签名直接嵌入生物编码，不仅能在数字模型上验证，还可在合成的物理蛋白质上完成验证，同时在实验室测试中保持蛋白质的生物学功能。生成式 AI 正在帮助科学家解决关键生物学挑战，从预测蛋白质结构到设计全新蛋白质，再到开发新型噬菌体。但这类工具也带来了新挑战：新型 AI 设计可能绕过传",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Wed, 30 Sep 2026 14:13:22 GMT"
+      "published": "Thu, 01 Oct 2026 01:28:53 GMT"
+    },
+    {
+      "title": "华境 S 大六座 SUV 9 月交付 7416 台：连续 5 个月增长，标配华为乾崑智驾 ADS 5 Pro",
+      "link": "https://www.ithome.com/1/008/985.htm",
+      "summary": "IT之家 10 月 1 日消息，华境汽车官方今日宣布，旗下华境 S 大六座 SUV 9 月交付 7416 台。该车标配华为乾崑智驾 ADS 5 Pro，实现连续 5 个月稳步增长。目前，华境 S 累计交付已突破 3 万台，销量创新高。据IT之家了解，华境 S 是上汽通用五菱与华为合作的首款搭载华为乾崑科技旗舰大六座 SUV，2026 年 8 月交付 7306 台、7 月交付 7203 台、6 月交",
+      "source": "IT之家",
+      "category": "科技商业",
+      "published": "Thu, 01 Oct 2026 01:19:59 GMT"
+    },
+    {
+      "title": "《真・三国无双 2 with 猛将传 Remastered》登陆 Steam，国区 198 元起",
+      "link": "https://www.ithome.com/1/008/979.htm",
+      "summary": "IT之家 10 月 1 日消息，光荣特库摩经典《真・三国无双》系列里程碑作品重制版《真・三国无双 2 with 猛将传 Remastered》今日正式登陆 Steam 平台，国区标准版定价 198 元，数字豪华版定价 328 元，9 月 30 日正式解锁。IT之家附游戏商品页（https://store.steampowered.com/app/3841510/）。本作由 KOEI TECMO G",
+      "source": "IT之家",
+      "category": "科技商业",
+      "published": "Thu, 01 Oct 2026 01:12:34 GMT"
+    },
+    {
+      "title": "用户反馈谷歌 Android Auto 故障：小折叠手机闭合状态下无法拨打电话",
+      "link": "https://www.ithome.com/1/008/984.htm",
+      "summary": "IT之家 10 月 1 日消息，科技媒体 Android Headline 昨日（9 月 30 日）发布博文，报道称 Android Auto 近期出现 Bug，导致小折叠手机在闭合状态下无法拨出电话，谷歌和摩托罗拉已介入调查，但尚未发布修复方案。Android Auto 是谷歌推出的车载系统，可将安卓手机界面投射至车机屏幕，支持导航、音乐、通话等功能，通过语音或触控操作。在影响机型方面，摩托罗拉",
+      "source": "IT之家",
+      "category": "科技商业",
+      "published": "Thu, 01 Oct 2026 01:16:27 GMT"
+    },
+    {
+      "title": "谷歌推出 Gemini 4 Argon 旗舰 AI 模型，消息称其实战性能遭员工质疑",
+      "link": "https://www.ithome.com/1/008/982.htm",
+      "summary": "IT之家 10 月 1 日消息，据彭博社报道，Alphabet 公司旗下的谷歌已经开始逐步推出备受期待的旗舰人工智能模型 Gemini 4 Argon，但这家企业内部对于该模型在代码编写等核心领域的实际表现尚存质疑。谷歌于当地时间周三向一小批经过筛选、值得信任的网络安全合作伙伴开放了这款模型，并表示会在完成更多测试之后扩大开放范围，优先面向付费订阅用户。谷歌称，Gemini 4 在多项基准测试当中",
+      "source": "IT之家",
+      "category": "科技商业",
+      "published": "Thu, 01 Oct 2026 01:14:56 GMT"
+    },
+    {
+      "title": "阿斯顿 · 马丁全新 DBX GT 发布：强调“精致豪华”，最大输出 717 马力",
+      "link": "https://www.ithome.com/1/008/981.htm",
+      "summary": "IT之家 10 月 1 日消息，北京时间今天（1 日）凌晨，阿斯顿 · 马丁全新 DBX GT 正式发布。不同于 DBX S 等版本，DBX GT 没有把性能作为主要卖点，而是在标准版基础上强化豪华和精致。外观方面，DBX GT 换上专属双叶片式前格栅，可选择亮色或深色饰面，两侧进气口也重新设计。新车还增加两段式金属侧饰板，前保险杠、侧裙和后扩散器均采用与车身相同的颜色，并配备 22 英寸缎面钛色",
+      "source": "IT之家",
+      "category": "科技商业",
+      "published": "Thu, 01 Oct 2026 01:14:31 GMT"
+    },
+    {
+      "title": "AMD 锐龙 AI Max+ PRO 495 版 Framework Desktop 预售，含 192GB 内存 6,469 美元起",
+      "link": "https://www.ithome.com/1/008/978.htm",
+      "summary": "IT之家 10 月 1 日消息，模块化 PC 制造商 Framework 当地时间 9 月 30 日启动了 ITX 迷你主机 Framework Desktop 最新配置的预售。该机型仅支持 Linux 操作系统。这一新配置基于 AMD 锐龙 AI Max+ PRO 495 \"Gorgon Halo\" 处理器，包含 192GB LPDDR5X-8533 内存。单主板价格为 6,469 美元（IT之",
+      "source": "IT之家",
+      "category": "科技商业",
+      "published": "Thu, 01 Oct 2026 01:09:46 GMT"
+    },
+    {
+      "title": "澎程系列上市首月交付即破万，小米汽车 9 月交付量超 4 万台",
+      "link": "https://www.ithome.com/1/008/977.htm",
+      "summary": "IT之家 10 月 1 日消息，小米汽车官微刚刚宣布，2026 年 9 月，小米汽车交付量超过 40,000 台。小米创办人、董事长兼 CEO 雷军透露，其中小米澎程首月交付超过 10,000 台。2026 年 8 月，小米汽车交付量持续超过 30,000 台。IT之家附小米汽车 2026 年各月交付量：1 月交付量超 39,000 台2 月交付量超 20,000 台3 月交付量超 20,000 ",
+      "source": "IT之家",
+      "category": "科技商业",
+      "published": "Thu, 01 Oct 2026 01:07:27 GMT"
+    },
+    {
+      "title": "谷歌携手“超人”卡维尔使用 Googlebook 开发游戏，计划 11 月推出",
+      "link": "https://www.ithome.com/1/008/976.htm",
+      "summary": "IT之家 10 月 1 日消息，科技媒体 Android Headline 昨日（9 月 30 日）发布博文，报道称演员亨利 · 卡维尔（Henry Cavill）与谷歌（Google）达成合作，将使用谷歌新款笔记本电脑 Googlebook 开发一款电子游戏，并计划于 2026 年 11 月发布。IT之家查询公开资料，卡维尔于 1983 年 5 月在英国出生，2013 年主演的《超人：钢铁之躯》",
+      "source": "IT之家",
+      "category": "科技商业",
+      "published": "Thu, 01 Oct 2026 01:06:23 GMT"
+    },
+    {
+      "title": "华硕推出 VG34WQML5F 曲面 VA 显示器，支持 WQHD / WFHD / WHD 三模",
+      "link": "https://www.ithome.com/1/008/975.htm",
+      "summary": "IT之家 10 月 1 日消息，华硕 (ASUS) 现已在官网上线 TUF Gaming VG34WQML5F 显示器。这一型号采用 34\" 1500R Fast VA 面板，响应时间低至 0.5ms，获得 VESA DisplayHDR 400 认证。VG34WQML5F 支持 WQHD(3440×1440) 260Hz / WFHD(2580×1080) 320Hz / WHD(1720×72",
+      "source": "IT之家",
+      "category": "科技商业",
+      "published": "Thu, 01 Oct 2026 00:56:33 GMT"
+    },
+    {
+      "title": "特斯拉 Model 3 配置升级：16 英寸中控屏、浅灰色高级内饰，新增交流外供电功能",
+      "link": "https://www.ithome.com/1/008/974.htm",
+      "summary": "IT之家 10 月 1 日消息，据特斯拉官方消息，Model 3 车型迎来更新：现款在售 Model 3 全系车型升级 16 英寸高清触摸屏，并可选购浅灰色高级内饰；同时，Model 3/Y 全系在售车型上线交流外供电功能。购车层面，2026 年 10 月 31 日（含）前下单 Model 3，可享限时尾款立减 5000 元；叠加相关权益后，Model 3 售价 222,500 元起。从配置变化看",
+      "source": "IT之家",
+      "category": "科技商业",
+      "published": "Thu, 01 Oct 2026 00:56:30 GMT"
     },
     {
       "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
@@ -201,6 +201,14 @@
       "published": "Mon, 28 Sep 2026 17:33:03 +0800"
     },
     {
+      "title": "PS5 越狱取得突破",
+      "link": "https://www.solidot.org/story?sid=85520",
+      "summary": "由于索尼频繁更新 PS5 的固件，而大部分 PS5 越狱方法只针对特定固件版本的漏洞，因而这些越狱方法实用性相当有限。但情况在本周二发生了变化，名为 Relapse 的漏洞利用方法适用于最高固件版本 v13.6 的 PS5 游戏机，而 v13.6 是在今年 7 月释出的，意味着 PS5 只要不更新最新固件，就能成功越狱。Relapse 利用了 PS5 浏览器的一个已知的 WebKit 漏洞，提权获",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Thu, 01 Oct 2026 01:01:06 +0800"
+    },
+    {
       "title": "CNNIC 称中国生成式 AI 用户超 7 亿",
       "link": "https://www.solidot.org/story?sid=85519",
       "summary": "中国互联网络信息中心（CNNIC）发布了《生成式人工智能应用发展报告（2026）》，截至 2026 年上半年，我国生成式人工智能用户规模突破 7亿 人，普及率超 50%。76.0%的 用户表示自己会让生成式人工智能回答问题；使用生成式人工智能处理图片/视频、文本、工作总结/会议纪要/PPT的用户占比分别为 47.8%、37.6% 和 32.5%。数据显示，38.7%的网民近半年在网上购买过智能硬件",
@@ -215,6 +223,14 @@
       "source": "奇客 Solidot",
       "category": "技术",
       "published": "Wed, 30 Sep 2026 23:01:13 +0800"
+    },
+    {
+      "title": "美国佛蒙特州通过家庭电池储能网络应对气候变化",
+      "link": "https://www.solidot.org/story?sid=85517",
+      "summary": "过去几年极端气候频发，美国佛蒙特州每年都会因此发生十几次持续数小时的断电事故。当地电力公司 Green Mountain Power(GMP)记录到的 10 场最具有破坏性的飓风有 7 场发生在过去十年，造成了逾 2.25 亿美元的损失。为了应对气候变化导致的断电，该公司推出了分布式电池储能网络，向参与该网络的家庭出租两块电池，租期十年，每月费用为 55 美元。该州有超过 5,500 人参与了该家",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Wed, 30 Sep 2026 22:44:08 +0800"
     },
     {
       "title": "500 光年外的一颗巨行星探测到水、甲烷和氨",
@@ -281,6 +297,14 @@
       "published": "Wed, 30 Sep 2026 14:03:50 +0800"
     },
     {
+      "title": "中国 AI 智能体也会撒谎和欺骗",
+      "link": "https://www.solidot.org/story?sid=85508",
+      "summary": "和美国 AI 模型一样，中国公司的 AI 智能体也会撒谎和欺骗。在今年 3 月进行的一次商业招标实验中， 北航、北大、宁波诺丁汉和 360 AI 安全实验室的研究人员让多个智能体参与模拟客户合同的竞标，每个智能体都被告知其产品的功能及客户的需求，随后被要求进行报价。阿里巴巴 Qwen3-Max-Preview 模型 88% 的会话至少出现一次虚假陈述，DeepSeek-V3.2-Exp 模型的比例",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Wed, 30 Sep 2026 00:23:18 +0800"
+    },
+    {
       "title": "八分之一癌症病例由感染引起",
       "link": "https://www.solidot.org/story?sid=85507",
       "summary": "根据本周发表在《The Lancet Oncology》期刊上的一项研究，全世界八分之一癌症病例由感染引起。研究发现，2024 年感染性病原体相关的新癌症病例有 230 万例，占到了总新癌症病例的 12%。其中幽门螺杆菌会增加胃癌风险，这种病菌导致了 76 万例新癌症病例，数量最多，主要集中在东亚地区。其次是人乳头瘤病毒（HPV）导致了近 75 万例新癌症病例，撒哈拉以南非洲地区最多，这种病毒与宫",
@@ -295,30 +319,6 @@
       "source": "奇客 Solidot",
       "category": "技术",
       "published": "Tue, 29 Sep 2026 22:57:57 +0800"
-    },
-    {
-      "title": "美光台工厂工会准备罢工",
-      "link": "https://www.solidot.org/story?sid=85505",
-      "summary": "继三星、海力士之后，全球第三大 DRAM 厂美光（Micron）在台湾的两个工厂，罢工行动也蠢蠢欲动。9 月 24 日，工会人数 2100 人，占全厂七成的美光桃园工会决定依据劳资争议处理法，10 月 1 日起进行为期一周的罢工投票。一旦支持罢工者超过工会会员数一半，就取得罢工权。有 1 万 2 千人的美光台中厂，台中工会也将于10 月 22 日和资方再次协商，若破局，也可能举行罢工投票。一位台中",
-      "source": "奇客 Solidot",
-      "category": "技术",
-      "published": "Tue, 29 Sep 2026 21:08:34 +0800"
-    },
-    {
-      "title": "Firefox 157 释出",
-      "link": "https://www.solidot.org/story?sid=85504",
-      "summary": "Mozilla 释出了 Firefox 157。主要变化包括：新的 Nova UI，现代化浏览器界面边框、侧边栏及菜单外观；在兼容设备上支持 WebRTC 视频通话 AV1 硬件解码，此前它一直依赖于软件解码；修复 HDR 视频问题；改进了更改视频播放速度时的音画同步；移除内置搜索引擎 Amazon；等等。",
-      "source": "奇客 Solidot",
-      "category": "技术",
-      "published": "Tue, 29 Sep 2026 20:10:42 +0800"
-    },
-    {
-      "title": "微软告诉非营利组织他们被删除的数据无法恢复",
-      "link": "https://www.solidot.org/story?sid=85503",
-      "summary": "微软曾从 2013 年起向全世界的小型非营利组织免费提供 Microsoft 365 Business Premium，但在 2025 年 5 月它宣布将从 2025 年 7 月起停止提供免费授权，转为提供折扣价付费订阅。今年早些时候没有转为付费的账号内相关数据都被删除了。根据一封发送给受影响客户的邮件，微软承认“由于错误”它在数据保留和导出期限结束前就删除了剩余数据，且尝试恢复数据的努力均告失败",
-      "source": "奇客 Solidot",
-      "category": "技术",
-      "published": "Tue, 29 Sep 2026 18:10:51 +0800"
     },
     {
       "title": "科技爱好者周刊（第 413 期）：再见了，React Native",
@@ -345,17 +345,57 @@
       "published": "2026-09-03T23:59:05Z"
     },
     {
-      "title": "Pi.dev: You Said No MCP",
+      "title": "Gemini 4 Argon",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "summary": "See also: Gemini 4 Argon (High): Intelligence, Performance and Price Analysis - https://news.ycombinator.com/item?id=49914236 Comments URL: https://news.ycombinator.com/item?id=49913571 Points: 967 # ",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Wed, 30 Sep 2026 20:04:37 +0000"
+    },
+    {
+      "title": "The AI Race Just Got Awkward",
+      "link": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+      "summary": "Article URL: https://insufferable.dev/posts/the-ai-race-just-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49910553 Points: 373 # Comments: 410",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Wed, 30 Sep 2026 15:50:11 +0000"
+    },
+    {
+      "title": "A brief history of the Bloomberg terminal",
+      "link": "https://spectrum.ieee.org/bloomberg-terminal",
+      "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal Comments URL: https://news.ycombinator.com/item?id=49909583 Points: 225 # Comments: 89",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Wed, 30 Sep 2026 14:34:07 +0000"
+    },
+    {
+      "title": "Most data centers refusing to say how much water, electricity they use",
+      "link": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
+      "summary": "Article URL: https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use Comments URL: https://news.ycombinator.com/item?id=49907057 Points: 203 # Comments: 189",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Wed, 30 Sep 2026 10:49:32 +0000"
+    },
+    {
+      "title": "You said no MCP",
       "link": "https://earendil.com/posts/you-said-no-mcp/",
-      "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/ Comments URL: https://news.ycombinator.com/item?id=49906637 Points: 384 # Comments: 208",
+      "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/ Comments URL: https://news.ycombinator.com/item?id=49906637 Points: 615 # Comments: 342",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Wed, 30 Sep 2026 09:55:23 +0000"
     },
     {
+      "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+      "link": "https://twitter.com/tuakdotsol/status/2105105417760391258",
+      "summary": "Related: https://www.bbc.com/news/articles/cqzjzr893yv4o Comments URL: https://news.ycombinator.com/item?id=49906432 Points: 204 # Comments: 140",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Wed, 30 Sep 2026 09:27:04 +0000"
+    },
+    {
       "title": "Why Is Sam Altman a Free Man?",
       "link": "https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/",
-      "summary": "Article URL: https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/ Comments URL: https://news.ycombinator.com/item?id=49905633 Points: 205 #",
+      "summary": "Article URL: https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/ Comments URL: https://news.ycombinator.com/item?id=49905633 Points: 246 #",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Wed, 30 Sep 2026 07:32:40 +0000"
@@ -363,7 +403,7 @@
     {
       "title": "September 2026: The world today, as seen by one Polish guy",
       "link": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
-      "summary": "Article URL: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/ Comments URL: https://news.ycombinator.com/item?id=49905487 Points: 430 # Comments: 309",
+      "summary": "Article URL: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/ Comments URL: https://news.ycombinator.com/item?id=49905487 Points: 487 # Comments: 363",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Wed, 30 Sep 2026 07:12:31 +0000"
@@ -371,7 +411,7 @@
     {
       "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
       "link": "https://github.com/ninjahawk/livenerf",
-      "summary": "Article URL: https://github.com/ninjahawk/livenerf Comments URL: https://news.ycombinator.com/item?id=49901736 Points: 786 # Comments: 332",
+      "summary": "Article URL: https://github.com/ninjahawk/livenerf Comments URL: https://news.ycombinator.com/item?id=49901736 Points: 882 # Comments: 377",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Tue, 29 Sep 2026 22:36:14 +0000"
@@ -395,7 +435,7 @@
     {
       "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
       "link": "https://space.bl2.net/",
-      "summary": "Article URL: https://space.bl2.net/ Comments URL: https://news.ycombinator.com/item?id=49898778 Points: 333 # Comments: 85",
+      "summary": "Article URL: https://space.bl2.net/ Comments URL: https://news.ycombinator.com/item?id=49898778 Points: 378 # Comments: 104",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Tue, 29 Sep 2026 19:08:01 +0000"
@@ -403,7 +443,7 @@
     {
       "title": "Vermont replacing power plants with home batteries",
       "link": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
-      "summary": "See also https://electrek.co/2026/07/28/vermonts-largest-energy-sourc... Comments URL: https://news.ycombinator.com/item?id=49897993 Points: 307 # Comments: 234",
+      "summary": "See also https://electrek.co/2026/07/28/vermonts-largest-energy-sourc... Comments URL: https://news.ycombinator.com/item?id=49897993 Points: 375 # Comments: 276",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Tue, 29 Sep 2026 18:19:02 +0000"
@@ -411,7 +451,7 @@
     {
       "title": "GLM-5.3 and the spread of advanced cyber capabilities",
       "link": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
-      "summary": "Article URL: https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities Comments URL: https://news.ycombinator.com/item?id=49897075 Points: 235 # Comments: 225",
+      "summary": "Article URL: https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities Comments URL: https://news.ycombinator.com/item?id=49897075 Points: 245 # Comments: 230",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Tue, 29 Sep 2026 17:31:26 +0000"
@@ -419,54 +459,14 @@
     {
       "title": "ChatGPT Pro 500",
       "link": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
-      "summary": "Article URL: https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers Comments URL: https://news.ycombinator.com/item?id=49896975 Points: 213 # Comments: 251",
+      "summary": "Article URL: https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers Comments URL: https://news.ycombinator.com/item?id=49896975 Points: 218 # Comments: 260",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Tue, 29 Sep 2026 17:26:27 +0000"
-    },
-    {
-      "title": "Tcl/Tk 9.1",
-      "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-      "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html Comments URL: https://news.ycombinator.com/item?id=49896712 Points: 289 # Comments: 133",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Tue, 29 Sep 2026 17:13:38 +0000"
-    },
-    {
-      "title": "Dots: Always-on agents",
-      "link": "https://openai.com/index/introducing-dots/",
-      "summary": "Article URL: https://openai.com/index/introducing-dots/ Comments URL: https://news.ycombinator.com/item?id=49896604 Points: 701 # Comments: 573",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Tue, 29 Sep 2026 17:07:57 +0000"
-    },
-    {
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 1022 # Comments: 891",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Tue, 29 Sep 2026 17:06:45 +0000"
-    },
-    {
-      "title": "DraftKings is using AI to behaviorally target chronic gamblers",
-      "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49896050 Points: 548 # Comment",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Tue, 29 Sep 2026 16:30:48 +0000"
-    },
-    {
-      "title": "PS5 Relapse Exploit",
-      "link": "https://github.com/ntfargo/Relapse-Exploit",
-      "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit Comments URL: https://news.ycombinator.com/item?id=49895304 Points: 335 # Comments: 218",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Tue, 29 Sep 2026 15:44:41 +0000"
     }
   ],
   "count": 58,
   "sources_ok": 5,
   "errors": [],
-  "fetched_at": "2026-09-30T23:50:56+08:00"
+  "fetched_at": "2026-10-01T09:37:20+08:00"
 }
