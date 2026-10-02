@@ -1,98 +1,90 @@
 {
   "repos": [
     {
-      "full_name": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "stars": 14135,
-      "stars_today": 2456,
-      "language": "Rust"
+      "full_name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 151312,
+      "stars_today": 1429,
+      "language": "JavaScript"
     },
     {
       "full_name": "ifixai-ai/iFixAi",
       "url": "https://github.com/ifixai-ai/iFixAi",
       "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
-      "stars": 18722,
-      "stars_today": 1492,
+      "stars": 19017,
+      "stars_today": 989,
       "language": "Python"
-    },
-    {
-      "full_name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
-      "stars": 51526,
-      "stars_today": 1284,
-      "language": "Python"
-    },
-    {
-      "full_name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 150861,
-      "stars_today": 1194,
-      "language": "JavaScript"
     },
     {
       "full_name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 274127,
-      "stars_today": 883,
+      "stars": 274470,
+      "stars_today": 955,
       "language": "Shell"
     },
     {
-      "full_name": "t8y2/dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-      "stars": 23784,
-      "stars_today": 739,
-      "language": "Rust"
-    },
-    {
-      "full_name": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "stars": 75974,
-      "stars_today": 657,
+      "full_name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": 74054,
+      "stars_today": 717,
       "language": "JavaScript"
     },
     {
       "full_name": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "stars": 3873,
-      "stars_today": 642,
+      "stars": 4099,
+      "stars_today": 691,
       "language": "TypeScript"
+    },
+    {
+      "full_name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 88114,
+      "stars_today": 683,
+      "language": "Python"
+    },
+    {
+      "full_name": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "stars": 3304,
+      "stars_today": 629,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "stars": 14298,
+      "stars_today": 584,
+      "language": "Rust"
     },
     {
       "full_name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
-      "stars": 55484,
-      "stars_today": 627,
+      "stars": 55692,
+      "stars_today": 584,
       "language": "TypeScript"
     },
     {
-      "full_name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "stars": 127997,
-      "stars_today": 576,
-      "language": "Python"
-    },
-    {
-      "full_name": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "stars": 46294,
-      "stars_today": 546,
-      "language": "JavaScript"
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "stars": 294264,
+      "stars_today": 561,
+      "language": "Shell"
     },
     {
       "full_name": "magnitudedev/magnitude",
       "url": "https://github.com/magnitudedev/magnitude",
       "description": "Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.",
-      "stars": 6199,
+      "stars": 6254,
       "stars_today": 538,
       "language": "Rust"
     },
@@ -100,107 +92,115 @@
       "full_name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 270826,
+      "stars": 271006,
       "stars_today": 532,
       "language": "JavaScript"
-    },
-    {
-      "full_name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "stars": 73851,
-      "stars_today": 495,
-      "language": "JavaScript"
-    },
-    {
-      "full_name": "VectifyAI/PageIndex",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "stars": 38469,
-      "stars_today": 477,
-      "language": "Python"
-    },
-    {
-      "full_name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": 294094,
-      "stars_today": 455,
-      "language": "Shell"
     },
     {
       "full_name": "HunxByts/GhostTrack",
       "url": "https://github.com/HunxByts/GhostTrack",
       "description": "Useful tool to track location or mobile number",
-      "stars": 16530,
-      "stars_today": 368,
+      "stars": 16659,
+      "stars_today": 528,
+      "language": "Python"
+    },
+    {
+      "full_name": "dmtrKovalenko/fframes",
+      "url": "https://github.com/dmtrKovalenko/fframes",
+      "description": "programmatic video rendering framework that is actually fast",
+      "stars": 1851,
+      "stars_today": 357,
+      "language": "Rust"
+    },
+    {
+      "full_name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "stars": 52855,
+      "stars_today": 277,
       "language": "Python"
     },
     {
       "full_name": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "stars": 24853,
-      "stars_today": 362,
+      "stars": 24949,
+      "stars_today": 276,
       "language": "TypeScript"
     },
     {
-      "full_name": "pablostanley/yoinks",
-      "url": "https://github.com/pablostanley/yoinks",
-      "description": "yoink any video from your terminal. no shady ads.",
-      "stars": 3074,
-      "stars_today": 361,
-      "language": "TypeScript"
+      "full_name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 108931,
+      "stars_today": 271,
+      "language": "Go"
     },
     {
-      "full_name": "dmtrKovalenko/fframes",
-      "url": "https://github.com/dmtrKovalenko/fframes",
-      "description": "programmatic video rendering framework that is actually fast",
-      "stars": 1828,
-      "stars_today": 357,
-      "language": "Rust"
-    },
-    {
-      "full_name": "byoungd/up",
-      "url": "https://github.com/byoungd/up",
-      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-      "stars": 66671,
-      "stars_today": 342,
-      "language": "JavaScript"
-    },
-    {
-      "full_name": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "stars": 76334,
-      "stars_today": 319,
+      "full_name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "stars": 85152,
+      "stars_today": 246,
       "language": "Python"
     },
     {
-      "full_name": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by hundreds of contributors",
-      "stars": 72165,
-      "stars_today": 311,
-      "language": "TypeScript"
+      "full_name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "stars": 72860,
+      "stars_today": 241,
+      "language": "C"
     },
     {
-      "full_name": "earendil-works/pi",
-      "url": "https://github.com/earendil-works/pi",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "stars": 111400,
-      "stars_today": 298,
-      "language": "TypeScript"
+      "full_name": "Friedrich-M/UniMate",
+      "url": "https://github.com/Friedrich-M/UniMate",
+      "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+      "stars": 1181,
+      "stars_today": 240,
+      "language": "Python"
+    },
+    {
+      "full_name": "tile-ai/tilelang",
+      "url": "https://github.com/tile-ai/tilelang",
+      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "stars": 8220,
+      "stars_today": 237,
+      "language": "Python"
     },
     {
       "full_name": "tinyhumansai/openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust",
-      "stars": 40437,
+      "stars": 40441,
       "stars_today": 219,
+      "language": "Rust"
+    },
+    {
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 100430,
+      "stars_today": 214,
+      "language": "JavaScript"
+    },
+    {
+      "full_name": "longbridge/gpui-kit",
+      "url": "https://github.com/longbridge/gpui-kit",
+      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "stars": 15632,
+      "stars_today": 202,
+      "language": "Rust"
+    },
+    {
+      "full_name": "FalkorDB/FalkorDB",
+      "url": "https://github.com/FalkorDB/FalkorDB",
+      "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
+      "stars": 6614,
+      "stars_today": 200,
       "language": "Rust"
     }
   ],
   "count": 93,
-  "fetched_at": "2026-10-02T14:56:36+08:00"
+  "fetched_at": "2026-10-02T23:42:52+08:00"
 }
