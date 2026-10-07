@@ -1,18 +1,18 @@
 {
   "items": [
     {
-      "title": "生产计划 APS",
-      "salary": "18-25k·14薪",
+      "title": "生产计划/物料管理(PMC)",
+      "salary": "10-20k",
       "city": "上海",
-      "district": "浦东新区",
-      "exp": "5-10年",
+      "district": "上海-南桥",
+      "exp": "2年以上",
       "edu": "本科",
-      "company": "某上海大型电子/半导体/集成电路公司",
+      "company": "龙擎空天",
       "industry": "电子/半导体/集成电路",
       "domain": "半导体/电子/光电",
       "level": "未标注",
-      "link": "https://www.liepin.com/a/78005381.shtml",
-      "job_id": "78005381",
+      "link": "https://www.liepin.com/job/1985956995.shtml",
+      "job_id": "85956995",
       "tier": "core",
       "matched": [
         "计划"
@@ -58,6 +58,25 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
+      "title": "生产计划副经理（外协）",
+      "salary": "10-13k",
+      "city": "上海",
+      "district": "上海-洞泾",
+      "exp": "5年以上",
+      "edu": "大专",
+      "company": "大庄园肉业集团股份有限公司",
+      "industry": "食品/饮料/酒水",
+      "domain": "食品/快消/农牧",
+      "level": "经理",
+      "link": "https://www.liepin.com/job/1985851643.shtml",
+      "job_id": "85851643",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
       "title": "生产计划员",
       "salary": "10-16k·14薪",
       "city": "上海",
@@ -96,37 +115,18 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "集团总部生产计划经理",
-      "salary": "15-25k",
+      "title": "生产计划主管（孟加拉）",
+      "salary": "20-25k",
       "city": "上海",
-      "district": "杨浦区",
-      "exp": "3-5年",
-      "edu": "学历不限",
-      "company": "某上海大型服装/纺织/皮革公司",
+      "district": "上海-航华",
+      "exp": "5年以上",
+      "edu": "大专",
+      "company": "牧高笛",
       "industry": "服装/纺织/皮革",
       "domain": "纺织/服装",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/80357087.shtml",
-      "job_id": "80357087",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "生产计划经理",
-      "salary": "25-35k·14薪",
-      "city": "上海",
-      "district": "嘉定区",
-      "exp": "5-10年",
-      "edu": "本科",
-      "company": "某上海大型汽车零部件及配件公司",
-      "industry": "汽车零部件及配件",
-      "domain": "汽车/零部件",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/79850109.shtml",
-      "job_id": "79850109",
+      "level": "主管",
+      "link": "https://www.liepin.com/job/1984717621.shtml",
+      "job_id": "84717621",
       "tier": "core",
       "matched": [
         "计划"
@@ -153,42 +153,23 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划副经理（外协）",
-      "salary": "10-13k",
+      "title": "生产计划经理",
+      "salary": "25-35k·14薪",
       "city": "上海",
-      "district": "上海-洞泾",
-      "exp": "5年以上",
-      "edu": "大专",
-      "company": "大庄园肉业集团股份有限公司",
-      "industry": "食品/饮料/酒水",
-      "domain": "食品/快消/农牧",
+      "district": "嘉定区",
+      "exp": "5-10年",
+      "edu": "本科",
+      "company": "某上海大型汽车零部件及配件公司",
+      "industry": "汽车零部件及配件",
+      "domain": "汽车/零部件",
       "level": "经理",
-      "link": "https://www.liepin.com/job/1985851643.shtml",
-      "job_id": "85851643",
+      "link": "https://www.liepin.com/a/79850109.shtml",
+      "job_id": "79850109",
       "tier": "core",
       "matched": [
         "计划"
       ],
       "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "WBD_高级区域执行计划员_上海",
-      "salary": "15-18k·13薪",
-      "city": "上海",
-      "district": "浦东新区",
-      "exp": "3-5年",
-      "edu": "本科",
-      "company": "碧迪医疗",
-      "industry": "医疗器械",
-      "domain": "医药/医疗器械",
-      "level": "专家/资深",
-      "link": "https://www.liepin.com/job/1985733539.shtml",
-      "job_id": "85733539",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·供应链"
     },
     {
       "title": "制造业生产计划",
@@ -210,18 +191,18 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划专员（PMC）",
-      "salary": "15-25k·14薪",
+      "title": "生产计划 APS",
+      "salary": "18-25k·14薪",
       "city": "上海",
-      "district": "上海-周浦",
-      "exp": "5年以上",
+      "district": "浦东新区",
+      "exp": "5-10年",
       "edu": "本科",
-      "company": "默升科技(上海)有限公司",
+      "company": "某上海大型电子/半导体/集成电路公司",
       "industry": "电子/半导体/集成电路",
       "domain": "半导体/电子/光电",
-      "level": "专员/员",
-      "link": "https://www.liepin.com/job/1982258443.shtml",
-      "job_id": "82258443",
+      "level": "未标注",
+      "link": "https://www.liepin.com/a/78005381.shtml",
+      "job_id": "78005381",
       "tier": "core",
       "matched": [
         "计划"
@@ -267,18 +248,37 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划员（机加工行业）",
-      "salary": "7-9k",
+      "title": "生产计划总监（PMC总监）",
+      "salary": "65-90k",
       "city": "上海",
-      "district": "上海-芦潮港",
-      "exp": "3年以上",
+      "district": "上海",
+      "exp": "10年以上",
       "edu": "本科",
-      "company": "上海卡贝尼精密陶瓷有限公司",
-      "industry": "新材料,电子/半导体/集成电路",
+      "company": "某广州大型贸易进出口公司",
+      "industry": "食品/饮料/酒水,贸易/进出口,建材",
+      "domain": "食品/快消/农牧",
+      "level": "总监/负责人",
+      "link": "https://www.liepin.com/a/80388385.shtml",
+      "job_id": "80388385",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "物料计划员（制造业生产计划（PC）或物料控制（MC），有汽车零部件）",
+      "salary": "11-20k",
+      "city": "上海",
+      "district": "浦东新区",
+      "exp": "3-5年",
+      "edu": "本科",
+      "company": "某上海化工上市公司",
+      "industry": "化工,金属制品",
       "domain": "化工/新材料/建材",
       "level": "未标注",
-      "link": "https://www.liepin.com/job/1985655517.shtml",
-      "job_id": "85655517",
+      "link": "https://www.liepin.com/a/80387869.shtml",
+      "job_id": "80387869",
       "tier": "core",
       "matched": [
         "计划"
@@ -305,56 +305,18 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划主管（孟加拉）",
-      "salary": "20-25k",
+      "title": "集团总部生产计划经理",
+      "salary": "15-25k",
       "city": "上海",
-      "district": "上海-航华",
-      "exp": "5年以上",
-      "edu": "大专",
-      "company": "牧高笛",
+      "district": "杨浦区",
+      "exp": "3-5年",
+      "edu": "学历不限",
+      "company": "某上海大型服装/纺织/皮革公司",
       "industry": "服装/纺织/皮革",
       "domain": "纺织/服装",
-      "level": "主管",
-      "link": "https://www.liepin.com/job/1984717621.shtml",
-      "job_id": "84717621",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "生产计划/物料管理(PMC)",
-      "salary": "8-15k",
-      "city": "上海",
-      "district": "宝山区",
-      "exp": "经验不限",
-      "edu": "大专",
-      "company": "上海金榕",
-      "industry": "汽车零部件及配件",
-      "domain": "汽车/零部件",
-      "level": "未标注",
-      "link": "https://www.liepin.com/job/1981465503.shtml",
-      "job_id": "81465503",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "海外生产计划经理",
-      "salary": "20-40k·13薪",
-      "city": "上海",
-      "district": "静安区",
-      "exp": "5-10年",
-      "edu": "本科",
-      "company": "森大集团",
-      "industry": "贸易/进出口,批发/零售,货运/物流/仓储",
-      "domain": "物流/贸易/供应链服务",
       "level": "经理",
-      "link": "https://www.liepin.com/job/1980168525.shtml",
-      "job_id": "80168525",
+      "link": "https://www.liepin.com/a/80357087.shtml",
+      "job_id": "80357087",
       "tier": "core",
       "matched": [
         "计划"
@@ -362,18 +324,37 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划总监（PMC总监）",
-      "salary": "65-90k",
+      "title": "生产计划专员（PMC）",
+      "salary": "15-25k·14薪",
+      "city": "上海",
+      "district": "上海-周浦",
+      "exp": "5年以上",
+      "edu": "本科",
+      "company": "默升科技(上海)有限公司",
+      "industry": "电子/半导体/集成电路",
+      "domain": "半导体/电子/光电",
+      "level": "专员/员",
+      "link": "https://www.liepin.com/job/1982258443.shtml",
+      "job_id": "82258443",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "生产计划经理",
+      "salary": "30-35k·15薪",
       "city": "上海",
       "district": "上海",
       "exp": "10年以上",
       "edu": "本科",
-      "company": "某广州大型贸易进出口公司",
-      "industry": "食品/饮料/酒水,贸易/进出口,建材",
-      "domain": "食品/快消/农牧",
-      "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/80388385.shtml",
-      "job_id": "80388385",
+      "company": "某上海人力资源服务公司",
+      "industry": "人力资源服务,咨询服务,IT服务",
+      "domain": "其他/未标注",
+      "level": "经理",
+      "link": "https://www.liepin.com/a/79839329.shtml",
+      "job_id": "79839329",
       "tier": "core",
       "matched": [
         "计划"
@@ -381,18 +362,37 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "Demand Planner",
-      "salary": "12-16k·15薪",
+      "title": "生产计划",
+      "salary": "15-18k·14薪",
       "city": "上海",
-      "district": "浦东新区",
-      "exp": "3-5年",
+      "district": "上海",
+      "exp": "5-10年",
       "edu": "本科",
-      "company": "国际知名healthcare企业",
-      "industry": "医疗器械,医疗/保健/美容,制药/生物工程",
-      "domain": "医药/医疗器械",
+      "company": "某上海机械/设备公司",
+      "industry": "机械/设备",
+      "domain": "机械/装备/自动化",
       "level": "未标注",
-      "link": "https://www.liepin.com/a/79883959.shtml",
-      "job_id": "79883959",
+      "link": "https://www.liepin.com/a/80382185.shtml",
+      "job_id": "80382185",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "计划部经理",
+      "salary": "25-35k",
+      "city": "上海",
+      "district": "闵行区",
+      "exp": "5年以上",
+      "edu": "本科",
+      "company": "某青岛食品/饮料/酒水公司",
+      "industry": "食品/饮料/酒水",
+      "domain": "食品/快消/农牧",
+      "level": "经理",
+      "link": "https://www.liepin.com/a/80381411.shtml",
+      "job_id": "80381411",
       "tier": "core",
       "matched": [
         "计划"
@@ -400,23 +400,213 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "生产计划员",
-      "salary": "16-19k·14薪",
+      "title": "生产计划员（机加工行业）",
+      "salary": "7-9k",
       "city": "上海",
-      "district": "上海-嘉定镇",
-      "exp": "5年以上",
+      "district": "上海-芦潮港",
+      "exp": "3年以上",
       "edu": "本科",
-      "company": "上海联影微电子科技有限公司",
-      "industry": "电子/半导体/集成电路,医疗器械",
-      "domain": "半导体/电子/光电",
-      "level": "专员/员",
-      "link": "https://www.liepin.com/job/1985919651.shtml",
-      "job_id": "85919651",
+      "company": "上海卡贝尼精密陶瓷有限公司",
+      "industry": "新材料,电子/半导体/集成电路",
+      "domain": "化工/新材料/建材",
+      "level": "未标注",
+      "link": "https://www.liepin.com/job/1985655517.shtml",
+      "job_id": "85655517",
       "tier": "core",
       "matched": [
         "计划"
       ],
       "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "供应链高级经理",
+      "salary": "20-40k·14薪",
+      "city": "上海",
+      "district": "上海-吴泾",
+      "exp": "8年以上",
+      "edu": "硕士",
+      "company": "上海飞聚变新能源科技有限公司",
+      "industry": "专业技术服务",
+      "domain": "其他/未标注",
+      "level": "经理",
+      "link": "https://www.liepin.com/job/1984835315.shtml",
+      "job_id": "84835315",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
+      "title": "供应链管理",
+      "salary": "18-20k·15薪",
+      "city": "上海",
+      "district": "静安区",
+      "exp": "3-5年",
+      "edu": "本科",
+      "company": "某知名整车制造上市公司",
+      "industry": "整车制造,人工智能",
+      "domain": "汽车/零部件",
+      "level": "未标注",
+      "link": "https://www.liepin.com/a/79926869.shtml",
+      "job_id": "79926869",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
+      "title": "供应链专员",
+      "salary": "6-10k",
+      "city": "上海",
+      "district": "闵行区",
+      "exp": "1-3年",
+      "edu": "本科",
+      "company": "人民电器集团有限公司",
+      "industry": "电气机械/器材",
+      "domain": "机械/装备/自动化",
+      "level": "专员/员",
+      "link": "https://www.liepin.com/job/1974298063.shtml",
+      "job_id": "74298063",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
+      "title": "供应链总监",
+      "salary": "30-40k·13薪",
+      "city": "上海",
+      "district": "上海",
+      "exp": "10年以上",
+      "edu": "本科",
+      "company": "某青岛食品/饮料/酒水公司",
+      "industry": "食品/饮料/酒水",
+      "domain": "食品/快消/农牧",
+      "level": "总监/负责人",
+      "link": "https://www.liepin.com/a/78702833.shtml",
+      "job_id": "78702833",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
+      "title": "供应链主管/产品主管（高端私宅设计装修）",
+      "salary": "10-12k",
+      "city": "上海",
+      "district": "长宁区",
+      "exp": "3-5年",
+      "edu": "大专",
+      "company": "尚层装饰(北京)有限公司上海第二分公司",
+      "industry": "装饰装修",
+      "domain": "家居/家电/轻工",
+      "level": "主管",
+      "link": "https://www.liepin.com/job/1980740663.shtml",
+      "job_id": "80740663",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
+      "title": "采购经理-服务器机柜及组件方向",
+      "salary": "60-90k",
+      "city": "上海",
+      "district": "上海",
+      "exp": "5-10年",
+      "edu": "学历不限",
+      "company": "某北京电子/半导体/集成电路公司",
+      "industry": "电子/半导体/集成电路",
+      "domain": "半导体/电子/光电",
+      "level": "经理",
+      "link": "https://www.liepin.com/a/79363639.shtml",
+      "job_id": "79363639",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·采购"
+    },
+    {
+      "title": "供应链副总监 (Supply Chain Associate Director)",
+      "salary": "70-90k·15薪",
+      "city": "上海",
+      "district": "上海",
+      "exp": "10年以上",
+      "edu": "本科",
+      "company": "某上海大型制药公司",
+      "industry": "制药",
+      "domain": "医药/医疗器械",
+      "level": "总监/负责人",
+      "link": "https://www.liepin.com/a/77528485.shtml",
+      "job_id": "77528485",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
+      "title": "Senior Inventory Analyst-外资三方岗位",
+      "salary": "35-55k",
+      "city": "上海",
+      "district": "上海",
+      "exp": "5-10年",
+      "edu": "本科",
+      "company": "某上海大型批发/零售公司",
+      "industry": "批发/零售",
+      "domain": "物流/贸易/供应链服务",
+      "level": "专家/资深",
+      "link": "https://www.liepin.com/a/78226877.shtml",
+      "job_id": "78226877",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
+      "title": "亚太区CAPEX & MRO采购经理",
+      "salary": "40-55k·15薪",
+      "city": "上海",
+      "district": "上海",
+      "exp": "10年以上",
+      "edu": "本科",
+      "company": "某知名公司",
+      "industry": "石化",
+      "domain": "化工/新材料/建材",
+      "level": "经理",
+      "link": "https://www.liepin.com/a/79627187.shtml",
+      "job_id": "79627187",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·采购"
+    },
+    {
+      "title": "采购主管（IDC算力）",
+      "salary": "15-20k·13薪",
+      "city": "上海",
+      "district": "上海-彭浦镇",
+      "exp": "3-5年",
+      "edu": "本科",
+      "company": "科华数据股份有限公司",
+      "industry": "新能源,智能硬件/消费电子,云计算/大数据",
+      "domain": "新能源/电池/光伏",
+      "level": "主管",
+      "link": "https://www.liepin.com/job/1985641103.shtml",
+      "job_id": "85641103",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·采购"
     },
     {
       "title": "化学品供应链总监",
@@ -438,208 +628,18 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "智能硬件供应链经理",
-      "salary": "25-40k·13薪",
+      "title": "汽车精品供应链管理",
+      "salary": "18-23k·15薪",
       "city": "上海",
-      "district": "上海-真光",
+      "district": "静安区",
       "exp": "3-5年",
       "edu": "本科",
-      "company": "天与养老",
-      "industry": "养老服务,互联网,智能硬件/消费电子",
-      "domain": "半导体/电子/光电",
-      "level": "经理",
-      "link": "https://www.liepin.com/job/1975795221.shtml",
-      "job_id": "75795221",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
-      "title": "供应链采购经理",
-      "salary": "20-25k·14薪",
-      "city": "上海",
-      "district": "浦东新区",
-      "exp": "10年以上",
-      "edu": "本科",
-      "company": "某某汽车模具零部件制造商",
-      "industry": "仪器/电气/自动化",
-      "domain": "机械/装备/自动化",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/79082611.shtml",
-      "job_id": "79082611",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
-      "title": "服装海外供应链负责人",
-      "salary": "45-60k·14薪",
-      "city": "上海",
-      "district": "上海",
-      "exp": "10年以上",
-      "edu": "本科",
-      "company": "某知名公司",
-      "industry": "批发/零售,贸易/进出口",
-      "domain": "物流/贸易/供应链服务",
-      "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/79458835.shtml",
-      "job_id": "79458835",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
-      "title": "供应链负责人",
-      "salary": "80-85k",
-      "city": "上海",
-      "district": "上海",
-      "exp": "10年以上",
-      "edu": "本科",
-      "company": "某上海大型新能源公司",
-      "industry": "新能源,电力/热力/燃气/水务",
-      "domain": "新能源/电池/光伏",
-      "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/79751725.shtml",
-      "job_id": "79751725",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
-      "title": "供应链总监",
-      "salary": "100-150k·15薪",
-      "city": "上海",
-      "district": "上海",
-      "exp": "10年以上",
-      "edu": "本科",
-      "company": "某北京大型餐饮业公司",
-      "industry": "餐饮业",
-      "domain": "食品/快消/农牧",
-      "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/80417571.shtml",
-      "job_id": "80417571",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
-      "title": "Supply Chain Director",
-      "salary": "50-80k·13薪",
-      "city": "上海",
-      "district": "上海",
-      "exp": "10年以上",
-      "edu": "本科",
-      "company": "某外资汽车零部件公司",
-      "industry": "汽车/摩托车",
+      "company": "某知名整车制造上市公司",
+      "industry": "整车制造,人工智能",
       "domain": "汽车/零部件",
-      "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/80306969.shtml",
-      "job_id": "80306969",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
-      "title": "Logistics Senior Specialist",
-      "salary": "10-15k",
-      "city": "上海",
-      "district": "上海-淮海路",
-      "exp": "3-5年",
-      "edu": "大专",
-      "company": "开利公司",
-      "industry": "家电",
-      "domain": "家居/家电/轻工",
-      "level": "专家/资深",
-      "link": "https://www.liepin.com/job/1985824919.shtml",
-      "job_id": "85824919",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
-      "title": "采购经理",
-      "salary": "20-30k·13薪",
-      "city": "上海",
-      "district": "上海",
-      "exp": "经验不限",
-      "edu": "学历不限",
-      "company": "某上海大型医疗设备公司",
-      "industry": "医疗器械",
-      "domain": "医药/医疗器械",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/77977743.shtml",
-      "job_id": "77977743",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·采购"
-    },
-    {
-      "title": "采购总监",
-      "salary": "70-100k",
-      "city": "上海",
-      "district": "上海",
-      "exp": "5-10年",
-      "edu": "本科",
-      "company": "某国内石化上市公司",
-      "industry": "石化,矿产开采,机械/设备",
-      "domain": "化工/新材料/建材",
-      "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/79438649.shtml",
-      "job_id": "79438649",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·采购"
-    },
-    {
-      "title": "芯片资深采购工程师(EDA/IP&生产tooling方向)",
-      "salary": "45-75k·15薪",
-      "city": "上海",
-      "district": "上海",
-      "exp": "5-10年",
-      "edu": "本科",
-      "company": "某北京互联网上市公司",
-      "industry": "互联网",
-      "domain": "其他/未标注",
-      "level": "专家/资深",
-      "link": "https://www.liepin.com/a/79104717.shtml",
-      "job_id": "79104717",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
-      "title": "芯片供应链总监，超千亿市值",
-      "salary": "130-160k·20薪",
-      "city": "上海",
-      "district": "上海",
-      "exp": "10年以上",
-      "edu": "本科",
-      "company": "某大型电子/半导体/集成电路公司",
-      "industry": "电子/半导体/集成电路,专业技术服务",
-      "domain": "半导体/电子/光电",
-      "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/77308797.shtml",
-      "job_id": "77308797",
+      "level": "未标注",
+      "link": "https://www.liepin.com/a/78850459.shtml",
+      "job_id": "78850459",
       "tier": "related",
       "matched": [
         "供应链"
@@ -648,17 +648,17 @@
     },
     {
       "title": "供应链经理",
-      "salary": "35-45k·17薪",
+      "salary": "25-30k·14薪",
       "city": "上海",
-      "district": "上海",
-      "exp": "10年以上",
+      "district": "上海-方松",
+      "exp": "8年以上",
       "edu": "本科",
-      "company": "某世界500强电气机械/器材公司",
-      "industry": "电气机械/器材,互联网",
+      "company": "尚实航空",
+      "industry": "航空/航天设备,新能源",
       "domain": "机械/装备/自动化",
       "level": "经理",
-      "link": "https://www.liepin.com/a/77933775.shtml",
-      "job_id": "77933775",
+      "link": "https://www.liepin.com/job/1977719165.shtml",
+      "job_id": "77719165",
       "tier": "related",
       "matched": [
         "供应链"
@@ -666,56 +666,56 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "全球大客户经理 - 物流供应链管理",
-      "salary": "30-40k·13薪",
+      "title": "Supply Chain Project Manager(PMO)",
+      "salary": "20-35k",
       "city": "上海",
-      "district": "杨浦区",
-      "exp": "10年以上",
-      "edu": "本科",
-      "company": "某上海货运/物流/仓储公司",
-      "industry": "货运/物流/仓储",
-      "domain": "物流/贸易/供应链服务",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/77935027.shtml",
-      "job_id": "77935027",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
-      "title": "AIDC 供应链总监（服务器芯片采购）",
-      "salary": "60-80k·15薪",
-      "city": "上海",
-      "district": "上海",
+      "district": "长宁区",
       "exp": "5-10年",
       "edu": "本科",
-      "company": "某上海电力/热力/燃气/水务上市公司",
-      "industry": "电力/热力/燃气/水务",
-      "domain": "新能源/电池/光伏",
-      "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/78598175.shtml",
-      "job_id": "78598175",
+      "company": "某上海大型食品/饮料/酒水公司",
+      "industry": "食品/饮料/酒水",
+      "domain": "食品/快消/农牧",
+      "level": "经理",
+      "link": "https://www.liepin.com/a/80390975.shtml",
+      "job_id": "80390975",
       "tier": "related",
       "matched": [
         "供应链"
       ],
       "source": "猎聘·供应链"
+    },
+    {
+      "title": "Sourcing Manager Category Manager Commodity Manager - 消费电子/智能家电",
+      "salary": "25-40k·15薪",
+      "city": "上海",
+      "district": "上海",
+      "exp": "经验不限",
+      "edu": "学历不限",
+      "company": "某上海大型家具家电公司",
+      "industry": "家具/家居,建材",
+      "domain": "家居/家电/轻工",
+      "level": "经理",
+      "link": "https://www.liepin.com/a/79642979.shtml",
+      "job_id": "79642979",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·采购"
     },
     {
       "title": "生产计划/物料管理(PMC)",
-      "salary": "15-25k·13薪",
+      "salary": "12-16k",
       "city": "苏州",
-      "district": "苏州",
-      "exp": "5-10年",
+      "district": "昆山",
+      "exp": "经验不限",
       "edu": "本科",
-      "company": "某苏州电子/半导体/集成电路上市公司",
-      "industry": "电子/半导体/集成电路",
+      "company": "某深圳电子/半导体/集成电路上市公司",
+      "industry": "电子/半导体/集成电路,智能硬件/消费电子",
       "domain": "半导体/电子/光电",
       "level": "未标注",
-      "link": "https://www.liepin.com/a/80238251.shtml",
-      "job_id": "80238251",
+      "link": "https://www.liepin.com/a/79850939.shtml",
+      "job_id": "79850939",
       "tier": "core",
       "matched": [
         "计划"
@@ -723,18 +723,37 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划员",
-      "salary": "8-13k·13薪",
+      "title": "生产计划文员",
+      "salary": "5-8k·13薪",
       "city": "苏州",
-      "district": "苏州-太仓",
-      "exp": "5年以上",
-      "edu": "本科",
-      "company": "捷赛机械",
-      "industry": "机械/设备",
+      "district": "吴中区",
+      "exp": "3-5年",
+      "edu": "学历不限",
+      "company": "某知名公司",
+      "industry": "金属制品",
       "domain": "机械/装备/自动化",
       "level": "专员/员",
-      "link": "https://www.liepin.com/job/1984608601.shtml",
-      "job_id": "84608601",
+      "link": "https://www.liepin.com/a/79485057.shtml",
+      "job_id": "79485057",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "生产计划工程师（PACK PC）",
+      "salary": "7-13k·14薪",
+      "city": "苏州",
+      "district": "常熟",
+      "exp": "2年以上",
+      "edu": "本科",
+      "company": "正力新能",
+      "industry": "新能源",
+      "domain": "新能源/电池/光伏",
+      "level": "未标注",
+      "link": "https://www.liepin.com/job/1984630613.shtml",
+      "job_id": "84630613",
       "tier": "core",
       "matched": [
         "计划"
@@ -754,25 +773,6 @@
       "level": "未标注",
       "link": "https://www.liepin.com/job/1985951087.shtml",
       "job_id": "85951087",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "生产计划",
-      "salary": "5-9k",
-      "city": "苏州",
-      "district": "工业园区",
-      "exp": "1-3年",
-      "edu": "学历不限",
-      "company": "某知名公司",
-      "industry": "电力/热力/燃气/水务",
-      "domain": "新能源/电池/光伏",
-      "level": "未标注",
-      "link": "https://www.liepin.com/a/78527561.shtml",
-      "job_id": "78527561",
       "tier": "core",
       "matched": [
         "计划"
@@ -818,25 +818,6 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划",
-      "salary": "8-15k·13薪",
-      "city": "苏州",
-      "district": "苏州-千灯",
-      "exp": "5年以上",
-      "edu": "大专",
-      "company": "联仕新材料(苏州)股份有限公司",
-      "industry": "化工",
-      "domain": "化工/新材料/建材",
-      "level": "未标注",
-      "link": "https://www.liepin.com/job/1985712473.shtml",
-      "job_id": "85712473",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
       "title": "生产计划专员",
       "salary": "7-10k",
       "city": "苏州",
@@ -849,6 +830,25 @@
       "level": "专员/员",
       "link": "https://www.liepin.com/job/1965851921.shtml",
       "job_id": "65851921",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "生产计划",
+      "salary": "8-15k·13薪",
+      "city": "苏州",
+      "district": "苏州-千灯",
+      "exp": "5年以上",
+      "edu": "大专",
+      "company": "联仕新材料(苏州)股份有限公司",
+      "industry": "化工",
+      "domain": "化工/新材料/建材",
+      "level": "未标注",
+      "link": "https://www.liepin.com/job/1985712473.shtml",
+      "job_id": "85712473",
       "tier": "core",
       "matched": [
         "计划"
@@ -894,18 +894,18 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "生产计划管理（PC）",
-      "salary": "12-13k·15薪",
+      "title": "生产计划/物料管理(PMC)",
+      "salary": "15-25k·13薪",
       "city": "苏州",
-      "district": "工业园区",
-      "exp": "3-5年",
+      "district": "苏州",
+      "exp": "5-10年",
       "edu": "本科",
-      "company": "某苏州通信设备上市公司",
-      "industry": "电子/半导体/集成电路,通信设备",
+      "company": "某苏州电子/半导体/集成电路上市公司",
+      "industry": "电子/半导体/集成电路",
       "domain": "半导体/电子/光电",
       "level": "未标注",
-      "link": "https://www.liepin.com/a/79304349.shtml",
-      "job_id": "79304349",
+      "link": "https://www.liepin.com/a/80238251.shtml",
+      "job_id": "80238251",
       "tier": "core",
       "matched": [
         "计划"
@@ -913,18 +913,37 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划专员",
-      "salary": "9-12k·14薪",
+      "title": "生产计划员",
+      "salary": "8-13k·13薪",
       "city": "苏州",
-      "district": "苏州",
-      "exp": "3-5年",
-      "edu": "大专",
-      "company": "某苏州大型机械/设备公司",
+      "district": "苏州-太仓",
+      "exp": "5年以上",
+      "edu": "本科",
+      "company": "捷赛机械",
       "industry": "机械/设备",
       "domain": "机械/装备/自动化",
       "level": "专员/员",
-      "link": "https://www.liepin.com/a/79536265.shtml",
-      "job_id": "79536265",
+      "link": "https://www.liepin.com/job/1984608601.shtml",
+      "job_id": "84608601",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "生产计划",
+      "salary": "5-9k",
+      "city": "苏州",
+      "district": "工业园区",
+      "exp": "1-3年",
+      "edu": "学历不限",
+      "company": "某知名公司",
+      "industry": "电力/热力/燃气/水务",
+      "domain": "新能源/电池/光伏",
+      "level": "未标注",
+      "link": "https://www.liepin.com/a/78527561.shtml",
+      "job_id": "78527561",
       "tier": "core",
       "matched": [
         "计划"
@@ -944,25 +963,6 @@
       "level": "主管",
       "link": "https://www.liepin.com/a/78147241.shtml",
       "job_id": "78147241",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "生产计划工程师（PACK PC）",
-      "salary": "7-13k·14薪",
-      "city": "苏州",
-      "district": "常熟",
-      "exp": "2年以上",
-      "edu": "本科",
-      "company": "正力新能",
-      "industry": "新能源",
-      "domain": "新能源/电池/光伏",
-      "level": "未标注",
-      "link": "https://www.liepin.com/job/1984630613.shtml",
-      "job_id": "84630613",
       "tier": "core",
       "matched": [
         "计划"
@@ -1008,94 +1008,18 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划/物料管理(PMC)",
-      "salary": "12-16k",
+      "title": "生产计划管理（PC）",
+      "salary": "12-13k·15薪",
       "city": "苏州",
-      "district": "昆山",
-      "exp": "经验不限",
-      "edu": "本科",
-      "company": "某深圳电子/半导体/集成电路上市公司",
-      "industry": "电子/半导体/集成电路,智能硬件/消费电子",
-      "domain": "半导体/电子/光电",
-      "level": "未标注",
-      "link": "https://www.liepin.com/a/79850939.shtml",
-      "job_id": "79850939",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "生产计划专员",
-      "salary": "9-12k·14薪",
-      "city": "苏州",
-      "district": "昆山",
+      "district": "工业园区",
       "exp": "3-5年",
-      "edu": "大专",
-      "company": "某苏州机械/设备公司",
-      "industry": "机械/设备",
-      "domain": "机械/装备/自动化",
-      "level": "专员/员",
-      "link": "https://www.liepin.com/a/79821921.shtml",
-      "job_id": "79821921",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "生产计划 (MJ000259)",
-      "salary": "8-12k·13薪",
-      "city": "苏州",
-      "district": "张家港",
-      "exp": "2年以上",
       "edu": "本科",
-      "company": "莱士格",
-      "industry": "其他制造业",
-      "domain": "其他/未标注",
-      "level": "未标注",
-      "link": "https://www.liepin.com/job/1985637467.shtml",
-      "job_id": "85637467",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "生产计划物控经理",
-      "salary": "20-25k",
-      "city": "苏州",
-      "district": "吴江区",
-      "exp": "5年以上",
-      "edu": "本科",
-      "company": "东部超导科技(苏州)有限公司",
-      "industry": "新能源",
-      "domain": "新能源/电池/光伏",
-      "level": "经理",
-      "link": "https://www.liepin.com/job/1978817715.shtml",
-      "job_id": "78817715",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "生产计划",
-      "salary": "8-12k·13薪",
-      "city": "苏州",
-      "district": "苏州",
-      "exp": "5-10年",
-      "edu": "大专",
-      "company": "达南美克",
-      "industry": "电子/半导体/集成电路",
+      "company": "某苏州通信设备上市公司",
+      "industry": "电子/半导体/集成电路,通信设备",
       "domain": "半导体/电子/光电",
       "level": "未标注",
-      "link": "https://www.liepin.com/job/1980837471.shtml",
-      "job_id": "80837471",
+      "link": "https://www.liepin.com/a/79304349.shtml",
+      "job_id": "79304349",
       "tier": "core",
       "matched": [
         "计划"
@@ -1122,23 +1046,80 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "Supply Chain Manager(HFH)",
-      "salary": "25-30k·15薪",
+      "title": "生产计划物控经理",
+      "salary": "20-25k",
       "city": "苏州",
-      "district": "苏州-前进中路",
-      "exp": "10年以上",
+      "district": "吴江区",
+      "exp": "5年以上",
       "edu": "本科",
-      "company": "阿法拉伐",
-      "industry": "机械/设备",
-      "domain": "机械/装备/自动化",
+      "company": "东部超导科技(苏州)有限公司",
+      "industry": "新能源",
+      "domain": "新能源/电池/光伏",
       "level": "经理",
-      "link": "https://www.liepin.com/job/1984941557.shtml",
-      "job_id": "84941557",
-      "tier": "related",
+      "link": "https://www.liepin.com/job/1978817715.shtml",
+      "job_id": "78817715",
+      "tier": "core",
       "matched": [
-        "供应链"
+        "计划"
       ],
-      "source": "猎聘·供应链"
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "生产计划 (MJ000259)",
+      "salary": "8-12k·13薪",
+      "city": "苏州",
+      "district": "张家港",
+      "exp": "2年以上",
+      "edu": "本科",
+      "company": "莱士格",
+      "industry": "其他制造业",
+      "domain": "其他/未标注",
+      "level": "未标注",
+      "link": "https://www.liepin.com/job/1985637467.shtml",
+      "job_id": "85637467",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "生产计划PMC （欧美外企  双休 五险一金齐全 15薪）",
+      "salary": "9-13k·15薪",
+      "city": "苏州",
+      "district": "苏州",
+      "exp": "3-5年",
+      "edu": "大专",
+      "company": "某苏州电子/半导体/集成电路公司",
+      "industry": "电子/半导体/集成电路",
+      "domain": "半导体/电子/光电",
+      "level": "未标注",
+      "link": "https://www.liepin.com/a/79799259.shtml",
+      "job_id": "79799259",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "注塑生产计划",
+      "salary": "7-12k·13薪",
+      "city": "苏州",
+      "district": "苏州",
+      "exp": "3-5年",
+      "edu": "大专",
+      "company": "某苏州电气机械/器材上市公司",
+      "industry": "电气机械/器材",
+      "domain": "机械/装备/自动化",
+      "level": "未标注",
+      "link": "https://www.liepin.com/a/79921265.shtml",
+      "job_id": "79921265",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
     },
     {
       "title": "Planning & Logistics Manager",
@@ -1198,18 +1179,37 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "供应链总监（制造业国企岗位）",
-      "salary": "30-50k·15薪",
+      "title": "Supply Chain Manager(HFH)",
+      "salary": "25-30k·15薪",
       "city": "苏州",
-      "district": "苏州",
-      "exp": "经验不限",
-      "edu": "学历不限",
-      "company": "某国内食品/饮料/酒水公司",
-      "industry": "食品/饮料/酒水,科技推广服务",
-      "domain": "食品/快消/农牧",
-      "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/80112757.shtml",
-      "job_id": "80112757",
+      "district": "苏州-前进中路",
+      "exp": "10年以上",
+      "edu": "本科",
+      "company": "阿法拉伐",
+      "industry": "机械/设备",
+      "domain": "机械/装备/自动化",
+      "level": "经理",
+      "link": "https://www.liepin.com/job/1984941557.shtml",
+      "job_id": "84941557",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
+      "title": "供应链经理/主管",
+      "salary": "10-15k·13薪",
+      "city": "苏州",
+      "district": "常熟",
+      "exp": "5年以上",
+      "edu": "大专",
+      "company": "金牌厨柜",
+      "industry": "家具/家居",
+      "domain": "家居/家电/轻工",
+      "level": "经理",
+      "link": "https://www.liepin.com/job/1981002117.shtml",
+      "job_id": "81002117",
       "tier": "related",
       "matched": [
         "供应链"
@@ -1255,44 +1255,6 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "间接采购经理",
-      "salary": "30-45k·14薪",
-      "city": "苏州",
-      "district": "苏州",
-      "exp": "经验不限",
-      "edu": "本科",
-      "company": "某国内大型新能源公司",
-      "industry": "新能源",
-      "domain": "新能源/电池/光伏",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/79646229.shtml",
-      "job_id": "79646229",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·采购"
-    },
-    {
-      "title": "采购专员",
-      "salary": "6-8k",
-      "city": "苏州",
-      "district": "苏州-张浦",
-      "exp": "1-3年",
-      "edu": "本科",
-      "company": "数科想象科技(上海)有限公司",
-      "industry": "机械/设备,计算机软件",
-      "domain": "机械/装备/自动化",
-      "level": "专员/员",
-      "link": "https://www.liepin.com/job/1984022847.shtml",
-      "job_id": "84022847",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·采购"
-    },
-    {
       "title": "供应链专员",
       "salary": "8-11k",
       "city": "苏州",
@@ -1312,18 +1274,18 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "采购专家",
-      "salary": "30-55k·14薪",
+      "title": "设备采购",
+      "salary": "12-18k",
       "city": "苏州",
-      "district": "苏州",
-      "exp": "8年以上",
-      "edu": "本科",
-      "company": "某苏州电子/半导体/集成电路公司",
+      "district": "苏州-锦溪",
+      "exp": "3-5年",
+      "edu": "大专",
+      "company": "联滔电子",
       "industry": "电子/半导体/集成电路",
       "domain": "半导体/电子/光电",
-      "level": "专家/资深",
-      "link": "https://www.liepin.com/a/79396143.shtml",
-      "job_id": "79396143",
+      "level": "未标注",
+      "link": "https://www.liepin.com/job/1960146737.shtml",
+      "job_id": "60146737",
       "tier": "related",
       "matched": [
         "供应链"
@@ -1331,56 +1293,18 @@
       "source": "猎聘·采购"
     },
     {
-      "title": "（外企）采购副经理—电子料",
-      "salary": "20-30k·15薪",
-      "city": "苏州",
-      "district": "苏州",
-      "exp": "5-10年",
-      "edu": "本科",
-      "company": "某苏州汽车零部件及配件公司",
-      "industry": "汽车零部件及配件",
-      "domain": "汽车/零部件",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/79400929.shtml",
-      "job_id": "79400929",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·采购"
-    },
-    {
-      "title": "供应链总监（制造业国企岗位）",
-      "salary": "30-50k·15薪",
+      "title": "直接原材料采购",
+      "salary": "11-21k·15薪",
       "city": "苏州",
       "district": "苏州",
       "exp": "经验不限",
       "edu": "学历不限",
-      "company": "某国内食品/饮料/酒水公司",
-      "industry": "食品/饮料/酒水,科技推广服务",
-      "domain": "食品/快消/农牧",
-      "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/80112795.shtml",
-      "job_id": "80112795",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·采购"
-    },
-    {
-      "title": "Sourcing Manager",
-      "salary": "15-25k",
-      "city": "苏州",
-      "district": "苏州",
-      "exp": "5-10年",
-      "edu": "本科",
-      "company": "美卓中国",
-      "industry": "矿产开采",
-      "domain": "化工/新材料/建材",
-      "level": "经理",
-      "link": "https://www.liepin.com/job/1983616533.shtml",
-      "job_id": "83616533",
+      "company": "某上海大型汽车零部件及配件公司",
+      "industry": "整车制造,基金/证券/期货",
+      "domain": "汽车/零部件",
+      "level": "未标注",
+      "link": "https://www.liepin.com/a/79861589.shtml",
+      "job_id": "79861589",
       "tier": "related",
       "matched": [
         "供应链"
@@ -1407,18 +1331,94 @@
       "source": "猎聘·采购"
     },
     {
-      "title": "生产计划主管（35~40万左右+英语能作为工作语言+外企+双休）",
-      "salary": "25-30k·15薪",
-      "city": "杭州",
-      "district": "滨江区",
-      "exp": "5年以上",
+      "title": "供应链副总监（家具方向）",
+      "salary": "22-27k·13薪",
+      "city": "苏州",
+      "district": "常熟",
+      "exp": "8年以上",
+      "edu": "大专",
+      "company": "金牌厨柜",
+      "industry": "家具/家居",
+      "domain": "家居/家电/轻工",
+      "level": "总监/负责人",
+      "link": "https://www.liepin.com/job/1985298845.shtml",
+      "job_id": "85298845",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
+      "title": "Sourcing Manager",
+      "salary": "15-25k",
+      "city": "苏州",
+      "district": "苏州",
+      "exp": "5-10年",
       "edu": "本科",
-      "company": "某杭州知名公司",
-      "industry": "机械/设备",
-      "domain": "机械/装备/自动化",
-      "level": "主管",
-      "link": "https://www.liepin.com/a/78646871.shtml",
-      "job_id": "78646871",
+      "company": "美卓中国",
+      "industry": "矿产开采",
+      "domain": "化工/新材料/建材",
+      "level": "经理",
+      "link": "https://www.liepin.com/job/1983616533.shtml",
+      "job_id": "83616533",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·采购"
+    },
+    {
+      "title": "供应链专员（外企快消）",
+      "salary": "10-15k·13薪",
+      "city": "苏州",
+      "district": "工业园区",
+      "exp": "3-5年",
+      "edu": "本科",
+      "company": "某上海世界500强公司",
+      "industry": "日化",
+      "domain": "其他/未标注",
+      "level": "专员/员",
+      "link": "https://www.liepin.com/a/79815335.shtml",
+      "job_id": "79815335",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
+      "title": "设备采购工程师(J10231)",
+      "salary": "15-25k·14薪",
+      "city": "苏州",
+      "district": "苏州-枫桥",
+      "exp": "5-10年",
+      "edu": "本科",
+      "company": "天孚通信",
+      "industry": "通信设备,电子/半导体/集成电路",
+      "domain": "半导体/电子/光电",
+      "level": "未标注",
+      "link": "https://www.liepin.com/job/1982312975.shtml",
+      "job_id": "82312975",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·采购"
+    },
+    {
+      "title": "化妆品包装生产计划员/物料计划员(PMC)",
+      "salary": "9-14k",
+      "city": "杭州",
+      "district": "杭州",
+      "exp": "3年以上",
+      "edu": "中专/中技",
+      "company": "某知名公司",
+      "industry": "人力资源服务",
+      "domain": "其他/未标注",
+      "level": "未标注",
+      "link": "https://www.liepin.com/a/80070383.shtml",
+      "job_id": "80070383",
       "tier": "core",
       "matched": [
         "计划"
@@ -1483,25 +1483,6 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "化妆品包装生产计划员/物料计划员(PMC)",
-      "salary": "9-14k",
-      "city": "杭州",
-      "district": "杭州",
-      "exp": "3年以上",
-      "edu": "中专/中技",
-      "company": "某知名公司",
-      "industry": "人力资源服务",
-      "domain": "其他/未标注",
-      "level": "未标注",
-      "link": "https://www.liepin.com/a/80070383.shtml",
-      "job_id": "80070383",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
       "title": "生产计划主管（PMC主管）",
       "salary": "15-18k",
       "city": "杭州",
@@ -1514,6 +1495,25 @@
       "level": "主管",
       "link": "https://www.liepin.com/job/1985891389.shtml",
       "job_id": "85891389",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "生产计划主管（35~40万左右+英语能作为工作语言+外企+双休）",
+      "salary": "25-30k·15薪",
+      "city": "杭州",
+      "district": "滨江区",
+      "exp": "5年以上",
+      "edu": "本科",
+      "company": "某杭州知名公司",
+      "industry": "机械/设备",
+      "domain": "机械/装备/自动化",
+      "level": "主管",
+      "link": "https://www.liepin.com/a/78646871.shtml",
+      "job_id": "78646871",
       "tier": "core",
       "matched": [
         "计划"
@@ -1578,37 +1578,18 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划专员",
-      "salary": "7-14k·14薪",
+      "title": "生产计划员",
+      "salary": "8-12k",
       "city": "杭州",
-      "district": "杭州-山阴",
+      "district": "钱塘区",
       "exp": "1-3年",
       "edu": "本科",
-      "company": "传化智联",
-      "industry": "化工,货运/物流/仓储",
-      "domain": "化工/新材料/建材",
+      "company": "浙江睿霄科技发展有限公司",
+      "industry": "其他行业",
+      "domain": "其他/未标注",
       "level": "专员/员",
-      "link": "https://www.liepin.com/job/1975040227.shtml",
-      "job_id": "75040227",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "外资供应链系统流程专家-生产计划及计划执行模块",
-      "salary": "23-27k·15薪",
-      "city": "杭州",
-      "district": "杭州",
-      "exp": "5-10年",
-      "edu": "本科",
-      "company": "某杭州大型机械制造公司",
-      "industry": "机械/设备",
-      "domain": "机械/装备/自动化",
-      "level": "专家/资深",
-      "link": "https://www.liepin.com/a/78747233.shtml",
-      "job_id": "78747233",
+      "link": "https://www.liepin.com/job/1985679105.shtml",
+      "job_id": "85679105",
       "tier": "core",
       "matched": [
         "计划"
@@ -1673,25 +1654,6 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划员",
-      "salary": "8-12k",
-      "city": "杭州",
-      "district": "钱塘区",
-      "exp": "1-3年",
-      "edu": "本科",
-      "company": "浙江睿霄科技发展有限公司",
-      "industry": "其他行业",
-      "domain": "其他/未标注",
-      "level": "专员/员",
-      "link": "https://www.liepin.com/job/1985679105.shtml",
-      "job_id": "85679105",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
       "title": "生产计划/物料管理(PMC)",
       "salary": "13-20k·14薪",
       "city": "杭州",
@@ -1704,6 +1666,25 @@
       "level": "未标注",
       "link": "https://www.liepin.com/job/1985639679.shtml",
       "job_id": "85639679",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "外资供应链系统流程专家-生产计划及计划执行模块",
+      "salary": "23-27k·15薪",
+      "city": "杭州",
+      "district": "杭州",
+      "exp": "5-10年",
+      "edu": "本科",
+      "company": "某杭州大型机械制造公司",
+      "industry": "机械/设备",
+      "domain": "机械/装备/自动化",
+      "level": "专家/资深",
+      "link": "https://www.liepin.com/a/78747233.shtml",
+      "job_id": "78747233",
       "tier": "core",
       "matched": [
         "计划"
@@ -1730,18 +1711,18 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "计划主管 / 供应链 Planning高级专员",
-      "salary": "15-45k",
+      "title": "物料管理",
+      "salary": "12-13k",
       "city": "杭州",
-      "district": "杭州-文明路",
-      "exp": "3-5年",
-      "edu": "本科",
-      "company": "CAROTE卡罗特",
-      "industry": "家具/家居,电子商务",
+      "district": "杭州-彭埠",
+      "exp": "2年以上",
+      "edu": "大专",
+      "company": "杭州博纳德装饰工程有限公司",
+      "industry": "装饰装修",
       "domain": "家居/家电/轻工",
-      "level": "主管",
-      "link": "https://www.liepin.com/job/1981763819.shtml",
-      "job_id": "81763819",
+      "level": "未标注",
+      "link": "https://www.liepin.com/job/1985956873.shtml",
+      "job_id": "85956873",
       "tier": "core",
       "matched": [
         "计划"
@@ -1749,18 +1730,18 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "生产计划经理",
-      "salary": "16-22k·15薪",
+      "title": "PMC生产计划",
+      "salary": "8-15k",
       "city": "杭州",
-      "district": "钱塘区",
-      "exp": "5-10年",
+      "district": "余杭区",
+      "exp": "3年以上",
       "edu": "本科",
-      "company": "某杭州大型机械/设备公司",
-      "industry": "机械/设备,工业自动化",
-      "domain": "机械/装备/自动化",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/77639125.shtml",
-      "job_id": "77639125",
+      "company": "芯寒智能科技有限公司",
+      "industry": "科技推广服务",
+      "domain": "其他/未标注",
+      "level": "未标注",
+      "link": "https://www.liepin.com/job/1985730631.shtml",
+      "job_id": "85730631",
       "tier": "core",
       "matched": [
         "计划"
@@ -1768,18 +1749,18 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划主管(PMC)",
-      "salary": "15-25k·13薪",
+      "title": "生产计划/物料管理(PMC)",
+      "salary": "14-23k",
       "city": "杭州",
       "district": "余杭区",
-      "exp": "5年以上",
-      "edu": "大专",
+      "exp": "3年以上",
+      "edu": "本科",
       "company": "浙江瀚为科技有限公司",
       "industry": "新能源",
       "domain": "新能源/电池/光伏",
-      "level": "主管",
-      "link": "https://www.liepin.com/job/1985442495.shtml",
-      "job_id": "85442495",
+      "level": "未标注",
+      "link": "https://www.liepin.com/job/1985726509.shtml",
+      "job_id": "85726509",
       "tier": "core",
       "matched": [
         "计划"
@@ -1825,246 +1806,37 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "外贸事业部-供应链负责人",
-      "salary": "50-65k",
+      "title": "PMC主管/经理（生产计划主管）",
+      "salary": "13-20k",
       "city": "杭州",
-      "district": "钱塘区",
+      "district": "杭州-长河",
       "exp": "5-10年",
-      "edu": "本科",
-      "company": "某杭州装饰装修上市公司",
-      "industry": "装饰装修,家具/家居",
-      "domain": "家居/家电/轻工",
-      "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/79974523.shtml",
-      "job_id": "79974523",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
-      "title": "供应链总监",
-      "salary": "45-60k",
-      "city": "杭州",
-      "district": "临平区",
-      "exp": "10年以上",
-      "edu": "本科",
-      "company": "某杭州大型贸易进出口公司",
-      "industry": "贸易/进出口",
-      "domain": "物流/贸易/供应链服务",
-      "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/79406949.shtml",
-      "job_id": "79406949",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
-      "title": "供应链总监（高端女装）",
-      "salary": "30-50k",
-      "city": "杭州",
-      "district": "杭州",
-      "exp": "10年以上",
-      "edu": "学历不限",
-      "company": "某杭州互联网公司",
-      "industry": "互联网",
-      "domain": "其他/未标注",
-      "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/80418981.shtml",
-      "job_id": "80418981",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
-      "title": "供应链经理",
-      "salary": "25-30k·15薪",
-      "city": "杭州",
-      "district": "滨江区",
-      "exp": "10年以上",
-      "edu": "本科",
-      "company": "某杭州知名公司",
-      "industry": "电子/半导体/集成电路",
-      "domain": "半导体/电子/光电",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/79656645.shtml",
-      "job_id": "79656645",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
-      "title": "供应链事业部总经理",
-      "salary": "75-95k",
-      "city": "杭州",
-      "district": "杭州",
-      "exp": "5-10年",
-      "edu": "本科",
-      "company": "某苏州知名公司",
-      "industry": "服装/纺织/皮革",
-      "domain": "纺织/服装",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/80107943.shtml",
-      "job_id": "80107943",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
-      "title": "供应链总经理(国际化)",
-      "salary": "120-180k",
-      "city": "杭州",
-      "district": "杭州",
-      "exp": "10年以上",
-      "edu": "本科",
-      "company": "某国内新能源上市公司",
-      "industry": "新能源",
-      "domain": "新能源/电池/光伏",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/79754007.shtml",
-      "job_id": "79754007",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
-      "title": "供应链经理/主管",
-      "salary": "20-35k",
-      "city": "杭州",
-      "district": "临平区",
-      "exp": "5-10年",
-      "edu": "本科",
-      "company": "某杭州大型机械/设备公司",
-      "industry": "机械/设备,仪器仪表",
-      "domain": "机械/装备/自动化",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/79167299.shtml",
-      "job_id": "79167299",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
-      "title": "采购员",
-      "salary": "8-15k",
-      "city": "杭州",
-      "district": "杭州-新街",
-      "exp": "5年以上",
       "edu": "大专",
-      "company": "浙江兆丰机电股份有限公司",
-      "industry": "整车制造,汽车零部件及配件",
-      "domain": "汽车/零部件",
-      "level": "专员/员",
-      "link": "https://www.liepin.com/job/1972102279.shtml",
-      "job_id": "72102279",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·采购"
-    },
-    {
-      "title": "国际采购专家",
-      "salary": "20-25k",
-      "city": "杭州",
-      "district": "杭州",
-      "exp": "3-5年",
-      "edu": "本科",
-      "company": "某杭州大型食品/饮料/酒水公司",
-      "industry": "食品/饮料/酒水",
-      "domain": "食品/快消/农牧",
-      "level": "专家/资深",
-      "link": "https://www.liepin.com/a/80313535.shtml",
-      "job_id": "80313535",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·采购"
-    },
-    {
-      "title": "采购主管",
-      "salary": "20-30k",
-      "city": "杭州",
-      "district": "杭州",
-      "exp": "5-10年",
-      "edu": "本科",
-      "company": "某杭州大型制药公司",
-      "industry": "制药",
+      "company": "领航基因",
+      "industry": "医疗器械",
       "domain": "医药/医疗器械",
-      "level": "主管",
-      "link": "https://www.liepin.com/a/78249539.shtml",
-      "job_id": "78249539",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·采购"
-    },
-    {
-      "title": "供应链中心总经理",
-      "salary": "70-100k",
-      "city": "杭州",
-      "district": "杭州",
-      "exp": "10年以上",
-      "edu": "本科",
-      "company": "某杭州大型家具/家居公司",
-      "industry": "家具/家居,办公用品/设备",
-      "domain": "家居/家电/轻工",
       "level": "经理",
-      "link": "https://www.liepin.com/a/79650657.shtml",
-      "job_id": "79650657",
-      "tier": "related",
+      "link": "https://www.liepin.com/job/1966319233.shtml",
+      "job_id": "66319233",
+      "tier": "core",
       "matched": [
-        "供应链"
+        "计划"
       ],
-      "source": "猎聘·供应链"
+      "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "供应链副总监",
-      "salary": "40-65k",
+      "title": "供应链总监（化工）",
+      "salary": "60-90k·14薪",
       "city": "杭州",
       "district": "杭州",
       "exp": "10年以上",
       "edu": "本科",
-      "company": "某知名公司",
-      "industry": "批发/零售",
+      "company": "某杭州大型化工公司",
+      "industry": "货运/物流/仓储,基金/证券/期货,电子商务",
       "domain": "物流/贸易/供应链服务",
       "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/79298155.shtml",
-      "job_id": "79298155",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
-      "title": "水泥工艺或机械转型装备采购杭州",
-      "salary": "20-40k",
-      "city": "杭州",
-      "district": "杭州",
-      "exp": "经验不限",
-      "edu": "本科",
-      "company": "某知名公司",
-      "industry": "咨询服务",
-      "domain": "其他/未标注",
-      "level": "未标注",
-      "link": "https://www.liepin.com/a/79304295.shtml",
-      "job_id": "79304295",
+      "link": "https://www.liepin.com/a/79425629.shtml",
+      "job_id": "79425629",
       "tier": "related",
       "matched": [
         "供应链"
@@ -2091,23 +1863,251 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "供应链总监",
-      "salary": "30-60k",
+      "title": "供应链管理负责人",
+      "salary": "35-50k",
       "city": "杭州",
       "district": "杭州",
-      "exp": "1-3年",
-      "edu": "大专",
-      "company": "某杭州大型服装/纺织/皮革公司",
-      "industry": "服装/纺织/皮革,互联网",
-      "domain": "纺织/服装",
+      "exp": "经验不限",
+      "edu": "学历不限",
+      "company": "某杭州装饰装修上市公司",
+      "industry": "装饰装修,家具/家居",
+      "domain": "家居/家电/轻工",
       "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/79187137.shtml",
-      "job_id": "79187137",
+      "link": "https://www.liepin.com/a/79653251.shtml",
+      "job_id": "79653251",
       "tier": "related",
       "matched": [
         "供应链"
       ],
       "source": "猎聘·供应链"
+    },
+    {
+      "title": "水泥工艺或机械转型装备采购杭州",
+      "salary": "20-40k",
+      "city": "杭州",
+      "district": "杭州",
+      "exp": "经验不限",
+      "edu": "本科",
+      "company": "某知名公司",
+      "industry": "咨询服务",
+      "domain": "其他/未标注",
+      "level": "未标注",
+      "link": "https://www.liepin.com/a/79304295.shtml",
+      "job_id": "79304295",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
+      "title": "供应链经理到总监",
+      "salary": "40-60k·14薪",
+      "city": "杭州",
+      "district": "萧山区",
+      "exp": "10年以上",
+      "edu": "本科",
+      "company": "某杭州制药公司",
+      "industry": "制药,医疗机构",
+      "domain": "医药/医疗器械",
+      "level": "总监/负责人",
+      "link": "https://www.liepin.com/a/78686323.shtml",
+      "job_id": "78686323",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
+      "title": "供应链经理/主管",
+      "salary": "20-35k",
+      "city": "杭州",
+      "district": "临平区",
+      "exp": "5-10年",
+      "edu": "本科",
+      "company": "某杭州大型机械/设备公司",
+      "industry": "机械/设备,仪器仪表",
+      "domain": "机械/装备/自动化",
+      "level": "经理",
+      "link": "https://www.liepin.com/a/79167299.shtml",
+      "job_id": "79167299",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
+      "title": "国际采购专家",
+      "salary": "20-25k",
+      "city": "杭州",
+      "district": "杭州",
+      "exp": "3-5年",
+      "edu": "本科",
+      "company": "某国内食品/饮料/酒水上市公司",
+      "industry": "食品/饮料/酒水",
+      "domain": "食品/快消/农牧",
+      "level": "专家/资深",
+      "link": "https://www.liepin.com/a/80277015.shtml",
+      "job_id": "80277015",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·采购"
+    },
+    {
+      "title": "供应链总经理(国际化)",
+      "salary": "120-180k",
+      "city": "杭州",
+      "district": "杭州",
+      "exp": "10年以上",
+      "edu": "本科",
+      "company": "某国内新能源上市公司",
+      "industry": "新能源",
+      "domain": "新能源/电池/光伏",
+      "level": "经理",
+      "link": "https://www.liepin.com/a/79754007.shtml",
+      "job_id": "79754007",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
+      "title": "供应链事业部总经理",
+      "salary": "75-95k",
+      "city": "杭州",
+      "district": "杭州",
+      "exp": "5-10年",
+      "edu": "本科",
+      "company": "某苏州知名公司",
+      "industry": "服装/纺织/皮革",
+      "domain": "纺织/服装",
+      "level": "经理",
+      "link": "https://www.liepin.com/a/80107943.shtml",
+      "job_id": "80107943",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
+      "title": "采购部经理（精细化工行业）",
+      "salary": "20-25k",
+      "city": "杭州",
+      "district": "杭州",
+      "exp": "10年以上",
+      "edu": "大专",
+      "company": "某苏州石化公司",
+      "industry": "石化",
+      "domain": "化工/新材料/建材",
+      "level": "经理",
+      "link": "https://www.liepin.com/a/74388569.shtml",
+      "job_id": "74388569",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·采购"
+    },
+    {
+      "title": "供应链总监",
+      "salary": "45-65k",
+      "city": "杭州",
+      "district": "临平区",
+      "exp": "10年以上",
+      "edu": "本科",
+      "company": "某杭州大型贸易进出口公司",
+      "industry": "贸易/进出口",
+      "domain": "物流/贸易/供应链服务",
+      "level": "总监/负责人",
+      "link": "https://www.liepin.com/a/80423581.shtml",
+      "job_id": "80423581",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
+      "title": "供应链经理",
+      "salary": "25-30k·15薪",
+      "city": "杭州",
+      "district": "滨江区",
+      "exp": "10年以上",
+      "edu": "本科",
+      "company": "某杭州知名公司",
+      "industry": "电子/半导体/集成电路",
+      "domain": "半导体/电子/光电",
+      "level": "经理",
+      "link": "https://www.liepin.com/a/79656645.shtml",
+      "job_id": "79656645",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
+      "title": "供应链副总监（家具方向）",
+      "salary": "22-27k·13薪",
+      "city": "杭州",
+      "district": "杭州-小河",
+      "exp": "8年以上",
+      "edu": "大专",
+      "company": "金牌厨柜",
+      "industry": "家具/家居",
+      "domain": "家居/家电/轻工",
+      "level": "总监/负责人",
+      "link": "https://www.liepin.com/job/1985298807.shtml",
+      "job_id": "85298807",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
+      "title": "供应链总监（食品方向）",
+      "salary": "50-70k·15薪",
+      "city": "杭州",
+      "district": "杭州",
+      "exp": "10年以上",
+      "edu": "本科",
+      "company": "某大型日化公司",
+      "industry": "日化",
+      "domain": "其他/未标注",
+      "level": "总监/负责人",
+      "link": "https://www.liepin.com/a/78830785.shtml",
+      "job_id": "78830785",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
+      "title": "资深采购专员",
+      "salary": "10-15k·14薪",
+      "city": "杭州",
+      "district": "萧山区",
+      "exp": "3-5年",
+      "edu": "本科",
+      "company": "某杭州制药公司",
+      "industry": "制药,医疗机构",
+      "domain": "医药/医疗器械",
+      "level": "专家/资深",
+      "link": "https://www.liepin.com/a/78682457.shtml",
+      "job_id": "78682457",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·采购"
     },
     {
       "title": "生产计划/调度",
@@ -2158,27 +2158,8 @@
       "industry": "汽车零部件及配件",
       "domain": "汽车/零部件",
       "level": "经理",
-      "link": "https://www.liepin.com/a/79489973.shtml",
-      "job_id": "79489973",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "海外生产计划经理",
-      "salary": "20-40k·13薪",
-      "city": "南京",
-      "district": "玄武区",
-      "exp": "5-10年",
-      "edu": "本科",
-      "company": "森大集团",
-      "industry": "贸易/进出口,批发/零售,货运/物流/仓储",
-      "domain": "物流/贸易/供应链服务",
-      "level": "经理",
-      "link": "https://www.liepin.com/job/1980168473.shtml",
-      "job_id": "80168473",
+      "link": "https://www.liepin.com/a/79489733.shtml",
+      "job_id": "79489733",
       "tier": "core",
       "matched": [
         "计划"
@@ -2205,6 +2186,25 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
+      "title": "海外生产计划经理",
+      "salary": "20-40k·13薪",
+      "city": "南京",
+      "district": "玄武区",
+      "exp": "5-10年",
+      "edu": "本科",
+      "company": "森大集团",
+      "industry": "贸易/进出口,批发/零售,货运/物流/仓储",
+      "domain": "物流/贸易/供应链服务",
+      "level": "经理",
+      "link": "https://www.liepin.com/job/1980168473.shtml",
+      "job_id": "80168473",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
       "title": "生产计划员",
       "salary": "8-12k",
       "city": "南京",
@@ -2224,25 +2224,6 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划经理（生产计划、pm、物料）大型国际公司，待遇好",
-      "salary": "28-40k",
-      "city": "南京",
-      "district": "南京",
-      "exp": "5-10年",
-      "edu": "本科",
-      "company": "某广州大型贸易进出口公司",
-      "industry": "食品/饮料/酒水,贸易/进出口,建材",
-      "domain": "食品/快消/农牧",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/79388267.shtml",
-      "job_id": "79388267",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
       "title": "生产计划经理",
       "salary": "18-21k",
       "city": "南京",
@@ -2255,6 +2236,25 @@
       "level": "经理",
       "link": "https://www.liepin.com/a/79970995.shtml",
       "job_id": "79970995",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "生产计划经理（生产计划、pm、物料）大型国际公司，待遇好",
+      "salary": "28-40k",
+      "city": "南京",
+      "district": "南京",
+      "exp": "5-10年",
+      "edu": "本科",
+      "company": "某广州大型贸易进出口公司",
+      "industry": "食品/饮料/酒水,贸易/进出口,建材",
+      "domain": "食品/快消/农牧",
+      "level": "经理",
+      "link": "https://www.liepin.com/a/79388267.shtml",
+      "job_id": "79388267",
       "tier": "core",
       "matched": [
         "计划"
@@ -2319,18 +2319,18 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划经理",
-      "salary": "35-65k·14薪",
+      "title": "生产计划",
+      "salary": "11-18k",
       "city": "南京",
-      "district": "南京",
-      "exp": "5-10年",
-      "edu": "学历不限",
-      "company": "某知名公司",
+      "district": "南京-仙林",
+      "exp": "5年以上",
+      "edu": "本科",
+      "company": "牧镭激光",
       "industry": "电子/半导体/集成电路",
       "domain": "半导体/电子/光电",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/80161939.shtml",
-      "job_id": "80161939",
+      "level": "未标注",
+      "link": "https://www.liepin.com/job/1985782969.shtml",
+      "job_id": "85782969",
       "tier": "core",
       "matched": [
         "计划"
@@ -2348,27 +2348,8 @@
       "industry": "汽车零部件及配件",
       "domain": "汽车/零部件",
       "level": "经理",
-      "link": "https://www.liepin.com/a/79489733.shtml",
-      "job_id": "79489733",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "集团生产计划经理",
-      "salary": "50-80k",
-      "city": "南京",
-      "district": "鼓楼区",
-      "exp": "10年以上",
-      "edu": "本科",
-      "company": "某国内贸易进出口上市公司",
-      "industry": "贸易/进出口,新材料,环保",
-      "domain": "物流/贸易/供应链服务",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/79926537.shtml",
-      "job_id": "79926537",
+      "link": "https://www.liepin.com/a/79489973.shtml",
+      "job_id": "79489973",
       "tier": "core",
       "matched": [
         "计划"
@@ -2395,6 +2376,25 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
+      "title": "集团生产计划经理",
+      "salary": "50-80k",
+      "city": "南京",
+      "district": "鼓楼区",
+      "exp": "10年以上",
+      "edu": "本科",
+      "company": "某国内贸易进出口上市公司",
+      "industry": "贸易/进出口,新材料,环保",
+      "domain": "物流/贸易/供应链服务",
+      "level": "经理",
+      "link": "https://www.liepin.com/a/79926537.shtml",
+      "job_id": "79926537",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
       "title": "生产计划员",
       "salary": "5-6k",
       "city": "南京",
@@ -2407,25 +2407,6 @@
       "level": "专员/员",
       "link": "https://www.liepin.com/job/1977156955.shtml",
       "job_id": "77156955",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "生产计划经理",
-      "salary": "15-20k",
-      "city": "南京",
-      "district": "南京-宁南",
-      "exp": "经验不限",
-      "edu": "大专",
-      "company": "东方墨兰",
-      "industry": "餐饮业",
-      "domain": "食品/快消/农牧",
-      "level": "经理",
-      "link": "https://www.liepin.com/job/1984185549.shtml",
-      "job_id": "84185549",
       "tier": "core",
       "matched": [
         "计划"
@@ -2452,6 +2433,25 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
+      "title": "生产计划经理",
+      "salary": "15-20k",
+      "city": "南京",
+      "district": "南京-宁南",
+      "exp": "经验不限",
+      "edu": "大专",
+      "company": "东方墨兰",
+      "industry": "餐饮业",
+      "domain": "食品/快消/农牧",
+      "level": "经理",
+      "link": "https://www.liepin.com/job/1984185549.shtml",
+      "job_id": "84185549",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
       "title": "资深供应链计划-清仓",
       "salary": "30-40k·15薪",
       "city": "南京",
@@ -2471,18 +2471,18 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "PMC专员",
-      "salary": "15-20k",
+      "title": "物控主管",
+      "salary": "11-12k·13薪",
       "city": "南京",
-      "district": "南京-东善桥",
-      "exp": "3-5年",
-      "edu": "本科",
-      "company": "江苏协航能源科技有限公司",
-      "industry": "新能源",
+      "district": "南京",
+      "exp": "1-3年",
+      "edu": "大专",
+      "company": "某南京大型计算机软件公司",
+      "industry": "计算机软件,电力/热力/燃气/水务",
       "domain": "新能源/电池/光伏",
-      "level": "专员/员",
-      "link": "https://www.liepin.com/job/1985917691.shtml",
-      "job_id": "85917691",
+      "level": "主管",
+      "link": "https://www.liepin.com/a/80276733.shtml",
+      "job_id": "80276733",
       "tier": "core",
       "matched": [
         "计划"
@@ -2510,7 +2510,7 @@
     },
     {
       "title": "生产计划经理",
-      "salary": "35-55k·15薪",
+      "salary": "35-65k·14薪",
       "city": "南京",
       "district": "南京",
       "exp": "5-10年",
@@ -2519,8 +2519,8 @@
       "industry": "电子/半导体/集成电路",
       "domain": "半导体/电子/光电",
       "level": "经理",
-      "link": "https://www.liepin.com/a/80161867.shtml",
-      "job_id": "80161867",
+      "link": "https://www.liepin.com/a/80161939.shtml",
+      "job_id": "80161939",
       "tier": "core",
       "matched": [
         "计划"
@@ -2566,18 +2566,18 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "采购经理",
-      "salary": "20-28k·14薪",
+      "title": "直接原材料采购",
+      "salary": "11-21k·15薪",
       "city": "南京",
-      "district": "江宁区",
-      "exp": "8年以上",
-      "edu": "本科",
-      "company": "某南京汽车零部件及配件公司",
-      "industry": "汽车零部件及配件",
+      "district": "南京",
+      "exp": "经验不限",
+      "edu": "学历不限",
+      "company": "某上海大型汽车零部件及配件公司",
+      "industry": "整车制造,基金/证券/期货",
       "domain": "汽车/零部件",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/80305553.shtml",
-      "job_id": "80305553",
+      "level": "未标注",
+      "link": "https://www.liepin.com/a/79862275.shtml",
+      "job_id": "79862275",
       "tier": "related",
       "matched": [
         "供应链"
@@ -2585,18 +2585,18 @@
       "source": "猎聘·采购"
     },
     {
-      "title": "采购助理",
-      "salary": "5-7k",
+      "title": "集团供应链专家",
+      "salary": "35-50k·15薪",
       "city": "南京",
-      "district": "溧水区",
-      "exp": "1-3年",
+      "district": "南京",
+      "exp": "10年以上",
       "edu": "学历不限",
-      "company": "某南京机械/设备公司",
+      "company": "某大型知名电气机械/器材公司",
       "industry": "电气机械/器材",
       "domain": "机械/装备/自动化",
-      "level": "专员/员",
-      "link": "https://www.liepin.com/a/80223729.shtml",
-      "job_id": "80223729",
+      "level": "专家/资深",
+      "link": "https://www.liepin.com/a/79233337.shtml",
+      "job_id": "79233337",
       "tier": "related",
       "matched": [
         "供应链"
@@ -2604,18 +2604,18 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "供应链总监(精密光学元件行业经验）",
-      "salary": "18-30k·13薪",
+      "title": "供应链副总监（家具方向）",
+      "salary": "22-27k·13薪",
       "city": "南京",
-      "district": "南京",
-      "exp": "经验不限",
-      "edu": "本科",
-      "company": "某南京知名公司",
-      "industry": "贸易/进出口,电子/半导体/集成电路,非金属矿物制品",
-      "domain": "物流/贸易/供应链服务",
+      "district": "南京-双龙大道",
+      "exp": "8年以上",
+      "edu": "大专",
+      "company": "金牌厨柜",
+      "industry": "家具/家居",
+      "domain": "家居/家电/轻工",
       "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/79183657.shtml",
-      "job_id": "79183657",
+      "link": "https://www.liepin.com/job/1985298853.shtml",
+      "job_id": "85298853",
       "tier": "related",
       "matched": [
         "供应链"
@@ -2642,37 +2642,37 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "采购经理（床垫 / 软体）",
-      "salary": "25-35k·15薪",
+      "title": "供应链总监(精密光学元件行业经验）",
+      "salary": "18-30k·13薪",
       "city": "南京",
       "district": "南京",
-      "exp": "5-10年",
-      "edu": "大专",
-      "company": "某知名公司",
-      "industry": "家具/家居",
-      "domain": "家居/家电/轻工",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/80307987.shtml",
-      "job_id": "80307987",
+      "exp": "经验不限",
+      "edu": "本科",
+      "company": "某南京知名公司",
+      "industry": "贸易/进出口,电子/半导体/集成电路,非金属矿物制品",
+      "domain": "物流/贸易/供应链服务",
+      "level": "总监/负责人",
+      "link": "https://www.liepin.com/a/79183657.shtml",
+      "job_id": "79183657",
       "tier": "related",
       "matched": [
         "供应链"
       ],
-      "source": "猎聘·采购"
+      "source": "猎聘·供应链"
     },
     {
-      "title": "采购经理",
-      "salary": "16-30k",
+      "title": "采购工程师(风电叶片/风电EPC)",
+      "salary": "11-20k·15薪",
       "city": "南京",
-      "district": "南京-兴智中心",
-      "exp": "5年以上",
+      "district": "南京",
+      "exp": "1-3年",
       "edu": "本科",
-      "company": "常州锂源新能源科技有限公司",
+      "company": "某国内新能源公司",
       "industry": "新能源",
       "domain": "新能源/电池/光伏",
-      "level": "经理",
-      "link": "https://www.liepin.com/job/1984676823.shtml",
-      "job_id": "84676823",
+      "level": "未标注",
+      "link": "https://www.liepin.com/a/78388625.shtml",
+      "job_id": "78388625",
       "tier": "related",
       "matched": [
         "供应链"
@@ -2699,25 +2699,6 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "采购总监",
-      "salary": "15-20k",
-      "city": "南京",
-      "district": "南京-洪蓝",
-      "exp": "5-10年",
-      "edu": "大专",
-      "company": "江苏冠军科技集团股份有限公司",
-      "industry": "化工",
-      "domain": "化工/新材料/建材",
-      "level": "总监/负责人",
-      "link": "https://www.liepin.com/job/1985952947.shtml",
-      "job_id": "85952947",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·采购"
-    },
-    {
       "title": "招标采购经理（达曼）",
       "salary": "20-25k",
       "city": "南京",
@@ -2730,6 +2711,25 @@
       "level": "经理",
       "link": "https://www.liepin.com/a/79973953.shtml",
       "job_id": "79973953",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·采购"
+    },
+    {
+      "title": "采购总监",
+      "salary": "15-20k",
+      "city": "南京",
+      "district": "南京-洪蓝",
+      "exp": "5-10年",
+      "edu": "大专",
+      "company": "江苏冠军科技集团股份有限公司",
+      "industry": "化工",
+      "domain": "化工/新材料/建材",
+      "level": "总监/负责人",
+      "link": "https://www.liepin.com/job/1985952947.shtml",
+      "job_id": "85952947",
       "tier": "related",
       "matched": [
         "供应链"
@@ -2775,18 +2775,18 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "供应链管理总监",
-      "salary": "35-45k",
+      "title": "供应链负责人",
+      "salary": "150-160k",
       "city": "南京",
       "district": "南京",
-      "exp": "5-10年",
+      "exp": "10年以上",
       "edu": "本科",
-      "company": "某南京电子/半导体/集成电路公司",
-      "industry": "电子/半导体/集成电路",
+      "company": "某南京大型电子商务公司",
+      "industry": "电子商务,生物技术",
       "domain": "半导体/电子/光电",
       "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/80320539.shtml",
-      "job_id": "80320539",
+      "link": "https://www.liepin.com/a/79918157.shtml",
+      "job_id": "79918157",
       "tier": "related",
       "matched": [
         "供应链"
@@ -2804,8 +2804,8 @@
       "industry": "整车制造,基金/证券/期货",
       "domain": "汽车/零部件",
       "level": "未标注",
-      "link": "https://www.liepin.com/a/79860945.shtml",
-      "job_id": "79860945",
+      "link": "https://www.liepin.com/a/79861509.shtml",
+      "job_id": "79861509",
       "tier": "related",
       "matched": [
         "供应链"
@@ -2851,6 +2851,25 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
+      "title": "生产计划员",
+      "salary": "6-8k",
+      "city": "宁波",
+      "district": "余姚",
+      "exp": "3-5年",
+      "edu": "大专",
+      "company": "浙江晟祺实业有限公司",
+      "industry": "日化,橡胶/塑料制品",
+      "domain": "化工/新材料/建材",
+      "level": "专员/员",
+      "link": "https://www.liepin.com/job/1981365499.shtml",
+      "job_id": "81365499",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
       "title": "生产计划",
       "salary": "7-10k·13薪",
       "city": "宁波",
@@ -2863,44 +2882,6 @@
       "level": "未标注",
       "link": "https://www.liepin.com/a/78369975.shtml",
       "job_id": "78369975",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "生产计划员",
-      "salary": "6-8k",
-      "city": "宁波",
-      "district": "余姚",
-      "exp": "2年以上",
-      "edu": "大专",
-      "company": "宁波永基精密科技有限公司",
-      "industry": "橡胶/塑料制品,汽车零部件及配件,机械/设备",
-      "domain": "化工/新材料/建材",
-      "level": "专员/员",
-      "link": "https://www.liepin.com/job/1985874225.shtml",
-      "job_id": "85874225",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "生产计划主管",
-      "salary": "10-15k·13薪",
-      "city": "宁波",
-      "district": "慈溪",
-      "exp": "7年以上",
-      "edu": "大专",
-      "company": "华裕电器集团股份有限公司",
-      "industry": "家电",
-      "domain": "家居/家电/轻工",
-      "level": "主管",
-      "link": "https://www.liepin.com/job/1984724733.shtml",
-      "job_id": "84724733",
       "tier": "core",
       "matched": [
         "计划"
@@ -2927,6 +2908,25 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
+      "title": "生产计划主管",
+      "salary": "10-15k·13薪",
+      "city": "宁波",
+      "district": "慈溪",
+      "exp": "7年以上",
+      "edu": "大专",
+      "company": "华裕电器集团股份有限公司",
+      "industry": "家电",
+      "domain": "家居/家电/轻工",
+      "level": "主管",
+      "link": "https://www.liepin.com/job/1984724733.shtml",
+      "job_id": "84724733",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
       "title": "生产计划/物料管理(PMC)",
       "salary": "6-10k",
       "city": "宁波",
@@ -2944,44 +2944,6 @@
         "计划"
       ],
       "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "生产计划员",
-      "salary": "7-9k·13薪",
-      "city": "宁波",
-      "district": "宁波-五乡",
-      "exp": "2年以上",
-      "edu": "大专",
-      "company": "天益医疗",
-      "industry": "医疗器械",
-      "domain": "医药/医疗器械",
-      "level": "专员/员",
-      "link": "https://www.liepin.com/job/1985287449.shtml",
-      "job_id": "85287449",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "PMC经理",
-      "salary": "15-20k",
-      "city": "宁波",
-      "district": "宁波-段塘",
-      "exp": "5年以上",
-      "edu": "本科",
-      "company": "宁波市春禾时装有限公司",
-      "industry": "服装/纺织/皮革",
-      "domain": "纺织/服装",
-      "level": "经理",
-      "link": "https://www.liepin.com/job/1982029943.shtml",
-      "job_id": "82029943",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·供应链"
     },
     {
       "title": "生产计划",
@@ -3022,6 +2984,25 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
+      "title": "生产计划员",
+      "salary": "6-8k",
+      "city": "宁波",
+      "district": "余姚",
+      "exp": "2年以上",
+      "edu": "大专",
+      "company": "宁波永基精密科技有限公司",
+      "industry": "橡胶/塑料制品,汽车零部件及配件,机械/设备",
+      "domain": "化工/新材料/建材",
+      "level": "专员/员",
+      "link": "https://www.liepin.com/job/1985874225.shtml",
+      "job_id": "85874225",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
       "title": "生产计划经理（PMC经理）",
       "salary": "30-40k",
       "city": "宁波",
@@ -3034,44 +3015,6 @@
       "level": "经理",
       "link": "https://www.liepin.com/a/78267377.shtml",
       "job_id": "78267377",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "生产计划跟单",
-      "salary": "5-6k",
-      "city": "宁波",
-      "district": "鄞州区",
-      "exp": "3-5年",
-      "edu": "本科",
-      "company": "宁波万冠熔模铸造有限公司",
-      "industry": "矿产开采",
-      "domain": "化工/新材料/建材",
-      "level": "专员/员",
-      "link": "https://www.liepin.com/job/1982150317.shtml",
-      "job_id": "82150317",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "生产计划经理",
-      "salary": "10-15k",
-      "city": "宁波",
-      "district": "宁波",
-      "exp": "5-10年",
-      "edu": "大专",
-      "company": "某宁波知名公司",
-      "industry": "日化,家电,文娱用品/器材",
-      "domain": "家居/家电/轻工",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/80192259.shtml",
-      "job_id": "80192259",
       "tier": "core",
       "matched": [
         "计划"
@@ -3096,6 +3039,25 @@
         "计划"
       ],
       "source": "猎聘·供应链"
+    },
+    {
+      "title": "生产计划",
+      "salary": "8-12k",
+      "city": "宁波",
+      "district": "宁波-白沙",
+      "exp": "3-5年",
+      "edu": "大专",
+      "company": "开利控股",
+      "industry": "家电",
+      "domain": "家居/家电/轻工",
+      "level": "未标注",
+      "link": "https://www.liepin.com/job/1954944255.shtml",
+      "job_id": "54944255",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
     },
     {
       "title": "PMC经理（外派）",
@@ -3155,6 +3117,25 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
+      "title": "生产计划跟单",
+      "salary": "5-6k",
+      "city": "宁波",
+      "district": "鄞州区",
+      "exp": "3-5年",
+      "edu": "本科",
+      "company": "宁波万冠熔模铸造有限公司",
+      "industry": "矿产开采",
+      "domain": "化工/新材料/建材",
+      "level": "专员/员",
+      "link": "https://www.liepin.com/job/1982150317.shtml",
+      "job_id": "82150317",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
       "title": "生产计划/物料管理(PMC)",
       "salary": "20-30k",
       "city": "宁波",
@@ -3172,44 +3153,6 @@
         "计划"
       ],
       "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "生产计划/物料管理(PMC)",
-      "salary": "7-12k",
-      "city": "宁波",
-      "district": "鄞州区",
-      "exp": "10年以上",
-      "edu": "大专",
-      "company": "宁波万冠熔模铸造有限公司",
-      "industry": "矿产开采",
-      "domain": "化工/新材料/建材",
-      "level": "未标注",
-      "link": "https://www.liepin.com/job/1984684029.shtml",
-      "job_id": "84684029",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "PMC主管(J10215)",
-      "salary": "8-13k",
-      "city": "宁波",
-      "district": "慈溪",
-      "exp": "3-5年",
-      "edu": "大专",
-      "company": "卓力电器集团有限公司",
-      "industry": "家具/家居,家电",
-      "domain": "家居/家电/轻工",
-      "level": "主管",
-      "link": "https://www.liepin.com/job/1984512363.shtml",
-      "job_id": "84512363",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·供应链"
     },
     {
       "title": "供应链总监（计划、采购、仓库）",
@@ -3231,42 +3174,61 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "供应链总监",
-      "salary": "27-35k·17薪",
+      "title": "PMC主管(J10215)",
+      "salary": "8-13k",
       "city": "宁波",
-      "district": "鄞州区",
-      "exp": "5-10年",
-      "edu": "本科",
-      "company": "某宁波电气机械/器材上市公司",
-      "industry": "电气机械/器材",
-      "domain": "机械/装备/自动化",
-      "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/79506543.shtml",
-      "job_id": "79506543",
-      "tier": "related",
+      "district": "慈溪",
+      "exp": "3-5年",
+      "edu": "大专",
+      "company": "卓力电器集团有限公司",
+      "industry": "家具/家居,家电",
+      "domain": "家居/家电/轻工",
+      "level": "主管",
+      "link": "https://www.liepin.com/job/1984512363.shtml",
+      "job_id": "84512363",
+      "tier": "core",
       "matched": [
-        "供应链"
+        "计划"
       ],
       "source": "猎聘·供应链"
     },
     {
-      "title": "供应链交付经理",
-      "salary": "19-25k·13薪",
+      "title": "生产计划员",
+      "salary": "4-7k",
       "city": "宁波",
-      "district": "宁波-洪塘",
-      "exp": "5-10年",
-      "edu": "本科",
-      "company": "浙江摩多巴克斯科技股份有限公司",
-      "industry": "新能源汽车,机械/设备,新材料",
+      "district": "宁波-孔浦",
+      "exp": "经验不限",
+      "edu": "大专",
+      "company": "宁波德普隆汽车系统有限公司",
+      "industry": "汽车零部件及配件",
       "domain": "汽车/零部件",
-      "level": "经理",
-      "link": "https://www.liepin.com/job/1976705447.shtml",
-      "job_id": "76705447",
-      "tier": "related",
+      "level": "专员/员",
+      "link": "https://www.liepin.com/job/1974075597.shtml",
+      "job_id": "74075597",
+      "tier": "core",
       "matched": [
-        "供应链"
+        "计划"
       ],
-      "source": "猎聘·供应链"
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "PMC 部长（生产计划与物料控制）空调",
+      "salary": "12-18k",
+      "city": "宁波",
+      "district": "余姚",
+      "exp": "5-10年",
+      "edu": "大专",
+      "company": "某宁波机械/设备公司",
+      "industry": "机械/设备",
+      "domain": "机械/装备/自动化",
+      "level": "未标注",
+      "link": "https://www.liepin.com/a/80045367.shtml",
+      "job_id": "80045367",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
     },
     {
       "title": "供应链总监/采购总监（外贸/跨境电商）",
@@ -3288,18 +3250,18 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "供应链主管（重点本科 储备干部）",
-      "salary": "13-25k",
+      "title": "供应链总监",
+      "salary": "27-35k·17薪",
       "city": "宁波",
-      "district": "海曙区",
-      "exp": "5年以下",
+      "district": "鄞州区",
+      "exp": "5-10年",
       "edu": "本科",
-      "company": "宁波某多元化集团公司",
-      "industry": "家居家纺",
-      "domain": "家居/家电/轻工",
-      "level": "主管",
-      "link": "https://www.liepin.com/a/79650083.shtml",
-      "job_id": "79650083",
+      "company": "某宁波电气机械/器材上市公司",
+      "industry": "电气机械/器材",
+      "domain": "机械/装备/自动化",
+      "level": "总监/负责人",
+      "link": "https://www.liepin.com/a/79506543.shtml",
+      "job_id": "79506543",
       "tier": "related",
       "matched": [
         "供应链"
@@ -3326,18 +3288,18 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "供应链管理中心总监",
-      "salary": "50-80k",
+      "title": "供应链副总监",
+      "salary": "15-25k·14薪",
       "city": "宁波",
-      "district": "宁波-古塘",
-      "exp": "5-10年",
+      "district": "宁波-新大路沿线",
+      "exp": "5年以上",
       "edu": "本科",
-      "company": "合盛硅业",
-      "industry": "化工",
-      "domain": "化工/新材料/建材",
+      "company": "德业股份",
+      "industry": "电子/半导体/集成电路",
+      "domain": "半导体/电子/光电",
       "level": "总监/负责人",
-      "link": "https://www.liepin.com/job/1985074139.shtml",
-      "job_id": "85074139",
+      "link": "https://www.liepin.com/job/1968482787.shtml",
+      "job_id": "68482787",
       "tier": "related",
       "matched": [
         "供应链"
@@ -3345,37 +3307,56 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "采购经理",
-      "salary": "10-20k",
+      "title": "供应链交付经理",
+      "salary": "19-25k·13薪",
       "city": "宁波",
-      "district": "宁波-岳林",
-      "exp": "3年以上",
-      "edu": "大专",
-      "company": "超丰微纳科技(宁波)有限公司",
-      "industry": "仪器仪表",
-      "domain": "半导体/电子/光电",
+      "district": "宁波-洪塘",
+      "exp": "5-10年",
+      "edu": "本科",
+      "company": "浙江摩多巴克斯科技股份有限公司",
+      "industry": "新能源汽车,机械/设备,新材料",
+      "domain": "汽车/零部件",
       "level": "经理",
-      "link": "https://www.liepin.com/job/1979951315.shtml",
-      "job_id": "79951315",
+      "link": "https://www.liepin.com/job/1976705447.shtml",
+      "job_id": "76705447",
       "tier": "related",
       "matched": [
         "供应链"
       ],
-      "source": "猎聘·采购"
+      "source": "猎聘·供应链"
     },
     {
-      "title": "供应链经理/主管（新能源 家纺 投资）",
-      "salary": "15-25k",
+      "title": "供应链总监",
+      "salary": "25-40k",
       "city": "宁波",
-      "district": "宁波",
-      "exp": "1-5年",
+      "district": "余姚",
+      "exp": "5-10年",
       "edu": "本科",
-      "company": "某宁波大型新能源公司",
-      "industry": "新能源,新材料",
-      "domain": "新能源/电池/光伏",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/78734805.shtml",
-      "job_id": "78734805",
+      "company": "浙江晟祺实业有限公司",
+      "industry": "日化,橡胶/塑料制品",
+      "domain": "化工/新材料/建材",
+      "level": "总监/负责人",
+      "link": "https://www.liepin.com/job/1983673833.shtml",
+      "job_id": "83673833",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
+      "title": "供应链主管（重点本科 储备干部）",
+      "salary": "13-25k",
+      "city": "宁波",
+      "district": "海曙区",
+      "exp": "5年以下",
+      "edu": "本科",
+      "company": "宁波某多元化集团公司",
+      "industry": "家居家纺",
+      "domain": "家居/家电/轻工",
+      "level": "主管",
+      "link": "https://www.liepin.com/a/79650083.shtml",
+      "job_id": "79650083",
       "tier": "related",
       "matched": [
         "供应链"
@@ -3402,18 +3383,18 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "供应链部经理",
-      "salary": "35-40k",
+      "title": "供应链经理/主管（新能源 家纺 投资）",
+      "salary": "15-25k",
       "city": "宁波",
-      "district": "慈溪",
-      "exp": "10年以上",
+      "district": "宁波",
+      "exp": "1-5年",
       "edu": "本科",
-      "company": "公牛集团股份有限公司",
-      "industry": "房地产开发经营",
-      "domain": "地产/建筑",
+      "company": "某宁波大型新能源公司",
+      "industry": "新能源,新材料",
+      "domain": "新能源/电池/光伏",
       "level": "经理",
-      "link": "https://www.liepin.com/job/1985891503.shtml",
-      "job_id": "85891503",
+      "link": "https://www.liepin.com/a/78734805.shtml",
+      "job_id": "78734805",
       "tier": "related",
       "matched": [
         "供应链"
@@ -3421,18 +3402,18 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "采购",
-      "salary": "5-7k",
+      "title": "采购经理",
+      "salary": "15-25k·15薪",
       "city": "宁波",
-      "district": "慈溪",
-      "exp": "1-3年",
-      "edu": "大专",
-      "company": "宁波环诚汽车轴承有限公司",
-      "industry": "机械/设备",
-      "domain": "机械/装备/自动化",
-      "level": "未标注",
-      "link": "https://www.liepin.com/job/1985719057.shtml",
-      "job_id": "85719057",
+      "district": "宁波",
+      "exp": "经验不限",
+      "edu": "学历不限",
+      "company": "某知名公司",
+      "industry": "其他行业",
+      "domain": "其他/未标注",
+      "level": "经理",
+      "link": "https://www.liepin.com/a/77729309.shtml",
+      "job_id": "77729309",
       "tier": "related",
       "matched": [
         "供应链"
@@ -3440,75 +3421,94 @@
       "source": "猎聘·采购"
     },
     {
-      "title": "供应链项目管理",
-      "salary": "20-30k·14薪",
+      "title": "伺服电机采购经理（车规级）",
+      "salary": "14-20k·13薪",
       "city": "宁波",
-      "district": "宁波",
-      "exp": "5-10年",
-      "edu": "本科",
-      "company": "某知名上市公司",
-      "industry": "整车制造",
-      "domain": "汽车/零部件",
-      "level": "未标注",
-      "link": "https://www.liepin.com/a/80161287.shtml",
-      "job_id": "80161287",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
-      "title": "宁波供应链中心总经理",
-      "salary": "25-45k",
-      "city": "宁波",
-      "district": "宁波",
-      "exp": "5-10年",
-      "edu": "本科",
-      "company": "某知名公司",
-      "industry": "计算机软件,文娱用品/器材",
-      "domain": "其他/未标注",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/80031269.shtml",
-      "job_id": "80031269",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
-      "title": "供应链总监",
-      "salary": "35-50k·13薪",
-      "city": "宁波",
-      "district": "宁波",
-      "exp": "5-10年",
+      "district": "慈溪",
+      "exp": "3年以上",
       "edu": "大专",
-      "company": "某宁波大型日化公司",
-      "industry": "日化,家电,文娱用品/器材",
-      "domain": "家居/家电/轻工",
-      "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/76372579.shtml",
-      "job_id": "76372579",
+      "company": "某宁波机械/设备公司",
+      "industry": "机械/设备",
+      "domain": "机械/装备/自动化",
+      "level": "经理",
+      "link": "https://www.liepin.com/a/77881987.shtml",
+      "job_id": "77881987",
       "tier": "related",
       "matched": [
         "供应链"
       ],
-      "source": "猎聘·供应链"
+      "source": "猎聘·采购"
     },
     {
-      "title": "供应链总监(002372)",
-      "salary": "35-40k",
+      "title": "采购主管-日用品",
+      "salary": "17-20k",
       "city": "宁波",
       "district": "宁波-洪塘",
       "exp": "5年以上",
-      "edu": "本科",
+      "edu": "大专",
       "company": "华孚进出口",
       "industry": "贸易/进出口",
       "domain": "物流/贸易/供应链服务",
+      "level": "主管",
+      "link": "https://www.liepin.com/job/1978577541.shtml",
+      "job_id": "78577541",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·采购"
+    },
+    {
+      "title": "战略采购经理",
+      "salary": "10-14k",
+      "city": "宁波",
+      "district": "宁海县",
+      "exp": "5-10年",
+      "edu": "大专",
+      "company": "宁波日安阀门有限公司",
+      "industry": "仪器仪表,金属制品",
+      "domain": "半导体/电子/光电",
+      "level": "经理",
+      "link": "https://www.liepin.com/job/1983839723.shtml",
+      "job_id": "83839723",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·采购"
+    },
+    {
+      "title": "采购总监",
+      "salary": "30-50k",
+      "city": "宁波",
+      "district": "慈溪",
+      "exp": "5-10年",
+      "edu": "本科",
+      "company": "金业车灯",
+      "industry": "汽车零部件及配件",
+      "domain": "汽车/零部件",
       "level": "总监/负责人",
-      "link": "https://www.liepin.com/job/1983107905.shtml",
-      "job_id": "83107905",
+      "link": "https://www.liepin.com/job/1971544453.shtml",
+      "job_id": "71544453",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·采购"
+    },
+    {
+      "title": "供应链管理中心总监",
+      "salary": "50-80k",
+      "city": "宁波",
+      "district": "宁波-古塘",
+      "exp": "5-10年",
+      "edu": "本科",
+      "company": "合盛硅业",
+      "industry": "化工",
+      "domain": "化工/新材料/建材",
+      "level": "总监/负责人",
+      "link": "https://www.liepin.com/job/1985074139.shtml",
+      "job_id": "85074139",
       "tier": "related",
       "matched": [
         "供应链"
@@ -3630,25 +3630,6 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划经理",
-      "salary": "15-25k",
-      "city": "无锡",
-      "district": "无锡",
-      "exp": "5-10年",
-      "edu": "本科",
-      "company": "某知名公司",
-      "industry": "学术/科研",
-      "domain": "其他/未标注",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/78175579.shtml",
-      "job_id": "78175579",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
       "title": "生产计划总监",
       "salary": "25-40k·13薪",
       "city": "无锡",
@@ -3661,6 +3642,25 @@
       "level": "总监/负责人",
       "link": "https://www.liepin.com/a/79081647.shtml",
       "job_id": "79081647",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "生产计划经理",
+      "salary": "15-25k",
+      "city": "无锡",
+      "district": "无锡",
+      "exp": "5-10年",
+      "edu": "本科",
+      "company": "某知名公司",
+      "industry": "学术/科研",
+      "domain": "其他/未标注",
+      "level": "经理",
+      "link": "https://www.liepin.com/a/78175579.shtml",
+      "job_id": "78175579",
       "tier": "core",
       "matched": [
         "计划"
@@ -3783,17 +3783,36 @@
     },
     {
       "title": "生产计划专员",
-      "salary": "15-16k",
+      "salary": "5-8k·13薪",
       "city": "无锡",
-      "district": "新吴区",
-      "exp": "3年以上",
+      "district": "无锡-羊尖",
+      "exp": "1-3年",
       "edu": "大专",
-      "company": "杭州高新",
-      "industry": "新材料",
+      "company": "无锡恩捷新材料科技有限公司",
+      "industry": "新材料,新能源",
       "domain": "化工/新材料/建材",
       "level": "专员/员",
-      "link": "https://www.liepin.com/job/1985445195.shtml",
-      "job_id": "85445195",
+      "link": "https://www.liepin.com/job/1985158027.shtml",
+      "job_id": "85158027",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "服装生产计划专员",
+      "salary": "8-10k",
+      "city": "无锡",
+      "district": "无锡-黄巷",
+      "exp": "5-7年",
+      "edu": "大专",
+      "company": "日晖纺织科技",
+      "industry": "服装/纺织/皮革",
+      "domain": "纺织/服装",
+      "level": "专员/员",
+      "link": "https://www.liepin.com/job/1981157717.shtml",
+      "job_id": "81157717",
       "tier": "core",
       "matched": [
         "计划"
@@ -3818,25 +3837,6 @@
         "计划"
       ],
       "source": "猎聘·供应链"
-    },
-    {
-      "title": "服装生产计划专员",
-      "salary": "8-10k",
-      "city": "无锡",
-      "district": "无锡-黄巷",
-      "exp": "5-7年",
-      "edu": "大专",
-      "company": "日晖纺织科技",
-      "industry": "服装/纺织/皮革",
-      "domain": "纺织/服装",
-      "level": "专员/员",
-      "link": "https://www.liepin.com/job/1981157717.shtml",
-      "job_id": "81157717",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
     },
     {
       "title": "生产计划/物料管理(PMC)",
@@ -3991,25 +3991,6 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "供应链总监（制造业国企岗位）",
-      "salary": "30-50k·15薪",
-      "city": "无锡",
-      "district": "无锡",
-      "exp": "经验不限",
-      "edu": "学历不限",
-      "company": "某国内食品/饮料/酒水公司",
-      "industry": "食品/饮料/酒水,科技推广服务",
-      "domain": "食品/快消/农牧",
-      "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/80112781.shtml",
-      "job_id": "80112781",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
       "title": "供应链总监",
       "salary": "50-80k·13薪",
       "city": "无锡",
@@ -4022,6 +4003,25 @@
       "level": "总监/负责人",
       "link": "https://www.liepin.com/a/77698593.shtml",
       "job_id": "77698593",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
+      "title": "供应链总监（制造业国企岗位）",
+      "salary": "30-50k·15薪",
+      "city": "无锡",
+      "district": "无锡",
+      "exp": "经验不限",
+      "edu": "学历不限",
+      "company": "某国内食品/饮料/酒水公司",
+      "industry": "食品/饮料/酒水,科技推广服务",
+      "domain": "食品/快消/农牧",
+      "level": "总监/负责人",
+      "link": "https://www.liepin.com/a/80112781.shtml",
+      "job_id": "80112781",
       "tier": "related",
       "matched": [
         "供应链"
@@ -4048,18 +4048,18 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "化工采购审核",
-      "salary": "12-16k·13薪",
+      "title": "采购总监",
+      "salary": "30-50k",
       "city": "无锡",
-      "district": "无锡",
-      "exp": "1年以上",
-      "edu": "大专",
-      "company": "江苏某精细化工股份有限公司",
-      "industry": "石油/化工,制药/生物工程,环保",
-      "domain": "化工/新材料/建材",
-      "level": "未标注",
-      "link": "https://www.liepin.com/a/78028725.shtml",
-      "job_id": "78028725",
+      "district": "新吴区",
+      "exp": "8年以上",
+      "edu": "本科",
+      "company": "祥生医学",
+      "industry": "医疗器械",
+      "domain": "医药/医疗器械",
+      "level": "总监/负责人",
+      "link": "https://www.liepin.com/job/1985958485.shtml",
+      "job_id": "85958485",
       "tier": "related",
       "matched": [
         "供应链"
@@ -4067,23 +4067,23 @@
       "source": "猎聘·采购"
     },
     {
-      "title": "战略采购经理",
-      "salary": "35-45k·15薪",
+      "title": "SQE/结构件/电气采购",
+      "salary": "30-35k",
       "city": "无锡",
-      "district": "无锡",
+      "district": "江阴",
       "exp": "3-5年",
       "edu": "本科",
-      "company": "某国内新能源上市公司",
+      "company": "某国内大型新能源公司",
       "industry": "新能源",
       "domain": "新能源/电池/光伏",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/80201233.shtml",
-      "job_id": "80201233",
+      "level": "未标注",
+      "link": "https://www.liepin.com/a/80341675.shtml",
+      "job_id": "80341675",
       "tier": "related",
       "matched": [
         "供应链"
       ],
-      "source": "猎聘·采购"
+      "source": "猎聘·供应链"
     },
     {
       "title": "供应链专员",
@@ -4105,37 +4105,18 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "采购专员",
-      "salary": "6-8k",
+      "title": "采购主管",
+      "salary": "10-15k",
       "city": "无锡",
       "district": "无锡-梅村",
-      "exp": "1-3年",
+      "exp": "8年以上",
       "edu": "本科",
       "company": "无锡尚佰环球电子商务有限公司",
       "industry": "互联网,电子商务",
       "domain": "半导体/电子/光电",
-      "level": "专员/员",
-      "link": "https://www.liepin.com/job/1982718455.shtml",
-      "job_id": "82718455",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·采购"
-    },
-    {
-      "title": "供应链总监（制造业国企岗位）",
-      "salary": "30-50k·15薪",
-      "city": "无锡",
-      "district": "无锡",
-      "exp": "经验不限",
-      "edu": "学历不限",
-      "company": "某国内食品/饮料/酒水公司",
-      "industry": "食品/饮料/酒水,科技推广服务",
-      "domain": "食品/快消/农牧",
-      "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/80112819.shtml",
-      "job_id": "80112819",
+      "level": "主管",
+      "link": "https://www.liepin.com/job/1984060235.shtml",
+      "job_id": "84060235",
       "tier": "related",
       "matched": [
         "供应链"
@@ -4162,18 +4143,18 @@
       "source": "猎聘·采购"
     },
     {
-      "title": "采购工程师+双休+五险一金+年终奖",
-      "salary": "15-23k",
+      "title": "间接采购工程师（IT方向），双休+年终奖",
+      "salary": "12-20k·15薪",
       "city": "无锡",
       "district": "无锡",
-      "exp": "5年以上",
+      "exp": "3-5年",
       "edu": "本科",
       "company": "某国内新能源上市公司",
       "industry": "新能源",
       "domain": "新能源/电池/光伏",
       "level": "未标注",
-      "link": "https://www.liepin.com/a/80275203.shtml",
-      "job_id": "80275203",
+      "link": "https://www.liepin.com/a/80388987.shtml",
+      "job_id": "80388987",
       "tier": "related",
       "matched": [
         "供应链"
@@ -4200,18 +4181,18 @@
       "source": "猎聘·采购"
     },
     {
-      "title": "采购主管",
-      "salary": "10-15k",
+      "title": "采购专员",
+      "salary": "6-8k",
       "city": "无锡",
       "district": "无锡-梅村",
-      "exp": "8年以上",
+      "exp": "1-3年",
       "edu": "本科",
       "company": "无锡尚佰环球电子商务有限公司",
       "industry": "互联网,电子商务",
       "domain": "半导体/电子/光电",
-      "level": "主管",
-      "link": "https://www.liepin.com/job/1984060235.shtml",
-      "job_id": "84060235",
+      "level": "专员/员",
+      "link": "https://www.liepin.com/job/1982718455.shtml",
+      "job_id": "82718455",
       "tier": "related",
       "matched": [
         "供应链"
@@ -4219,18 +4200,37 @@
       "source": "猎聘·采购"
     },
     {
-      "title": "‌生产计划专员（Planner）",
-      "salary": "9-12k·15薪",
+      "title": "机加工--战略采购（紧急/上市）",
+      "salary": "12-22k·15薪",
+      "city": "无锡",
+      "district": "无锡",
+      "exp": "3年以上",
+      "edu": "本科",
+      "company": "某国内新能源上市公司",
+      "industry": "新能源",
+      "domain": "新能源/电池/光伏",
+      "level": "未标注",
+      "link": "https://www.liepin.com/a/80276697.shtml",
+      "job_id": "80276697",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·采购"
+    },
+    {
+      "title": "生产调度/助理-新北",
+      "salary": "7-12k",
       "city": "常州",
-      "district": "金坛区",
-      "exp": "3-5年",
-      "edu": "大专",
-      "company": "某国内知名公司",
-      "industry": "培训服务",
+      "district": "新北区",
+      "exp": "5-10年",
+      "edu": "学历不限",
+      "company": "某知名公司",
+      "industry": "人力资源服务",
       "domain": "其他/未标注",
       "level": "专员/员",
-      "link": "https://www.liepin.com/a/80141713.shtml",
-      "job_id": "80141713",
+      "link": "https://www.liepin.com/a/79881079.shtml",
+      "job_id": "79881079",
       "tier": "core",
       "matched": [
         "计划"
@@ -4276,25 +4276,6 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "锂电行业-生产计划经理（新能源头部企业）",
-      "salary": "20-24k·17薪",
-      "city": "常州",
-      "district": "金坛区",
-      "exp": "5-8年",
-      "edu": "大专",
-      "company": "某国内大型新能源公司",
-      "industry": "新能源",
-      "domain": "新能源/电池/光伏",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/76856075.shtml",
-      "job_id": "76856075",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
       "title": "生产计划经理",
       "salary": "8-12k·13薪",
       "city": "常州",
@@ -4314,18 +4295,18 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划",
-      "salary": "8-10k",
+      "title": "锂电行业-生产计划经理（新能源头部企业）",
+      "salary": "20-24k·17薪",
       "city": "常州",
-      "district": "常州-开发区",
-      "exp": "3-5年",
-      "edu": "本科",
-      "company": "卡迈锡精密成形(江苏)有限公司",
-      "industry": "汽车零部件及配件",
-      "domain": "汽车/零部件",
-      "level": "未标注",
-      "link": "https://www.liepin.com/job/1985747563.shtml",
-      "job_id": "85747563",
+      "district": "金坛区",
+      "exp": "5-8年",
+      "edu": "大专",
+      "company": "某国内大型新能源公司",
+      "industry": "新能源",
+      "domain": "新能源/电池/光伏",
+      "level": "经理",
+      "link": "https://www.liepin.com/a/76856075.shtml",
+      "job_id": "76856075",
       "tier": "core",
       "matched": [
         "计划"
@@ -4352,6 +4333,25 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
+      "title": "生产计划",
+      "salary": "8-10k",
+      "city": "常州",
+      "district": "常州-开发区",
+      "exp": "3-5年",
+      "edu": "本科",
+      "company": "卡迈锡精密成形(江苏)有限公司",
+      "industry": "汽车零部件及配件",
+      "domain": "汽车/零部件",
+      "level": "未标注",
+      "link": "https://www.liepin.com/job/1985747563.shtml",
+      "job_id": "85747563",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
       "title": "生产调度",
       "salary": "12-18k·13薪",
       "city": "常州",
@@ -4371,18 +4371,18 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产调度/助理-新北",
-      "salary": "7-12k",
+      "title": "‌生产计划专员（Planner）",
+      "salary": "9-12k·15薪",
       "city": "常州",
-      "district": "新北区",
-      "exp": "5-10年",
-      "edu": "学历不限",
-      "company": "某知名公司",
-      "industry": "人力资源服务",
+      "district": "金坛区",
+      "exp": "3-5年",
+      "edu": "大专",
+      "company": "某国内知名公司",
+      "industry": "培训服务",
       "domain": "其他/未标注",
       "level": "专员/员",
-      "link": "https://www.liepin.com/a/79881079.shtml",
-      "job_id": "79881079",
+      "link": "https://www.liepin.com/a/80141713.shtml",
+      "job_id": "80141713",
       "tier": "core",
       "matched": [
         "计划"
@@ -4428,25 +4428,6 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划",
-      "salary": "9-12k·13薪",
-      "city": "常州",
-      "district": "武进区",
-      "exp": "5年以上",
-      "edu": "大专",
-      "company": "驭能科技有限公司",
-      "industry": "新能源,新材料",
-      "domain": "新能源/电池/光伏",
-      "level": "未标注",
-      "link": "https://www.liepin.com/job/1985714565.shtml",
-      "job_id": "85714565",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
       "title": "生产计划专员",
       "salary": "7-10k",
       "city": "常州",
@@ -4466,18 +4447,18 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "PC生产计划",
-      "salary": "6-8k·13薪",
+      "title": "生产计划",
+      "salary": "9-12k·13薪",
       "city": "常州",
-      "district": "新北区",
-      "exp": "3年以上",
-      "edu": "本科",
-      "company": "富临精工",
-      "industry": "汽车零部件及配件,新能源汽车",
-      "domain": "汽车/零部件",
+      "district": "武进区",
+      "exp": "5年以上",
+      "edu": "大专",
+      "company": "驭能科技有限公司",
+      "industry": "新能源,新材料",
+      "domain": "新能源/电池/光伏",
       "level": "未标注",
-      "link": "https://www.liepin.com/job/1983998557.shtml",
-      "job_id": "83998557",
+      "link": "https://www.liepin.com/job/1985714565.shtml",
+      "job_id": "85714565",
       "tier": "core",
       "matched": [
         "计划"
@@ -4497,6 +4478,25 @@
       "level": "未标注",
       "link": "https://www.liepin.com/job/1985141483.shtml",
       "job_id": "85141483",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "PC生产计划",
+      "salary": "6-8k·13薪",
+      "city": "常州",
+      "district": "新北区",
+      "exp": "3年以上",
+      "edu": "本科",
+      "company": "富临精工",
+      "industry": "汽车零部件及配件,新能源汽车",
+      "domain": "汽车/零部件",
+      "level": "未标注",
+      "link": "https://www.liepin.com/job/1983998557.shtml",
+      "job_id": "83998557",
       "tier": "core",
       "matched": [
         "计划"
@@ -4561,25 +4561,6 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划/物料管理(PMC)",
-      "salary": "50-55k",
-      "city": "常州",
-      "district": "常州",
-      "exp": "5-10年",
-      "edu": "学历不限",
-      "company": "某国内大型新能源公司",
-      "industry": "新能源",
-      "domain": "新能源/电池/光伏",
-      "level": "未标注",
-      "link": "https://www.liepin.com/a/79671881.shtml",
-      "job_id": "79671881",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
       "title": "PMC副理",
       "salary": "10-15k·13薪",
       "city": "常州",
@@ -4599,23 +4580,23 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "客户计划",
-      "salary": "9-11k·13薪",
+      "title": "生产计划/物料管理(PMC)",
+      "salary": "50-55k",
       "city": "常州",
-      "district": "武进区",
-      "exp": "5年以上",
-      "edu": "大专",
-      "company": "中科朗恩斯",
-      "industry": "整车制造,汽车零部件及配件",
-      "domain": "汽车/零部件",
+      "district": "常州",
+      "exp": "5-10年",
+      "edu": "学历不限",
+      "company": "某国内大型新能源公司",
+      "industry": "新能源",
+      "domain": "新能源/电池/光伏",
       "level": "未标注",
-      "link": "https://www.liepin.com/job/1984203149.shtml",
-      "job_id": "84203149",
+      "link": "https://www.liepin.com/a/79671881.shtml",
+      "job_id": "79671881",
       "tier": "core",
       "matched": [
         "计划"
       ],
-      "source": "猎聘·供应链"
+      "source": "猎聘·生产计划/物料管理"
     },
     {
       "title": "生产计划工程师(J10247)",
@@ -4635,6 +4616,25 @@
         "计划"
       ],
       "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "物料计划主管",
+      "salary": "16-20k·13薪",
+      "city": "常州",
+      "district": "武进区",
+      "exp": "8年以上",
+      "edu": "本科",
+      "company": "中科朗恩斯",
+      "industry": "整车制造,汽车零部件及配件",
+      "domain": "汽车/零部件",
+      "level": "主管",
+      "link": "https://www.liepin.com/job/1984305085.shtml",
+      "job_id": "84305085",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·供应链"
     },
     {
       "title": "供应链主管",
@@ -4675,25 +4675,6 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "国际运输采购应届生",
-      "salary": "12-15k·14薪",
-      "city": "常州",
-      "district": "常州-龙虎塘",
-      "exp": "",
-      "edu": "硕士",
-      "company": "天合光能",
-      "industry": "新能源",
-      "domain": "新能源/电池/光伏",
-      "level": "未标注",
-      "link": "https://www.liepin.com/job/1985920025.shtml",
-      "job_id": "85920025",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
       "title": "直接原材料采购",
       "salary": "11-21k·15薪",
       "city": "常州",
@@ -4713,6 +4694,25 @@
       "source": "猎聘·采购"
     },
     {
+      "title": "国际运输采购应届生",
+      "salary": "12-15k·14薪",
+      "city": "常州",
+      "district": "常州-龙虎塘",
+      "exp": "",
+      "edu": "硕士",
+      "company": "天合光能",
+      "industry": "新能源",
+      "domain": "新能源/电池/光伏",
+      "level": "未标注",
+      "link": "https://www.liepin.com/job/1985920025.shtml",
+      "job_id": "85920025",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
       "title": "供应链专员",
       "salary": "7-15k",
       "city": "常州",
@@ -4730,6 +4730,25 @@
         "供应链"
       ],
       "source": "猎聘·供应链"
+    },
+    {
+      "title": "采购总监",
+      "salary": "25-40k",
+      "city": "常州",
+      "district": "常州-圩塘",
+      "exp": "10年以上",
+      "edu": "本科",
+      "company": "吉恩药业",
+      "industry": "化工,制药",
+      "domain": "化工/新材料/建材",
+      "level": "总监/负责人",
+      "link": "https://www.liepin.com/job/1979898487.shtml",
+      "job_id": "79898487",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·采购"
     },
     {
       "title": "采购主管（园艺行业）双休",
@@ -4789,25 +4808,6 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "供应链中心负责人（光伏/储能）",
-      "salary": "35-55k·15薪",
-      "city": "常州",
-      "district": "新北区",
-      "exp": "10年以上",
-      "edu": "本科",
-      "company": "某国内大型新能源公司",
-      "industry": "新能源,科技推广服务",
-      "domain": "新能源/电池/光伏",
-      "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/79920737.shtml",
-      "job_id": "79920737",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
       "title": "直接原材料采购",
       "salary": "11-21k·15薪",
       "city": "常州",
@@ -4825,6 +4825,25 @@
         "供应链"
       ],
       "source": "猎聘·采购"
+    },
+    {
+      "title": "供应链中心负责人（光伏/储能）",
+      "salary": "35-55k·15薪",
+      "city": "常州",
+      "district": "新北区",
+      "exp": "10年以上",
+      "edu": "本科",
+      "company": "某国内大型新能源公司",
+      "industry": "新能源,科技推广服务",
+      "domain": "新能源/电池/光伏",
+      "level": "总监/负责人",
+      "link": "https://www.liepin.com/a/79920737.shtml",
+      "job_id": "79920737",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
     },
     {
       "title": "国际采购专员",
@@ -4846,37 +4865,18 @@
       "source": "猎聘·采购"
     },
     {
-      "title": "采购内勤专员",
-      "salary": "6-9k",
+      "title": "非标采购专员",
+      "salary": "8-10k",
       "city": "常州",
-      "district": "常州-小留",
-      "exp": "1-3年",
-      "edu": "本科",
-      "company": "江苏立华食品集团股份有限公司",
-      "industry": "农/林/牧/渔",
-      "domain": "食品/快消/农牧",
-      "level": "专员/员",
-      "link": "https://www.liepin.com/job/1984383293.shtml",
-      "job_id": "84383293",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·采购"
-    },
-    {
-      "title": "采购经理（精密减速机方向）",
-      "salary": "19-23k·13薪",
-      "city": "常州",
-      "district": "常州",
-      "exp": "8年以上",
+      "district": "常州-芙蓉",
+      "exp": "3-5年",
       "edu": "大专",
-      "company": "某国内机械/设备公司",
+      "company": "常州恒锌禹晟智能装备有限公司",
       "industry": "机械/设备",
       "domain": "机械/装备/自动化",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/80411189.shtml",
-      "job_id": "80411189",
+      "level": "专员/员",
+      "link": "https://www.liepin.com/job/1985795511.shtml",
+      "job_id": "85795511",
       "tier": "related",
       "matched": [
         "供应链"
@@ -4903,18 +4903,18 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "采购经理",
-      "salary": "45-70k",
+      "title": "直接原材料采购",
+      "salary": "11-21k·15薪",
       "city": "常州",
       "district": "常州",
-      "exp": "10年以上",
-      "edu": "本科",
-      "company": "某国内新能源公司",
-      "industry": "新能源",
-      "domain": "新能源/电池/光伏",
-      "level": "经理",
-      "link": "https://www.liepin.com/a/78866791.shtml",
-      "job_id": "78866791",
+      "exp": "经验不限",
+      "edu": "学历不限",
+      "company": "某上海大型汽车零部件及配件公司",
+      "industry": "整车制造,基金/证券/期货",
+      "domain": "汽车/零部件",
+      "level": "未标注",
+      "link": "https://www.liepin.com/a/79861093.shtml",
+      "job_id": "79861093",
       "tier": "related",
       "matched": [
         "供应链"
@@ -4979,25 +4979,6 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划专员",
-      "salary": "6-12k·15薪",
-      "city": "南通",
-      "district": "南通-益寿路",
-      "exp": "3-5年",
-      "edu": "大专",
-      "company": "思源电气",
-      "industry": "电力/热力/燃气/水务",
-      "domain": "新能源/电池/光伏",
-      "level": "专员/员",
-      "link": "https://www.liepin.com/job/1981744827.shtml",
-      "job_id": "81744827",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
       "title": "帽饰生产计划经理",
       "salary": "9-12k·13薪",
       "city": "南通",
@@ -5036,6 +5017,44 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
+      "title": "生产计划专员（PC）",
+      "salary": "8-12k·13薪",
+      "city": "南通",
+      "district": "崇川区",
+      "exp": "1-3年",
+      "edu": "本科",
+      "company": "新宙邦",
+      "industry": "化工,新能源,电子/半导体/集成电路",
+      "domain": "化工/新材料/建材",
+      "level": "专员/员",
+      "link": "https://www.liepin.com/job/1983747725.shtml",
+      "job_id": "83747725",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "备件计划员",
+      "salary": "15-24k",
+      "city": "南通",
+      "district": "崇川区",
+      "exp": "3-5年",
+      "edu": "学历不限",
+      "company": "某上海物联网上市公司",
+      "industry": "物联网,人工智能,新能源",
+      "domain": "新能源/电池/光伏",
+      "level": "专员/员",
+      "link": "https://www.liepin.com/a/80339967.shtml",
+      "job_id": "80339967",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
       "title": "生产计划专员",
       "salary": "7-10k",
       "city": "南通",
@@ -5048,25 +5067,6 @@
       "level": "专员/员",
       "link": "https://www.liepin.com/a/80324881.shtml",
       "job_id": "80324881",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "生产计划",
-      "salary": "5-6k",
-      "city": "南通",
-      "district": "如东县",
-      "exp": "1-3年",
-      "edu": "中专/中技",
-      "company": "江苏拜优新材料科技有限公司",
-      "industry": "新材料",
-      "domain": "化工/新材料/建材",
-      "level": "未标注",
-      "link": "https://www.liepin.com/job/1984275597.shtml",
-      "job_id": "84275597",
       "tier": "core",
       "matched": [
         "计划"
@@ -5093,23 +5093,23 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划员",
-      "salary": "7-10k",
+      "title": "计划主管",
+      "salary": "12-18k",
       "city": "南通",
       "district": "启东",
-      "exp": "1-3年",
-      "edu": "本科",
-      "company": "点夺机电工程江苏有限公司",
-      "industry": "房地产开发经营",
-      "domain": "地产/建筑",
-      "level": "专员/员",
-      "link": "https://www.liepin.com/job/1961557247.shtml",
-      "job_id": "61557247",
+      "exp": "5年以上",
+      "edu": "大专",
+      "company": "闪魂",
+      "industry": "新零售,文化艺术业,游戏",
+      "domain": "物流/贸易/供应链服务",
+      "level": "主管",
+      "link": "https://www.liepin.com/job/1985725721.shtml",
+      "job_id": "85725721",
       "tier": "core",
       "matched": [
         "计划"
       ],
-      "source": "猎聘·生产计划/物料管理"
+      "source": "猎聘·供应链"
     },
     {
       "title": "计划助理经理",
@@ -5124,25 +5124,6 @@
       "level": "经理",
       "link": "https://www.liepin.com/job/1984893945.shtml",
       "job_id": "84893945",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
-      "title": "计划主管",
-      "salary": "12-18k",
-      "city": "南通",
-      "district": "启东",
-      "exp": "5年以上",
-      "edu": "大专",
-      "company": "闪魂",
-      "industry": "新零售,文化艺术业,游戏",
-      "domain": "物流/贸易/供应链服务",
-      "level": "主管",
-      "link": "https://www.liepin.com/job/1985725721.shtml",
-      "job_id": "85725721",
       "tier": "core",
       "matched": [
         "计划"
@@ -5207,25 +5188,6 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划工程师/主管",
-      "salary": "12-18k·15薪",
-      "city": "南通",
-      "district": "通州区",
-      "exp": "5年以上",
-      "edu": "本科",
-      "company": "天顺风能",
-      "industry": "新能源",
-      "domain": "新能源/电池/光伏",
-      "level": "主管",
-      "link": "https://www.liepin.com/job/1978859979.shtml",
-      "job_id": "78859979",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
       "title": "生产计划主管",
       "salary": "8-15k",
       "city": "南通",
@@ -5264,23 +5226,42 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划主管",
-      "salary": "5-9k",
+      "title": "生产计划",
+      "salary": "5-6k",
       "city": "南通",
-      "district": "海安",
-      "exp": "3-5年",
-      "edu": "本科",
-      "company": "南通新源特种纤维有限公司",
-      "industry": "其他行业",
-      "domain": "其他/未标注",
-      "level": "主管",
-      "link": "https://www.liepin.com/job/1976835037.shtml",
-      "job_id": "76835037",
+      "district": "如东县",
+      "exp": "1-3年",
+      "edu": "中专/中技",
+      "company": "江苏拜优新材料科技有限公司",
+      "industry": "新材料",
+      "domain": "化工/新材料/建材",
+      "level": "未标注",
+      "link": "https://www.liepin.com/job/1984275597.shtml",
+      "job_id": "84275597",
       "tier": "core",
       "matched": [
         "计划"
       ],
       "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "主计划",
+      "salary": "7-8k·13薪",
+      "city": "南通",
+      "district": "如皋",
+      "exp": "1-3年",
+      "edu": "大专",
+      "company": "世睿集团",
+      "industry": "电力/热力/燃气/水务,新能源",
+      "domain": "新能源/电池/光伏",
+      "level": "未标注",
+      "link": "https://www.liepin.com/job/1985886711.shtml",
+      "job_id": "85886711",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·供应链"
     },
     {
       "title": "生产计划/物料管理(PMC)",
@@ -5340,18 +5321,37 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "供应链管理高级经理",
-      "salary": "35-45k",
+      "title": "生产计划专员",
+      "salary": "4-7k",
+      "city": "南通",
+      "district": "如东县",
+      "exp": "经验不限",
+      "edu": "大专",
+      "company": "南通嘉得利安全用品有限公司",
+      "industry": "服装/纺织/皮革",
+      "domain": "纺织/服装",
+      "level": "专员/员",
+      "link": "https://www.liepin.com/job/1980192409.shtml",
+      "job_id": "80192409",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "Senior Supply Chain Manager",
+      "salary": "30-40k·17薪",
       "city": "南通",
       "district": "通州区",
       "exp": "10年以上",
       "edu": "本科",
-      "company": "安费诺高速技术(南通)有限公司",
+      "company": "某国内大型电子/半导体/集成电路公司",
       "industry": "电子/半导体/集成电路",
       "domain": "半导体/电子/光电",
       "level": "经理",
-      "link": "https://www.liepin.com/job/1985926275.shtml",
-      "job_id": "85926275",
+      "link": "https://www.liepin.com/a/79592157.shtml",
+      "job_id": "79592157",
       "tier": "related",
       "matched": [
         "供应链"
@@ -5511,18 +5511,18 @@
       "source": "猎聘·采购"
     },
     {
-      "title": "Senior Supply Chain Manager",
-      "salary": "30-40k·17薪",
+      "title": "供应链管理高级经理",
+      "salary": "35-45k",
       "city": "南通",
       "district": "通州区",
       "exp": "10年以上",
       "edu": "本科",
-      "company": "某国内大型电子/半导体/集成电路公司",
+      "company": "安费诺高速技术(南通)有限公司",
       "industry": "电子/半导体/集成电路",
       "domain": "半导体/电子/光电",
       "level": "经理",
-      "link": "https://www.liepin.com/a/79592157.shtml",
-      "job_id": "79592157",
+      "link": "https://www.liepin.com/job/1985926275.shtml",
+      "job_id": "85926275",
       "tier": "related",
       "matched": [
         "供应链"
@@ -5530,18 +5530,18 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "中级采购工程师-轴发、变频器、发电机、电机、配电板、电池",
-      "salary": "12-20k",
+      "title": "采购总监",
+      "salary": "25-35k·13薪",
       "city": "南通",
-      "district": "海门区",
-      "exp": "5年以上",
+      "district": "通州区",
+      "exp": "10年以上",
       "edu": "本科",
-      "company": "某国内IT服务公司",
-      "industry": "轨道交通/船舶设备",
+      "company": "某国内大型电气机械/器材公司",
+      "industry": "电气机械/器材",
       "domain": "机械/装备/自动化",
-      "level": "未标注",
-      "link": "https://www.liepin.com/a/70712535.shtml",
-      "job_id": "70712535",
+      "level": "总监/负责人",
+      "link": "https://www.liepin.com/a/79473617.shtml",
+      "job_id": "79473617",
       "tier": "related",
       "matched": [
         "供应链"
@@ -5597,8 +5597,8 @@
       "industry": "汽车零部件及配件,新能源汽车",
       "domain": "汽车/零部件",
       "level": "经理",
-      "link": "https://www.liepin.com/a/79923201.shtml",
-      "job_id": "79923201",
+      "link": "https://www.liepin.com/a/79922987.shtml",
+      "job_id": "79922987",
       "tier": "related",
       "matched": [
         "供应链"
@@ -5663,18 +5663,18 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划专员",
-      "salary": "4-7k",
+      "title": "生产计划/物料管理(PMC)",
+      "salary": "6-9k·14薪",
       "city": "成都",
-      "district": "成都-泰兴",
-      "exp": "5年以上",
-      "edu": "大专",
-      "company": "成都正恒动力股份有限公司",
+      "district": "龙泉驿区",
+      "exp": "3-5年",
+      "edu": "本科",
+      "company": "丰田纺汽车",
       "industry": "汽车零部件及配件",
       "domain": "汽车/零部件",
-      "level": "专员/员",
-      "link": "https://www.liepin.com/job/1978268189.shtml",
-      "job_id": "78268189",
+      "level": "未标注",
+      "link": "https://www.liepin.com/job/1985368027.shtml",
+      "job_id": "85368027",
       "tier": "core",
       "matched": [
         "计划"
@@ -5758,6 +5758,25 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
+      "title": "生产计划/物料管理(PMC)",
+      "salary": "4-5k",
+      "city": "成都",
+      "district": "温江区",
+      "exp": "1-3年",
+      "edu": "大专",
+      "company": "四川活态药业有限公司",
+      "industry": "制药",
+      "domain": "医药/医疗器械",
+      "level": "未标注",
+      "link": "https://www.liepin.com/job/1952775747.shtml",
+      "job_id": "52775747",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
       "title": "计划生产调度",
       "salary": "6-11k·13薪",
       "city": "成都",
@@ -5777,56 +5796,18 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产调度员",
-      "salary": "4-8k",
+      "title": "进度控制工程师（计划）",
+      "salary": "11-20k",
       "city": "成都",
-      "district": "青白江区",
-      "exp": "5-10年",
-      "edu": "大专",
-      "company": "四川齐能新型材料有限公司",
-      "industry": "新材料",
-      "domain": "化工/新材料/建材",
-      "level": "专员/员",
-      "link": "https://www.liepin.com/job/1964394331.shtml",
-      "job_id": "64394331",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "生产调度",
-      "salary": "5-8k",
-      "city": "成都",
-      "district": "成都-龙泉",
-      "exp": "经验不限",
+      "district": "成都",
+      "exp": "3-5年",
       "edu": "本科",
-      "company": "成都光明派特贵金属有限公司",
-      "industry": "批发/零售",
-      "domain": "物流/贸易/供应链服务",
+      "company": "某成都石化公司",
+      "industry": "石化,工程施工",
+      "domain": "化工/新材料/建材",
       "level": "未标注",
-      "link": "https://www.liepin.com/job/1938774999.shtml",
-      "job_id": "38774999",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "物料QA",
-      "salary": "5-9k",
-      "city": "成都",
-      "district": "成都-犀浦",
-      "exp": "1-3年",
-      "edu": "大专",
-      "company": "健进制药有限公司",
-      "industry": "制药",
-      "domain": "医药/医疗器械",
-      "level": "未标注",
-      "link": "https://www.liepin.com/job/1982321293.shtml",
-      "job_id": "82321293",
+      "link": "https://www.liepin.com/a/79527901.shtml",
+      "job_id": "79527901",
       "tier": "core",
       "matched": [
         "计划"
@@ -5872,18 +5853,18 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划（成都）-奕境 (MJ002696)",
-      "salary": "10-12k",
+      "title": "生产计划-奕境汽车 (MJ017193)",
+      "salary": "15-30k",
       "city": "成都",
       "district": "龙泉驿区",
       "exp": "3-5年",
-      "edu": "大专",
+      "edu": "本科",
       "company": "东风汽车",
       "industry": "整车制造,汽车零部件及配件,新能源汽车",
       "domain": "汽车/零部件",
       "level": "未标注",
-      "link": "https://www.liepin.com/job/1984543737.shtml",
-      "job_id": "84543737",
+      "link": "https://www.liepin.com/job/1984926197.shtml",
+      "job_id": "84926197",
       "tier": "core",
       "matched": [
         "计划"
@@ -5910,18 +5891,18 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划总监",
-      "salary": "40-50k·15薪",
+      "title": "生产计划高级经理",
+      "salary": "25-40k",
       "city": "成都",
       "district": "成都",
-      "exp": "10年以上",
+      "exp": "5-10年",
       "edu": "本科",
-      "company": "某成都知名上市公司",
+      "company": "某成都房地产开发经营上市公司",
       "industry": "房地产开发经营,机械/设备",
       "domain": "地产/建筑",
-      "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/80329697.shtml",
-      "job_id": "80329697",
+      "level": "经理",
+      "link": "https://www.liepin.com/a/80338679.shtml",
+      "job_id": "80338679",
       "tier": "core",
       "matched": [
         "计划"
@@ -5967,6 +5948,25 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
+      "title": "物料QA",
+      "salary": "5-9k",
+      "city": "成都",
+      "district": "成都-犀浦",
+      "exp": "1-3年",
+      "edu": "大专",
+      "company": "健进制药有限公司",
+      "industry": "制药",
+      "domain": "医药/医疗器械",
+      "level": "未标注",
+      "link": "https://www.liepin.com/job/1982321293.shtml",
+      "job_id": "82321293",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
       "title": "公司物料采购",
       "salary": "8-12k",
       "city": "成都",
@@ -5984,25 +5984,6 @@
         "计划"
       ],
       "source": "猎聘·采购"
-    },
-    {
-      "title": "进度控制工程师（计划）",
-      "salary": "11-20k",
-      "city": "成都",
-      "district": "成都",
-      "exp": "3-5年",
-      "edu": "本科",
-      "company": "某成都石化公司",
-      "industry": "石化,工程施工",
-      "domain": "化工/新材料/建材",
-      "level": "未标注",
-      "link": "https://www.liepin.com/a/79527901.shtml",
-      "job_id": "79527901",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·供应链"
     },
     {
       "title": "Production planner 生产计划员",
@@ -6024,18 +6005,37 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "PC生产计划",
-      "salary": "6-8k·13薪",
+      "title": "生产计划",
+      "salary": "5-7k",
       "city": "成都",
-      "district": "郫都区",
-      "exp": "3年以上",
+      "district": "成都-郫筒",
+      "exp": "1-3年",
       "edu": "大专",
-      "company": "依米康科技",
-      "industry": "机械/设备",
+      "company": "成都永源精密模具有限公司",
+      "industry": "金属制品",
       "domain": "机械/装备/自动化",
       "level": "未标注",
-      "link": "https://www.liepin.com/job/1983625369.shtml",
-      "job_id": "83625369",
+      "link": "https://www.liepin.com/job/1949813399.shtml",
+      "job_id": "49813399",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "生产计划管理",
+      "salary": "13-20k·13薪",
+      "city": "成都",
+      "district": "龙泉驿区",
+      "exp": "3年以上",
+      "edu": "本科",
+      "company": "东风汽车",
+      "industry": "整车制造,汽车零部件及配件,新能源汽车",
+      "domain": "汽车/零部件",
+      "level": "未标注",
+      "link": "https://www.liepin.com/job/1981643937.shtml",
+      "job_id": "81643937",
       "tier": "core",
       "matched": [
         "计划"
@@ -6062,18 +6062,18 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "服装供应链业务总监",
-      "salary": "30-50k·13薪",
+      "title": "电商业务-供应链物流负责人（供应商仓到仓）",
+      "salary": "17-30k·13薪",
       "city": "成都",
       "district": "龙泉驿区",
       "exp": "10年以上",
-      "edu": "本科",
+      "edu": "大专",
       "company": "成都鹿岛品牌管理有限公司",
       "industry": "批发/零售",
       "domain": "物流/贸易/供应链服务",
       "level": "总监/负责人",
-      "link": "https://www.liepin.com/job/1984620873.shtml",
-      "job_id": "84620873",
+      "link": "https://www.liepin.com/job/1985932835.shtml",
+      "job_id": "85932835",
       "tier": "related",
       "matched": [
         "供应链"
@@ -6100,18 +6100,56 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "供应链副总裁",
-      "salary": "150-200k·18薪",
+      "title": "采购催交工程师（设备1）",
+      "salary": "22-25k",
+      "city": "成都",
+      "district": "成都",
+      "exp": "5-10年",
+      "edu": "本科",
+      "company": "某成都大型石化公司",
+      "industry": "石化,工程施工",
+      "domain": "化工/新材料/建材",
+      "level": "未标注",
+      "link": "https://www.liepin.com/a/79617021.shtml",
+      "job_id": "79617021",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·采购"
+    },
+    {
+      "title": "供应链总监（连锁烧烤）",
+      "salary": "25-40k",
+      "city": "成都",
+      "district": "成都",
+      "exp": "5-10年",
+      "edu": "大专",
+      "company": "某西安餐饮业公司",
+      "industry": "餐饮业",
+      "domain": "食品/快消/农牧",
+      "level": "总监/负责人",
+      "link": "https://www.liepin.com/a/80406025.shtml",
+      "job_id": "80406025",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
+      "title": "供应链总监",
+      "salary": "45-75k·13薪",
       "city": "成都",
       "district": "成都",
       "exp": "10年以上",
       "edu": "本科",
-      "company": "某知名公司",
-      "industry": "农/林/牧/渔",
-      "domain": "食品/快消/农牧",
+      "company": "某苏州新能源上市公司",
+      "industry": "服装/纺织/皮革,电子/半导体/集成电路",
+      "domain": "纺织/服装",
       "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/77607847.shtml",
-      "job_id": "77607847",
+      "link": "https://www.liepin.com/a/79686707.shtml",
+      "job_id": "79686707",
       "tier": "related",
       "matched": [
         "供应链"
@@ -6138,6 +6176,25 @@
       "source": "猎聘·采购"
     },
     {
+      "title": "供应链副总监（家具方向）",
+      "salary": "22-27k·13薪",
+      "city": "成都",
+      "district": "成都-华阳",
+      "exp": "8年以上",
+      "edu": "大专",
+      "company": "金牌厨柜",
+      "industry": "家具/家居",
+      "domain": "家居/家电/轻工",
+      "level": "总监/负责人",
+      "link": "https://www.liepin.com/job/1985298803.shtml",
+      "job_id": "85298803",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
+    },
+    {
       "title": "锂电行业供应链总监",
       "salary": "50-65k·15薪",
       "city": "成都",
@@ -6157,80 +6214,23 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "采购管理岗",
-      "salary": "6-11k",
+      "title": "采购工程师（光通信）",
+      "salary": "12-20k",
       "city": "成都",
-      "district": "成都-正兴",
-      "exp": "2年以上",
-      "edu": "硕士",
-      "company": "四川星际荣耀航天智能制造有限责任公司",
-      "industry": "航空/航天设备,机械/设备",
+      "district": "成都",
+      "exp": "3-5年",
+      "edu": "本科",
+      "company": "某国内机械/设备上市公司",
+      "industry": "机械/设备",
       "domain": "机械/装备/自动化",
       "level": "未标注",
-      "link": "https://www.liepin.com/job/1985475345.shtml",
-      "job_id": "85475345",
+      "link": "https://www.liepin.com/a/80275833.shtml",
+      "job_id": "80275833",
       "tier": "related",
       "matched": [
         "供应链"
       ],
       "source": "猎聘·采购"
-    },
-    {
-      "title": "供应链总监",
-      "salary": "45-75k·13薪",
-      "city": "成都",
-      "district": "成都",
-      "exp": "10年以上",
-      "edu": "本科",
-      "company": "某苏州新能源上市公司",
-      "industry": "服装/纺织/皮革,电子/半导体/集成电路",
-      "domain": "纺织/服装",
-      "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/79686707.shtml",
-      "job_id": "79686707",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
-      "title": "采购催交工程师（设备1）",
-      "salary": "22-25k",
-      "city": "成都",
-      "district": "成都",
-      "exp": "5-10年",
-      "edu": "本科",
-      "company": "某成都大型石化公司",
-      "industry": "石化,工程施工",
-      "domain": "化工/新材料/建材",
-      "level": "未标注",
-      "link": "https://www.liepin.com/a/79617021.shtml",
-      "job_id": "79617021",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·采购"
-    },
-    {
-      "title": "供应链总监",
-      "salary": "25-30k",
-      "city": "成都",
-      "district": "龙泉驿区",
-      "exp": "5-10年",
-      "edu": "本科",
-      "company": "金时科技",
-      "industry": "印刷/包装/造纸,科技推广服务,新能源",
-      "domain": "家居/家电/轻工",
-      "level": "总监/负责人",
-      "link": "https://www.liepin.com/job/1985818433.shtml",
-      "job_id": "85818433",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
     },
     {
       "title": "供应链总监-跨境电商",
@@ -6252,18 +6252,18 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "电商业务-供应链物流负责人（供应商仓到仓）",
-      "salary": "17-30k·13薪",
+      "title": "服装供应链业务总监",
+      "salary": "30-50k·13薪",
       "city": "成都",
       "district": "龙泉驿区",
       "exp": "10年以上",
-      "edu": "大专",
+      "edu": "本科",
       "company": "成都鹿岛品牌管理有限公司",
       "industry": "批发/零售",
       "domain": "物流/贸易/供应链服务",
       "level": "总监/负责人",
-      "link": "https://www.liepin.com/job/1985932835.shtml",
-      "job_id": "85932835",
+      "link": "https://www.liepin.com/job/1984620873.shtml",
+      "job_id": "84620873",
       "tier": "related",
       "matched": [
         "供应链"
@@ -6290,42 +6290,42 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "供应链总监（连锁烧烤）",
-      "salary": "25-40k",
+      "title": "采购催交工程师（仪表）",
+      "salary": "22-25k",
       "city": "成都",
       "district": "成都",
       "exp": "5-10年",
-      "edu": "大专",
-      "company": "某西安餐饮业公司",
-      "industry": "餐饮业",
-      "domain": "食品/快消/农牧",
-      "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/80406025.shtml",
-      "job_id": "80406025",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
-      "title": "临床采购专员(J10406)",
-      "salary": "7-10k·13薪",
-      "city": "成都",
-      "district": "双流区",
-      "exp": "1-3年",
       "edu": "本科",
-      "company": "康诺亚生物医药科技有限公司",
-      "industry": "制药",
-      "domain": "医药/医疗器械",
-      "level": "专员/员",
-      "link": "https://www.liepin.com/job/1985922157.shtml",
-      "job_id": "85922157",
+      "company": "某成都大型石化公司",
+      "industry": "石化,工程施工",
+      "domain": "化工/新材料/建材",
+      "level": "未标注",
+      "link": "https://www.liepin.com/a/80425075.shtml",
+      "job_id": "80425075",
       "tier": "related",
       "matched": [
         "供应链"
       ],
       "source": "猎聘·采购"
+    },
+    {
+      "title": "供应链经理",
+      "salary": "13-18k·13薪",
+      "city": "成都",
+      "district": "成都-五津",
+      "exp": "5年以上",
+      "edu": "本科",
+      "company": "周黑鸭",
+      "industry": "食品/饮料/酒水",
+      "domain": "食品/快消/农牧",
+      "level": "经理",
+      "link": "https://www.liepin.com/job/1985920121.shtml",
+      "job_id": "85920121",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
     },
     {
       "title": "生产计划/物料管理(PMC)",
@@ -6366,25 +6366,6 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "生产计划员",
-      "salary": "15-25k",
-      "city": "昆明",
-      "district": "昆明",
-      "exp": "1-3年",
-      "edu": "本科",
-      "company": "某国内环保上市公司",
-      "industry": "环保,新材料",
-      "domain": "化工/新材料/建材",
-      "level": "专员/员",
-      "link": "https://www.liepin.com/a/78099261.shtml",
-      "job_id": "78099261",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
       "title": "生产计划调度员（生鲜水果方向）",
       "salary": "5-7k",
       "city": "昆明",
@@ -6404,6 +6385,25 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
+      "title": "生产计划员",
+      "salary": "15-25k",
+      "city": "昆明",
+      "district": "昆明",
+      "exp": "1-3年",
+      "edu": "本科",
+      "company": "某国内环保上市公司",
+      "industry": "环保,新材料",
+      "domain": "化工/新材料/建材",
+      "level": "专员/员",
+      "link": "https://www.liepin.com/a/78099261.shtml",
+      "job_id": "78099261",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
       "title": "生产计划员(J11079)",
       "salary": "5-7k",
       "city": "昆明",
@@ -6416,6 +6416,25 @@
       "level": "未标注",
       "link": "https://www.liepin.com/job/1977167117.shtml",
       "job_id": "77167117",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "PMC主管",
+      "salary": "9-13k",
+      "city": "昆明",
+      "district": "昆明-草铺",
+      "exp": "5年以上",
+      "edu": "本科",
+      "company": "当升蜀道(攀枝花)新材料有限公司",
+      "industry": "新材料",
+      "domain": "化工/新材料/建材",
+      "level": "主管",
+      "link": "https://www.liepin.com/job/1983465989.shtml",
+      "job_id": "83465989",
       "tier": "core",
       "matched": [
         "计划"
@@ -6480,63 +6499,6 @@
       "source": "猎聘·生产计划/物料管理"
     },
     {
-      "title": "计划部部长",
-      "salary": "16-25k",
-      "city": "昆明",
-      "district": "昆明",
-      "exp": "10年以上",
-      "edu": "学历不限",
-      "company": "某国内其他制造业公司",
-      "industry": "其他制造业",
-      "domain": "其他/未标注",
-      "level": "未标注",
-      "link": "https://www.liepin.com/a/80008769.shtml",
-      "job_id": "80008769",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "计划员",
-      "salary": "2-4k",
-      "city": "昆明",
-      "district": "昆明-草铺",
-      "exp": "经验不限",
-      "edu": "大专",
-      "company": "恒通源企业管理集团",
-      "industry": "整车制造",
-      "domain": "汽车/零部件",
-      "level": "专员/员",
-      "link": "https://www.liepin.com/job/1935817689.shtml",
-      "job_id": "35817689",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
-      "title": "PMC主管",
-      "salary": "9-13k",
-      "city": "昆明",
-      "district": "昆明-草铺",
-      "exp": "5年以上",
-      "edu": "本科",
-      "company": "当升蜀道(攀枝花)新材料有限公司",
-      "industry": "新材料",
-      "domain": "化工/新材料/建材",
-      "level": "主管",
-      "link": "https://www.liepin.com/job/1983465989.shtml",
-      "job_id": "83465989",
-      "tier": "core",
-      "matched": [
-        "计划"
-      ],
-      "source": "猎聘·生产计划/物料管理"
-    },
-    {
       "title": "物控主管",
       "salary": "16-22k",
       "city": "昆明",
@@ -6568,6 +6530,44 @@
       "level": "主管",
       "link": "https://www.liepin.com/job/1967073031.shtml",
       "job_id": "67073031",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "计划部部长",
+      "salary": "16-25k",
+      "city": "昆明",
+      "district": "昆明",
+      "exp": "10年以上",
+      "edu": "学历不限",
+      "company": "某国内其他制造业公司",
+      "industry": "其他制造业",
+      "domain": "其他/未标注",
+      "level": "未标注",
+      "link": "https://www.liepin.com/a/80008769.shtml",
+      "job_id": "80008769",
+      "tier": "core",
+      "matched": [
+        "计划"
+      ],
+      "source": "猎聘·生产计划/物料管理"
+    },
+    {
+      "title": "计划员",
+      "salary": "2-4k",
+      "city": "昆明",
+      "district": "昆明-草铺",
+      "exp": "经验不限",
+      "edu": "大专",
+      "company": "恒通源企业管理集团",
+      "industry": "整车制造",
+      "domain": "汽车/零部件",
+      "level": "专员/员",
+      "link": "https://www.liepin.com/job/1935817689.shtml",
+      "job_id": "35817689",
       "tier": "core",
       "matched": [
         "计划"
@@ -6803,18 +6803,18 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "鲜花供应链经理",
-      "salary": "6-8k",
+      "title": "储备供应链业务部负责人",
+      "salary": "25-45k",
       "city": "昆明",
-      "district": "官渡区",
-      "exp": "1-3年",
+      "district": "昆明-联盟路",
+      "exp": "5年以上",
       "edu": "本科",
-      "company": "云南花跃宝鲜花有限责任公司",
-      "industry": "批发/零售",
+      "company": "顺丰速运有限公司区域共享中心",
+      "industry": "货运/物流/仓储",
       "domain": "物流/贸易/供应链服务",
-      "level": "经理",
-      "link": "https://www.liepin.com/job/1983884689.shtml",
-      "job_id": "83884689",
+      "level": "总监/负责人",
+      "link": "https://www.liepin.com/job/1982817539.shtml",
+      "job_id": "82817539",
       "tier": "related",
       "matched": [
         "供应链"
@@ -6822,18 +6822,18 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "供应链拓展专员（高提成+分红）",
-      "salary": "3-8k",
+      "title": "供应链总监",
+      "salary": "40-50k",
       "city": "昆明",
-      "district": "昆明-福海",
-      "exp": "1-3年",
-      "edu": "大专",
-      "company": "云南天使医家养老服务有限公司",
-      "industry": "其他生活服务",
+      "district": "官渡区",
+      "exp": "5-10年",
+      "edu": "学历不限",
+      "company": "武汉心情不错科技有限公司",
+      "industry": "互联网",
       "domain": "其他/未标注",
-      "level": "专员/员",
-      "link": "https://www.liepin.com/job/1982051715.shtml",
-      "job_id": "82051715",
+      "level": "总监/负责人",
+      "link": "https://www.liepin.com/job/1981744319.shtml",
+      "job_id": "81744319",
       "tier": "related",
       "matched": [
         "供应链"
@@ -6902,27 +6902,27 @@
   "core": 213,
   "related": 150,
   "domains": {
-    "半导体/电子/光电": 49,
+    "半导体/电子/光电": 50,
     "机械/装备/自动化": 48,
-    "其他/未标注": 43,
-    "汽车/零部件": 36,
-    "新能源/电池/光伏": 33,
-    "化工/新材料/建材": 32,
-    "物流/贸易/供应链服务": 26,
-    "食品/快消/农牧": 26,
+    "其他/未标注": 45,
+    "汽车/零部件": 38,
+    "化工/新材料/建材": 35,
+    "新能源/电池/光伏": 31,
+    "食品/快消/农牧": 24,
+    "家居/家电/轻工": 23,
+    "物流/贸易/供应链服务": 23,
     "医药/医疗器械": 23,
-    "家居/家电/轻工": 21,
-    "纺织/服装": 19,
-    "地产/建筑": 7
+    "纺织/服装": 18,
+    "地产/建筑": 5
   },
   "levels": {
-    "未标注": 103,
-    "经理": 85,
-    "专员/员": 67,
-    "总监/负责人": 59,
+    "未标注": 119,
+    "经理": 78,
+    "专员/员": 60,
+    "总监/负责人": 58,
     "主管": 34,
-    "专家/资深": 15
+    "专家/资深": 14
   },
   "errors": [],
-  "fetched_at": "2026-10-06T23:52:07+08:00"
+  "fetched_at": "2026-10-07T15:08:31+08:00"
 }
