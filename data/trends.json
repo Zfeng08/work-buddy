@@ -4,203 +4,203 @@
       "full_name": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 12987,
-      "stars_today": 4666,
+      "stars": 17580,
+      "stars_today": 4655,
       "language": "TypeScript"
     },
     {
       "full_name": "boykopovar/AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "stars": 9148,
-      "stars_today": 2725,
+      "stars": 11684,
+      "stars_today": 2716,
       "language": "C++"
     },
     {
       "full_name": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "stars": 6570,
-      "stars_today": 1494,
+      "stars": 7389,
+      "stars_today": 1493,
       "language": "JavaScript"
-    },
-    {
-      "full_name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 279155,
-      "stars_today": 1406,
-      "language": "Shell"
     },
     {
       "full_name": "storytold/artcraft",
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "stars": 4226,
-      "stars_today": 1403,
+      "stars": 5393,
+      "stars_today": 1465,
       "language": "Rust"
+    },
+    {
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 280110,
+      "stars_today": 1403,
+      "language": "Shell"
     },
     {
       "full_name": "tester-army/e2e",
       "url": "https://github.com/tester-army/e2e",
       "description": "Next generation e2e testing framework for web and mobile apps.",
-      "stars": 7117,
-      "stars_today": 1391,
+      "stars": 7801,
+      "stars_today": 1390,
       "language": "TypeScript"
     },
     {
       "full_name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "stars": 44668,
-      "stars_today": 828,
+      "stars": 45330,
+      "stars_today": 825,
       "language": "HTML"
     },
     {
       "full_name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "stars": 27050,
-      "stars_today": 764,
+      "stars": 27217,
+      "stars_today": 766,
       "language": "Python"
+    },
+    {
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 103031,
+      "stars_today": 677,
+      "language": "JavaScript"
     },
     {
       "full_name": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "stars": 54870,
-      "stars_today": 620,
+      "stars": 55409,
+      "stars_today": 619,
       "language": "Python"
     },
     {
       "full_name": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "stars": 97524,
+      "stars": 97925,
       "stars_today": 578,
       "language": "TypeScript"
-    },
-    {
-      "full_name": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "Give your agent CAD superpowers.",
-      "stars": 18244,
-      "stars_today": 543,
-      "language": "Python"
     },
     {
       "full_name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stars": 25788,
-      "stars_today": 538,
+      "stars": 26255,
+      "stars_today": 576,
       "language": "JavaScript"
     },
     {
-      "full_name": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust",
-      "stars": 41550,
-      "stars_today": 495,
-      "language": "Rust"
-    },
-    {
-      "full_name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 102537,
-      "stars_today": 453,
-      "language": "JavaScript"
+      "full_name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "stars": 18326,
+      "stars_today": 447,
+      "language": "Python"
     },
     {
       "full_name": "superdesigndev/treg",
       "url": "https://github.com/superdesigndev/treg",
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "stars": 4698,
-      "stars_today": 407,
+      "stars": 4770,
+      "stars_today": 416,
       "language": "Python"
     },
     {
       "full_name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "stars": 64924,
-      "stars_today": 375,
+      "stars": 65157,
+      "stars_today": 369,
       "language": "Python"
     },
     {
-      "full_name": "Joooook/12306-mcp",
-      "url": "https://github.com/Joooook/12306-mcp",
-      "description": "This is a 12306 ticket search server based on the Model Context Protocol (MCP).",
-      "stars": 2288,
-      "stars_today": 320,
-      "language": "JavaScript"
+      "full_name": "xerj-org/xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "stars": 3137,
+      "stars_today": 339,
+      "language": "Rust"
     },
     {
-      "full_name": "kanoqwq/UFI-TOOLS",
-      "url": "https://github.com/kanoqwq/UFI-TOOLS",
-      "description": "A functional tools for z*e devices (F50 | U30 Air)",
-      "stars": 2573,
-      "stars_today": 260,
-      "language": "JavaScript"
-    },
-    {
-      "full_name": "Autumn-27/ARTEX",
-      "url": "https://github.com/Autumn-27/ARTEX",
-      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "stars": 1921,
-      "stars_today": 244,
-      "language": "Go"
+      "full_name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust",
+      "stars": 41630,
+      "stars_today": 321,
+      "language": "Rust"
     },
     {
       "full_name": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "description": "",
-      "stars": 26061,
+      "stars": 26230,
       "stars_today": 241,
       "language": "TypeScript"
+    },
+    {
+      "full_name": "Autumn-27/ARTEX",
+      "url": "https://github.com/Autumn-27/ARTEX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "stars": 2089,
+      "stars_today": 236,
+      "language": "Go"
     },
     {
       "full_name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 28637,
-      "stars_today": 229,
+      "stars": 28892,
+      "stars_today": 228,
       "language": "Rust"
+    },
+    {
+      "full_name": "reconurge/flowsint",
+      "url": "https://github.com/reconurge/flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "stars": 9525,
+      "stars_today": 215,
+      "language": "TypeScript"
     },
     {
       "full_name": "Z4nzu/hackingtool",
       "url": "https://github.com/Z4nzu/hackingtool",
       "description": "ALL IN ONE Hacking Tool For Hackers",
-      "stars": 80368,
-      "stars_today": 216,
-      "language": "Python"
-    },
-    {
-      "full_name": "Stremio/stremio-web",
-      "url": "https://github.com/Stremio/stremio-web",
-      "description": "Stremio - Freedom to Stream",
-      "stars": 14421,
-      "stars_today": 211,
-      "language": "JavaScript"
-    },
-    {
-      "full_name": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "stars": 188991,
-      "stars_today": 193,
+      "stars": 80440,
+      "stars_today": 213,
       "language": "Python"
     },
     {
       "full_name": "smicallef/spiderfoot",
       "url": "https://github.com/smicallef/spiderfoot",
       "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-      "stars": 23075,
-      "stars_today": 187,
+      "stars": 23141,
+      "stars_today": 193,
       "language": "Python"
+    },
+    {
+      "full_name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "stars": 189098,
+      "stars_today": 188,
+      "language": "Python"
+    },
+    {
+      "full_name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": 149816,
+      "stars_today": 163,
+      "language": "TypeScript"
     }
   ],
   "count": 83,
-  "fetched_at": "2026-10-08T00:20:26+08:00"
+  "fetched_at": "2026-10-08T15:15:45+08:00"
 }
