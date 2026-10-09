@@ -4,203 +4,203 @@
       "full_name": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 20746,
-      "stars_today": 7744,
+      "stars": 31270,
+      "stars_today": 7738,
       "language": "TypeScript"
     },
     {
       "full_name": "boykopovar/AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "stars": 14038,
-      "stars_today": 4640,
+      "stars": 17198,
+      "stars_today": 4669,
       "language": "C++"
     },
     {
       "full_name": "storytold/artcraft",
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "stars": 6721,
-      "stars_today": 2510,
+      "stars": 8962,
+      "stars_today": 2103,
       "language": "Rust"
     },
     {
       "full_name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 280861,
-      "stars_today": 1770,
+      "stars": 281563,
+      "stars_today": 1774,
       "language": "Shell"
     },
     {
       "full_name": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "stars": 7775,
-      "stars_today": 1339,
+      "stars": 8205,
+      "stars_today": 1214,
       "language": "JavaScript"
     },
     {
       "full_name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "stars": 45880,
-      "stars_today": 1163,
+      "stars": 46900,
+      "stars_today": 1160,
       "language": "HTML"
     },
     {
       "full_name": "tester-army/e2e",
       "url": "https://github.com/tester-army/e2e",
       "description": "Next generation e2e testing framework for web and mobile apps.",
-      "stars": 8081,
-      "stars_today": 1137,
+      "stars": 8260,
+      "stars_today": 962,
       "language": "TypeScript"
     },
     {
       "full_name": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "stars": 55691,
-      "stars_today": 915,
+      "stars": 55899,
+      "stars_today": 845,
       "language": "Python"
+    },
+    {
+      "full_name": "docker/docker-agent",
+      "url": "https://github.com/docker/docker-agent",
+      "description": "AI Agent Builder and Runtime by Docker Engineering",
+      "stars": 4264,
+      "stars_today": 766,
+      "language": "Go"
     },
     {
       "full_name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 103266,
-      "stars_today": 873,
+      "stars": 103494,
+      "stars_today": 751,
       "language": "JavaScript"
     },
     {
       "full_name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stars": 26482,
-      "stars_today": 836,
+      "stars": 26690,
+      "stars_today": 708,
       "language": "JavaScript"
-    },
-    {
-      "full_name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "stars": 27355,
-      "stars_today": 766,
-      "language": "Python"
     },
     {
       "full_name": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "stars": 98212,
-      "stars_today": 662,
+      "stars": 98720,
+      "stars_today": 670,
       "language": "TypeScript"
-    },
-    {
-      "full_name": "docker/docker-agent",
-      "url": "https://github.com/docker/docker-agent",
-      "description": "AI Agent Builder and Runtime by Docker Engineering",
-      "stars": 4164,
-      "stars_today": 628,
-      "language": "Go"
     },
     {
       "full_name": "tashfeenahmed/freellmapi",
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "stars": 32029,
-      "stars_today": 508,
+      "stars": 32279,
+      "stars_today": 518,
       "language": "TypeScript"
     },
     {
-      "full_name": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "Give your agent CAD superpowers.",
-      "stars": 18403,
-      "stars_today": 447,
-      "language": "Python"
+      "full_name": "liquidslr/system-design-notes",
+      "url": "https://github.com/liquidslr/system-design-notes",
+      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "stars": 24961,
+      "stars_today": 393,
+      "language": "—"
     },
     {
-      "full_name": "superdesigndev/treg",
-      "url": "https://github.com/superdesigndev/treg",
-      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "stars": 4818,
-      "stars_today": 416,
+      "full_name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": 27850,
+      "stars_today": 392,
       "language": "Python"
     },
     {
       "full_name": "CursorTouch/Windows-MCP",
       "url": "https://github.com/CursorTouch/Windows-MCP",
       "description": "MCP Server for Computer Use in Windows",
-      "stars": 8289,
-      "stars_today": 411,
+      "stars": 8382,
+      "stars_today": 360,
       "language": "Python"
-    },
-    {
-      "full_name": "liquidslr/system-design-notes",
-      "url": "https://github.com/liquidslr/system-design-notes",
-      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
-      "stars": 24358,
-      "stars_today": 398,
-      "language": "—"
     },
     {
       "full_name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "stars": 93749,
-      "stars_today": 346,
+      "stars": 93917,
+      "stars_today": 338,
       "language": "JavaScript"
-    },
-    {
-      "full_name": "DmNote-App/DmNote",
-      "url": "https://github.com/DmNote-App/DmNote",
-      "description": "Make it yours. A customizable key viewer for DJMAX RESPECT V and any game.",
-      "stars": 2731,
-      "stars_today": 307,
-      "language": "TypeScript"
     },
     {
       "full_name": "EpicGames/raddebugger",
       "url": "https://github.com/EpicGames/raddebugger",
       "description": "A native, user-mode, multi-process, graphical debugger.",
-      "stars": 8023,
-      "stars_today": 283,
+      "stars": 8181,
+      "stars_today": 279,
       "language": "C"
+    },
+    {
+      "full_name": "DmNote-App/DmNote",
+      "url": "https://github.com/DmNote-App/DmNote",
+      "description": "Make it yours. A customizable key viewer for DJMAX RESPECT V and any game.",
+      "stars": 2798,
+      "stars_today": 263,
+      "language": "TypeScript"
     },
     {
       "full_name": "Vincentwei1021/video-shotcraft",
       "url": "https://github.com/Vincentwei1021/video-shotcraft",
       "description": "AI video skill for Claude Code &amp; Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
-      "stars": 10854,
-      "stars_today": 264,
+      "stars": 10944,
+      "stars_today": 241,
       "language": "TypeScript"
+    },
+    {
+      "full_name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "stars": 18556,
+      "stars_today": 159,
+      "language": "Python"
     },
     {
       "full_name": "IAmTomShaw/f1-race-replay",
       "url": "https://github.com/IAmTomShaw/f1-race-replay",
       "description": "An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️",
-      "stars": 6663,
-      "stars_today": 216,
+      "stars": 6689,
+      "stars_today": 148,
       "language": "Python"
     },
     {
-      "full_name": "smicallef/spiderfoot",
-      "url": "https://github.com/smicallef/spiderfoot",
-      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-      "stars": 23158,
-      "stars_today": 193,
-      "language": "Python"
+      "full_name": "microsoft/mxc",
+      "url": "https://github.com/microsoft/mxc",
+      "description": "Policy-driven, layered isolation and containment",
+      "stars": 1878,
+      "stars_today": 135,
+      "language": "Rust"
     },
     {
       "full_name": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "stars": 182568,
-      "stars_today": 127,
+      "stars": 182442,
+      "stars_today": 128,
       "language": "Go"
+    },
+    {
+      "full_name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": 9067,
+      "stars_today": 123,
+      "language": "Rust"
     }
   ],
   "count": 77,
-  "fetched_at": "2026-10-09T00:22:26+08:00"
+  "fetched_at": "2026-10-09T15:19:12+08:00"
 }
