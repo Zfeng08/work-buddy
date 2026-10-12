@@ -2,39 +2,39 @@
   "quotes": [
     {
       "name": "上证指数",
-      "price": 3797.24,
-      "change": -16.55,
-      "change_pct": -0.43
+      "price": 3769.18,
+      "change": -28.06,
+      "change_pct": -0.74
     },
     {
       "name": "深证成指",
-      "price": 12384.87,
-      "change": -256.99,
-      "change_pct": -2.03
+      "price": 12209.94,
+      "change": -174.93,
+      "change_pct": -1.41
     },
     {
       "name": "创业板指",
-      "price": 2963.82,
-      "change": -79.51,
-      "change_pct": -2.61
+      "price": 2905.64,
+      "change": -58.18,
+      "change_pct": -1.96
     },
     {
       "name": "恒生指数",
-      "price": 24271.2,
-      "change": 59.85,
-      "change_pct": 0.25
+      "price": 24172.09,
+      "change": -99.11,
+      "change_pct": -0.41
     },
     {
       "name": "腾讯控股",
-      "price": 425.8,
-      "change": 1.0,
-      "change_pct": 0.24
+      "price": 421.0,
+      "change": -4.8,
+      "change_pct": -1.13
     },
     {
       "name": "美元人民币",
-      "price": 6.6936,
-      "change": 0.0011,
-      "change_pct": 0.02
+      "price": 6.6945,
+      "change": 0.0009,
+      "change_pct": 0.01
     }
   ],
   "history": [
@@ -1144,7 +1144,48 @@
           "change_pct": 0.02
         }
       ]
+    },
+    {
+      "date": "2026-10-13",
+      "quotes": [
+        {
+          "name": "上证指数",
+          "price": 3769.18,
+          "change": -28.06,
+          "change_pct": -0.74
+        },
+        {
+          "name": "深证成指",
+          "price": 12209.94,
+          "change": -174.93,
+          "change_pct": -1.41
+        },
+        {
+          "name": "创业板指",
+          "price": 2905.64,
+          "change": -58.18,
+          "change_pct": -1.96
+        },
+        {
+          "name": "恒生指数",
+          "price": 24172.09,
+          "change": -99.11,
+          "change_pct": -0.41
+        },
+        {
+          "name": "腾讯控股",
+          "price": 421.0,
+          "change": -4.8,
+          "change_pct": -1.13
+        },
+        {
+          "name": "美元人民币",
+          "price": 6.6945,
+          "change": 0.0009,
+          "change_pct": 0.01
+        }
+      ]
     }
   ],
-  "fetched_at": "2026-10-13T02:54:30+08:00"
+  "fetched_at": "2026-10-13T09:37:47+08:00"
 }
