@@ -4,203 +4,203 @@
       "full_name": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 92222,
-      "stars_today": 25585,
+      "stars": 120269,
+      "stars_today": 25599,
       "language": "TypeScript"
     },
     {
       "full_name": "boykopovar/AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "stars": 28840,
-      "stars_today": 3977,
+      "stars": 30977,
+      "stars_today": 3952,
       "language": "C++"
     },
     {
       "full_name": "storytold/artcraft",
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "stars": 16510,
-      "stars_today": 2956,
+      "stars": 19076,
+      "stars_today": 2957,
       "language": "Rust"
     },
     {
       "full_name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
-      "stars": 58211,
-      "stars_today": 1215,
+      "stars": 59255,
+      "stars_today": 1225,
       "language": "Python"
     },
     {
       "full_name": "hugohe3/ppt-master",
       "url": "https://github.com/hugohe3/ppt-master",
       "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-      "stars": 60212,
-      "stars_today": 1097,
+      "stars": 60610,
+      "stars_today": 1104,
       "language": "Python"
     },
     {
       "full_name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "stars": 49822,
+      "stars": 51052,
       "stars_today": 1083,
       "language": "HTML"
-    },
-    {
-      "full_name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
-      "stars": 46070,
-      "stars_today": 876,
-      "language": "Go"
     },
     {
       "full_name": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "stars": 51008,
-      "stars_today": 872,
+      "stars": 52234,
+      "stars_today": 886,
       "language": "JavaScript"
+    },
+    {
+      "full_name": "chthollyphile/folia-major",
+      "url": "https://github.com/chthollyphile/folia-major",
+      "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
+      "stars": 5177,
+      "stars_today": 555,
+      "language": "TypeScript"
     },
     {
       "full_name": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
-      "stars": 36223,
-      "stars_today": 541,
+      "stars": 36785,
+      "stars_today": 548,
       "language": "Jupyter Notebook"
+    },
+    {
+      "full_name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "stars": 58180,
+      "stars_today": 506,
+      "language": "Python"
+    },
+    {
+      "full_name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": 46225,
+      "stars_today": 504,
+      "language": "Python"
     },
     {
       "full_name": "huggingface/transformers",
       "url": "https://github.com/huggingface/transformers",
       "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-      "stars": 167511,
-      "stars_today": 536,
+      "stars": 167540,
+      "stars_today": 501,
       "language": "Python"
     },
     {
       "full_name": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "stars": 26592,
-      "stars_today": 526,
-      "language": "TypeScript"
-    },
-    {
-      "full_name": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "stars": 46017,
-      "stars_today": 511,
-      "language": "Python"
-    },
-    {
-      "full_name": "chthollyphile/folia-major",
-      "url": "https://github.com/chthollyphile/folia-major",
-      "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
-      "stars": 4886,
-      "stars_today": 500,
+      "stars": 26734,
+      "stars_today": 485,
       "language": "TypeScript"
     },
     {
       "full_name": "chrislgarry/Apollo-11",
       "url": "https://github.com/chrislgarry/Apollo-11",
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "stars": 73973,
-      "stars_today": 496,
+      "stars": 74430,
+      "stars_today": 466,
       "language": "Assembly"
-    },
-    {
-      "full_name": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "stars": 57812,
-      "stars_today": 461,
-      "language": "Python"
     },
     {
       "full_name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "stars": 29052,
-      "stars_today": 443,
+      "stars": 29173,
+      "stars_today": 425,
       "language": "Python"
     },
     {
       "full_name": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io",
-      "stars": 142736,
-      "stars_today": 410,
+      "stars": 143037,
+      "stars_today": 385,
       "language": "Rust"
     },
     {
       "full_name": "pytorch/pytorch",
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "stars": 104335,
-      "stars_today": 314,
+      "stars": 104645,
+      "stars_today": 315,
       "language": "Python"
+    },
+    {
+      "full_name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "stars": 46316,
+      "stars_today": 294,
+      "language": "Go"
     },
     {
       "full_name": "CopilotKit/OpenIntelligentUI",
       "url": "https://github.com/CopilotKit/OpenIntelligentUI",
       "description": "Open-Source Generative UI Framework",
-      "stars": 2575,
-      "stars_today": 309,
+      "stars": 2752,
+      "stars_today": 278,
       "language": "TypeScript"
-    },
-    {
-      "full_name": "Tencent/WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "stars": 33133,
-      "stars_today": 216,
-      "language": "Go"
-    },
-    {
-      "full_name": "agalwood/Motrix",
-      "url": "https://github.com/agalwood/Motrix",
-      "description": "A full-featured download manager.",
-      "stars": 56465,
-      "stars_today": 176,
-      "language": "TypeScript"
-    },
-    {
-      "full_name": "HunxByts/GhostTrack",
-      "url": "https://github.com/HunxByts/GhostTrack",
-      "description": "Useful tool to track location or mobile number",
-      "stars": 18183,
-      "stars_today": 171,
-      "language": "Python"
     },
     {
       "full_name": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-      "stars": 141245,
-      "stars_today": 167,
+      "stars": 141327,
+      "stars_today": 173,
+      "language": "Python"
+    },
+    {
+      "full_name": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "stars": 18276,
+      "stars_today": 165,
       "language": "Python"
     },
     {
       "full_name": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
-      "stars": 391676,
-      "stars_today": 150,
+      "stars": 391727,
+      "stars_today": 164,
       "language": "TypeScript"
     },
     {
-      "full_name": "QuantumNous/new-api",
-      "url": "https://github.com/QuantumNous/new-api",
-      "description": "A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
-      "stars": 49712,
-      "stars_today": 135,
+      "full_name": "agalwood/Motrix",
+      "url": "https://github.com/agalwood/Motrix",
+      "description": "A full-featured download manager.",
+      "stars": 56528,
+      "stars_today": 158,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "stars": 33338,
+      "stars_today": 129,
       "language": "Go"
+    },
+    {
+      "full_name": "XiaoYouChR/Ghost-Downloader-3",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "stars": 9740,
+      "stars_today": 128,
+      "language": "Python"
     }
   ],
-  "count": 55,
-  "fetched_at": "2026-10-11T23:33:56+08:00"
+  "count": 54,
+  "fetched_at": "2026-10-12T15:15:31+08:00"
 }
