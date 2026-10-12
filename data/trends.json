@@ -4,203 +4,203 @@
       "full_name": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 120269,
-      "stars_today": 25599,
+      "stars": 146838,
+      "stars_today": 45495,
       "language": "TypeScript"
-    },
-    {
-      "full_name": "boykopovar/AnyPS5",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "stars": 30977,
-      "stars_today": 3952,
-      "language": "C++"
     },
     {
       "full_name": "storytold/artcraft",
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "stars": 19076,
-      "stars_today": 2957,
+      "stars": 21065,
+      "stars_today": 4106,
       "language": "Rust"
-    },
-    {
-      "full_name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
-      "stars": 59255,
-      "stars_today": 1225,
-      "language": "Python"
-    },
-    {
-      "full_name": "hugohe3/ppt-master",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-      "stars": 60610,
-      "stars_today": 1104,
-      "language": "Python"
     },
     {
       "full_name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "stars": 51052,
-      "stars_today": 1083,
+      "stars": 52260,
+      "stars_today": 2100,
       "language": "HTML"
     },
     {
       "full_name": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "stars": 52234,
-      "stars_today": 886,
+      "stars": 53245,
+      "stars_today": 1903,
       "language": "JavaScript"
     },
     {
-      "full_name": "chthollyphile/folia-major",
-      "url": "https://github.com/chthollyphile/folia-major",
-      "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
-      "stars": 5177,
-      "stars_today": 555,
-      "language": "TypeScript"
+      "full_name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "stars": 60083,
+      "stars_today": 1688,
+      "language": "Python"
     },
     {
       "full_name": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
-      "stars": 36785,
-      "stars_today": 548,
+      "stars": 37338,
+      "stars_today": 886,
       "language": "Jupyter Notebook"
+    },
+    {
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 277749,
+      "stars_today": 774,
+      "language": "JavaScript"
+    },
+    {
+      "full_name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "stars": 61036,
+      "stars_today": 772,
+      "language": "Python"
+    },
+    {
+      "full_name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "stars": 67459,
+      "stars_today": 737,
+      "language": "Python"
     },
     {
       "full_name": "Alishahryar1/free-claude-code",
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "stars": 58180,
-      "stars_today": 506,
+      "stars": 58783,
+      "stars_today": 705,
       "language": "Python"
     },
     {
-      "full_name": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "stars": 46225,
-      "stars_today": 504,
+      "full_name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "stars": 100850,
+      "stars_today": 652,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "chthollyphile/folia-major",
+      "url": "https://github.com/chthollyphile/folia-major",
+      "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
+      "stars": 5482,
+      "stars_today": 557,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "stars": 104729,
+      "stars_today": 529,
       "language": "Python"
     },
     {
-      "full_name": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-      "stars": 167540,
-      "stars_today": 501,
+      "full_name": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "stars": 33863,
+      "stars_today": 473,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "stars": 487909,
+      "stars_today": 428,
       "language": "Python"
     },
     {
       "full_name": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "stars": 26734,
-      "stars_today": 485,
+      "stars": 27108,
+      "stars_today": 394,
       "language": "TypeScript"
     },
     {
-      "full_name": "chrislgarry/Apollo-11",
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "stars": 74430,
-      "stars_today": 466,
-      "language": "Assembly"
-    },
-    {
-      "full_name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "stars": 29173,
-      "stars_today": 425,
+      "full_name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "stars": 39158,
+      "stars_today": 370,
       "language": "Python"
     },
     {
-      "full_name": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io",
-      "stars": 143037,
-      "stars_today": 385,
-      "language": "Rust"
-    },
-    {
-      "full_name": "pytorch/pytorch",
-      "url": "https://github.com/pytorch/pytorch",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "stars": 104645,
-      "stars_today": 315,
+      "full_name": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "stars": 11784,
+      "stars_today": 318,
       "language": "Python"
     },
     {
-      "full_name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
-      "stars": 46316,
-      "stars_today": 294,
-      "language": "Go"
+      "full_name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": 46336,
+      "stars_today": 309,
+      "language": "Python"
     },
     {
       "full_name": "CopilotKit/OpenIntelligentUI",
       "url": "https://github.com/CopilotKit/OpenIntelligentUI",
       "description": "Open-Source Generative UI Framework",
-      "stars": 2752,
-      "stars_today": 278,
+      "stars": 2850,
+      "stars_today": 251,
       "language": "TypeScript"
     },
     {
-      "full_name": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-      "stars": 141327,
-      "stars_today": 173,
-      "language": "Python"
-    },
-    {
-      "full_name": "HunxByts/GhostTrack",
-      "url": "https://github.com/HunxByts/GhostTrack",
-      "description": "Useful tool to track location or mobile number",
-      "stars": 18276,
-      "stars_today": 165,
-      "language": "Python"
+      "full_name": "ranxianglei/billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
+      "stars": 1080,
+      "stars_today": 219,
+      "language": "TypeScript"
     },
     {
       "full_name": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
-      "stars": 391727,
-      "stars_today": 164,
+      "stars": 391777,
+      "stars_today": 182,
       "language": "TypeScript"
     },
     {
-      "full_name": "agalwood/Motrix",
-      "url": "https://github.com/agalwood/Motrix",
-      "description": "A full-featured download manager.",
-      "stars": 56528,
-      "stars_today": 158,
+      "full_name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "stars": 39666,
+      "stars_today": 168,
       "language": "TypeScript"
     },
     {
-      "full_name": "Tencent/WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "stars": 33338,
-      "stars_today": 129,
-      "language": "Go"
+      "full_name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "High performance coding agent harness written in rust",
+      "stars": 20575,
+      "stars_today": 160,
+      "language": "Rust"
     },
     {
-      "full_name": "XiaoYouChR/Ghost-Downloader-3",
-      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
-      "description": "The only downloader you need. 下载器的集大成者。",
-      "stars": 9740,
-      "stars_today": 128,
-      "language": "Python"
+      "full_name": "Javis603/token-monitor",
+      "url": "https://github.com/Javis603/token-monitor",
+      "description": "Local-first desktop widget for tracking token usage, costs, limits, and session activity across 44+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device sync.",
+      "stars": 2959,
+      "stars_today": 156,
+      "language": "JavaScript"
     }
   ],
   "count": 54,
-  "fetched_at": "2026-10-12T15:15:31+08:00"
+  "fetched_at": "2026-10-13T02:54:43+08:00"
 }
