@@ -4,191 +4,175 @@
       "full_name": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 197563,
-      "stars_today": 54706,
+      "stars": 216841,
+      "stars_today": 54679,
       "language": "TypeScript"
     },
     {
       "full_name": "storytold/artcraft",
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "stars": 24768,
-      "stars_today": 4078,
+      "stars": 26317,
+      "stars_today": 4081,
       "language": "Rust"
-    },
-    {
-      "full_name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
-      "stars": 62243,
-      "stars_today": 2277,
-      "language": "Python"
-    },
-    {
-      "full_name": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "stars": 27990,
-      "stars_today": 2044,
-      "language": "Go"
     },
     {
       "full_name": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "stars": 54904,
+      "stars": 55782,
       "stars_today": 1961,
       "language": "JavaScript"
+    },
+    {
+      "full_name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "stars": 28424,
+      "stars_today": 1819,
+      "language": "Go"
     },
     {
       "full_name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "stars": 53737,
-      "stars_today": 1813,
+      "stars": 54549,
+      "stars_today": 1815,
       "language": "HTML"
+    },
+    {
+      "full_name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "stars": 64064,
+      "stars_today": 1748,
+      "language": "Python"
     },
     {
       "full_name": "Alishahryar1/free-claude-code",
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "stars": 60059,
-      "stars_today": 1591,
+      "stars": 60312,
+      "stars_today": 1461,
       "language": "Python"
     },
     {
-      "full_name": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 155538,
-      "stars_today": 1138,
-      "language": "Python"
+      "full_name": "xtool-org/xtool",
+      "url": "https://github.com/xtool-org/xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "stars": 9719,
+      "stars_today": 1198,
+      "language": "Swift"
     },
     {
       "full_name": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
-      "stars": 38128,
-      "stars_today": 1004,
+      "stars": 38461,
+      "stars_today": 1001,
       "language": "Jupyter Notebook"
     },
     {
       "full_name": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "stars": 27974,
-      "stars_today": 978,
+      "stars": 28449,
+      "stars_today": 969,
       "language": "TypeScript"
     },
     {
-      "full_name": "xtool-org/xtool",
-      "url": "https://github.com/xtool-org/xtool",
-      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
-      "stars": 8917,
-      "stars_today": 936,
-      "language": "Swift"
+      "full_name": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "stars": 155602,
+      "stars_today": 919,
+      "language": "Python"
     },
     {
       "full_name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
-      "stars": 62447,
-      "stars_today": 831,
+      "stars": 63018,
+      "stars_today": 873,
       "language": "TypeScript"
     },
     {
       "full_name": "tashfeenahmed/freellmapi",
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "stars": 34521,
-      "stars_today": 786,
+      "stars": 34826,
+      "stars_today": 780,
       "language": "TypeScript"
-    },
-    {
-      "full_name": "hugohe3/ppt-master",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-      "stars": 61614,
-      "stars_today": 618,
-      "language": "Python"
-    },
-    {
-      "full_name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "stars": 130491,
-      "stars_today": 404,
-      "language": "Python"
     },
     {
       "full_name": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
-      "stars": 46833,
-      "stars_today": 364,
+      "stars": 46994,
+      "stars_today": 381,
       "language": "Go"
+    },
+    {
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "stars": 130596,
+      "stars_today": 341,
+      "language": "Python"
     },
     {
       "full_name": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 97768,
-      "stars_today": 263,
+      "stars": 97861,
+      "stars_today": 261,
       "language": "Rust"
     },
     {
       "full_name": "Tencent/WeKnora",
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "stars": 33728,
-      "stars_today": 261,
+      "stars": 33844,
+      "stars_today": 251,
       "language": "Go"
     },
     {
       "full_name": "baidu/Unlimited-OCR",
       "url": "https://github.com/baidu/Unlimited-OCR",
       "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "stars": 27268,
-      "stars_today": 210,
+      "stars": 27313,
+      "stars_today": 225,
+      "language": "Python"
+    },
+    {
+      "full_name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": 46662,
+      "stars_today": 200,
       "language": "Python"
     },
     {
       "full_name": "apify/apify-mcp-server",
       "url": "https://github.com/apify/apify-mcp-server",
       "description": "The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.",
-      "stars": 10966,
-      "stars_today": 207,
+      "stars": 11084,
+      "stars_today": 200,
       "language": "TypeScript"
-    },
-    {
-      "full_name": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "stars": 23438,
-      "stars_today": 203,
-      "language": "TypeScript"
-    },
-    {
-      "full_name": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "stars": 46511,
-      "stars_today": 195,
-      "language": "Python"
     },
     {
       "full_name": "vercel-labs/skills",
       "url": "https://github.com/vercel-labs/skills",
       "description": "The open agent skills tool - npx skills",
-      "stars": 34286,
-      "stars_today": 187,
+      "stars": 34686,
+      "stars_today": 190,
       "language": "TypeScript"
     },
     {
       "full_name": "Crosstalk-Solutions/project-nomad",
       "url": "https://github.com/Crosstalk-Solutions/project-nomad",
       "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
-      "stars": 39829,
+      "stars": 39986,
       "stars_today": 179,
       "language": "TypeScript"
     },
@@ -196,11 +180,27 @@
       "full_name": "CopilotKit/OpenIntelligentUI",
       "url": "https://github.com/CopilotKit/OpenIntelligentUI",
       "description": "Open-Source Generative UI Framework",
-      "stars": 3010,
+      "stars": 3085,
       "stars_today": 174,
       "language": "TypeScript"
+    },
+    {
+      "full_name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "stars": 23511,
+      "stars_today": 170,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "NVIDIA/personaplex",
+      "url": "https://github.com/NVIDIA/personaplex",
+      "description": "PersonaPlex code.",
+      "stars": 11166,
+      "stars_today": 148,
+      "language": "Python"
     }
   ],
-  "count": 67,
-  "fetched_at": "2026-10-14T00:53:46+08:00"
+  "count": 66,
+  "fetched_at": "2026-10-14T14:03:23+08:00"
 }
