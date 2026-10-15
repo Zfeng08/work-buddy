@@ -4,203 +4,203 @@
       "full_name": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 230387,
-      "stars_today": 41187,
+      "stars": 249522,
+      "stars_today": 41034,
       "language": "TypeScript"
     },
     {
       "full_name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
-      "stars": 65168,
-      "stars_today": 3547,
+      "stars": 67029,
+      "stars_today": 3538,
       "language": "Python"
     },
     {
       "full_name": "storytold/artcraft",
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "stars": 27265,
-      "stars_today": 3172,
+      "stars": 28208,
+      "stars_today": 2909,
       "language": "Rust"
     },
     {
       "full_name": "ifixai-ai/iFixAi",
       "url": "https://github.com/ifixai-ai/iFixAi",
       "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
-      "stars": 26749,
-      "stars_today": 2143,
+      "stars": 27754,
+      "stars_today": 2109,
       "language": "Python"
-    },
-    {
-      "full_name": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "stars": 28880,
-      "stars_today": 1819,
-      "language": "Go"
-    },
-    {
-      "full_name": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "stars": 56218,
-      "stars_today": 1667,
-      "language": "JavaScript"
     },
     {
       "full_name": "xtool-org/xtool",
       "url": "https://github.com/xtool-org/xtool",
       "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
-      "stars": 10198,
-      "stars_today": 1510,
+      "stars": 11106,
+      "stars_today": 1502,
       "language": "Swift"
     },
     {
-      "full_name": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "stars": 60457,
-      "stars_today": 1461,
-      "language": "Python"
-    },
-    {
-      "full_name": "NationalSecurityAgency/ghidra",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "stars": 86942,
-      "stars_today": 1002,
-      "language": "Java"
-    },
-    {
-      "full_name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "stars": 92178,
-      "stars_today": 962,
-      "language": "TypeScript"
-    },
-    {
-      "full_name": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "stars": 28795,
-      "stars_today": 946,
-      "language": "TypeScript"
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": 56572,
+      "stars_today": 1347,
+      "language": "JavaScript"
     },
     {
       "full_name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
-      "stars": 63367,
-      "stars_today": 873,
+      "stars": 63879,
+      "stars_today": 1089,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "stars": 29848,
+      "stars_today": 1025,
+      "language": "Go"
+    },
+    {
+      "full_name": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "stars": 87815,
+      "stars_today": 1008,
+      "language": "Java"
+    },
+    {
+      "full_name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": 29316,
+      "stars_today": 947,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "stars": 92705,
+      "stars_today": 919,
       "language": "TypeScript"
     },
     {
       "full_name": "vercel-labs/skills",
       "url": "https://github.com/vercel-labs/skills",
       "description": "The open agent skills tool - npx skills",
-      "stars": 34862,
-      "stars_today": 732,
+      "stars": 34989,
+      "stars_today": 658,
       "language": "TypeScript"
     },
     {
       "full_name": "hmjz100/LinkSwift",
       "url": "https://github.com/hmjz100/LinkSwift",
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
-      "stars": 22214,
-      "stars_today": 532,
+      "stars": 22471,
+      "stars_today": 620,
       "language": "JavaScript"
     },
     {
-      "full_name": "t8y2/dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-      "stars": 26653,
-      "stars_today": 348,
-      "language": "Rust"
-    },
-    {
-      "full_name": "anomalyco/opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "stars": 213428,
-      "stars_today": 341,
-      "language": "TypeScript"
+      "full_name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "stars": 60598,
+      "stars_today": 540,
+      "language": "Python"
     },
     {
       "full_name": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "stars": 111719,
-      "stars_today": 325,
+      "stars": 111962,
+      "stars_today": 398,
       "language": "Go"
+    },
+    {
+      "full_name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "stars": 213582,
+      "stars_today": 320,
+      "language": "TypeScript"
     },
     {
       "full_name": "OpenCut-app/OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
-      "stars": 94288,
-      "stars_today": 296,
+      "stars": 94519,
+      "stars_today": 301,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "stars": 26736,
+      "stars_today": 295,
+      "language": "Rust"
+    },
+    {
+      "full_name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "stars": 40192,
+      "stars_today": 274,
       "language": "TypeScript"
     },
     {
       "full_name": "MakazhanAlpamys/Soup",
       "url": "https://github.com/MakazhanAlpamys/Soup",
       "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-      "stars": 8969,
-      "stars_today": 281,
+      "stars": 9051,
+      "stars_today": 247,
       "language": "Python"
-    },
-    {
-      "full_name": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 97925,
-      "stars_today": 261,
-      "language": "Rust"
     },
     {
       "full_name": "Tencent/WeKnora",
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "stars": 33933,
-      "stars_today": 251,
+      "stars": 34059,
+      "stars_today": 242,
       "language": "Go"
     },
     {
-      "full_name": "react/react",
-      "url": "https://github.com/react/react",
-      "description": "The library for web and native user interfaces.",
-      "stars": 251178,
-      "stars_today": 210,
-      "language": "JavaScript"
-    },
-    {
-      "full_name": "p-e-w/heretic",
-      "url": "https://github.com/p-e-w/heretic",
-      "description": "Fully automatic censorship removal for language models",
-      "stars": 35213,
-      "stars_today": 208,
-      "language": "Python"
-    },
-    {
-      "full_name": "rust-lang/rust",
-      "url": "https://github.com/rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
-      "stars": 120061,
-      "stars_today": 205,
-      "language": "Rust"
+      "full_name": "apify/apify-mcp-server",
+      "url": "https://github.com/apify/apify-mcp-server",
+      "description": "The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.",
+      "stars": 11277,
+      "stars_today": 233,
+      "language": "TypeScript"
     },
     {
       "full_name": "openai/codex",
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
-      "stars": 129188,
-      "stars_today": 204,
+      "stars": 129274,
+      "stars_today": 209,
+      "language": "Rust"
+    },
+    {
+      "full_name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "stars": 120146,
+      "stars_today": 207,
+      "language": "Rust"
+    },
+    {
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": 98027,
+      "stars_today": 197,
       "language": "Rust"
     }
   ],
   "count": 76,
-  "fetched_at": "2026-10-14T22:27:57+08:00"
+  "fetched_at": "2026-10-15T13:48:02+08:00"
 }
