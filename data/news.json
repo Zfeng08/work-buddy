@@ -1,124 +1,132 @@
 {
   "items": [
     {
-      "title": "黄仁勋：英伟达在 AI 安全领域必须与中国企业合作",
-      "link": "https://www.ithome.com/1/013/661.htm",
-      "summary": "IT之家 10 月 15 日消息，黄仁勋今日接受外媒 CNBC 采访时表示，英伟达“绝对有必要”与中国 AI 企业合作，共同监测这项前沿技术带来的风险。IT之家注意到，英伟达首席执行官黄仁勋认为，AI 具有潜在危险性。他认为自己的公司绝对有必要与中国 AI 企业携手监测这些危险。黄仁勋对此解释称：“我们绝对应该相互合作，以安全的方式推动 AI 发展。”他认为，与中国人工智能企业的合作应通过“对话”",
+      "title": "给大模型装上“一双耳朵”：小米开源空间音频理解大模型 MiDashengLM-Spatial",
+      "link": "https://www.ithome.com/1/013/739.htm",
+      "summary": "IT之家 10 月 16 日消息，小米昨日宣布，带来 Dasheng 系列的重要新成员 ——MiDashengLM-Spatial，完整公开模型权重和推理代码，并以 Apache 2.0 许可证发布。过去两年，小米先后发布并开源了声音基座模型 Xiaomi Dasheng 及声音理解大模型 MiDashengLM-7B。相关技术已在小米智能家居、汽车座舱等场景实现超过 30 项落地应用，能够对语音",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 15 Oct 2026 14:02:59 GMT"
+      "published": "Fri, 16 Oct 2026 01:35:20 GMT"
     },
     {
-      "title": "2598 元 → 1664 元国补直降：大疆 Osmo Action 5 Pro 破冰新低",
-      "link": "https://www.ithome.com/1/013/660.htm",
-      "summary": "【京东活动可能随时变更，需以实付款为准】大疆 Osmo Action 5 Pro 运动相机发布于 2024 年 9 月 19 日，标准套装售价 2598 元。京东 11.11 大促期间，领取 240 元优惠券，叠加 15% 国补（立减 293.7 元）后仅需 1664.3 元：京东大疆 Osmo Action 5 Pro 标准套装国补后 1664.3 元领 240 元券京东 11.11 红包至高 ",
+      "title": "苹果首款智能家居中枢 HomeView 细节：同时显示九路监控、可当数码相框等",
+      "link": "https://www.ithome.com/1/013/738.htm",
+      "summary": "IT之家 10 月 16 日消息，科技媒体 AppleInsider 昨日（10 月 15 日）发布博文，在发布会现场深入体验 HomeView 后，分享了关于苹果首款智能家居中枢的更多实用细节，包括九路监控、共享相册等。IT之家附上相关现场测试视频如下：安防方面，HomeView 的“Home Camera”界面可同时显示最多 9 路实时摄像头画面，用户无需逐一切换，就能查看房间、门口或室外区域",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 15 Oct 2026 14:00:44 GMT"
+      "published": "Fri, 16 Oct 2026 01:31:51 GMT"
     },
     {
-      "title": "藏在哪里大声告诉你：苹果 AirTag 2 国补 191 元，查找范围升 50% + 音量升 50%",
-      "link": "https://www.ithome.com/1/013/659.htm",
-      "summary": "苹果 1 月 26 日发布了全新 AirTag 追踪器，该配件可通过苹果“查找”App 帮助用户追踪和查找重要物品，新品进一步拓展了查找范围，并配备了音量更大的扬声器。售价单件装 249 元，四件装 849 元。今日京东国补后四件装 763 元，单枚约 191 元。京东无门槛红包至高 26888 元，支持即领即用：点此抽取。京东 AirTag 第二代 4 件装苹果官方配件国补后 763 元直达链接",
+      "title": "Meta 首席 AI 官汪滔：不会开源最强模型，但会继续发布优秀开源模型",
+      "link": "https://www.ithome.com/1/013/736.htm",
+      "summary": "IT之家 10 月 16 日消息，当地时间 10 月 15 日，Meta 发布了开放权重 AI 模型 Muse Spark Open。Meta 官方宣称这是迄今为止能力最强的美国开放权重模型。据 The Next Web 报道，Meta 表示，Muse Spark Open 性能低于周一刚发布的前沿模型 Muse Wonder。Meta 曾在周一宣布 Muse Wonder 已达到前沿模型水准，但",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 15 Oct 2026 13:50:16 GMT"
+      "published": "Fri, 16 Oct 2026 01:25:04 GMT"
     },
     {
-      "title": "苹果 CEO 特努斯登上《时代》周刊封面：谈公司未来 50 年，iPhone Duo 入选 2026 年度“最佳发明”",
-      "link": "https://www.ithome.com/1/013/658.htm",
-      "summary": "IT之家 10 月 15 日消息，《时代》周刊（TIME）今日公布了 2026 年度“最佳发明”（Best Inventions of 2026）专题，苹果公司新任 CEO 约翰・特努斯（John Ternus）登上专题封面。同时，特纳斯接受了《时代》杂志的独家专访，首次以封面人物的身份畅谈了 iPhone Duo，以及他将如何带领这家标志性公司迈向下一个 50 年。此次专题将聚焦改变人们生活、工",
+      "title": "元太发布 Kaleido 4 彩色电子纸，支持 18FPS 视频播放",
+      "link": "https://www.ithome.com/1/013/735.htm",
+      "summary": "IT之家 10 月 16 日消息，元太科技 (E Ink) 昨日正式推出新一代彩色电子纸技术 E Ink Kaleido 4。该面板在延续低功耗、类纸阅读核心优势的同时，进一步提升彩色显示的色彩表现、亮度、对比度与动态显示能力。Kaleido 4 色域容积提升 2 倍至 40K 以上，白画面的反射率提升 15%，对比度提升 50%，更能清楚呈现图片、图表、简报与影音内容，减少画面颗粒感。其导入全新",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 15 Oct 2026 13:48:15 GMT"
+      "published": "Fri, 16 Oct 2026 01:24:41 GMT"
     },
     {
-      "title": "工信部、中央网信办、市场监管总局三部门联合调查有关车辆刹车踏板支架断裂问题",
-      "link": "https://www.ithome.com/1/013/657.htm",
-      "summary": "IT之家 10 月 15 日消息，据“工信微报”公众号今日更新，针对网络反映的“尊界 V800 汽车刹车踏板支架断裂问题”，工业和信息化部、中央网信办、市场监管总局高度重视，在前期调查工作基础上，成立联合调查组开展核查，并依法依规处理。有关情况将及时公布。据IT之家此前报道，今年 10 月 8 日，懂车帝实测了 3 台尊界 V800，称在 100km/h-0 紧急制动时刹车踏板支架被踩断，引发网络",
+      "title": "这次能飞了！特斯拉第二代 Roadster 跑车正式亮相",
+      "link": "https://www.ithome.com/1/013/734.htm",
+      "summary": "IT之家 10 月 16 日消息，在今天（16 日）上午的特别活动中，特斯拉第二代 Roadster 正式亮相。根据介绍，2008 年的 Roadster 只有一个目标：证明电动汽车可以速度飞快、外形性感、引人期待，而今天发布的第二代 Roadster，则展现了历史上的一个新时刻：最后几辆人类驾驶汽车之中的佼佼者。新车配备姿态控制推进器和车尾主推进器，不仅能像火箭一样离地升空，还能在空中翻滚。特斯",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 15 Oct 2026 13:45:03 GMT"
+      "published": "Fri, 16 Oct 2026 01:23:43 GMT"
     },
     {
-      "title": "卓威推出 2K 360Hz 电竞显示器：25 英寸 7299 元，27 英寸 8299 元",
-      "link": "https://www.ithome.com/1/013/656.htm",
-      "summary": "IT之家 10 月 15 日消息，卓威新推出了 25 英寸和 27 英寸的 2K 360Hz 职业电竞显示器，型号分别为 XQ2566X 和 XQ2766X，定价为 7299 和 8299 元，10 月 22 日 16:00 开售。京东卓威 ZOWIE 2K 360Hz 显示器 27 英寸电竞显示器 游戏显示屏 DyAc3 技术 FastTN 电脑显示器 XQ2766X8299 元直达链接据介绍，",
+      "title": "京东红包今日 10:00 再加码，猜拳至高赢 5 元",
+      "link": "https://www.ithome.com/1/013/733.htm",
+      "summary": "今日 10 点京东猜拳有机会赢至高 5 元加码红包，建议先领完日常红包再来参与：点此抽取。猜拳红包玩法：活动会在不同的时间节点，开启“猜拳抢红包”玩法，请随时关注活动提示。活动期间用户可参与猜拳玩法，每人最多 3 次机会，单次机会用户选择石头、剪刀、布任意一个，任意获胜 1 局（石头赢剪刀，剪刀赢布，布赢石头）即可获得领取额外奖励的机会，可随机获得京东红包、品类东券或店铺券等奖励。奖励限量，发完即",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 15 Oct 2026 13:39:34 GMT"
+      "published": "Fri, 16 Oct 2026 01:20:18 GMT"
     },
     {
-      "title": "经典电影改编游戏《玩具总动员 3 完整版》发售，Steam 国区 97 元",
-      "link": "https://www.ithome.com/1/013/651.htm",
-      "summary": "IT之家 10 月 15 日消息，由 Digital Eclipse 开发，雅达利和 Digital Eclipse 联合发行的经典电影改编重制版《迪士尼 / 皮克斯玩具总动员 3 完整版》今日正式发售，支持 PC (Steam)、PS4、PS5、Nintendo Switch、Nintendo Switch 2、Xbox One、Xbox Series X|S 平台。Steam 显示，国区售价为",
+      "title": "高通与传音续签专利许可协议至 2031 年底，涵盖 4G 和 5G 移动设备",
+      "link": "https://www.ithome.com/1/013/732.htm",
+      "summary": "IT之家 10 月 16 日消息，高通公司今日宣布，已与传音控股签订全球专利许可的长期续期，涵盖 4G 和 5G 移动设备，期限至 2031 年底。高通技术许可（QTL）执行副总裁兼总经理 John Han 表示：“我们很高兴能够提前续签传音控股的 4G 和 5G 许可证，并将现有的 4G 和 5G 协议合并为单一的长期协议。”IT之家注意到，高通近期密集与多家移动设备大厂签订了专利许可协议。9 ",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 15 Oct 2026 13:13:56 GMT"
+      "published": "Fri, 16 Oct 2026 01:18:49 GMT"
     },
     {
-      "title": "首发 2699.1 元，极米 Z7X 4K 激光版光学变焦 4K 投影仪开售",
-      "link": "https://www.ithome.com/1/013/655.htm",
-      "summary": "IT之家 10 月 15 日消息，极米 Z7X 4K 激光版光学变焦 4K 投影仪现已在京东开售。新品采用轻薄折叠形态，支持 VRR 可变刷新率和杜比音效，首发价 2699.1 元。京东极米（XGIMI）Z7X 4K 激光版 2699.1 元直达链接据介绍，这款投影仪支持 4K 超高清画质，采用三色激光光源，覆盖 110% BT.2020 广色域，ΔE＜1，动态对比度可达 30000:1，具备 H",
+      "title": "今年势头最猛的国产旗舰：消息称华为 Pura X View 阔直板手机出货量超 71 万，实销均价在 7000 元左右",
+      "link": "https://www.ithome.com/1/013/731.htm",
+      "summary": "IT之家 10 月 16 日消息，博主 @数码闲聊站 今日爆料，渠道数据显示，华为阔直板（Pura X View）出货量已超 71 万，实销均价在 7000 元左右，其中约 30％用户来自苹果用户。博主称（Pura X View）鉴定为今年势头最猛的国产旗舰，该机前期还大面积缺货，如果不缺货估计更猛。此外，华为大阔折和小阔折出货量已超 315 万。据IT之家了解，华为 Pura X View 搭载",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 15 Oct 2026 13:29:38 GMT"
+      "published": "Fri, 16 Oct 2026 01:16:14 GMT"
     },
     {
-      "title": "联想小新 27 元气版一体机发售：酷睿 5 320 + 16GB + 512GB，新品尝鲜价 6999 元",
-      "link": "https://www.ithome.com/1/013/654.htm",
-      "summary": "IT之家 10 月 15 日消息，联想 (Lenovo) 一体机新品小新 27 元气版即将于明日 00:00 发售。其当前可选霁蓝 / 绛紫 / 霞绯 3 种配色，新品尝鲜价均为 6999 元。这款一体机基于英特尔酷睿 5 处理器 320，拥有 16GB LPDDR5X-7467 内存、512GB SSD 存储，配套 27\" FHD 120Hz 350nits 高色域屏幕。京东联想 小新 27 元",
+      "title": "苹果 Minions 研究：闲置 Mac GPU 组队，几分钟就能完成 10 小时 AI 任务",
+      "link": "https://www.ithome.com/1/013/730.htm",
+      "summary": "IT之家 10 月 16 日消息，科技媒体 AppleInsider 昨日（10 月 15 日）发布博文，报道称苹果研究团队公布了一项名为 Minions 的系统研究，尝试聚合闲置 Mac GPU，形成一个可动态调度的“虚拟 GPU 云”，用于运行大规模机器学习推理任务。IT之家援引博文介绍，传统 AI 推理通常依赖集中式 GPU 集群，面临成本高、扩容慢、排队时间长等问题；而 Mac 在日常办公",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 15 Oct 2026 13:29:08 GMT"
+      "published": "Fri, 16 Oct 2026 01:14:02 GMT"
     },
     {
-      "title": "华为鸿蒙 HarmonyOS 7 系统更多老机型公测转正式版，覆盖 Mate 60 系列等",
-      "link": "https://www.ithome.com/1/013/653.htm",
-      "summary": "IT之家 10 月 15 日消息，华为官网最新信息显示，鸿蒙 HarmonyOS 7 系统更多机型从公测版转为正式版，覆盖 Mate 60 系列、Pura 70 系列等。▲ IT之家开箱：华为 Mate60 Pro+「宣白」图赏IT之家附华为鸿蒙 HarmonyOS 7 最新适配机型清单如下：正式版HUAWEI Mate 80 系列HUAWEI Mate 70 系列HUAWEI Mate 60 系",
+      "title": "雷蛇公布宝可梦 Pixel Art 款联名外设，包括鼠标、鼠标垫、键盘、座椅",
+      "link": "https://www.ithome.com/1/013/729.htm",
+      "summary": "IT之家 10 月 16 日消息，Razer（雷蛇）昨日公布了宝可梦 Pixel Art 主题系列外设。此次的联名型号包含无线游戏鼠标、鼠标垫、无线机械键盘、游戏座椅，统一采用类金属漆面外观，装饰以初代经典宝可梦在三代时期的像素形象。天猫雷蛇 | 宝可梦 Pixel Art 主题系列外设 套装 4099 / 6799 元直达链接IT之家了解到，Razer | 宝可梦 Pixel Art 款外设定价",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 15 Oct 2026 13:24:56 GMT"
+      "published": "Fri, 16 Oct 2026 01:11:40 GMT"
     },
     {
-      "title": "振华 LEADEX VIII PRO 白金牌电源发布，可选 850W、1000W 和 1200W",
-      "link": "https://www.ithome.com/1/013/652.htm",
-      "summary": "IT之家 10 月 15 日消息，振华 LEADEX VIII PRO 白金牌全模组电源现已发布，新品主打 125mm 短机身设计，提供 850W、1000W 和 1200W 规格选择，符合 ATX 3.1 规范并取得 Cybenetics 白金认证。IT之家了解到，这款电源机身长度仅 125mm，可为 ITX 与小尺寸机箱留出更充裕的走线和风道空间，显卡与散热器安装不再受限。具备英特尔 ATX ",
+      "title": "小米 REDMI K100 手机官宣本月见，号称“重塑旗舰新基线”",
+      "link": "https://www.ithome.com/1/013/728.htm",
+      "summary": "IT之家 10 月 16 日消息，小米 REDMI 红米手机官方今日宣布，K100 来了，本月见。全新标准版，重塑旗舰新基线超大电量，游戏性能体验看齐 Pro据IT之家此前报道，博主 @数码闲聊站 此前爆料，小米 REDMI K100 标准版手机堆了米系最大电池、独显芯片、相对大马达、Bose 双扬，属于配置不搞花活的类型。据悉，小米 REDMI K100 标准版手机搭载骁龙 8 至尊版处理器，属",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 15 Oct 2026 13:14:12 GMT"
+      "published": "Fri, 16 Oct 2026 01:07:48 GMT"
     },
     {
-      "title": "曝 REDMI K100 Pro Max 手机升级小米澎湃 OS 4 新增适配 BT.2020 色彩管理",
-      "link": "https://www.ithome.com/1/013/649.htm",
-      "summary": "IT之家 10 月 15 日消息，据博主 @懒酱的日记本 分享，REDMI K100 Pro Max 手机升级小米澎湃 OS 4 系统后，新增适配了 BT.2020 色彩管理功能。IT之家注：BT.2020（Rec.2020）是国际电信联盟（ITU）指定的超高清电视色彩标准，主要用于 4K/8K 视频、HDR 内容及高端显示设备等，它的色域比常规的 sRGB、DCI-P3、Rec.709 都广得多",
+      "title": "美科技股上演“惊天大逆转”：三大指数携手收涨，纳指收盘前一跃翻红",
+      "link": "https://www.ithome.com/1/013/726.htm",
+      "summary": "IT之家 10 月 16 日消息，当地时间 10 月 15 日，美股上演逆转行情。科技股开盘再度遭遇抛售重压，纳指一度跌逾 1.4%，随后在日内反攻中收复全部失地，最终三大指数携手收涨。▲ 纳斯达克IT之家查询获悉，截至当地时间 10 月 15 日收盘：标普 500 指数涨 0.33%，报 7744.06 点；纳斯达克综合指数涨 0.08%，报 26713.03 点；道琼斯工业平均指数涨 1.08",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 15 Oct 2026 13:12:05 GMT"
+      "published": "Fri, 16 Oct 2026 01:04:17 GMT"
     },
     {
-      "title": "R 星发布《GTA 6》发售预告片：原创曲目首次公布，11 月 19 日正式上线",
-      "link": "https://www.ithome.com/1/013/648.htm",
-      "summary": "IT之家 10 月 15 日消息，Rockstar Games 刚刚发布了《侠盗猎车手 VI》（GTA 6）最终上市发售预告片，时长 1 分半钟。在这段预告片中，Rockstar 首次展示了来自原声配乐作曲团队 Justice feat. Tame Impala, SZA 和 King Gizzard &amp; the Lizard Wizard 所创作的原创曲目“Flower in a Hur",
+      "title": "微软 Win11 照片应用史诗级重构：一站式管理本地 / iCloud 照片，编辑器加载提速 25%",
+      "link": "https://www.ithome.com/1/013/725.htm",
+      "summary": "IT之家 10 月 16 日消息，微软昨日（10 月 15 日）发布博文，宣布重构 Windows 11 系统自带“照片”（Photos）应用，并邀请 Windows Insider 项目成员测试，预估今年晚些时候面向所有 Windows 11 用户开放。界面方面，微软本次重新设计“图库”（Gallery）。用户无需来回切换多个应用，可以在同一个界面浏览本地电脑、OneDrive 以及 Apple",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 15 Oct 2026 13:08:09 GMT"
+      "published": "Fri, 16 Oct 2026 01:04:01 GMT"
     },
     {
-      "title": "R 星《GTA 6》卡点获得 TGA 2026 参选资格，发售日仅比截止日早一天",
-      "link": "https://www.ithome.com/1/013/646.htm",
-      "summary": "IT之家 10 月 15 日消息，Rockstar Games《侠盗猎车手 VI》（GTA 6）确认获得 2026 年 TGA（The Game Awards）年度游戏的参选资格。据 TGA 官网信息，2026 年 TGA 的参评资格截止日期为太平洋时间 2026 年 11 月 20 日，游戏须在此前面向消费者商业发售方可参与评选；在“玩家之声”类别中，截止日期则延至 11 月 30 日。刚好，《",
+      "title": "曝宁德时代乘用车业务换帅，将加快推进换电",
+      "link": "https://www.ithome.com/1/013/724.htm",
+      "summary": "IT之家 10 月 16 日消息，据 36 氪 10 月 15 日晚报道，宁德时代乘用车体系迎来重磅调整，宁德时代换电业务负责人、时代电服 CEO 杨峻将接替韩伟，兼任市场体系联席总裁，原市场体系联席总裁韩伟将回归商用车业务。报道称，国内乘用车业务副总裁王慧也随之调整。知情人士透露，王慧所负责业务将由宁德时代乘用车 CTO 高焕接棒，而王慧也同样回归商用车业务。报道认为，杨峻的接任，意味着宁德时代",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 15 Oct 2026 13:06:12 GMT"
+      "published": "Fri, 16 Oct 2026 00:54:14 GMT"
     },
     {
-      "title": "首发 4049.1 元起，极米 RS30 系列投影仪开售",
-      "link": "https://www.ithome.com/1/013/644.htm",
-      "summary": "IT之家 10 月 15 日消息，极米 RS30 系列投影仪现已在京东开售，新品拥有 RS30、RS30 高亮版、RS30 Pro 旗舰版、RS30 Ultra 高亮版、RS30 Ultra 旗舰版和 RS30 Ultra Max 旗舰版等型号，首发售价 4,049.1 元起。IT之家附该系列投影各版本定价如下：RS30：首发 4049.1 元RS30 高亮版：首发 5,219.1 元RS30 P",
+      "title": "营收增长放缓，消息称投资者降低 Anthropic IPO 估值预期",
+      "link": "https://www.ithome.com/1/013/723.htm",
+      "summary": "IT之家 10 月 16 日消息，北京时间今天（16 日）凌晨，路透社援引四名知情人士消息称，随着 AI 融资成本持续攀升引发市场担忧，Anthropic 公布最新财务数据后，部分现有投资者和准备参与 IPO 的投资者开始考虑下调对 Anthropic 的估值。其中三名知情人士称，部分投资者参加了 Anthropic 在旧金山举办的投资者日活动，并讨论了约 1.5 万亿美元（IT之家注：现汇率约合",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 15 Oct 2026 13:04:19 GMT"
+      "published": "Fri, 16 Oct 2026 00:54:07 GMT"
+    },
+    {
+      "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
+      "link": "https://sspai.com/post/116355",
+      "summary": "SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。查看全文",
+      "source": "少数派",
+      "category": "效率工具",
+      "published": "Fri, 16 Oct 2026 08:23:12 +0800"
     },
     {
       "title": "新玩意 253｜少数派的编辑们最近买了啥？",
@@ -193,12 +201,36 @@
       "published": "Wed, 14 Oct 2026 11:57:01 +0800"
     },
     {
-      "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒",
-      "link": "https://sspai.com/post/92653",
-      "summary": "Apple Watch 打算让更多人意识到睡眠呼吸暂停的威胁，它是怎么做到的？查看全文",
-      "source": "少数派",
-      "category": "效率工具",
-      "published": "Wed, 14 Oct 2026 10:00:04 +0800"
+      "title": "美国银行雇佣千名合同工修复 AI 工具发现的软件漏洞",
+      "link": "https://www.solidot.org/story?sid=85625",
+      "summary": "美国银行（Bank of America）CEO Brian Moynihan 透露该公司雇佣了千名合同工帮助修复 Anthropic Mythos 等 AI 工具发现的软件漏洞。他表示：“我们在第二季度聘请了 1000 名合同工协助进行修复工作。除了原本负责该领域的 3000 名员外，这些合同工至今仍留在公司内，继续提供协助。”他向分析师透露，美国银行第三季度在软件修复以及与反洗钱合规相关的监管",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Fri, 16 Oct 2026 00:03:23 +0800"
+    },
+    {
+      "title": "以色列公司通过数字广告安装零点击间谍软件",
+      "link": "https://www.solidot.org/story?sid=85624",
+      "summary": "加拿大多伦多大学公民实验室发表研究报告，以色列公司 Discover-Tech 通过数字广告在半岛电视台的内部设备上安装了间谍软件。这是首次利用数字广告实施的零点击间谍软件攻击。Discover-Tech 运营着名为 Controlium 的平台，它表面上是一家合法的广告公司，但实际上是以色列间谍软件供应商的合作伙伴。Controlium 能在广告加载的瞬间，对设备进行去匿名化处理、提取设备指纹，",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Thu, 15 Oct 2026 23:46:28 +0800"
+    },
+    {
+      "title": "Ubuntu 26.10 释出",
+      "link": "https://www.solidot.org/story?sid=85623",
+      "summary": "Canonical 释出了代号为 Stonking Stingray 的 Ubuntu 26.10，这是一个短期支持版本，仅支持九个月。Ubuntu 26.10 的主要变化包括：用 Rust 语言开发的版本替代了 C 语言开发的系统组件，后量子密码学软件包签名，扩展对基于 TPM 的全盘加密支持，企业级身份验证与 Microsoft Entra ID 的更深度集成，Linux kernel 7.3",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Thu, 15 Oct 2026 22:54:47 +0800"
+    },
+    {
+      "title": "美国科技巨头警告欧洲推行数据主权将带来逾千亿欧元的成本",
+      "link": "https://www.solidot.org/story?sid=85622",
+      "summary": "代表美国科技巨头亚马逊、Google 和 Meta 的行业组织 CCIA Europe 委托进行的一项研究声称，欧洲如果推行数据主权法案 Cloud and AI Development Act（CADA） 会在十年内带来 1150 亿欧元的成本，是欧盟委员会预估的最高值的六倍多。其中 800 亿欧元的成本是假设数字主权法扩大至私营部门关键服务四分之一的云工作负载。报告特别针对了 CADA 中的第",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Thu, 15 Oct 2026 22:29:46 +0800"
     },
     {
       "title": "Google 悄悄关联手机号码和所有用户登录账号",
@@ -289,162 +321,152 @@
       "published": "Wed, 14 Oct 2026 18:07:45 +0800"
     },
     {
-      "title": "水产养殖未减轻过度捕捞问题",
-      "link": "https://www.solidot.org/story?sid=85610",
-      "summary": "过去 60 年全球鱼类消费量增加了一倍多。随着需求上升，过度捕捞也达到了危险程度：目前全球三分之一的鱼类资源正以不可持续的方式被捕捞。水产养殖原本被寄望于帮助解决这一问题，减轻海洋因过度捕捞而承受的压力。但养殖鱼最有效的喂养方法是捕捞其他体型较小的鱼类，再将其加工成营养丰富的粉末，也就是鱼粉，或者制成相应的液态产品——鱼油。结果是水产养殖非但没有减轻过度捕捞的压力，反而让问题更糟。三文鱼和虾等海鲜",
-      "source": "奇客 Solidot",
+      "title": "科技爱好者周刊（第 415 期）：3D 版《看不见的城市》",
+      "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+      "source": "阮一峰的网络日志",
       "category": "技术",
-      "published": "Wed, 14 Oct 2026 16:06:34 +0800"
+      "published": "2026-10-16T00:02:56Z"
     },
     {
-      "title": "韦伯望远镜发现一颗熔岩行星存在大气",
-      "link": "https://www.solidot.org/story?sid=85609",
-      "summary": "天文学家利用韦伯望远镜，在一颗类似早期地球的系外行星上找到了大气层存在的有力证据。这颗名为 HD 3167b 的星球属于熔岩行星，但对熔岩行星来说它很冷，对生命来说它又太热了。此前学界普遍认为，如此靠近恒星的岩石行星，大气会被恒星辐射剥离殆尽。HD 3167b 位于双鱼座方向，距地球约 154 光年。它绕宿主恒星公转一周只需 0.96 个地球日，不到 24 小时，并被潮汐锁定：一面永远朝向恒星，另",
-      "source": "奇客 Solidot",
+      "title": "科技爱好者周刊（第 414 期）：Jev 决策模型有什么用",
+      "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-414.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+      "source": "阮一峰的网络日志",
       "category": "技术",
-      "published": "Wed, 14 Oct 2026 15:38:35 +0800"
+      "published": "2026-10-08T15:04:46Z"
     },
     {
-      "title": "NetBSD 成为反 AI 开发者青睐的开源操作系统",
-      "link": "https://www.solidot.org/story?sid=85608",
-      "summary": "随着 Linux 阵营拥抱亲 AI 路线，NetBSD 意外成为抵触 AI 的开发者青睐的开源操作系统。NetBSD 项目透露，上个月它收到了 120,282 美元捐款，远超 50,000 美元的筹款目标。过去几个月，Linux 作者 Linus Torvalds、社区发行版项目 Debian、商业发行版 Ubuntu 和 Red Hat 都展现了亲 AI 立场，相比下 NetBSD 项目则早在 ",
-      "source": "奇客 Solidot",
+      "title": "科技爱好者周刊（第 413 期）：再见了，React Native",
+      "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五开始的中秋和十一假期，周刊休息。）...",
+      "source": "阮一峰的网络日志",
       "category": "技术",
-      "published": "Wed, 14 Oct 2026 15:31:49 +0800"
+      "published": "2026-09-18T00:03:02Z"
     },
     {
-      "title": "存在比地球更宜居的星球",
-      "link": "https://www.solidot.org/story?sid=85606",
-      "summary": "几年前，在柏林一间实验室里，天体生物学家伊娃·维洛维奇观察到花园水芹在模拟“K型矮星”光照的条件下发芽，兴奋不已。K型矮星是一种橙色调恒星，比我们的黄色太阳温度更低、燃烧更慢。令她意外的是，水芹的生长速度甚至比在模拟太阳光照下更快，植株也更高。她的结果表明，光合作用——为地球整个食物网提供能量的过程——可以在围绕这些橙色恒星运行的行星上发生。尤其值得注意的是，在这些恒星的光照下，外星生命可能在比地",
-      "source": "奇客 Solidot",
-      "category": "技术",
-      "published": "Wed, 14 Oct 2026 14:39:11 +0800"
-    },
-    {
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "summary": "Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b Comments URL: https://news.ycombinator.com/item?id=50097369 Points: 252 # Comments: 62",
+      "title": "What I Self-Host",
+      "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "summary": "Article URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/ Comments URL: https://news.ycombinator.com/item?id=50109715 Points: 258 # Comments: 161",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 14 Oct 2026 23:59:37 +0000"
+      "published": "Thu, 15 Oct 2026 20:23:25 +0000"
     },
     {
-      "title": "Tiny Little Office",
-      "link": "https://tinylittleoffice.com/",
-      "summary": "Article URL: https://tinylittleoffice.com/ Comments URL: https://news.ycombinator.com/item?id=50096142 Points: 539 # Comments: 120",
+      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+      "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+      "summary": "Article URL: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup Comments URL: https://news.ycombinator.com/item?id=50108872 Points: 229 # Comments: 103",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 14 Oct 2026 22:10:08 +0000"
+      "published": "Thu, 15 Oct 2026 19:21:38 +0000"
     },
     {
-      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-      "link": "https://typesafe.ai/blog/jev-1-14",
-      "summary": "Article URL: https://typesafe.ai/blog/jev-1-14 Comments URL: https://news.ycombinator.com/item?id=50095353 Points: 318 # Comments: 109",
+      "title": "Why We're Banning AI",
+      "link": "https://www.currentaffairs.org/news/why-were-banning-ai",
+      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 219 # Comments: 176",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 14 Oct 2026 21:11:03 +0000"
+      "published": "Thu, 15 Oct 2026 18:32:29 +0000"
     },
     {
-      "title": "OpenCode 2.0",
-      "link": "https://anoma.ly/notes/opencode-2-0/",
-      "summary": "Article URL: https://anoma.ly/notes/opencode-2-0/ Comments URL: https://news.ycombinator.com/item?id=50094994 Points: 738 # Comments: 312",
+      "title": "Muse Spark Open",
+      "link": "https://research.meta.ai/blog/muse-spark-open",
+      "summary": "https://dev.meta.ai/resources/blog/build-with-muse-spark-ope...https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42Bhttps://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-... Comments URL:",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 14 Oct 2026 20:48:24 +0000"
+      "published": "Thu, 15 Oct 2026 17:47:39 +0000"
     },
     {
-      "title": "Anthropic's Scion is heavily inspired by Mononoke",
-      "link": "https://sunshowers.io/posts/anthropic-mononoke/",
-      "summary": "Article URL: https://sunshowers.io/posts/anthropic-mononoke/ Comments URL: https://news.ycombinator.com/item?id=50094694 Points: 387 # Comments: 144",
+      "title": "More on Anthropic's Scion ripping off Mononoke",
+      "link": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+      "summary": "Redesigning source control at Anthropic - https://news.ycombinator.com/item?id=50073633 (996 comments)Anthropic's Scion is heavily inspired by Mononoke - https://news.ycombinator.com/item?id=50094694 ",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 14 Oct 2026 20:30:54 +0000"
+      "published": "Thu, 15 Oct 2026 17:05:19 +0000"
     },
     {
-      "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
-      "link": "https://blog.cloudflare.com/yandex-outage/",
-      "summary": "Article URL: https://blog.cloudflare.com/yandex-outage/ Comments URL: https://news.ycombinator.com/item?id=50094673 Points: 271 # Comments: 105",
+      "title": "An Israeli firm is sending zero-click spyware through online ads",
+      "link": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware",
+      "summary": "Article URL: https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware Comments URL: https://news.ycombinator.com/item?id=50106676 Points: 234 # Comments: 9",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 14 Oct 2026 20:29:13 +0000"
+      "published": "Thu, 15 Oct 2026 17:01:56 +0000"
     },
     {
-      "title": "Things to know when you get cancer",
-      "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "summary": "Article URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/ Comments URL: https://news.ycombinator.com/item?id=50093568 Points: 1651 # Comments: 391",
+      "title": "Jev meets the Trolley Problem",
+      "link": "https://zachlandes.com/trolley-problem/",
+      "summary": "Article URL: https://zachlandes.com/trolley-problem/ Comments URL: https://news.ycombinator.com/item?id=50106023 Points: 301 # Comments: 146",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 14 Oct 2026 19:26:30 +0000"
+      "published": "Thu, 15 Oct 2026 16:24:52 +0000"
     },
     {
-      "title": "Suicide rates highest ever among middle-aged men",
-      "link": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
-      "summary": "Article URL: https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/ Comments URL: https://news.ycombinator.com/item?id=50093180 Points: 443 # Comments: 612",
+      "title": "Krea 3 – An image model built for editing at scale",
+      "link": "https://www.krea.ai/krea-3",
+      "summary": "Article URL: https://www.krea.ai/krea-3 Comments URL: https://news.ycombinator.com/item?id=50105648 Points: 248 # Comments: 83",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 14 Oct 2026 19:03:58 +0000"
+      "published": "Thu, 15 Oct 2026 16:04:05 +0000"
     },
     {
-      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-      "link": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-      "summary": "Article URL: https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/ Comments URL: https://news.ycombinator.com/item?id=50092730 Points: 369 # Comments: 257",
+      "title": "Neural networks are clean",
+      "link": "https://already-clean.goodfire.com/",
+      "summary": "https://twitter.com/nickcammarata/status/2110757819427574056 Comments URL: https://news.ycombinator.com/item?id=50105647 Points: 499 # Comments: 195",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 14 Oct 2026 18:37:21 +0000"
+      "published": "Thu, 15 Oct 2026 16:04:01 +0000"
     },
     {
-      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-      "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 373 # Comments",
+      "title": "Steam Client is now faster than Epic's new vibe coded launcher",
+      "link": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+      "summary": "Article URL: https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/ Comments URL: https://news.ycombinator.com/item?id=50105635 Points: 285 # Comments: 288",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 14 Oct 2026 18:32:52 +0000"
+      "published": "Thu, 15 Oct 2026 16:03:19 +0000"
     },
     {
-      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 9",
+      "title": "I designed a nose guard for my dog and gave it away. Now 500 dogs wear one",
+      "link": "https://snoutcover.com/one-year",
+      "summary": "Article URL: https://snoutcover.com/one-year Comments URL: https://news.ycombinator.com/item?id=50105344 Points: 235 # Comments: 118",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 14 Oct 2026 17:45:23 +0000"
+      "published": "Thu, 15 Oct 2026 15:44:36 +0000"
     },
     {
-      "title": "Better HTTP/1 connection reuse in Go 1.27",
-      "link": "https://go.dev/blog/http-connection-reuse",
-      "summary": "Article URL: https://go.dev/blog/http-connection-reuse Comments URL: https://news.ycombinator.com/item?id=50090369 Points: 278 # Comments: 45",
+      "title": "Celebrating 70 Years of Fortran",
+      "link": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+      "summary": "Article URL: https://fortran-lang.org/news/2026/09-15-Fortran-birthday/ Comments URL: https://news.ycombinator.com/item?id=50104726 Points: 216 # Comments: 94",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 14 Oct 2026 16:29:33 +0000"
+      "published": "Thu, 15 Oct 2026 15:03:17 +0000"
     },
     {
-      "title": "Google is silently linking your phone number across all signed-in accounts",
-      "link": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
-      "summary": "Article URL: https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/ Comments URL: https://news.ycombinator.com/item?id=50090349 Points: 485 # Comments: 138",
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 230",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 14 Oct 2026 16:28:51 +0000"
+      "published": "Thu, 15 Oct 2026 14:58:48 +0000"
     },
     {
-      "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
-      "link": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
-      "summary": "Article URL: https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/ Comments URL: https://news.ycombinator.com/item?id=50090246 Points: 520 # Comments: 322",
+      "title": "I know why the mathematicians weep",
+      "link": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+      "summary": "Article URL: https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep Comments URL: https://news.ycombinator.com/item?id=50103630 Points: 343 # Comments: 568",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 14 Oct 2026 16:24:11 +0000"
+      "published": "Thu, 15 Oct 2026 13:44:32 +0000"
     },
     {
-      "title": "Americans' social activity has steeply declined in the past 30 years",
-      "link": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-      "summary": "Article URL: https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years Comments URL: https://news.ycombinator.com/item?id=50089921 Points: 475 ",
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "link": "https://github.com/fyzugx/DEsk",
+      "summary": "Article URL: https://github.com/fyzugx/DEsk Comments URL: https://news.ycombinator.com/item?id=50103338 Points: 498 # Comments: 199",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 14 Oct 2026 16:09:00 +0000"
+      "published": "Thu, 15 Oct 2026 13:23:44 +0000"
     }
   ],
-  "count": 55,
-  "sources_ok": 4,
-  "errors": [
-    "阮一峰的网络日志: 403 Client Error: Forbidden for url: https://www.ruanyifeng.com/blog/atom.xml"
-  ],
-  "fetched_at": "2026-10-15T22:06:33+08:00"
+  "count": 58,
+  "sources_ok": 5,
+  "errors": [],
+  "fetched_at": "2026-10-16T09:37:28+08:00"
 }
