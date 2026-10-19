@@ -2,21 +2,21 @@
   "quotes": [
     {
       "name": "上证指数",
-      "price": 3741.43,
-      "change": 25.15,
-      "change_pct": 0.68
+      "price": 3730.92,
+      "change": 14.64,
+      "change_pct": 0.39
     },
     {
       "name": "深证成指",
-      "price": 11858.4,
-      "change": 55.94,
-      "change_pct": 0.47
+      "price": 11817.42,
+      "change": 14.96,
+      "change_pct": 0.13
     },
     {
       "name": "创业板指",
-      "price": 2759.75,
-      "change": -12.63,
-      "change_pct": -0.46
+      "price": 2746.29,
+      "change": -26.09,
+      "change_pct": -0.94
     },
     {
       "name": "恒生指数",
@@ -32,9 +32,9 @@
     },
     {
       "name": "美元人民币",
-      "price": 6.6812,
-      "change": -0.0096,
-      "change_pct": -0.14
+      "price": 6.6806,
+      "change": -0.0102,
+      "change_pct": -0.15
     }
   ],
   "history": [
@@ -1396,21 +1396,21 @@
       "quotes": [
         {
           "name": "上证指数",
-          "price": 3741.43,
-          "change": 25.15,
-          "change_pct": 0.68
+          "price": 3730.92,
+          "change": 14.64,
+          "change_pct": 0.39
         },
         {
           "name": "深证成指",
-          "price": 11858.4,
-          "change": 55.94,
-          "change_pct": 0.47
+          "price": 11817.42,
+          "change": 14.96,
+          "change_pct": 0.13
         },
         {
           "name": "创业板指",
-          "price": 2759.75,
-          "change": -12.63,
-          "change_pct": -0.46
+          "price": 2746.29,
+          "change": -26.09,
+          "change_pct": -0.94
         },
         {
           "name": "恒生指数",
@@ -1426,12 +1426,12 @@
         },
         {
           "name": "美元人民币",
-          "price": 6.6812,
-          "change": -0.0096,
-          "change_pct": -0.14
+          "price": 6.6806,
+          "change": -0.0102,
+          "change_pct": -0.15
         }
       ]
     }
   ],
-  "fetched_at": "2026-10-19T13:59:50+08:00"
+  "fetched_at": "2026-10-19T19:17:03+08:00"
 }
