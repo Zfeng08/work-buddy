@@ -4,203 +4,203 @@
       "full_name": "MadsLorentzen/ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "stars": 54107,
-      "stars_today": 2232,
-      "language": "Python"
-    },
-    {
-      "full_name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
-      "stars": 76011,
-      "stars_today": 2082,
-      "language": "Python"
-    },
-    {
-      "full_name": "anomalyco/opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "stars": 216855,
-      "stars_today": 1414,
-      "language": "TypeScript"
-    },
-    {
-      "full_name": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": 42865,
-      "stars_today": 1175,
+      "stars": 56139,
+      "stars_today": 3860,
       "language": "Python"
     },
     {
       "full_name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "stars": 97065,
-      "stars_today": 1146,
+      "stars": 97867,
+      "stars_today": 1591,
       "language": "TypeScript"
     },
     {
-      "full_name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 283447,
-      "stars_today": 1084,
+      "full_name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "stars": 217454,
+      "stars_today": 1310,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "hmjz100/LinkSwift",
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "stars": 25974,
+      "stars_today": 1251,
       "language": "JavaScript"
+    },
+    {
+      "full_name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "stars": 139397,
+      "stars_today": 1011,
+      "language": "Python"
     },
     {
       "full_name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 167226,
-      "stars_today": 1019,
+      "stars": 167759,
+      "stars_today": 1008,
       "language": "JavaScript"
     },
     {
-      "full_name": "xerj-org/xerj",
-      "url": "https://github.com/xerj-org/xerj",
-      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
-      "stars": 8632,
-      "stars_today": 835,
-      "language": "Rust"
+      "full_name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 31884,
+      "stars_today": 857,
+      "language": "JavaScript"
     },
     {
-      "full_name": "DmNote-App/DmNote",
-      "url": "https://github.com/DmNote-App/DmNote",
-      "description": "Make it yours. A customizable key viewer for DJMAX RESPECT V and any game.",
-      "stars": 4854,
-      "stars_today": 769,
-      "language": "TypeScript"
-    },
-    {
-      "full_name": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "stars": 52716,
-      "stars_today": 663,
+      "full_name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 43102,
+      "stars_today": 814,
       "language": "Python"
     },
     {
       "full_name": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "stars": 128562,
-      "stars_today": 626,
+      "stars": 128919,
+      "stars_today": 751,
       "language": "Python"
     },
     {
-      "full_name": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "stars": 54770,
-      "stars_today": 589,
-      "language": "Python"
-    },
-    {
-      "full_name": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "stars": 76682,
-      "stars_today": 513,
-      "language": "TypeScript"
+      "full_name": "xerj-org/xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
+      "stars": 8904,
+      "stars_today": 675,
+      "language": "Rust"
     },
     {
       "full_name": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "stars": 10680,
-      "stars_today": 512,
+      "stars": 11054,
+      "stars_today": 666,
       "language": "Rust"
     },
     {
-      "full_name": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stars": 31254,
-      "stars_today": 479,
-      "language": "JavaScript"
+      "full_name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 55041,
+      "stars_today": 607,
+      "language": "Python"
     },
     {
-      "full_name": "hmjz100/LinkSwift",
-      "url": "https://github.com/hmjz100/LinkSwift",
-      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
-      "stars": 25295,
-      "stars_today": 433,
-      "language": "JavaScript"
-    },
-    {
-      "full_name": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors",
-      "stars": 78222,
-      "stars_today": 429,
+      "full_name": "DmNote-App/DmNote",
+      "url": "https://github.com/DmNote-App/DmNote",
+      "description": "Make it yours. A customizable key viewer for DJMAX RESPECT V and any game.",
+      "stars": 5143,
+      "stars_today": 592,
       "language": "TypeScript"
     },
     {
-      "full_name": "withmarbleapp/os-taxonomy",
-      "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "description": "",
-      "stars": 5795,
-      "stars_today": 427,
-      "language": "JavaScript"
-    },
-    {
-      "full_name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 108285,
-      "stars_today": 402,
-      "language": "JavaScript"
-    },
-    {
-      "full_name": "chthollyphile/folia-major",
-      "url": "https://github.com/chthollyphile/folia-major",
-      "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
-      "stars": 8038,
-      "stars_today": 400,
+      "full_name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": 76984,
+      "stars_today": 564,
       "language": "TypeScript"
     },
     {
-      "full_name": "android/skills",
-      "url": "https://github.com/android/skills",
-      "description": "",
-      "stars": 8882,
-      "stars_today": 375,
-      "language": "Kotlin"
+      "full_name": "google/artemis",
+      "url": "https://github.com/google/artemis",
+      "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark.",
+      "stars": 12892,
+      "stars_today": 526,
+      "language": "Python"
     },
     {
-      "full_name": "anthropics/claude-quickstarts",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "stars": 18691,
-      "stars_today": 370,
-      "language": "TypeScript"
+      "full_name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+      "stars": 85759,
+      "stars_today": 522,
+      "language": "JavaScript"
+    },
+    {
+      "full_name": "Kruk2/jasna",
+      "url": "https://github.com/Kruk2/jasna",
+      "description": "Video restoration tool",
+      "stars": 2795,
+      "stars_today": 502,
+      "language": "Python"
+    },
+    {
+      "full_name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "stars": 69921,
+      "stars_today": 476,
+      "language": "Python"
+    },
+    {
+      "full_name": "bobeff/open-source-games",
+      "url": "https://github.com/bobeff/open-source-games",
+      "description": "A list of open source games.",
+      "stars": 16557,
+      "stars_today": 461,
+      "language": "Python"
     },
     {
       "full_name": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
-      "stars": 12841,
-      "stars_today": 350,
+      "stars": 12990,
+      "stars_today": 441,
       "language": "TypeScript"
+    },
+    {
+      "full_name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors",
+      "stars": 78417,
+      "stars_today": 427,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "YuJunZhiXue/dsh-purge",
+      "url": "https://github.com/YuJunZhiXue/dsh-purge",
+      "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+      "stars": 8241,
+      "stars_today": 423,
+      "language": "JavaScript"
+    },
+    {
+      "full_name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": 83048,
+      "stars_today": 415,
+      "language": "Rust"
     },
     {
       "full_name": "thesysdev/openui",
       "url": "https://github.com/thesysdev/openui",
       "description": "The Open Standard for Generative UI",
-      "stars": 11931,
-      "stars_today": 259,
+      "stars": 12107,
+      "stars_today": 399,
       "language": "TypeScript"
     },
     {
-      "full_name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": 111965,
-      "stars_today": 222,
+      "full_name": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "stars": 80564,
+      "stars_today": 394,
       "language": "Python"
     }
   ],
-  "count": 71,
-  "fetched_at": "2026-10-19T14:00:03+08:00"
+  "count": 65,
+  "fetched_at": "2026-10-20T00:25:02+08:00"
 }
