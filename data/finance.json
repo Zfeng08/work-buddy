@@ -2,39 +2,39 @@
   "quotes": [
     {
       "name": "上证指数",
-      "price": 3712.9,
-      "change": -18.02,
-      "change_pct": -0.48
+      "price": 3709.94,
+      "change": -20.98,
+      "change_pct": -0.56
     },
     {
       "name": "深证成指",
-      "price": 11761.16,
-      "change": -56.26,
-      "change_pct": -0.48
+      "price": 11724.21,
+      "change": -93.21,
+      "change_pct": -0.79
     },
     {
       "name": "创业板指",
-      "price": 2732.33,
-      "change": -13.96,
-      "change_pct": -0.51
+      "price": 2720.17,
+      "change": -26.12,
+      "change_pct": -0.95
     },
     {
       "name": "恒生指数",
-      "price": 23918.45,
-      "change": -268.38,
-      "change_pct": -1.11
+      "price": 23886.88,
+      "change": -299.95,
+      "change_pct": -1.24
     },
     {
       "name": "腾讯控股",
-      "price": 410.6,
-      "change": -7.2,
-      "change_pct": -1.72
+      "price": 410.4,
+      "change": -7.4,
+      "change_pct": -1.77
     },
     {
       "name": "美元人民币",
-      "price": 6.679,
-      "change": -0.002,
-      "change_pct": -0.03
+      "price": 6.6794,
+      "change": -0.0016,
+      "change_pct": -0.02
     }
   ],
   "history": [
@@ -1437,42 +1437,42 @@
       "quotes": [
         {
           "name": "上证指数",
-          "price": 3712.9,
-          "change": -18.02,
-          "change_pct": -0.48
+          "price": 3709.94,
+          "change": -20.98,
+          "change_pct": -0.56
         },
         {
           "name": "深证成指",
-          "price": 11761.16,
-          "change": -56.26,
-          "change_pct": -0.48
+          "price": 11724.21,
+          "change": -93.21,
+          "change_pct": -0.79
         },
         {
           "name": "创业板指",
-          "price": 2732.33,
-          "change": -13.96,
-          "change_pct": -0.51
+          "price": 2720.17,
+          "change": -26.12,
+          "change_pct": -0.95
         },
         {
           "name": "恒生指数",
-          "price": 23918.45,
-          "change": -268.38,
-          "change_pct": -1.11
+          "price": 23886.88,
+          "change": -299.95,
+          "change_pct": -1.24
         },
         {
           "name": "腾讯控股",
-          "price": 410.6,
-          "change": -7.2,
-          "change_pct": -1.72
+          "price": 410.4,
+          "change": -7.4,
+          "change_pct": -1.77
         },
         {
           "name": "美元人民币",
-          "price": 6.679,
-          "change": -0.002,
-          "change_pct": -0.03
+          "price": 6.6794,
+          "change": -0.0016,
+          "change_pct": -0.02
         }
       ]
     }
   ],
-  "fetched_at": "2026-10-20T13:21:16+08:00"
+  "fetched_at": "2026-10-20T13:53:55+08:00"
 }
