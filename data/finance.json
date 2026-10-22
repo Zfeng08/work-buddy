@@ -32,9 +32,9 @@
     },
     {
       "name": "美元人民币",
-      "price": 6.674,
-      "change": -0.0018,
-      "change_pct": -0.03
+      "price": 6.6753,
+      "change": -0.0005,
+      "change_pct": -0.01
     }
   ],
   "history": [
@@ -1549,12 +1549,12 @@
         },
         {
           "name": "美元人民币",
-          "price": 6.674,
-          "change": -0.0018,
-          "change_pct": -0.03
+          "price": 6.6753,
+          "change": -0.0005,
+          "change_pct": -0.01
         }
       ]
     }
   ],
-  "fetched_at": "2026-10-22T21:12:41+08:00"
+  "fetched_at": "2026-10-22T22:28:27+08:00"
 }
