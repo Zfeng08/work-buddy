@@ -4,7 +4,7 @@
       "full_name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 171704,
+      "stars": 172052,
       "stars_today": 2079,
       "language": "JavaScript"
     },
@@ -12,7 +12,7 @@
       "full_name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stars": 36582,
+      "stars": 37218,
       "stars_today": 2012,
       "language": "JavaScript"
     },
@@ -20,7 +20,7 @@
       "full_name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "stars": 101333,
+      "stars": 101678,
       "stars_today": 1541,
       "language": "TypeScript"
     },
@@ -28,7 +28,7 @@
       "full_name": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "stars": 131680,
+      "stars": 131931,
       "stars_today": 1433,
       "language": "Python"
     },
@@ -36,7 +36,7 @@
       "full_name": "anomalyco/opencode",
       "url": "https://github.com/anomalyco/opencode",
       "description": "The open source coding agent.",
-      "stars": 219703,
+      "stars": 219830,
       "stars_today": 1295,
       "language": "TypeScript"
     },
@@ -44,7 +44,7 @@
       "full_name": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "stars": 141547,
+      "stars": 141689,
       "stars_today": 939,
       "language": "Python"
     },
@@ -52,7 +52,7 @@
       "full_name": "xerj-org/xerj",
       "url": "https://github.com/xerj-org/xerj",
       "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
-      "stars": 12800,
+      "stars": 12882,
       "stars_today": 770,
       "language": "Rust"
     },
@@ -60,7 +60,7 @@
       "full_name": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-      "stars": 87094,
+      "stars": 87207,
       "stars_today": 744,
       "language": "JavaScript"
     },
@@ -68,7 +68,7 @@
       "full_name": "tashfeenahmed/freellmapi",
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "stars": 38977,
+      "stars": 39084,
       "stars_today": 675,
       "language": "TypeScript"
     },
@@ -76,7 +76,7 @@
       "full_name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
-      "stars": 84465,
+      "stars": 84557,
       "stars_today": 669,
       "language": "Rust"
     },
@@ -84,7 +84,7 @@
       "full_name": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "stars": 78222,
+      "stars": 78266,
       "stars_today": 612,
       "language": "TypeScript"
     },
@@ -92,7 +92,7 @@
       "full_name": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": 42846,
+      "stars": 42952,
       "stars_today": 575,
       "language": "Python"
     },
@@ -100,7 +100,7 @@
       "full_name": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "stars": 113031,
+      "stars": 113143,
       "stars_today": 504,
       "language": "TypeScript"
     },
@@ -108,7 +108,7 @@
       "full_name": "headroomlabs-ai/headroom",
       "url": "https://github.com/headroomlabs-ai/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "stars": 77275,
+      "stars": 77378,
       "stars_today": 474,
       "language": "Python"
     },
@@ -116,7 +116,7 @@
       "full_name": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io",
-      "stars": 147255,
+      "stars": 147375,
       "stars_today": 462,
       "language": "Rust"
     },
@@ -124,7 +124,7 @@
       "full_name": "Asymptote-Labs/agent-beacon",
       "url": "https://github.com/Asymptote-Labs/agent-beacon",
       "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
-      "stars": 2436,
+      "stars": 2491,
       "stars_today": 443,
       "language": "Go"
     },
@@ -132,7 +132,7 @@
       "full_name": "vllm-project/vllm",
       "url": "https://github.com/vllm-project/vllm",
       "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "stars": 94894,
+      "stars": 94988,
       "stars_today": 441,
       "language": "Python"
     },
@@ -140,7 +140,7 @@
       "full_name": "luongnv89/claude-howto",
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "stars": 42504,
+      "stars": 42513,
       "stars_today": 428,
       "language": "Python"
     },
@@ -148,7 +148,7 @@
       "full_name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 100668,
+      "stars": 100743,
       "stars_today": 426,
       "language": "Python"
     },
@@ -156,7 +156,7 @@
       "full_name": "withmarbleapp/os-taxonomy",
       "url": "https://github.com/withmarbleapp/os-taxonomy",
       "description": "",
-      "stars": 7063,
+      "stars": 7100,
       "stars_today": 420,
       "language": "JavaScript"
     },
@@ -164,7 +164,7 @@
       "full_name": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "stars": 70825,
+      "stars": 70879,
       "stars_today": 394,
       "language": "Python"
     },
@@ -172,7 +172,7 @@
       "full_name": "citrolabs/ego-lite",
       "url": "https://github.com/citrolabs/ego-lite",
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "stars": 18545,
+      "stars": 18619,
       "stars_today": 394,
       "language": "JavaScript"
     },
@@ -180,27 +180,27 @@
       "full_name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "stars": 31187,
+      "stars": 31221,
       "stars_today": 389,
       "language": "Python"
-    },
-    {
-      "full_name": "strelov1/freehire",
-      "url": "https://github.com/strelov1/freehire",
-      "description": "freehire — the open-source search engine for job seekers",
-      "stars": 2413,
-      "stars_today": 360,
-      "language": "Go"
     },
     {
       "full_name": "thesysdev/openui",
       "url": "https://github.com/thesysdev/openui",
       "description": "The Open Standard for Generative UI",
-      "stars": 12931,
+      "stars": 12959,
       "stars_today": 332,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "stars": 29215,
+      "stars_today": 302,
       "language": "TypeScript"
     }
   ],
-  "count": 65,
-  "fetched_at": "2026-10-22T09:39:47+08:00"
+  "count": 64,
+  "fetched_at": "2026-10-22T13:59:17+08:00"
 }
