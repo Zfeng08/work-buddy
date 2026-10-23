@@ -1,124 +1,132 @@
 {
   "items": [
     {
-      "title": "Linux 7.4 内核开发树合入 AMD Zen 6 补丁，调整 SRSO 与 SafeRET 防护机制",
-      "link": "https://www.ithome.com/1/016/720.htm",
-      "summary": "IT之家 10 月 22 日消息，据 Phoronix 今日报道，Linux 7.4 内核已合入一项针对 AMD Zen 6 处理器的安全缓解机制调整，通过利用新处理器提供的分支目标缓冲区（BTB）上下文隔离功能，允许系统关闭开销较大的 SafeRET 缓解措施，以减少相关安全防护带来的性能成本。这项调整来自 Linux 7.4 的 x86/bugs 代码合并请求。根据提交说明，AMD Zen 6",
+      "title": "小米 REDMI 首款耳夹耳机 Clip Neo 预热：单耳 5.3g，佩戴回仓不区分左右耳",
+      "link": "https://www.ithome.com/1/016/813.htm",
+      "summary": "IT之家 10 月 23 日消息，小米 REDMI 首款耳夹式耳机将于 10 月 27 日晚 7 点与 K100 手机同场发布，命名为 REDMI Clip Neo。官方今日对新品进行预热，REDMI Clip Neo 单耳重 5.3g，佩戴回仓不区分左右耳；采用亲肤液态硅胶，搭载 0.6mm 耐弯记忆钛丝；使用仿生曲面设计，3.4mm 黄金夹距。IT之家注意到，目前官方已公布新品两款配色，分别为",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 22 Oct 2026 14:27:48 GMT"
+      "published": "Fri, 23 Oct 2026 01:33:26 GMT"
     },
     {
-      "title": "飞利浦推出其全球首款 36 英寸游戏显示器 36M4C5500P：WQHD 260Hz",
-      "link": "https://www.ithome.com/1/016/712.htm",
-      "summary": "IT之家 10 月 22 日消息，Philips（飞利浦）当地时间今日宣布推出其全球首款 36 英寸游戏显示器 Evnia 36M4C5500P/69。这一产品采用结合 W-LED 背光的 1500R Fast VA LCD 面板，支持 WQHD (3440×1440) 分辨率，原生刷新率 240Hz、超频刷新率 260Hz。36M4C5500P 获得 VESA DisplayHDR 400 认证",
+      "title": "AI 智能体的“说明书”转为社区共治：Anthropic 捐赠 Agent Skills 开放标准",
+      "link": "https://www.ithome.com/1/016/811.htm",
+      "summary": "IT之家 10 月 23 日消息，Anthropic 昨日（10 月 22 日）发布公告，宣布向 Linux 基金会旗下的 Agentic AI Foundation（AAIF）组织捐赠 Agent Skills 开放标准，让其从单一公司项目转为社区共治的 AI 智能体能力标准。AAIF 于 2025 年 12 月 9 日成立，由 Linux 基金会运营，由 Anthropic、Block 和 O",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 22 Oct 2026 14:22:07 GMT"
+      "published": "Fri, 23 Oct 2026 01:30:01 GMT"
     },
     {
-      "title": "索尼日本最后一款独立 4K 蓝光播放器宣布停产，PS5 成索尼最后一款蓝光播放器",
-      "link": "https://www.ithome.com/1/016/708.htm",
-      "summary": "IT之家 10 月 22 日消息，据 TomsHardware 今日报道，索尼日本已将旗下最后一款独立 4K 蓝光播放器 UBP-X700/K 标记为“已停产”（IT之家注：索尼此前已于 2026 年 2 月停止供货），意味着该公司在日本市场不再销售新的独立蓝光播放器。目前，索尼仍有支持蓝光光盘播放的 PlayStation 5 游戏主机。不过，随着实体光盘市场持续收缩，索尼 PS6 基本上已经断",
+      "title": "32kPa 大吸力 + 110℃ 烘干：石头 A30 Pro 3.0 洗地机 1492 元国补新低",
+      "link": "https://www.ithome.com/1/016/810.htm",
+      "summary": "石头 A30 Pro 3.0 洗地机，支持 32kPa 大吸力 + 110℃ 烘干，日常售价为 2399 元。京东 11.11 大促期间，标价为 1881.18 元；下单自动领取 5 元优惠券；国补立减 263.43 元；以旧换新立减 120 元；到手价为 1492.75 元：京东石头 A30 Pro 3.0 洗地机 32kPa 吸力 1492.75 元直达链接支持 6 期免息，折合每月仅需约 2",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 22 Oct 2026 14:21:02 GMT"
+      "published": "Fri, 23 Oct 2026 01:29:25 GMT"
     },
     {
-      "title": "华为WATCH Ultimate 2 非凡探索等十款智能手表 HarmonyOS 7 系统“转正”，不限量升级开启",
-      "link": "https://www.ithome.com/1/016/707.htm",
-      "summary": "IT之家 10 月 22 日消息，华为官网最新信息显示，HUAWEI WATCH Ultimate 2 非凡探索、WATCH GT 6 等穿戴设备的鸿蒙 HarmonyOS 7 系统从公测版转为正式版，不限量升级开启。▲ IT之家评测室：华为 WATCH Ultimate 2 非凡探索体验IT之家附华为鸿蒙 HarmonyOS 7 最新适配机型清单如下：正式版HUAWEI Mate 80 系列HU",
+      "title": "大唐计算机发布 4 网口无风扇迷你主机 NXALN51，配备英特尔 N100 / N150",
+      "link": "https://www.ithome.com/1/016/809.htm",
+      "summary": "IT之家 10 月 23 日消息，大唐计算机 (MaxTang) 昨日发布了 NXALN51 迷你主机。这一型号拥有铝合金被动散热机身，三维 127×127×43.5 (mm)，配备 4 个 2.5GbE RJ-45 有线网口，面向工业与网络应用。NXALN51 支持英特尔 N100 四核 \"Alder Lake N\" / N150 四核 \"Twin Lake\" 处理器，配备 1 个 DDR4 S",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 22 Oct 2026 14:13:08 GMT"
+      "published": "Fri, 23 Oct 2026 01:28:27 GMT"
     },
     {
-      "title": "AMD 复活锐龙 7 5800X3D 处理器，源于苏姿丰亲自提议",
-      "link": "https://www.ithome.com/1/016/706.htm",
-      "summary": "IT之家 10 月 22 日消息，日媒 MyNavi Tech+ 本周采访 AMD 客户端产品经理特拉维斯 · 基尔什（Travis Kirsch）。他提到，公司今年早些时候让 Socket AM4 平台的锐龙 7 5800X3D 重返市场，其实源于 CEO 苏姿丰的提议。IT之家注意到，这名产品经理表示，公司推出锐龙 7 5800X3D 十周年纪念版处理器，是向仍在使用 AM4 平台的忠实用户献",
+      "title": "波士顿咨询最新研究：英国年轻人正不断被挤出科技、金融等高薪行业",
+      "link": "https://www.ithome.com/1/016/808.htm",
+      "summary": "IT之家 10 月 23 日消息，据彭博社 22 日报道，波士顿咨询公司的一项最新研究显示，英国 18 至 24 岁年轻人越来越难进入科技、金融等高薪行业，反映出 Z 世代面临的严峻就业形势。波士顿咨询公司分析官方数据后发现，自 2022 年底以来，英国信息通信业 18 至 24 岁的受雇人数锐减 30%。同期，这一年龄段的整体受雇人数却基本没有变化。金融业的年轻雇员人数也下降 10%。两个行业合",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 22 Oct 2026 14:10:42 GMT"
+      "published": "Fri, 23 Oct 2026 01:21:51 GMT"
     },
     {
-      "title": "多个 Linux 内核漏洞被误公开，部分漏洞 CVSS 评分达 9.0",
-      "link": "https://www.ithome.com/1/016/705.htm",
-      "summary": "IT之家 10 月 22 日消息，据 Phoronix 今日报道，似乎是出于偶然，Trend Micro 旗下零日漏洞计划（ZDI）提交的多份新的 Linux 内核漏洞报告被发布到了公开的 Linux 内核邮件列表（LKML）中。截至IT之家发稿，部分问题尚未合入 Linux 主线内核，已有修复方案处于测试或候选分支中。此次涉及的漏洞分布在 Linux 内核多个子系统，影响范围包括网络通信、文件共",
+      "title": "京东红包今日 10 点再加码：猜数字抢 5 元红包",
+      "link": "https://www.ithome.com/1/016/807.htm",
+      "summary": "今日 10 点京东红包再加码，猜数字有机会抢 5 元加码红包：点此抽取。猜数字红包玩法：每人 3 次机会，猜中锦鲤数字后即可获得领取额外奖励的机会，可随机获得京东红包、品类东券或店铺券等奖励。猜错后会缩小锦鲤数字的范围并提示用户，如果用户 3 次机会均未猜中，则无法获得任何奖励。蚊子肉也是肉，节点开始越早抢红包金额越大，小伙伴可每天都领（多个红包支持叠加使用），积攒多天后带走个大件哦 ~京东 11",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 22 Oct 2026 14:09:01 GMT"
+      "published": "Fri, 23 Oct 2026 01:21:16 GMT"
     },
     {
-      "title": "《广播电视和网络视听“十五五”规划》印发：到 2030 年，广电媒体全面挺进互联网主战场",
-      "link": "https://www.ithome.com/1/016/704.htm",
-      "summary": "IT之家 10 月 22 日消息，今日，国家广播电视总局印发《广播电视和网络视听“十五五”规划》（以下简称《规划》）。《规划》统筹广播电视网、交互式网络电视（IPTV）、互联网电视（OTT）和公众互联网四个业务层次，锚定“巩固提升广播电视、创新发展网络视听、融合聚合形成合力”三大工作方向，发挥“新闻 + 文艺”“内容 + 网络”的综合优势，推动广电视听行业改革突破、迭代升级。IT之家注意到，《规划",
+      "title": "iQOO Neo12 手机官宣搭载 9000mAh 蓝海电池，能量密度 916Wh/L",
+      "link": "https://www.ithome.com/1/016/806.htm",
+      "summary": "IT之家 10 月 23 日消息，iQOO Neo12 手机将于 10 月 28 日 19:00 发布即开售。官方今日对这款新机进行预热，官宣搭载 9000mAh 蓝海电池，采用第五代硅负极技术，能量密度 916Wh/L。此外，新机支持全局直驱供电 2.0，覆盖游戏、导航、追剧等多场景，边充边玩少发烫。IT之家整理 iQOO Neo12 新机目前已公布 / 曝光的配置如下：性能：第五代骁龙 8 至",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 22 Oct 2026 14:04:17 GMT"
+      "published": "Fri, 23 Oct 2026 01:18:23 GMT"
     },
     {
-      "title": "尽管评价褒贬不一，《漫威金刚狼》仍成美国 9 月最畅销新游戏",
-      "link": "https://www.ithome.com/1/016/703.htm",
-      "summary": "IT之家 10 月 22 日消息，据游戏媒体 Eurogamer 今天报道，尽管《漫威金刚狼》的媒体评分并不理想，但这款由失眠组打造的游戏，依然登顶美国 9 月新游销量榜。市场分析机构 Circana 数据显示，《漫威金刚狼》已经成为美国 9 月最畅销新游戏。该游戏首发当月的销售额，创下索尼自 2024 年 2 月发行《绝地潜兵 2》以来旗下游戏的最高纪录。不过需要注意的是，将《漫威金刚狼》销售额",
+      "title": "苹果 iOS 27.2 新特性曝光：Messages 未读消息角标计数可排除已静音对话",
+      "link": "https://www.ithome.com/1/016/805.htm",
+      "summary": "IT之家 10 月 23 日消息，消息源 @aaronp613 于 10 月 20 日在 X 平台发布推文，通过挖掘 iOS 27.2 RC 候选版更新，发现苹果正为信息（Messages）应用开发新特性，在未读消息角标计数中，支持排除已静音的信息对话。IT之家援引博文介绍，iPhone 18 Pro 等用户为了减少通知干扰，可以在“信息”中静音某个群聊或联系人，但被静音会话收到的新消息，仍会累计",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 22 Oct 2026 13:54:32 GMT"
+      "published": "Fri, 23 Oct 2026 01:18:00 GMT"
     },
     {
-      "title": "AMD 为下一代 Medusa APU 提前铺路，HIP-RT 3.2.0 新增三款 GPU 目标",
-      "link": "https://www.ithome.com/1/016/702.htm",
-      "summary": "IT之家 10 月 22 日消息，Phoronix 发现，AMD 已发布 HIP-RT 3.2.0 光线追踪库更新，为下一代 Medusa APU 添加了 GPU 支持，包括 GFX1170、GFX1171 和 GFX115E 三款。这些标识对应的集成 GPU 被认为将采用 AMD RDNA 4m 与 RDNA 3.5 等不同架构，不过 AMD 尚未在此次更新说明中公布相关 GPU 的完整规格。H",
+      "title": "华硕 ROG 战刃 4 Ace 鼠标发售：8 档质量可调，到手 799 元",
+      "link": "https://www.ithome.com/1/016/804.htm",
+      "summary": "IT之家 10 月 23 日消息，华硕 (ASUS) 玩家国度 (ROG) 鼠标新品战刃 4 Ace (Gladius IV Ace) 即将于今日 10:00 发售。该型号可选暗夜黑、月耀白、晴空蓝、熔岩红 4 种配色，到手价 799 元。战刃 4 Ace 采用右手人体工学模具，配备 AimPoint Pro 65K 传感器、ROG 光学微动开关，支持三模连接，具备 ROG SpeedNova 8",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 22 Oct 2026 13:52:26 GMT"
+      "published": "Fri, 23 Oct 2026 01:17:02 GMT"
     },
     {
-      "title": "魅族 22 手机再补货，粉色、白色额外加享至高 450 元以旧换新补贴",
-      "link": "https://www.ithome.com/1/016/701.htm",
-      "summary": "IT之家 10 月 22 日消息，魅族科技官方今日宣布，魅族 22 手机现已补货开售，部分地区享 15% 国补。同时，该机的粉色、白色额外加享至高 450 元以旧换新补贴。京东魅族（meizu）223299 元起直达链接据IT之家此前报道，魅族 22 手机于去年 9 月 15 日发布，该机搭载第四代骁龙 8s 处理器、配备 1.5K 高刷无界屏（0.8mm 四等边“独白”面板）、采用 5000 万",
+      "title": "消息称华为 Pura 90 Plus 手机搭载麒麟 9025 处理器，预装鸿蒙 7.0 系统",
+      "link": "https://www.ithome.com/1/016/802.htm",
+      "summary": "IT之家 10 月 23 日消息，华为 Pura 90 Plus 将于今日 10:08 开启预订。IT之家注意到，博主 @数码闲聊站 刚刚曝光了新机的主要参数：6.8 英寸 2848×1276p 1.5K+120Hz LTPO 等深双曲屏麒麟 9025 处理器12GB+256GB/12GB+512GB/12GB+1TB50Mp 1 英寸 RYYB 可变光圈主摄预装鸿蒙 7.0 系统今年 4 月，华",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 22 Oct 2026 13:51:22 GMT"
+      "published": "Fri, 23 Oct 2026 01:09:25 GMT"
     },
     {
-      "title": "3899 → 2399 元：石头 P20 Ultra 活水版扫拖机器人官方新低",
-      "link": "https://www.ithome.com/1/016/636.htm",
-      "summary": "石头扫地机器人 P20 Ultra 活水版今年 1 月 20 日开售，水箱版上市价 3899 元，上下水版 4299 元。今日官方仅需 2399 元与 2699 元 11.11 破冰新低，270mm 滚筒超宽覆地，高效刮洗一步一净。本次需 88VIP 与 279 元淘金币，如果淘金币不够，下附借币方法。点击下方卡片领券后 → 点击宝贝右上角“…”→ 点击弹出页面右下角“淘金币”下单即可：天猫石头 ",
+      "title": "TrendForce 预测：2027 年服务器 CPU 出货有望增长超 40%，Arm 指令集可拿下三成份额",
+      "link": "https://www.ithome.com/1/016/801.htm",
+      "summary": "IT之家 10 月 23 日消息，TrendForce（集邦）昨日发布预测，认为服务器 CPU 出货有望在 2026、2027 两年分别增长 31% 和超 40%。这得益于代理式人工智能工作负载对 CPU : 加速器需求比例的提升。英特尔AMD英伟达AWS谷歌其它2026 年50%27%12%4%3%4%2027 年42%28%12%5%6%7%总体来看，基本全数基于 Arm 指令集的非 x86 ",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 22 Oct 2026 10:22:09 GMT"
+      "published": "Fri, 23 Oct 2026 01:08:35 GMT"
     },
     {
-      "title": "苹果宣布为 Apple TV 上的 F1 赛事支持杜比全景声，美国大奖赛率先上线",
-      "link": "https://www.ithome.com/1/016/700.htm",
-      "summary": "IT之家 10 月 22 日消息，苹果刚刚宣布，从 2026 年美国大奖赛开始，美国地区 Apple TV 服务将为 F1 赛事提供杜比全景声（Dolby Atmos）音频支持（涵盖车队无线电通信、赛事解说、赛车引擎声和维修区现场声音等）。美国大奖赛将于当地时间 10 月 23 日至 25 日在得克萨斯州奥斯汀的美洲赛道举行，这也将成为 Apple TV 首场支持杜比全景声直播的 F1 比赛。苹果",
+      "title": "MiniMax M3.1 Flash 开源模型权重，总参数 428B",
+      "link": "https://www.ithome.com/1/016/800.htm",
+      "summary": "IT之家 10 月 23 日消息，MiniMax 稀宇科技今日宣布开源 MiniMax M3.1 Flash 的模型权重，总参数 428B，激活参数 23B。相较于上一代 M3 模型，M3.1 Flash 的模型能力实现了全面提升。此外，通过全模型稀疏注意力、量化感知训练和 Power-aware scheduling 等优化工作，M3.1 Flash 进一步提升了推理效率：全模型稀疏注意力：前三",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 22 Oct 2026 13:44:09 GMT"
+      "published": "Fri, 23 Oct 2026 01:08:08 GMT"
     },
     {
-      "title": "微信安卓版 8.0.80 最新官方内测版下载发布",
-      "link": "https://www.ithome.com/1/016/699.htm",
-      "summary": "IT之家 10 月 22 日消息，微信安卓平台迎来了 8.0.80 测试版更新，本次更新安装包文件详细信息如下： 微信安卓内测版 8.0.80 (ARM64) 安装包 文件大小 272.33 MB 更新时间 2026-10-22 20:46 MD5 80bbd112d4eaea1e204d22fe4cef318b 目标 API 34 最低支持 24 (Android 7.0) 官方更新日志为：优化",
+      "title": "“现代史上最大规模财富捐赠”：Anthropic 等 AI 三巨头拟投入近 3000 亿美元做慈善",
+      "link": "https://www.ithome.com/1/016/799.htm",
+      "summary": "IT之家 10 月 23 日消息，《华盛顿邮报》昨日（10 月 22 日）发布博文，报道称 Anthropic、OpenAI 和 SpaceXSI 三家 AI 巨头正酝酿“现代史上规模最大的财富捐赠”，规模可能接近 3,000 亿美元（IT之家注：现汇率约合 2.01 万亿元人民币）。Anthropic 宣布，将把公司 5% 股份捐入一个新的公益基金。若该公司上市时估值达到 2 万亿美元（现汇率约",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 22 Oct 2026 13:35:42 GMT"
+      "published": "Fri, 23 Oct 2026 01:07:46 GMT"
     },
     {
-      "title": "小鹏汽车 00 后美女产品经理为 MONA L05 发布会上“老登”用词道歉：本意是玩笑，承认让人不适",
-      "link": "https://www.ithome.com/1/016/698.htm",
-      "summary": "IT之家 10 月 22 日消息，因为在小鹏 MONA L05 首秀发布会上多次使用“老登”这一称呼，还呼吁大家拒绝“登味审美”，小鹏汽车 00 后产品经理恩塔 Etta 今日发布道歉视频。她在视频中解释称，“老登”是自己和团队成员平时用来开玩笑的词，并非恶意，但该词确实让部分人感到不适，对此表示抱歉，并称会认真反思。此次争议言论发生在 10 月 15 日的小鹏 MONA L05 预售发布会上，何",
+      "title": "今日结束：B站 x 京东 PLUS 联名年卡 148 元、大会员 97 元、超级大会员 151 元预售",
+      "link": "https://www.ithome.com/1/014/678.htm",
+      "summary": "B站大会员年卡 + 京东 PLUS 年卡日常售价 258 元，现 11.11 大促价为 148 元，到手双会员各一年：京东哔哩哔哩大会员 12 个月年卡 + 京东 PLUS 会员年卡 148 元直达链接如果不需要京东 PLUS 会员，还有单会员也在大促中，年卡原价 233 元，11.11 大促期间，直降至 118 元 + 限时加赠 1 个月：先领 10 元券再点击下方淘金币大额抵扣横幅，淘金币抵扣",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 22 Oct 2026 13:34:44 GMT"
+      "published": "Mon, 19 Oct 2026 02:10:21 GMT"
     },
     {
-      "title": "甲骨文发布 Java SE 高危漏洞安全警报，用户应尽快升级",
-      "link": "https://www.ithome.com/1/016/697.htm",
-      "summary": "IT之家 10 月 22 日消息，甲骨文公司今日发布安全通报，披露编号为 CVE-2026-91403 的高危安全漏洞。影响 Oracle Java SE、Oracle GraalVM for JDK 和 Oracle GraalVM Enterprise Edition 软件，CVSS 3.1 评分为 9.1 分，可让黑客在无身份验证的情况下发起攻击。据官方公布数据，该漏洞涉及 Java 安全套",
+      "title": "苹果 iPhone Duo 内屏磨砂膜能徒手撕下：秒变亮面屏，但小心损失 7998 元",
+      "link": "https://www.ithome.com/1/016/797.htm",
+      "summary": "IT之家 10 月 23 日消息，苹果首款折叠屏手机 iPhone Duo 今日正式发售，新机的折叠内屏设有一层保护层（cover layer），配合哑光显示涂层，以最大限度减少折痕可见度。根据博主 @YCS杨长顺维修家 的直播测试，用户可以徒手将 iPhone Duo 的这层内屏磨砂膜撕下来，屏幕秒变亮面屏。测试还显示，iPhone Duo 内屏有两层膜，可以单独将上方的哑光层撕下来。根据苹果官",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Thu, 22 Oct 2026 13:32:25 GMT"
+      "published": "Fri, 23 Oct 2026 00:59:20 GMT"
+    },
+    {
+      "title": "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
+      "link": "https://sspai.com/post/117104",
+      "summary": "少数派的近期动态和少数派一起，在海口明日公园来一场创造之约吧。活动详情iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章终于吃到了那颗梦寐以求的小药丸：我的A ...查看全文",
+      "source": "少数派",
+      "category": "效率工具",
+      "published": "Fri, 23 Oct 2026 08:20:32 +0800"
     },
     {
       "title": "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
@@ -177,14 +185,6 @@
       "published": "Wed, 21 Oct 2026 10:23:21 +0800"
     },
     {
-      "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等",
-      "link": "https://sspai.com/post/116887",
-      "summary": "工信部就自动泊车等五项强制性国标征求意见，万事达卡 Apple Pay 新增 3 家合作银行等。查看全文",
-      "source": "少数派",
-      "category": "效率工具",
-      "published": "Wed, 21 Oct 2026 08:07:07 +0800"
-    },
-    {
       "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁",
       "link": "https://sspai.com/prime/story/inside-release-notes-261020",
       "summary": "FirefoxNova：被「中途喝止」的界面现代化改造@PlatyHsu:9月29日，Mozilla随Firefox157推出了代号为Nova的全新设计。这是继2021年Proton改版以来，Fire ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
@@ -201,131 +201,154 @@
       "published": "Tue, 20 Oct 2026 17:30:00 +0800"
     },
     {
-      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
-      "link": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
-      "summary": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-111943 Comments URL: https://news.ycombinator.com/item?id=50192900 Points: 314 # Comments: 101",
-      "source": "Hacker News 精选",
+      "title": "科技爱好者周刊（第 416 期）：编程已经面目全非",
+      "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+      "source": "阮一峰的网络日志",
       "category": "技术",
-      "published": "Thu, 22 Oct 2026 08:51:31 +0000"
+      "published": "2026-10-23T00:06:16Z"
     },
     {
-      "title": "Jailbreaking the Switch 2",
-      "link": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-      "summary": "Article URL: https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/ Comments URL: https://news.ycombinator.com/item?id=50192536 Points: 317 # Comments: 114",
-      "source": "Hacker News 精选",
+      "title": "科技爱好者周刊（第 415 期）：3D 版《看不见的城市》",
+      "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+      "source": "阮一峰的网络日志",
       "category": "技术",
-      "published": "Thu, 22 Oct 2026 08:01:52 +0000"
+      "published": "2026-10-16T00:02:56Z"
     },
     {
-      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-      "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-      "summary": "Article URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf Comments URL: https://news.ycombinator.com/item?id=50190455 Points: 254 # Comments: 204",
-      "source": "Hacker News 精选",
+      "title": "科技爱好者周刊（第 414 期）：Jev 决策模型有什么用",
+      "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-414.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+      "source": "阮一峰的网络日志",
       "category": "技术",
-      "published": "Thu, 22 Oct 2026 02:30:52 +0000"
+      "published": "2026-10-08T15:04:46Z"
     },
     {
-      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "link": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "summary": "Article URL: https://simedw.com/2026/10/21/world-model-terminal/ Comments URL: https://news.ycombinator.com/item?id=50190363 Points: 361 # Comments: 114",
+      "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+      "link": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+      "summary": "Article URL: https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations Comments URL: https://news.ycombinator.com/item?id=50201259 Points: 328 # Comments: 138",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Thu, 22 Oct 2026 02:18:41 +0000"
+      "published": "Thu, 22 Oct 2026 21:24:41 +0000"
     },
     {
-      "title": "mitmproxy adds --emudhra option",
-      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "summary": "Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b Comments URL: https://news.ycombinator.com/item?id=50189232 Points: 544 # Comments: 134",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "link": "https://github.com/NVIDIA/OpenShell",
+      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 295 # Comments: 154",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 21 Oct 2026 23:51:37 +0000"
+      "published": "Thu, 22 Oct 2026 17:44:06 +0000"
     },
     {
-      "title": "Airbnb bans making guests do dishes and take out the trash",
-      "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
-      "summary": "Article URL: https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update Comments URL: https://news.ycombinator.com/item?id=50189150 Points: 202 # Comments: 191",
+      "title": "A farewell to Arc browser",
+      "link": "https://arc.net/",
+      "summary": "Article URL: https://arc.net/ Comments URL: https://news.ycombinator.com/item?id=50197601 Points: 229 # Comments: 208",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 21 Oct 2026 23:38:32 +0000"
+      "published": "Thu, 22 Oct 2026 16:27:47 +0000"
     },
     {
-      "title": "There isn't an easy exploit for this PHP vulnerability",
-      "link": "https://eliastaylor.com/noexploit/",
-      "summary": "Article URL: https://eliastaylor.com/noexploit/ Comments URL: https://news.ycombinator.com/item?id=50188948 Points: 576 # Comments: 373",
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "link": "https://www.taler.net/en/news/2026-13.html",
+      "summary": "Article URL: https://www.taler.net/en/news/2026-13.html Comments URL: https://news.ycombinator.com/item?id=50197404 Points: 227 # Comments: 85",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 21 Oct 2026 23:13:27 +0000"
+      "published": "Thu, 22 Oct 2026 16:14:31 +0000"
     },
     {
-      "title": "Security Disclosure",
-      "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "summary": "Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st Comments URL: https://news.ycombinator.com/item?id=50188228 Points: 529 # Comments: 304",
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 234 # Comments: 298",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 21 Oct 2026 21:58:03 +0000"
+      "published": "Thu, 22 Oct 2026 16:08:00 +0000"
     },
     {
-      "title": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
-      "link": "https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/",
-      "summary": "Article URL: https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/ Comments URL: htt",
+      "title": "Google cleared 300 hectares of Finnish forest",
+      "link": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+      "summary": "Article URL: https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html Comments URL: https://news.ycombinator.com/item?id=50196837 Points: 316 # Comments: 232",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 21 Oct 2026 19:26:20 +0000"
+      "published": "Thu, 22 Oct 2026 15:32:46 +0000"
     },
     {
-      "title": "Mistral Large 4",
-      "link": "https://mistral.ai/news/mistral-large-4/",
-      "summary": "https://docs.mistral.ai/models/mistral-large-4-0 Comments URL: https://news.ycombinator.com/item?id=50186129 Points: 322 # Comments: 100",
+      "title": "Run full iOS 16.5 firmware on Android Devices",
+      "link": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "summary": "https://hackios-web.vercel.app/en Comments URL: https://news.ycombinator.com/item?id=50196718 Points: 321 # Comments: 124",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 21 Oct 2026 19:20:55 +0000"
+      "published": "Thu, 22 Oct 2026 15:26:22 +0000"
     },
     {
-      "title": "Claude Duet",
-      "link": "https://claude.com/product/claude-duet",
-      "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 469 # Comments: 438",
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "link": "https://quad9.net/news/blog/au-revoir-france/",
+      "summary": "Article URL: https://quad9.net/news/blog/au-revoir-france/ Comments URL: https://news.ycombinator.com/item?id=50195959 Points: 997 # Comments: 359",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 21 Oct 2026 19:14:01 +0000"
+      "published": "Thu, 22 Oct 2026 14:32:38 +0000"
     },
     {
-      "title": "Rust Style Guide",
-      "link": "https://google.github.io/styleguide/rustguide.html",
-      "summary": "Article URL: https://google.github.io/styleguide/rustguide.html Comments URL: https://news.ycombinator.com/item?id=50186010 Points: 344 # Comments: 204",
+      "title": "MPs moving to restrict gambling ads in Canada",
+      "link": "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888",
+      "summary": "Article URL: https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888 Comments URL: https://news.ycombinator.com/item?id=50195873 Points: 231 # Comments: 120",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 21 Oct 2026 19:11:57 +0000"
+      "published": "Thu, 22 Oct 2026 14:26:40 +0000"
     },
     {
-      "title": "GitLab critical patch release",
-      "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "summary": "Article URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/ Comments URL: https://news.ycombinator.com/item?id=50185869 Points: 377 # Comments: 87",
+      "title": "What’s getting pwned right now",
+      "link": "https://pwn.watch/",
+      "summary": "Article URL: https://pwn.watch/ Comments URL: https://news.ycombinator.com/item?id=50195543 Points: 342 # Comments: 159",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 21 Oct 2026 19:01:12 +0000"
+      "published": "Thu, 22 Oct 2026 14:08:12 +0000"
     },
     {
-      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-      "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "summary": "https://nmdoj.gov/press-release/the-new-mexico-department-of... Comments URL: https://news.ycombinator.com/item?id=50184820 Points: 619 # Comments: 353",
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "link": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "summary": "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business Comments URL: https://news.ycombinator.com/item?id=50195110 Points: 927 # Comments: 627",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 21 Oct 2026 17:45:13 +0000"
+      "published": "Thu, 22 Oct 2026 13:33:39 +0000"
     },
     {
-      "title": "EA is shutting down BioWare",
-      "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-      "summary": "Article URL: https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware Comments URL: https://news.ycombinator.com/item?id=50184586 Points: 650 # Comments: 429",
+      "title": "Woman faces six years in prison over Cash App account she never opened",
+      "link": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+      "summary": "Article URL: https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html Comments URL: https://news.ycombinator.com/item?id=50194833 Points: 492 # Comments: 506",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Wed, 21 Oct 2026 17:29:33 +0000"
+      "published": "Thu, 22 Oct 2026 13:11:00 +0000"
+    },
+    {
+      "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+      "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+      "summary": "Article URL: https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/ Comments URL: https://news.ycombinator.com/item?id",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Thu, 22 Oct 2026 11:50:36 +0000"
+    },
+    {
+      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+      "link": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+      "summary": "Article URL: https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/ Comments URL: https://news.ycombinator.com/item?id=50194009 Points",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Thu, 22 Oct 2026 11:42:03 +0000"
+    },
+    {
+      "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+      "link": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+      "summary": "Article URL: https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50193804 Points: 238 # Comments: 86",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Thu, 22 Oct 2026 11:12:37 +0000"
     }
   ],
-  "count": 40,
-  "sources_ok": 3,
+  "count": 43,
+  "sources_ok": 4,
   "errors": [
-    "奇客 Solidot: HTTPSConnectionPool(host='www.solidot.org', port=443): Max retries exceeded with url: /index.rss (Caused by NewConnectionError(\"HTTPSConnection(host='www.solidot.org', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
-    "阮一峰的网络日志: 403 Client Error: Forbidden for url: https://www.ruanyifeng.com/blog/atom.xml"
+    "奇客 Solidot: HTTPSConnectionPool(host='www.solidot.org', port=443): Max retries exceeded with url: /index.rss (Caused by NewConnectionError(\"HTTPSConnection(host='www.solidot.org', port=443): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。\"))"
   ],
-  "fetched_at": "2026-10-22T22:28:25+08:00"
+  "fetched_at": "2026-10-23T09:36:51+08:00"
 }

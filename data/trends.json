@@ -4,7 +4,7 @@
       "full_name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stars": 38416,
+      "stars": 39636,
       "stars_today": 2979,
       "language": "JavaScript"
     },
@@ -12,195 +12,195 @@
       "full_name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 172803,
-      "stars_today": 1949,
+      "stars": 173536,
+      "stars_today": 1948,
       "language": "JavaScript"
     },
     {
       "full_name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "stars": 102350,
-      "stars_today": 1694,
+      "stars": 102819,
+      "stars_today": 1689,
       "language": "TypeScript"
     },
     {
       "full_name": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "stars": 132458,
-      "stars_today": 1407,
+      "stars": 132992,
+      "stars_today": 1408,
       "language": "Python"
     },
     {
-      "full_name": "twentyhq/twenty",
-      "url": "https://github.com/twentyhq/twenty",
-      "description": "The open alternative to Salesforce, designed for AI.",
-      "stars": 59503,
-      "stars_today": 713,
+      "full_name": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "stars": 113503,
+      "stars_today": 693,
       "language": "TypeScript"
     },
     {
       "full_name": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "stars": 141914,
-      "stars_today": 697,
+      "stars": 142020,
+      "stars_today": 681,
       "language": "Python"
-    },
-    {
-      "full_name": "strelov1/freehire",
-      "url": "https://github.com/strelov1/freehire",
-      "description": "freehire — the open-source search engine for job seekers",
-      "stars": 2723,
-      "stars_today": 692,
-      "language": "Go"
-    },
-    {
-      "full_name": "supabase/supabase",
-      "url": "https://github.com/supabase/supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "stars": 113318,
-      "stars_today": 683,
-      "language": "TypeScript"
     },
     {
       "full_name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-      "stars": 100933,
-      "stars_today": 678,
+      "stars": 101147,
+      "stars_today": 630,
       "language": "JavaScript"
     },
     {
       "full_name": "tashfeenahmed/freellmapi",
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "stars": 39324,
-      "stars_today": 675,
+      "stars": 39621,
+      "stars_today": 625,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "stars": 59542,
+      "stars_today": 605,
       "language": "TypeScript"
     },
     {
       "full_name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
-      "stars": 84785,
-      "stars_today": 669,
+      "stars": 85003,
+      "stars_today": 587,
       "language": "Rust"
     },
     {
       "full_name": "headroomlabs-ai/headroom",
       "url": "https://github.com/headroomlabs-ai/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "stars": 77515,
-      "stars_today": 552,
+      "stars": 77569,
+      "stars_today": 517,
       "language": "Python"
     },
     {
       "full_name": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": 43114,
-      "stars_today": 512,
+      "stars": 43222,
+      "stars_today": 500,
       "language": "Python"
     },
     {
       "full_name": "vllm-project/vllm",
       "url": "https://github.com/vllm-project/vllm",
       "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "stars": 95121,
-      "stars_today": 469,
+      "stars": 95158,
+      "stars_today": 440,
       "language": "Python"
     },
     {
       "full_name": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "stars": 194145,
-      "stars_today": 455,
+      "stars": 194324,
+      "stars_today": 424,
       "language": "TypeScript"
-    },
-    {
-      "full_name": "Asymptote-Labs/agent-beacon",
-      "url": "https://github.com/Asymptote-Labs/agent-beacon",
-      "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
-      "stars": 2562,
-      "stars_today": 443,
-      "language": "Go"
-    },
-    {
-      "full_name": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "stars": 42746,
-      "stars_today": 428,
-      "language": "Python"
-    },
-    {
-      "full_name": "withmarbleapp/os-taxonomy",
-      "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "description": "",
-      "stars": 7173,
-      "stars_today": 420,
-      "language": "JavaScript"
-    },
-    {
-      "full_name": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "stars": 18748,
-      "stars_today": 394,
-      "language": "JavaScript"
     },
     {
       "full_name": "remotion-dev/remotion",
       "url": "https://github.com/remotion-dev/remotion",
       "description": "🎥 Make videos programmatically with React",
-      "stars": 66270,
-      "stars_today": 380,
+      "stars": 66389,
+      "stars_today": 348,
       "language": "TypeScript"
+    },
+    {
+      "full_name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "stars": 18812,
+      "stars_today": 311,
+      "language": "JavaScript"
     },
     {
       "full_name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "stars": 31359,
+      "stars": 31635,
       "stars_today": 303,
       "language": "Python"
+    },
+    {
+      "full_name": "bowenliang123/dsh-context",
+      "url": "https://github.com/bowenliang123/dsh-context",
+      "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, agent teams, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板、浏览器、侧栏、命令，透视上下文组成、演进、压缩、多 Agent等。",
+      "stars": 3407,
+      "stars_today": 296,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "stars": 41177,
+      "stars_today": 287,
+      "language": "C"
     },
     {
       "full_name": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "description": "",
-      "stars": 29336,
-      "stars_today": 302,
+      "stars": 29449,
+      "stars_today": 287,
       "language": "TypeScript"
+    },
+    {
+      "full_name": "withmarbleapp/os-taxonomy",
+      "url": "https://github.com/withmarbleapp/os-taxonomy",
+      "description": "",
+      "stars": 7216,
+      "stars_today": 250,
+      "language": "JavaScript"
+    },
+    {
+      "full_name": "Asymptote-Labs/agent-beacon",
+      "url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
+      "stars": 2626,
+      "stars_today": 245,
+      "language": "Go"
     },
     {
       "full_name": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
-      "stars": 48027,
-      "stars_today": 225,
+      "stars": 48070,
+      "stars_today": 226,
       "language": "Go"
     },
     {
       "full_name": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "stars": 17135,
-      "stars_today": 221,
+      "stars": 17815,
+      "stars_today": 211,
       "language": "Rust"
     },
     {
-      "full_name": "shaobeichen/dsh-pocket",
-      "url": "https://github.com/shaobeichen/dsh-pocket",
-      "description": "把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocket: run dsh web on your computer and access it synchronously by scanning a QR code on your phone (LAN + public network, real‑time screen mirroring)",
-      "stars": 2234,
-      "stars_today": 215,
-      "language": "JavaScript"
+      "full_name": "genspark-ai/genoffice",
+      "url": "https://github.com/genspark-ai/genoffice",
+      "description": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows &amp; Linux.",
+      "stars": 10549,
+      "stars_today": 193,
+      "language": "TypeScript"
     }
   ],
   "count": 67,
-  "fetched_at": "2026-10-22T22:29:48+08:00"
+  "fetched_at": "2026-10-23T09:37:23+08:00"
 }
