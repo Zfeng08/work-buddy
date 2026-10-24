@@ -4,135 +4,119 @@
       "full_name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stars": 41085,
-      "stars_today": 2706,
+      "stars": 42509,
+      "stars_today": 2716,
       "language": "JavaScript"
     },
     {
       "full_name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 174450,
-      "stars_today": 1870,
+      "stars": 174931,
+      "stars_today": 1575,
       "language": "JavaScript"
-    },
-    {
-      "full_name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "stars": 103424,
-      "stars_today": 1689,
-      "language": "TypeScript"
     },
     {
       "full_name": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "stars": 133613,
-      "stars_today": 1328,
+      "stars": 133995,
+      "stars_today": 1173,
       "language": "Python"
     },
     {
       "full_name": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "stars": 18386,
-      "stars_today": 1240,
+      "stars": 18928,
+      "stars_today": 1119,
       "language": "Rust"
+    },
+    {
+      "full_name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "stars": 104090,
+      "stars_today": 1081,
+      "language": "TypeScript"
     },
     {
       "full_name": "luongnv89/claude-howto",
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "stars": 43812,
-      "stars_today": 1168,
+      "stars": 44059,
+      "stars_today": 1053,
       "language": "Python"
     },
     {
       "full_name": "php/php-src",
       "url": "https://github.com/php/php-src",
       "description": "The PHP Interpreter",
-      "stars": 41479,
-      "stars_today": 722,
+      "stars": 41598,
+      "stars_today": 716,
       "language": "C"
     },
     {
       "full_name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "stars": 31987,
-      "stars_today": 643,
+      "stars": 32337,
+      "stars_today": 635,
       "language": "Python"
-    },
-    {
-      "full_name": "twentyhq/twenty",
-      "url": "https://github.com/twentyhq/twenty",
-      "description": "The open alternative to Salesforce, designed for AI.",
-      "stars": 59579,
-      "stars_today": 605,
-      "language": "TypeScript"
     },
     {
       "full_name": "Renhuai123/ziwei-doushu",
       "url": "https://github.com/Renhuai123/ziwei-doushu",
       "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-      "stars": 6653,
-      "stars_today": 547,
+      "stars": 7007,
+      "stars_today": 546,
       "language": "TypeScript"
     },
     {
       "full_name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
-      "stars": 85293,
-      "stars_today": 533,
+      "stars": 85660,
+      "stars_today": 541,
       "language": "Rust"
     },
     {
       "full_name": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": 113246,
-      "stars_today": 498,
+      "stars": 113452,
+      "stars_today": 485,
       "language": "Python"
+    },
+    {
+      "full_name": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "stars": 194744,
+      "stars_today": 430,
+      "language": "TypeScript"
     },
     {
       "full_name": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "stars": 113705,
-      "stars_today": 440,
+      "stars": 113825,
+      "stars_today": 428,
       "language": "TypeScript"
     },
     {
       "full_name": "pollen-robotics/microduck",
       "url": "https://github.com/pollen-robotics/microduck",
       "description": "A Tiny biped duck robot 🦆",
-      "stars": 10360,
-      "stars_today": 430,
+      "stars": 10545,
+      "stars_today": 421,
       "language": "Rust"
-    },
-    {
-      "full_name": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "stars": 194530,
-      "stars_today": 424,
-      "language": "TypeScript"
-    },
-    {
-      "full_name": "DeanChensj/jiangshan-map",
-      "url": "https://github.com/DeanChensj/jiangshan-map",
-      "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-modern place genealogy &amp; classical poetry routes",
-      "stars": 1209,
-      "stars_today": 385,
-      "language": "JavaScript"
     },
     {
       "full_name": "liguobao/ds-harness-remote",
       "url": "https://github.com/liguobao/ds-harness-remote",
       "description": "一个基于 DeepSeek Harness 插件机制构建的多端远程访问方案，通过安全、低延迟、端到端加密的 P2P 优先网络，支持从 PC、Android 和 Web 随时访问并操作远程 Harness 和 CodeX。 (A multi-device remote access solution built on the DeepSeek Harness plugin system, enabling PC, Android, and Web clients to securely access and operate remote Harness and CodeX over a low-latency, end-to-end encrypted, P2P-first network.)",
-      "stars": 781,
+      "stars": 810,
       "stars_today": 331,
       "language": "TypeScript"
     },
@@ -140,67 +124,83 @@
       "full_name": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "stars": 12917,
-      "stars_today": 283,
+      "stars": 13099,
+      "stars_today": 271,
       "language": "Rust"
     },
     {
       "full_name": "Vincentwei1021/video-shotcraft",
       "url": "https://github.com/Vincentwei1021/video-shotcraft",
       "description": "AI video skill for Claude Code &amp; Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
-      "stars": 13161,
-      "stars_today": 262,
+      "stars": 13276,
+      "stars_today": 259,
       "language": "TypeScript"
     },
     {
       "full_name": "citrolabs/ego-lite",
       "url": "https://github.com/citrolabs/ego-lite",
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "stars": 18970,
-      "stars_today": 235,
+      "stars": 19057,
+      "stars_today": 234,
       "language": "JavaScript"
     },
     {
       "full_name": "SnailSploit/Claude-Red",
       "url": "https://github.com/SnailSploit/Claude-Red",
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "stars": 8116,
-      "stars_today": 209,
+      "stars": 8616,
+      "stars_today": 226,
       "language": "Python"
-    },
-    {
-      "full_name": "genspark-ai/genoffice",
-      "url": "https://github.com/genspark-ai/genoffice",
-      "description": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows &amp; Linux.",
-      "stars": 10622,
-      "stars_today": 193,
-      "language": "TypeScript"
-    },
-    {
-      "full_name": "strelov1/freehire",
-      "url": "https://github.com/strelov1/freehire",
-      "description": "freehire — the open-source search engine for job seekers",
-      "stars": 2901,
-      "stars_today": 191,
-      "language": "Go"
     },
     {
       "full_name": "openai/codex",
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
-      "stars": 130592,
-      "stars_today": 174,
+      "stars": 130716,
+      "stars_today": 173,
       "language": "Rust"
+    },
+    {
+      "full_name": "genspark-ai/genoffice",
+      "url": "https://github.com/genspark-ai/genoffice",
+      "description": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows &amp; Linux.",
+      "stars": 10681,
+      "stars_today": 152,
+      "language": "TypeScript"
     },
     {
       "full_name": "OpenBMB/VoxCPM",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "stars": 40059,
-      "stars_today": 144,
+      "stars": 40357,
+      "stars_today": 150,
+      "language": "Python"
+    },
+    {
+      "full_name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "stars": 35906,
+      "stars_today": 143,
+      "language": "Python"
+    },
+    {
+      "full_name": "Asymptote-Labs/agent-beacon",
+      "url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
+      "stars": 2714,
+      "stars_today": 122,
+      "language": "Go"
+    },
+    {
+      "full_name": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "stars": 95265,
+      "stars_today": 108,
       "language": "Python"
     }
   ],
   "count": 68,
-  "fetched_at": "2026-10-23T22:11:40+08:00"
+  "fetched_at": "2026-10-24T13:40:13+08:00"
 }

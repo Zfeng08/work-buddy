@@ -4,14 +4,14 @@
       "name": "北京",
       "note": "北京",
       "current": {
-        "temperature": 16.6,
-        "apparent": 15.6,
+        "temperature": 16.8,
+        "apparent": 15.8,
         "humidity": 59,
-        "wind_speed": 4.2,
-        "weather_code": 2,
+        "wind_speed": 3.9,
+        "weather_code": 3,
         "pm25": 70.5,
         "pm10": 87.5,
-        "time": "2026-10-24T13:00"
+        "time": "2026-10-24T13:30"
       },
       "daily": [
         {
@@ -55,14 +55,14 @@
       "name": "上海",
       "note": "上海",
       "current": {
-        "temperature": 20.6,
-        "apparent": 21.6,
-        "humidity": 92,
-        "wind_speed": 16.7,
+        "temperature": 20.4,
+        "apparent": 21.4,
+        "humidity": 93,
+        "wind_speed": 16.5,
         "weather_code": 63,
         "pm25": 9.0,
         "pm10": 9.1,
-        "time": "2026-10-24T13:00"
+        "time": "2026-10-24T13:30"
       },
       "daily": [
         {
@@ -106,14 +106,14 @@
       "name": "广州",
       "note": "广东",
       "current": {
-        "temperature": 30.3,
-        "apparent": 31.9,
-        "humidity": 41,
-        "wind_speed": 11.1,
+        "temperature": 30.8,
+        "apparent": 32.1,
+        "humidity": 39,
+        "wind_speed": 11.3,
         "weather_code": 0,
         "pm25": 28.8,
         "pm10": 29.3,
-        "time": "2026-10-24T13:00"
+        "time": "2026-10-24T13:30"
       },
       "daily": [
         {
@@ -157,14 +157,14 @@
       "name": "成都",
       "note": "四川",
       "current": {
-        "temperature": 19.3,
-        "apparent": 20.5,
-        "humidity": 78,
-        "wind_speed": 4.4,
+        "temperature": 19.8,
+        "apparent": 21.0,
+        "humidity": 76,
+        "wind_speed": 4.5,
         "weather_code": 3,
         "pm25": 45.3,
         "pm10": 46.4,
-        "time": "2026-10-24T13:00"
+        "time": "2026-10-24T13:30"
       },
       "daily": [
         {
@@ -208,14 +208,14 @@
       "name": "杭州",
       "note": "浙江",
       "current": {
-        "temperature": 18.5,
-        "apparent": 18.0,
-        "humidity": 88,
-        "wind_speed": 19.1,
-        "weather_code": 51,
+        "temperature": 18.6,
+        "apparent": 18.1,
+        "humidity": 87,
+        "wind_speed": 18.5,
+        "weather_code": 3,
         "pm25": 12.7,
         "pm10": 13.4,
-        "time": "2026-10-24T13:00"
+        "time": "2026-10-24T13:30"
       },
       "daily": [
         {
@@ -256,5 +256,5 @@
       ]
     }
   ],
-  "fetched_at": "2026-10-24T13:04:48+08:00"
+  "fetched_at": "2026-10-24T13:40:06+08:00"
 }
