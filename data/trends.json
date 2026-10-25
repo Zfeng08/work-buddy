@@ -4,203 +4,203 @@
       "full_name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stars": 43136,
-      "stars_today": 2271,
+      "stars": 45099,
+      "stars_today": 2264,
       "language": "JavaScript"
-    },
-    {
-      "full_name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 175218,
-      "stars_today": 1575,
-      "language": "JavaScript"
-    },
-    {
-      "full_name": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "stars": 44193,
-      "stars_today": 1053,
-      "language": "Python"
     },
     {
       "full_name": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "stars": 19155,
-      "stars_today": 893,
+      "stars": 19601,
+      "stars_today": 896,
       "language": "Rust"
+    },
+    {
+      "full_name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 175647,
+      "stars_today": 785,
+      "language": "JavaScript"
     },
     {
       "full_name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
-      "stars": 71151,
-      "stars_today": 777,
+      "stars": 71606,
+      "stars_today": 743,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "stars": 41099,
+      "stars_today": 715,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "anthropics/sandbox-runtime",
+      "url": "https://github.com/anthropics/sandbox-runtime",
+      "description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.",
+      "stars": 6531,
+      "stars_today": 650,
       "language": "TypeScript"
     },
     {
       "full_name": "SnailSploit/Claude-Red",
       "url": "https://github.com/SnailSploit/Claude-Red",
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "stars": 8780,
-      "stars_today": 770,
+      "stars": 8875,
+      "stars_today": 630,
       "language": "Python"
     },
     {
-      "full_name": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "stars": 40630,
-      "stars_today": 723,
-      "language": "TypeScript"
-    },
-    {
-      "full_name": "Renhuai123/ziwei-doushu",
-      "url": "https://github.com/Renhuai123/ziwei-doushu",
-      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-      "stars": 7185,
-      "stars_today": 635,
-      "language": "TypeScript"
+      "full_name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": 86618,
+      "stars_today": 619,
+      "language": "Rust"
     },
     {
       "full_name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "stars": 32512,
-      "stars_today": 598,
+      "stars": 32706,
+      "stars_today": 524,
       "language": "Python"
     },
     {
-      "full_name": "anthropics/sandbox-runtime",
-      "url": "https://github.com/anthropics/sandbox-runtime",
-      "description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.",
-      "stars": 6314,
-      "stars_today": 592,
+      "full_name": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "stars": 7308,
+      "stars_today": 489,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars": 4236,
+      "stars_today": 477,
       "language": "TypeScript"
     },
     {
       "full_name": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "stars": 31559,
-      "stars_today": 567,
+      "stars": 32430,
+      "stars_today": 455,
       "language": "CSS"
+    },
+    {
+      "full_name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+      "stars": 88845,
+      "stars_today": 452,
+      "language": "JavaScript"
+    },
+    {
+      "full_name": "remotion-dev/remotion",
+      "url": "https://github.com/remotion-dev/remotion",
+      "description": "🎥 Make videos programmatically with React",
+      "stars": 67182,
+      "stars_today": 396,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "stars": 44704,
+      "stars_today": 392,
+      "language": "Python"
     },
     {
       "full_name": "basketikun/infinite-canvas",
       "url": "https://github.com/basketikun/infinite-canvas",
       "description": "面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。",
-      "stars": 8923,
-      "stars_today": 549,
+      "stars": 9057,
+      "stars_today": 376,
       "language": "TypeScript"
     },
     {
-      "full_name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "stars": 85907,
-      "stars_today": 541,
+      "full_name": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "stars": 123067,
+      "stars_today": 372,
+      "language": "JavaScript"
+    },
+    {
+      "full_name": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "stars": 53497,
+      "stars_today": 329,
+      "language": "Python"
+    },
+    {
+      "full_name": "pollen-robotics/microduck",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "stars": 11123,
+      "stars_today": 319,
       "language": "Rust"
     },
     {
       "full_name": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": 113528,
-      "stars_today": 485,
-      "language": "Python"
-    },
-    {
-      "full_name": "nodejs/node",
-      "url": "https://github.com/nodejs/node",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-      "stars": 123047,
-      "stars_today": 475,
-      "language": "JavaScript"
-    },
-    {
-      "full_name": "makecindy/cindy",
-      "url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 3784,
-      "stars_today": 471,
-      "language": "TypeScript"
-    },
-    {
-      "full_name": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-      "stars": 88549,
-      "stars_today": 445,
-      "language": "JavaScript"
-    },
-    {
-      "full_name": "pollen-robotics/microduck",
-      "url": "https://github.com/pollen-robotics/microduck",
-      "description": "A Tiny biped duck robot 🦆",
-      "stars": 10661,
-      "stars_today": 421,
-      "language": "Rust"
-    },
-    {
-      "full_name": "remotion-dev/remotion",
-      "url": "https://github.com/remotion-dev/remotion",
-      "description": "🎥 Make videos programmatically with React",
-      "stars": 66942,
-      "stars_today": 364,
-      "language": "TypeScript"
-    },
-    {
-      "full_name": "vectorize-io/hindsight",
-      "url": "https://github.com/vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
-      "stars": 53318,
-      "stars_today": 342,
+      "stars": 113761,
+      "stars_today": 309,
       "language": "Python"
     },
     {
       "full_name": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "stars": 102702,
-      "stars_today": 274,
-      "language": "TypeScript"
-    },
-    {
-      "full_name": "Vincentwei1021/video-shotcraft",
-      "url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "description": "AI video skill for Claude Code &amp; Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
-      "stars": 13343,
-      "stars_today": 259,
+      "stars": 102881,
+      "stars_today": 278,
       "language": "TypeScript"
     },
     {
       "full_name": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "stars": 114739,
-      "stars_today": 225,
+      "stars": 114857,
+      "stars_today": 229,
       "language": "Go"
     },
     {
       "full_name": "jbiaojerry/ebook-treasure-chest",
       "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
       "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
-      "stars": 22330,
-      "stars_today": 220,
+      "stars": 22816,
+      "stars_today": 227,
       "language": "Python"
+    },
+    {
+      "full_name": "Vincentwei1021/video-shotcraft",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "description": "AI video skill for Claude Code &amp; Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
+      "stars": 13464,
+      "stars_today": 196,
+      "language": "TypeScript"
     },
     {
       "full_name": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "stars": 56317,
-      "stars_today": 158,
+      "stars": 56401,
+      "stars_today": 156,
       "language": "JavaScript"
     }
   ],
   "count": 75,
-  "fetched_at": "2026-10-24T21:14:56+08:00"
+  "fetched_at": "2026-10-25T13:55:52+08:00"
 }
