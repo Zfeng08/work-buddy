@@ -1,124 +1,148 @@
 {
   "items": [
     {
-      "title": "消息称星闪大带宽 SLB 2.0 预计 2026 年底商用，星闪路由即将问世",
-      "link": "https://www.ithome.com/1/017/698.htm",
-      "summary": "IT之家 10 月 25 日消息，据博主 @Adak封狼居胥 今日分享，星闪大带宽 SLB 2.0 预计将于 2026 年底商用，星闪路由也即将问世。据博主透露，北京中科晶上科技股份有限公司当前正大力投入星闪 2.0 芯片研发，其面向具身智能等场景的星闪方案已进入产业化快车道，2.0 高带宽 SLB 芯片预计于 2026 年 12 月首发商用 —— 届时星闪 AP、星闪路由将加速普及。参考IT之家",
+      "title": "转一圈只要 1.63 秒，已知自转最快的近地小行星被确认",
+      "link": "https://www.ithome.com/1/017/891.htm",
+      "summary": "IT之家 10 月 26 日消息，据央视新闻今日报道，中国科学院云南天文台团队联合国内外合作者，在超快自转近地小行星观测研究方面取得突破性进展，确认已知自转最快的近地小行星。相关研究结果已发表在国际天文期刊《天文学杂志》。近地小行星指近日点距离小于 1.3 AU 的小行星，其中直径大于 140 米、与地球最小轨道交会距离小于 0.05 AU 的近地小行星被定义为潜在危险小行星。近地小行星撞击造成的",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 25 Oct 2026 13:39:15 GMT"
+      "published": "Mon, 26 Oct 2026 05:56:39 GMT"
     },
     {
-      "title": "联想极光键盘 GK1077 Lite 三模版上市：硅胶轻音按键，129 元",
-      "link": "https://www.ithome.com/1/017/697.htm",
-      "summary": "IT之家 10 月 25 日消息，联想 (Lenovo) 现已在电商平台销售极光键盘 GK1077 Lite 三模版。该型号基于硅胶轻音按键，可选冰雾蓝、奶咖橙、蜜桃粉 3 种配色，到手价均为 129 元。联想极光键盘 GK1077 Lite 三模版在常规 70% 配列的基础上于右侧提供了多媒体旋钮和一块状态显示屏，用户可快速调节音量、灯效，知晓电量、连接信息。该键盘拥有雾透上盖，板载丰富灯效，配",
+      "title": "Windows 11 预览版 29695.1001 提供 APX 指令集启用开关",
+      "link": "https://www.ithome.com/1/017/890.htm",
+      "summary": "IT之家 10 月 26 日消息，根据 X 平台用户 @XenoPanther 的发现，Windows 11 预览体验计划实验（未来平台）频道近日发布的预览版 29695.1001 为开发者提供了 APX 指令集的启用开关，开启 APX 需要进行一次重启。▲ 图源：@XenoPanther根据英特尔官方的表述，APX 是对 x86-64 指令集的一项扩展。其将可访问的通用寄存器的数量从 16 个翻",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 25 Oct 2026 13:38:06 GMT"
+      "published": "Mon, 26 Oct 2026 05:50:49 GMT"
     },
     {
-      "title": "一加 Ace 7 系列支持 IP66/68/69/69K 防尘防水，10 月 29 日发布",
-      "link": "https://www.ithome.com/1/017/696.htm",
-      "summary": "IT之家 10 月 25 日消息，一加 Ace7 系列新品发布会将于 10 月 29 日 19:00 举行，据官方最新预热，一加 Ace 7 系列支持 IP66/68/69/69K 超豪华防尘防水。据此前官方介绍，全新一加 Ace7 系列带来旗舰的质感设计：「风暴岛」隐藏式进风口，凭借空气动力学设计带来更大进风风量；「星际光效」自定义呼吸灯，让你游戏更有氛围，来电和通知也能实时提醒。此外，该机还搭",
+      "title": "全国多所财经高校布局“AI + 财经”",
+      "link": "https://www.ithome.com/1/017/877.htm",
+      "summary": "IT之家 10 月 26 日消息，据央视新闻今日报道，为推动财经教育数智化转型，全国多所财经高校积极布局“AI+ 财经”，探索 AI 赋能财经教育和研究转型升级。在首都经济贸易大学，新成立的智能经济研究院正在对“融创智谷”平台进行升级。这是学校重点打造的“算力 — 算法 — 数据”一体化底座，通过统筹全校算力、共享数据资源，面向全校人才培养、科学研究和智库服务三类场景开放。依托这一底座，学校持续推",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 25 Oct 2026 13:35:42 GMT"
+      "published": "Mon, 26 Oct 2026 05:38:51 GMT"
     },
     {
-      "title": "韩 KRAFTON AI 预览 Raon-1 mini 模型：30B-A4B，可与 Meta Muse Glimmer 竞争",
-      "link": "https://www.ithome.com/1/017/695.htm",
-      "summary": "IT之家 10 月 25 日消息，韩国知名游戏企业 KRAFTON（魁匠团）旗下人工智能分支 KRAFTON AI 本周公布了其从头训练的 Raon-1 mini 模型的预览版本，该模型的正式版和后续的更大模型即将推出。Raon-1 mini 采用混合专家架构，导入线性注意力，支持推测解码，整体体量为 30B-A4B。该模型聚焦韩语的同时兼顾英语性能，以 Apache 2.0 许可开源。KRAFT",
+      "title": "比亚迪第二代海豹 07 盲订开启：定位 C 级全享家轿，轴距 2960mm",
+      "link": "https://www.ithome.com/1/017/876.htm",
+      "summary": "IT之家 10 月 26 日消息，比亚迪汽车海洋网销售事业部总经理张卓今日宣布，第二代海豹 07 盲订开启。据介绍，盲订权益包含盲订臻享礼遇、优先排产提车以及自由选配三项内容。IT之家获悉，新车提供帕拉青、极光粉、海雾紫、琉光银、雪域白以及曜石黑六款车色；云汐白、幻影灰、凝夜紫三种内饰配色可供选择；新车长宽高分别为 5080/1960/1495mm，轴距 2960mm。内饰方面，第二代海豹 07 ",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 25 Oct 2026 13:27:18 GMT"
+      "published": "Mon, 26 Oct 2026 05:38:40 GMT"
     },
     {
-      "title": "技嘉上线工作站主板 WRX90 AI TOP：7 条 PCIe + 2 个 MCIO，集成 BMC",
-      "link": "https://www.ithome.com/1/017/694.htm",
-      "summary": "IT之家 10 月 25 日消息，技嘉 (GIGABYTE) 近日正式在官网上线了 WRX90 AI TOP 工作站主板。这一型号搭载 Socket sTR5 插槽，采用 E-ATX 板型，基于 14 层超低损耗 PCB，拥有 32+3+3+3 项供电。WRX90 AI TOP 配备 8 通道 1DPC 的 DDR5 RDIMM 插槽，支持 2TB 内存容量；具备 6 条 PCIe Gen5 ×1",
+      "title": "大学老师工资将通过数字人民币钱包发放，江苏多所高校收到通知",
+      "link": "https://www.ithome.com/1/017/848.htm",
+      "summary": "IT之家 10 月 26 日消息，扬州大学财务处 10 月 20 日发布通知，接省财政厅预通知，自 2026 年 11 月起，学校在职在编人员（含人事代理）工资将通过数字人民币钱包发放，请相关人员根据自己目前的工资卡情况，于 10 月 23 日前完成数币钱包的开立与升级。扬州大学财务处表示，工资将发放至开立的数币钱包中。学校在职在编人员（含人事代理）可以根据需要，自主选择是否将钱包里的钱兑换（转出",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 25 Oct 2026 13:15:38 GMT"
+      "published": "Mon, 26 Oct 2026 05:24:03 GMT"
     },
     {
-      "title": "《流浪地球 3（上）》电影全新物料即将发布，2027 年春节档上映",
-      "link": "https://www.ithome.com/1/017/693.htm",
-      "summary": "IT之家 10 月 25 日消息，据中国电影报道今日消息，第三十届全国影片推介会上，《流浪地球 3（上）》正式亮相，定档 2027 年春节档。影片延续前两部的世界观，在原班人马回归的基础上，沈腾、杨紫琼、“瓦叔”克里斯托弗・瓦尔兹全新加盟，为系列带来全新的故事线索。据片方介绍，影片全新物料即将发布。《流浪地球 3》改编自刘慈欣的同名小说，是《流浪地球》系列的第三部作品，影片将分为《流浪地球 3（上",
+      "title": "奇瑞风云 A9 增程版上市：标配犀牛电池、CLTC 纯电续航 230km，限时 11.69 万元起",
+      "link": "https://www.ithome.com/1/017/847.htm",
+      "summary": "IT之家 10 月 26 日消息，奇瑞风云新能源今日宣布，风云 A9 增程版正式上市，限时 11.69 万元起：230km Max 版：上市指导价 11.99 万元，限时超级置换价 11.69 万元起230km Max 激光雷达版：上市指导价 12.99 万元，限时超级置换价 12.69 万元起据IT之家此前报道，奇瑞风云 A9 纯电版于 7 月 25 日上市，上市指导价 10.99 万元起，超级",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 25 Oct 2026 13:09:08 GMT"
+      "published": "Mon, 26 Oct 2026 05:21:10 GMT"
     },
     {
-      "title": "888 元购 27 英寸 2K 275Hz：泰坦军团“P2710S PLUS”显示器发售（国补后 799 元）",
-      "link": "https://www.ithome.com/1/017/692.htm",
-      "summary": "IT之家 10 月 25 日消息，泰坦军团旗下“P2710S PLUS”27 英寸显示器现已在京东发售，该机主打 2K 275Hz，定价为 888 元，部分地区国补后 799 元。京东泰坦军团 P2710S PLUS 显示器 888 元（国补后 799 元）直达链接该机配备一块 2560x1440 分辨率 275Hz 超频（原生 240Hz）Fast IPS 面板，显示器峰值亮度 400 尼特，对",
+      "title": "长城魏牌高山 8 HEV 上市：号称“不用充电的智能豪华四驱 MPV”，限时权益价 25.98 万元起",
+      "link": "https://www.ithome.com/1/017/845.htm",
+      "summary": "IT之家 10 月 26 日消息，魏牌高山 8 HEV 今日正式上市，号称“不用充电的智能豪华四驱 MPV”，限时权益价 25.98 万元起。舒享版：统一零售价 26.58 万元，限时权益价 25.98 万元甄享版：统一零售价 28.58 万元，限时权益价 27.98 万元设计上，新车延续高山家族“高山流水”的设计语言，前脸采用横贯式格栅，前后灯组呈环抱式布局，分别寓意“步步高升”“家业圆满”。车",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 25 Oct 2026 12:56:47 GMT"
+      "published": "Mon, 26 Oct 2026 05:00:50 GMT"
     },
     {
-      "title": "力积电 2026Q3 净利润环比几乎翻倍，新产能将与客户共同投资",
-      "link": "https://www.ithome.com/1/017/690.htm",
-      "summary": "IT之家 10 月 25 日消息，中国台湾地区半导体企业力积电 (PSMC) 本月 21 日公布了企业 2026Q3 财报数据：营业收入：213.42 亿新台币（现汇率约合 43.75 亿元人民币），环比 +23%、同比 +80%；净利：65 亿新台币（现汇率约合 13.32 亿元人民币），环比 +98%、同比 +338%；毛利率：48%，季对季提升 20 个百分点；产能利用率：97%，季对季提升",
+      "title": "Gartner 调研显示：44% 的 CEO 难以证明 AI 的财务回报",
+      "link": "https://www.ithome.com/1/017/843.htm",
+      "summary": "IT之家 10 月 26 日消息，商业与技术洞察公司 Gartner 调研显示，44% 的首席执行官（CEO）难以向利益相关方证明 AI 带来的财务回报。但他们并未因此放弃技术投资，而是希望借助 AI 与技术，重新设计企业机构的运营、竞争与增长方式。Gartner 于 2026 年 4 月至 5 月开展了“2027 年 Gartner CEO 调研”，覆盖全球 203 位 CEO 及企业高管。调研",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 25 Oct 2026 12:49:15 GMT"
+      "published": "Mon, 26 Oct 2026 04:59:05 GMT"
     },
     {
-      "title": "1499 元购 27 英寸 2K 240Hz QD-OLED：泰坦军团“G2783S”显示器 10 月 27 日首销",
-      "link": "https://www.ithome.com/1/017/689.htm",
-      "summary": "IT之家 10 月 25 日消息，泰坦军团旗下“G2783S”26.5 英寸（27 英寸）显示器现已在京东上架，该机主打 2K 240Hz QD-OLED，将于 10 月 27 日晚 6 点发售，首发价 1499 元。京东泰坦军团 G2783S 显示器 10 月 27 日首销活动价 1499 元直达链接该机配备三星四代 2560x1440 分辨率 240Hz QD-OLED 面板，静态对比度 15",
+      "title": "小米开源硬件 HachimoDock 亮相，150 元就能复刻万能 AI 桌宠",
+      "link": "https://www.ithome.com/1/017/842.htm",
+      "summary": "10 月 26 日中午消息，2026 观猹大会期间，由小米技术委创新产品团队孵化的开源 AI 硬件 HachimoDock 亮相 —— 这是一台可由用户按个人喜好自由改造的桌面 AI 设备，小巧机身集成了个性化桌宠、语音操控电脑端 Agent、智能家居联动、自定义组件创作等能力。据介绍，HachimoDock 硬件自制成本约 150 元。团队希望以此降低 AI 硬件的体验门槛，让它成为大众入门 V",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 25 Oct 2026 12:47:14 GMT"
+      "published": "Mon, 26 Oct 2026 04:53:01 GMT"
     },
     {
-      "title": "大众再挥裁员大刀：2030 年前拟削减 1.2 万岗位",
-      "link": "https://www.ithome.com/1/017/688.htm",
-      "summary": "IT之家 10 月 25 日消息，据《明镜周刊》近日报道，大众集团在汉诺威与员工代表会谈后表示，公司计划 2030 年前进一步削减 1.2 万个岗位。据报道，此次裁员将涉及大众集团（IT之家注：Volkswagen AG），其业务范围不仅包括汽车，还涵盖零部件业务和集团职能部门。两年前，大众已在同一范围内削减超 3.5 万个工作岗位。该公司表示，新裁员计划将尽可能以减少对员工影响的方式实施，包含自",
+      "title": "1 秒下载两万部 4K 电影：3.2Pb/s，我国团队创下单纤双向实时光传输容量的世界纪录",
+      "link": "https://www.ithome.com/1/017/841.htm",
+      "summary": "IT之家 10 月 26 日消息，据科技日报从中国信科集团光通信技术和网络全国重点实验室获悉，该实验室日前联合鹏城实验室、烽火藤仓光纤科技有限公司，成功完成 3.2Pb/s（拍比特每秒）多芯光纤实时双向传输试验，创下单纤双向实时光传输容量的世界纪录。“3.2Pb/s 的传输速率，意味着可在一秒内下载两万余部 4K 电影。”中国信科集团光通信技术和网络全国重点实验室光系统高级工程师杨超表示，该方案验",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 25 Oct 2026 12:45:49 GMT"
+      "published": "Mon, 26 Oct 2026 04:48:46 GMT"
     },
     {
-      "title": "vivo X500 Ultra 国际版现身数据库，预计明年 3-4 月国内发布",
-      "link": "https://www.ithome.com/1/017/687.htm",
-      "summary": "IT之家 10 月 25 日消息，vivo X500 Ultra 国际版于 10 月 23 日现身 GSMA IMEI 数据库，型号 V2660，这款影像超大杯新品预计将在全球市场上市。IT之家注意到，vivo X500 系列手机已于 9 月 21 日正式发布，首发带来标准版和 Pro 两杯，全球首发天玑 9600 Pro /天玑 9600M 旗舰芯，定价 5499 元起。发布会结束后，vivo ",
+      "title": "国内首款 4MW 级 DR40 燃气轮机成功完成 72 小时长期试车试验，主要面向应急电源车等场景",
+      "link": "https://www.ithome.com/1/017/840.htm",
+      "summary": "IT之家 10 月 26 日消息，中国航发今日宣布，国内首款 4MW 级 DR40 燃气轮机已于 10 月 22 日成功完成 72 小时长期试车试验。据介绍，试验全程采用热电联供的运行模式，整机运行状态稳定，各项测试参数符合设计预期，标志着该型高性价比、高可靠性地面燃气轮机具备市场推广条件。IT之家注：DR40 燃气轮机依托中国航发南方自主研发的 DR30 燃气轮机成熟核心机开展系列化研制，该产品",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 25 Oct 2026 12:43:53 GMT"
+      "published": "Mon, 26 Oct 2026 04:40:17 GMT"
     },
     {
-      "title": "Nacon 推出 REVOLUTION PRO X 特别版手柄：等高线纹理，力可调摇杆",
-      "link": "https://www.ithome.com/1/017/686.htm",
-      "summary": "IT之家 10 月 25 日消息，法国游戏发行与外设企业 NACON 近日推出了 REVOLUTION PRO X – Special Edition 手柄控制器。这一特别版型号为 XBOX 而设计，拥有受游戏《地狱即我们》(Hell is Us) 启发的正面等高线纹理。REVOLUTION PRO X – Special Edition 配备支持阻尼调节的霍尔效应传感器摇杆、霍尔效应传感器 / ",
+      "title": "“三排大 7 座”新福特锐界 L 将于 10 月 29 日发布",
+      "link": "https://www.ithome.com/1/017/839.htm",
+      "summary": "IT之家 10 月 26 日消息，福特汽车宣布，新福特锐界 L 将于 10 月 29 日 18:00 在成都发布。动力方面，新福特锐界 L 提供燃油和混动两种动力供选择，均搭载 2.0T 发动机，燃油版车型最大功率 185 千瓦，混动版综合功率可达 202 千瓦，均有两驱和四驱系统可选，预计整体动力参数与现款车型保持一致。IT之家注意到，作为改款车型，新车针对外观造型和内饰进行了小幅调整，车门把手",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 25 Oct 2026 12:28:33 GMT"
+      "published": "Mon, 26 Oct 2026 04:32:19 GMT"
     },
     {
-      "title": "香港网约车平台牌照最快 11 月推出，司机笔试合格率超六成",
-      "link": "https://www.ithome.com/1/017/685.htm",
-      "summary": "IT之家 10 月 25 日消息，据香港商报今天报道，香港网约车平台牌照预计最快 11 月推出，有意投身行业的人必须考取“的士及网约车综合笔试”。香港运输及物流局局长陈美宝表示，网约车司机综合笔试反应热烈，及格率超六成。优化后的考试减少了以往针对个别路线的死板题目，改为着重区域方向的掌控。六成的及格率反映投考人士态度认真，另一方面也起到了筛选作用。同时，香港政府建议将网约车车辆许可证设定 1 万个",
+      "title": "阿波罗首席经济学家：除科技七巨头外，AI 还没帮美国企业赚到真金白银",
+      "link": "https://www.ithome.com/1/017/838.htm",
+      "summary": "IT之家 10 月 26 日消息，据 TechCrunch 报道，私募巨头阿波罗全球管理公司（Apollo Global Management）首席经济学家近期发布研报提出一个观点：科技行业之外，还没有任何大型企业从 AI 身上赚到实打实的利润增量。IT之家注意到，阿波罗的托斯滕 · 斯洛克（Torsten Slok）重点观察了他所称的标普 493 指数成分股，也就是标普 500 剔除 Alpha",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 25 Oct 2026 12:22:03 GMT"
+      "published": "Mon, 26 Oct 2026 04:30:20 GMT"
     },
     {
-      "title": "欧洲 CPU 初创企业 SiPearl 将与神盾合作开发下代处理器 Rhea2",
-      "link": "https://www.ithome.com/1/017/684.htm",
-      "summary": "IT之家 10 月 25 日消息，欧洲 CPU 初创企业 SiPearl 本月 22 日宣布与中国台湾地区芯片 IP 与设计服务企业神盾 (Egis) 签署战略合作与投资协议。SiPearl 的下代处理器 Rhea2 将基于其同神盾下属安国 (Alcor Micro) 合作开发的 Mobius100 服务器 CPU 同款架构。而 Mobius100 则基于 Arm Neoverse V3 建构，采",
+      "title": "第二届华为乾崑智驾公开赛今启报名，鸿蒙智行全系、阿维塔、方程豹、华境等品牌可参与",
+      "link": "https://www.ithome.com/1/017/837.htm",
+      "summary": "IT之家 10 月 26 日消息，华为智能汽车解决方案 BU 官方微博今日宣布，第二届华为乾崑智驾公开赛今日开启报名。根据规划，本届公开赛将于 10 月 31 日至 11 月 13 日正式开赛。据介绍，鸿蒙智行全系、阿维塔、广汽传祺、深蓝、方程豹、猛士、昊铂、纵横、捷途、启境、奕境、东风奕派、华境、北京越野、极狐（阿尔法 T7）、FREELANDER 神行者旗下搭载华为乾崑智驾的车型均可报名参赛。",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 25 Oct 2026 12:18:14 GMT"
+      "published": "Mon, 26 Oct 2026 04:26:39 GMT"
     },
     {
-      "title": "会员年卡 11.11 狂促合集：bilibili 低至 99.8 元 / 年、QQ 音乐迅雷夸克剪映皆好价",
-      "link": "https://www.ithome.com/1/017/683.htm",
-      "summary": "11.11 会员狂促现已全面开启，皆为年内好价。京东 无门槛红包至高 26888 元，每天抽 3 次：点此抽取。淘宝 无门槛红包至高 26888 元，每天抽 1 次：点此抽取。bilibili点击下方卡片后 → 下滑到宝贝详情页 → 先领 10 元券，再点击淘金币抵扣横幅，实付 108 元即可入手。折合 8.3 元 / 月、99.8 元 / 年官方好价：天猫哔哩哔哩 大会员年卡赠月卡 到手 13 ",
+      "title": "违法违规收集使用个人信息，84 款移动应用被通报",
+      "link": "https://www.ithome.com/1/017/836.htm",
+      "summary": "IT之家 10 月 26 日消息，据国家网络安全通报中心官微 10 月 26 日消息，根据中央网信办、工业和信息化部、公安部联合发布的《关于开展 2026 年个人信息保护系列专项行动的公告》，依据《网络安全法》《个人信息保护法》《网络数据安全管理条例》《App 违法违规收集使用个人信息行为认定方法》等法律法规和有关规定，经国家计算机病毒应急处理中心检测，84 款移动应用存在一项或者多项违法违规收集",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 25 Oct 2026 12:11:58 GMT"
+      "published": "Mon, 26 Oct 2026 04:21:47 GMT"
+    },
+    {
+      "title": "曲高和寡、终成绝唱：傲腾 P5800X 测试报告",
+      "link": "https://sspai.com/post/115074",
+      "summary": "一起来看看 3D XPoint 这夸张的性能表现吧。查看全文",
+      "source": "少数派",
+      "category": "效率工具",
+      "published": "Mon, 26 Oct 2026 11:26:35 +0800"
+    },
+    {
+      "title": "少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地",
+      "link": "https://sspai.com/post/117180",
+      "summary": "每年秋冬，深圳湾都会迎来一批特殊的「旅客」。它们从北方出发，沿着迁徙路线飞越山海，有的在这里短暂停歇，有的则留下越冬。随着潮水涨落，水鸟在滩涂上低头觅食，鸟群掠过海面，也让我们熟悉的海湾多了几分热闹。 ...查看全文",
+      "source": "少数派",
+      "category": "效率工具",
+      "published": "Mon, 26 Oct 2026 11:00:13 +0800"
+    },
+    {
+      "title": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
+      "link": "https://sspai.com/post/117460",
+      "summary": "iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患Spotify 将要求家庭组成员定期扫码验证Arc 浏览器宣布下线央广总台澄清「国补停止」说法谷歌建设虚拟电厂，付费激励电网用户省电留给 AIiTunes Store 重受歌手青睐看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+      "source": "少数派",
+      "category": "效率工具",
+      "published": "Mon, 26 Oct 2026 07:36:36 +0800"
     },
     {
       "title": "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro",
@@ -177,28 +201,20 @@
       "published": "Thu, 22 Oct 2026 17:10:03 +0800"
     },
     {
-      "title": "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本",
-      "link": "https://sspai.com/post/116923",
-      "summary": "配备触摸屏的 OLED 版 MacBook 型号很可能是这次活动的主角。查看全文",
-      "source": "少数派",
-      "category": "效率工具",
-      "published": "Thu, 22 Oct 2026 15:00:00 +0800"
+      "title": "在 Google 砍伐了上千英亩树后野狼来到芬兰的村庄",
+      "link": "https://www.solidot.org/story?sid=85706",
+      "summary": "为建造数据中心，Google 在芬兰农村砍伐了 25 万棵树木，清理了多达 1300 英亩的森林，它甚至还铲除了表层土壤。芬兰监管机构以未完成必要环评为由下令工程暂时停工，Google 芬兰高管已为此道歉。Google 砍伐森林的一个后果是由于猎物减少，狼群进入了附近的村庄寻找食物。 当地居民表示，由于森林里的野生动物全都离开了，狼进村了。Google 还在另一个数据中心选址砍伐了 15 万棵树。",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Mon, 26 Oct 2026 00:16:11 +0800"
     },
     {
-      "title": "终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记",
-      "link": "https://sspai.com/post/115090",
-      "summary": "药物不能解决所有问题，这是是我学到的重要一课。查看全文",
-      "source": "少数派",
-      "category": "效率工具",
-      "published": "Thu, 22 Oct 2026 11:36:57 +0800"
-    },
-    {
-      "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
-      "link": "https://sspai.com/post/116953",
-      "summary": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。查看全文",
-      "source": "少数派",
-      "category": "效率工具",
-      "published": "Thu, 22 Oct 2026 08:29:05 +0800"
+      "title": "深水地平线漏油事件 16 年后海洋仍未恢复",
+      "link": "https://www.solidot.org/story?sid=85705",
+      "summary": "2010 年英国石油公司的深水地平线（Deepwater Horizon）深海钻油平台发生井喷并爆炸，引发了史上规模最大的石油泄漏事故。在封堵油井的 87 天内，有约 1.34 亿加仑原油和 77 亿标准立方英尺的天然气泄漏到墨西哥湾。16 年后，墨西哥湾的深海生态系统仍未从灾难中恢复。研究人员在 2011 年，2015-2023 年收集了样本，发现深海中上层物种的数量急剧下降。数据显示，鱼类数量",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Sun, 25 Oct 2026 23:22:33 +0800"
     },
     {
       "title": "撸狗有助于抵抗下一次压力",
@@ -305,25 +321,89 @@
       "published": "Fri, 23 Oct 2026 15:11:05 +0800"
     },
     {
-      "title": "KeePassXC 2.8.0 释出",
-      "link": "https://www.solidot.org/story?sid=85690",
-      "summary": "开源密码管理器项目 KeePassXC 释出了 v2.8.0。KeePassXC 代表 KeePass Cross-Platform Community Edition，是 KeePassX 的一个分支，而 KeePassX 则是基于 Qt 构建的 KeePass 克隆版本，但已停止维护。KeePassXC 2.8.0 带来了用户期待的新功能，大量 bug 修复和安全修正。主要特性包括：Qt 的版",
-      "source": "奇客 Solidot",
+      "title": "Lula wins election after final votes tallied",
+      "link": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+      "summary": "Article URL: https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/ Comments URL: https://news.ycombinator.com/item?id=50237485 Points: 281 # Comment",
+      "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Fri, 23 Oct 2026 14:05:58 +0800"
+      "published": "Mon, 26 Oct 2026 00:31:07 +0000"
     },
     {
-      "title": "eMudhra 退出全球 CA 业务",
-      "link": "https://www.solidot.org/story?sid=85689",
-      "summary": "在曝出惊人丑闻之后，印度公司 eMudhra&nbsp; 宣布退出全球 CA 业务，将专注于核心企业解决方案和信任服务而非 SSL/TLS 相关业务。它是印度唯一一个被主流浏览器信任的 Root CA 机构。截至 2026 年，公司已发行逾 6000 万张证书。此前 eMudhra 的八个中间证书的私钥泄漏，而这些私钥被发现是极其简单的数字如 4。该公司在声明中称这些简单密钥是“多重人为错误”导致",
-      "source": "奇客 Solidot",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "link": "https://minimaxir.com/2026/10/cheap-llms/",
+      "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 235 # Comments: 260",
+      "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Fri, 23 Oct 2026 11:32:21 +0800"
+      "published": "Sun, 25 Oct 2026 21:11:31 +0000"
+    },
+    {
+      "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+      "link": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+      "summary": "Article URL: https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/ Comments URL: https://news.ycombinator.com/item?id=50236081 Points: 262 # Comments: ",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Sun, 25 Oct 2026 21:08:28 +0000"
+    },
+    {
+      "title": "Dolly Parton's Imagination Library",
+      "link": "https://imaginationlibrary.com/",
+      "summary": "With today's news, I thought I'd share this great program:“When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with thei",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Sun, 25 Oct 2026 18:23:54 +0000"
+    },
+    {
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "summary": "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/ Comments URL: https://news.ycombinator.com/item?id=50234232 Points: 444 # Comments: 121",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Sun, 25 Oct 2026 18:04:11 +0000"
+    },
+    {
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "link": "https://talkweb.eu/openweb/4558/",
+      "summary": "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 435 # Comments: 207",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Sun, 25 Oct 2026 17:30:55 +0000"
+    },
+    {
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "link": "https://lynchlab.net/llm-skin-cancer",
+      "summary": "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 504 # Comments: 227",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Sun, 25 Oct 2026 17:15:38 +0000"
+    },
+    {
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: ",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Sun, 25 Oct 2026 16:28:26 +0000"
+    },
+    {
+      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "link": "https://github.com/ihhub/fheroes2",
+      "summary": "Article URL: https://github.com/ihhub/fheroes2 Comments URL: https://news.ycombinator.com/item?id=50230384 Points: 204 # Comments: 71",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Sun, 25 Oct 2026 11:09:12 +0000"
+    },
+    {
+      "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+      "link": "https://twitter.com/mike64_t/status/2114150399406202896",
+      "summary": "Article URL: https://twitter.com/mike64_t/status/2114150399406202896 Comments URL: https://news.ycombinator.com/item?id=50230181 Points: 287 # Comments: 1",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Sun, 25 Oct 2026 10:42:01 +0000"
     },
     {
       "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
       "link": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
-      "summary": "Article URL: https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order Comments URL: https://news.ycombinator.com/item?id=50229587 Points: 372 # Comments: 229",
+      "summary": "Article URL: https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order Comments URL: https://news.ycombinator.com/item?id=50229587 Points: 473 # Comments: 329",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Sun, 25 Oct 2026 09:00:40 +0000"
@@ -331,7 +411,7 @@
     {
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
       "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 225 # Comments: 70",
+      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 355 # Comments: 132",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Sun, 25 Oct 2026 01:33:49 +0000"
@@ -339,7 +419,7 @@
     {
       "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
       "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 403 # Comments: 421",
+      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 515 # Comments: 552",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Sat, 24 Oct 2026 23:11:54 +0000"
@@ -347,7 +427,7 @@
     {
       "title": "We should be more ambitious with the software we build",
       "link": "https://danluu.com/ambitious/",
-      "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 520 # Comments: 462",
+      "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 772 # Comments: 700",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Sat, 24 Oct 2026 21:47:31 +0000"
@@ -359,86 +439,6 @@
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Sat, 24 Oct 2026 20:30:31 +0000"
-    },
-    {
-      "title": "No signs of AI payoff outside the tech sector",
-      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 573 # Co",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Sat, 24 Oct 2026 19:47:19 +0000"
-    },
-    {
-      "title": "The Goose Programming Language",
-      "link": "https://aardappel.github.io/goose/",
-      "summary": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 462 # Comments: 280",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Sat, 24 Oct 2026 19:06:55 +0000"
-    },
-    {
-      "title": "Danish Government silently drops plan to dump MS Office",
-      "link": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
-      "summary": "Article URL: https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft Comments URL: https://news.ycombi",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Sat, 24 Oct 2026 18:31:48 +0000"
-    },
-    {
-      "title": "Why is AI generated language so hard to understand?",
-      "link": "https://arxiv.org/abs/2610.29162",
-      "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 212 # Comments: 176",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Sat, 24 Oct 2026 18:04:57 +0000"
-    },
-    {
-      "title": "Roku developer repositories moved from GitHub to GitLab",
-      "link": "https://blog.roku.com/developer/gitlab-move",
-      "summary": "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 293 # Comments: 205",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Sat, 24 Oct 2026 16:06:26 +0000"
-    },
-    {
-      "title": "FreeDNS",
-      "link": "https://freedns.afraid.org/",
-      "summary": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 314 # Comments: 83",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Sat, 24 Oct 2026 15:20:01 +0000"
-    },
-    {
-      "title": "Google illegally cut down 250K trees in Finland for data center",
-      "link": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
-      "summary": "Article URL: https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/ Comments URL: https://news.ycombinator.com/item?id=50221676",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Sat, 24 Oct 2026 14:38:34 +0000"
-    },
-    {
-      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
-      "link": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
-      "summary": "Article URL: https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/ Comments URL: https://news.ycombinator.com/item?id=50220913 Points: 456 # Comments: 479",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Sat, 24 Oct 2026 13:09:28 +0000"
-    },
-    {
-      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-      "link": "https://github.com/Zagitta/gpu-unlock",
-      "summary": "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 276 # Comments: 73",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Sat, 24 Oct 2026 09:58:27 +0000"
-    },
-    {
-      "title": "I don't understand quantum physics (2018)",
-      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 334 # Comments: 260",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Sat, 24 Oct 2026 09:53:26 +0000"
     }
   ],
   "count": 55,
@@ -446,5 +446,5 @@
   "errors": [
     "阮一峰的网络日志: 403 Client Error: Forbidden for url: https://www.ruanyifeng.com/blog/atom.xml"
   ],
-  "fetched_at": "2026-10-25T21:40:29+08:00"
+  "fetched_at": "2026-10-26T13:59:00+08:00"
 }
