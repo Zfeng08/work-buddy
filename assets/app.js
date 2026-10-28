@@ -55,7 +55,7 @@ function syncThemeUI(t) {
   if (icon) icon.textContent = next === "light" ? "☀" : "☾";
   if (label) label.textContent = next === "light" ? "浅色" : "深色";
   const meta = document.querySelector('meta[name="theme-color"]');
-  if (meta) meta.setAttribute("content", t === "light" ? "#ffffff" : "#0b0e14");
+  if (meta) meta.setAttribute("content", t === "light" ? "#f5f2ea" : "#0c0c0b");
 }
 
 function applyTheme(t, { persist = true, redraw = true } = {}) {
@@ -329,6 +329,31 @@ $("#tabs").addEventListener("click", (e) => {
 });
 
 /* ---------- 总览 ---------- */
+
+/* 天气详情页：中国天气网（页面上的数字仍来自 Open-Meteo 采集，点过去看的是同一城市的预报页）。
+   配置里有 cn_id 就打开该城市页面，没有就退回网站首页。 */
+const WEATHER_HOME = "https://www.weather.com.cn/";
+function weatherUrl(c) {
+  const id = c && c.cn_id ? String(c.cn_id) : "";
+  return /^\d{9}$/.test(id) ? `https://www.weather.com.cn/weather/${id}.shtml` : WEATHER_HOME;
+}
+
+/* 日期本地化：RSS 给的是英文 RFC822（Wed, 28 Oct 2026 06:44:01 GMT），
+   采集时间给的是 ISO 带时区，显示前统一转成中文，避免中英混排。 */
+const WEEK_CN = ["周日", "周一", "周二", "周三", "周四", "周五", "周六"];
+function fmtDate(s) {
+  const d = new Date(s || "");
+  if (!s || isNaN(d.getTime())) return String(s || "").slice(0, 16);
+  const md = `${d.getMonth() + 1}月${d.getDate()}日 ${WEEK_CN[d.getDay()]}`;
+  return d.getFullYear() === new Date().getFullYear() ? md : `${d.getFullYear()}年${md}`;
+}
+function fmtDateTime(s) {
+  const d = new Date(s || "");
+  if (!s || isNaN(d.getTime())) return "—";
+  const hm = `${String(d.getHours()).padStart(2, "0")}:${String(d.getMinutes()).padStart(2, "0")}`;
+  return `${d.getMonth() + 1}月${d.getDate()}日 ${hm}`;
+}
+
 function renderOverview() {
   const { news, jobs, knowledge, weather } = state.data;
   const stats = [
@@ -348,13 +373,14 @@ function renderOverview() {
   $("#ov-jobs").innerHTML = hot.length ? hot.map(listItemJob).join("")
     : `<li class="empty">暂无计划岗数据</li>`;
 
-  // 天气速览
+  // 天气速览：每格都是链接，点开是中国天气网对应城市页
   $("#ov-weather").innerHTML = (weather?.cities || []).map((c) => `
-    <div class="mini-city">
-      <div class="city">${c.name}</div>
+    <a class="mini-city" href="${weatherUrl(c)}" target="_blank" rel="noopener"
+       title="${esc(c.name)} · 中国天气网">
+      <div class="city">${esc(c.name)}</div>
       <div class="temp">${Math.round(c.current.temperature)}°</div>
       <div class="desc">${WMO[c.current.weather_code] || "—"} · PM2.5 ${c.current.pm25 ?? "—"}</div>
-    </div>`).join("") || `<div class="empty">暂无天气数据</div>`;
+    </a>`).join("") || `<div class="empty">暂无天气数据</div>`;
 
   // 最新资讯
   const items = (news?.items || []).slice(0, 8);
@@ -373,7 +399,7 @@ function renderNews() {
     b.onclick = () => { state.newsFilter = b.dataset.cat; renderNews(); });
 
   const filtered = state.newsFilter === "全部" ? items : items.filter((i) => i.category === state.newsFilter);
-  $("#news-meta").textContent = `${filtered.length} 条 · 采集于 ${news?.fetched_at ?? "—"}`;
+  $("#news-meta").textContent = `${filtered.length} 条 · 采集于 ${fmtDateTime(news?.fetched_at)}`;
   $("#news-list").innerHTML = filtered.length ? filtered.map(listItemNews).join("")
     : `<li class="empty">暂无数据</li>`;
 }
@@ -381,7 +407,7 @@ function listItemNews(i) {
   return `<li><a href="${i.link}" target="_blank" rel="noopener">${esc(i.title)}</a>
     <div class="meta"><span class="source-chip">${esc(i.source)}</span>
     ${i.category ? `<span class="tag">${esc(i.category)}</span>` : ""}
-    <span>${esc((i.published || "").slice(0, 16))}</span></div></li>`;
+    <span>${esc(fmtDate(i.published))}</span></div></li>`;
 }
 
 /* ---------- 行情 ---------- */
@@ -433,7 +459,9 @@ function renderWeather() {
       <div class="t">${Math.round(d.temp_min)}° / ${Math.round(d.temp_max)}°</div>
       <div>💧${d.precip_prob ?? 0}%</div></div>`).join("");
     return `<div class="card weather-city">
-      <div class="city">${c.name} <span class="note">${esc(c.note)}</span></div>
+      <div class="city"><a class="city-link" href="${weatherUrl(c)}" target="_blank" rel="noopener"
+        title="${esc(c.name)} · 中国天气网">${esc(c.name)}<i class="arrow">↗</i></a>
+        <span class="note">${esc(c.note)}</span></div>
       <div class="temp">${Math.round(cur.temperature)}°C</div>
       <div class="desc">体感 ${Math.round(cur.apparent)}° · ${WMO[cur.weather_code] || "—"} · 湿度 ${cur.humidity}% · 风 ${cur.wind_speed}km/h</div>
       <div class="aqi tag ${pm != null && pm > 75 ? "" : "hit"}">PM2.5 ${aqiText}</div>
@@ -447,7 +475,7 @@ function renderJobs() {
   const items = jobs?.items || [];
   const cities = ["全部", ...new Set(items.map((j) => j.city))];
   $("#jobs-meta").textContent =
-    `${jobs?.count ?? 0} 条 · 核心 ${jobs?.core ?? "—"} · 采集于 ${jobs?.fetched_at ?? "—"}`;
+    `${jobs?.count ?? 0} 条 · 核心 ${jobs?.core ?? "—"} · 采集于 ${fmtDateTime(jobs?.fetched_at)}`;
 
   // 城市筛选
   bindChipRow($("#jobs-filter"), cities, state.jobsCity, (v) => {

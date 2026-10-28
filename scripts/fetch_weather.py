@@ -31,6 +31,8 @@ def fetch_city(city):
     return {
         "name": city["name"],
         "note": city.get("note", ""),
+        # 中国天气网的城市页 id，前端用它拼「查看该城市天气」的链接
+        "cn_id": city.get("cn_id", ""),
         "current": {
             "temperature": cur["temperature_2m"],
             "apparent": cur["apparent_temperature"],

@@ -3,6 +3,7 @@
     {
       "name": "北京",
       "note": "北京",
+      "cn_id": "101010100",
       "current": {
         "temperature": 10.9,
         "apparent": 8.3,
@@ -54,6 +55,7 @@
     {
       "name": "上海",
       "note": "上海",
+      "cn_id": "101020100",
       "current": {
         "temperature": 15.7,
         "apparent": 14.8,
@@ -105,6 +107,7 @@
     {
       "name": "广州",
       "note": "广东",
+      "cn_id": "101280101",
       "current": {
         "temperature": 27.2,
         "apparent": 28.6,
@@ -156,6 +159,7 @@
     {
       "name": "成都",
       "note": "四川",
+      "cn_id": "101270101",
       "current": {
         "temperature": 17.5,
         "apparent": 17.3,
@@ -207,6 +211,7 @@
     {
       "name": "杭州",
       "note": "浙江",
+      "cn_id": "101210101",
       "current": {
         "temperature": 16.3,
         "apparent": 15.7,

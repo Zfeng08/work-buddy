@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>珠峰工作台</title>
 <link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#0e0e0f">
+<meta name="theme-color" content="#0c0c0b">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="珠峰">
 <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
@@ -22,63 +22,74 @@
     document.documentElement.dataset.theme = t;
     // 同步浏览器 UI 底色（地址栏 / 状态栏），避免首屏出现割裂色条
     var m = document.querySelector('meta[name="theme-color"]');
-    if (m) m.setAttribute("content", t === "light" ? "#f7f6f3" : "#0e0e0f");
+    if (m) m.setAttribute("content", t === "light" ? "#f5f2ea" : "#0c0c0b");
   })();
 </script>
 <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script>
 </head>
 <body>
 <header class="topbar">
-  <div class="brand">
-    <svg class="mark" viewBox="0 0 40 32" aria-hidden="true" focusable="false">
-      <path fill-rule="evenodd" d="M2 30 L14 7 L20.5 19 L26 11 L38 30 Z M14 7 L11.3 13.2 L16.7 13.2 Z"/>
-    </svg>
-    <div class="brand-text">
-      <h1><b>珠峰</b><span>工作台</span></h1>
-      <p class="sub" id="sub-title">GitHub Actions 定时采集 · 仓库即数据源</p>
+  <div class="masthead">
+    <div class="brand">
+      <svg class="mark" viewBox="0 0 40 32" aria-hidden="true" focusable="false">
+        <path fill-rule="evenodd" d="M2 30 L14 7 L20.5 19 L26 11 L38 30 Z M14 7 L11.3 13.2 L16.7 13.2 Z"/>
+      </svg>
+      <div class="brand-text">
+        <h1><b>珠峰</b><span>工作台</span></h1>
+        <p class="sub" id="sub-title">GitHub Actions 定时采集 · 仓库即数据源</p>
+      </div>
+    </div>
+
+    <div class="masthead-side">
+      <div class="edition">
+        <span class="edition-date" id="edition-date"></span>
+        <span class="edition-issue" id="edition-issue"></span>
+      </div>
+      <div class="refresh-bar">
+        <span class="live-dot" id="live-dot"></span>
+        <span id="data-age">数据加载中…</span>
+        <span class="sep" aria-hidden="true">·</span>
+        <span class="countdown" id="countdown">--</span>
+        <button id="refresh-toggle" class="refresh-btn" title="点击暂停/恢复自动刷新">自动刷新</button>
+        <button id="theme-toggle" class="theme-btn" title="切换浅色 / 深色">
+          <span class="t-icon" id="theme-icon">☀</span><span class="t-label" id="theme-label">浅色</span>
+        </button>
+      </div>
     </div>
   </div>
-  <div class="topbar-right">
-    <div class="refresh-bar">
-      <button id="theme-toggle" class="theme-btn" title="切换浅色 / 深色">
-        <span class="t-icon" id="theme-icon">☀</span><span class="t-label" id="theme-label">浅色</span>
-      </button>
-      <span class="live-dot" id="live-dot"></span>
-      <span id="data-age">数据加载中…</span>
-      <span class="countdown" id="countdown">--</span>
-      <button id="refresh-toggle" class="refresh-btn" title="点击暂停/恢复自动刷新">自动刷新</button>
-    </div>
-    <nav class="tabs" id="tabs">
-      <button data-tab="overview" class="active">总览</button>
-      <button data-tab="news">资讯</button>
-      <button data-tab="finance">行情</button>
-      <button data-tab="weather">天气</button>
-      <button data-tab="jobs">岗位</button>
-      <button data-tab="dramas">剧集</button>
-      <button data-tab="trends">趋势</button>
-      <button data-tab="knowledge">知识库</button>
-      <button data-tab="graph">图谱</button>
-    </nav>
-  </div>
+
+  <nav class="tabs" id="tabs">
+    <button data-tab="overview" class="active"><i>01</i><span>总览</span></button>
+    <button data-tab="news"><i>02</i><span>资讯</span></button>
+    <button data-tab="finance"><i>03</i><span>行情</span></button>
+    <button data-tab="weather"><i>04</i><span>天气</span></button>
+    <button data-tab="jobs"><i>05</i><span>岗位</span></button>
+    <button data-tab="dramas"><i>06</i><span>剧集</span></button>
+    <button data-tab="trends"><i>07</i><span>趋势</span></button>
+    <button data-tab="knowledge"><i>08</i><span>知识库</span></button>
+    <button data-tab="graph"><i>09</i><span>图谱</span></button>
+  </nav>
 </header>
 
 <main>
   <!-- 总览 -->
   <section id="tab-overview" class="panel active">
-    <div class="stat-grid" id="stat-grid"></div>
-    <div class="grid-2">
-      <div class="card">
+    <div class="ledger" id="stat-grid"></div>
+
+    <section class="card band">
+      <h2>天气速览 <span class="badge">每日 3 次采集</span><a class="badge-link" href="https://www.weather.com.cn/" target="_blank" rel="noopener">中国天气网 ↗</a></h2>
+      <div class="weather-band" id="ov-weather"></div>
+    </section>
+
+    <div class="cols">
+      <section class="card">
         <h2>重点岗位 <span class="badge">关键词命中</span></h2>
         <ul class="list" id="ov-jobs"></ul>
-      </div>
-      <div class="card">
-        <h2>天气速览</h2>
-        <div class="weather-mini" id="ov-weather"></div>
-      </div>
-    </div>
-    <div class="card">
-      <h2>最新资讯</h2>
-      <ul class="list" id="ov-news"></ul>
+      </section>
+      <section class="card">
+        <h2>最新资讯</h2>
+        <ul class="list numbered" id="ov-news"></ul>
+      </section>
     </div>
   </section>
 
@@ -87,7 +98,7 @@
     <div class="card full">
       <h2>资讯流 <span class="badge" id="news-meta"></span></h2>
       <div class="filter-bar" id="news-filter"></div>
-      <ul class="list" id="news-list"></ul>
+      <ul class="list two-col" id="news-list"></ul>
     </div>
   </section>
 
@@ -182,7 +193,35 @@
   </section>
 </main>
 
-<footer>珠峰 · 数据采集与分析由 GitHub Actions 定时执行 · <span id="foot-time"></span></footer>
+<footer>
+  <span>珠峰工作台</span>
+  <span class="sep">·</span>
+  <span>数据采集与分析由 GitHub Actions 定时执行</span>
+  <span class="sep">·</span>
+  <span id="foot-time"></span>
+</footer>
+
+<script>
+  // 报头日期与期号（纯展示，不参与任何数据逻辑）
+  (function () {
+    var d = new Date();
+    var wd = "日一二三四五六".charAt(d.getDay());
+    var el = document.getElementById("edition-date");
+    if (el) el.textContent = d.getFullYear() + " 年 " + (d.getMonth() + 1) + " 月 " + d.getDate() + " 日 · 星期" + wd;
+    var start = new Date(d.getFullYear(), 0, 1);
+    var doy = Math.floor((d - start) / 86400000) + 1;
+    var issue = document.getElementById("edition-issue");
+    if (issue) issue.textContent = "第 " + String(doy).padStart(3, "0") + " 期";
+  })();
+
+  // 海报加载失败时就地隐藏，露出海报框底色，避免一片碎图图标（只处理已失败的图片）
+  document.addEventListener("error", function (e) {
+    var el = e.target;
+    if (el && el.tagName === "IMG" && el.classList && el.classList.contains("drama-cover")) {
+      el.style.visibility = "hidden";
+    }
+  }, true);
+</script>
 <script src="assets/app.js"></script>
 </body>
 </html>
