@@ -4,203 +4,203 @@
       "full_name": "hmjz100/LinkSwift",
       "url": "https://github.com/hmjz100/LinkSwift",
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
-      "stars": 32581,
-      "stars_today": 4011,
+      "stars": 33477,
+      "stars_today": 3209,
       "language": "JavaScript"
     },
     {
       "full_name": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "stars": 38282,
-      "stars_today": 2859,
+      "stars": 39460,
+      "stars_today": 2830,
       "language": "CSS"
     },
     {
       "full_name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
-      "stars": 90785,
-      "stars_today": 2601,
+      "stars": 91833,
+      "stars_today": 2621,
       "language": "Python"
     },
     {
       "full_name": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": 117064,
-      "stars_today": 1702,
+      "stars": 117494,
+      "stars_today": 1735,
       "language": "Python"
     },
     {
       "full_name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 104645,
-      "stars_today": 1623,
+      "stars": 105123,
+      "stars_today": 1632,
       "language": "Python"
     },
     {
       "full_name": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "stars": 45263,
-      "stars_today": 1587,
-      "language": "Python"
-    },
-    {
-      "full_name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "stars": 90075,
-      "stars_today": 1458,
-      "language": "Rust"
-    },
-    {
-      "full_name": "AgriciDaniel/claude-seo",
-      "url": "https://github.com/AgriciDaniel/claude-seo",
-      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
-      "stars": 22544,
-      "stars_today": 1457,
+      "stars": 46573,
+      "stars_today": 1598,
       "language": "Python"
     },
     {
       "full_name": "makecindy/cindy",
       "url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 7243,
-      "stars_today": 1446,
+      "stars": 7684,
+      "stars_today": 1465,
       "language": "TypeScript"
+    },
+    {
+      "full_name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "stars": 90980,
+      "stars_today": 1449,
+      "language": "Rust"
+    },
+    {
+      "full_name": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "description": "",
+      "stars": 9974,
+      "stars_today": 1395,
+      "language": "—"
     },
     {
       "full_name": "JetBrains/thinkrail",
       "url": "https://github.com/JetBrains/thinkrail",
       "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "stars": 3672,
-      "stars_today": 1211,
+      "stars": 4336,
+      "stars_today": 1204,
       "language": "TypeScript"
-    },
-    {
-      "full_name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 290493,
-      "stars_today": 1183,
-      "language": "JavaScript"
     },
     {
       "full_name": "YuJunZhiXue/dsh-purge",
       "url": "https://github.com/YuJunZhiXue/dsh-purge",
       "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
-      "stars": 10815,
-      "stars_today": 1151,
+      "stars": 11380,
+      "stars_today": 1201,
       "language": "JavaScript"
     },
     {
-      "full_name": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "stars": 73662,
-      "stars_today": 965,
-      "language": "TypeScript"
-    },
-    {
-      "full_name": "gitroomhq/postiz-app",
-      "url": "https://github.com/gitroomhq/postiz-app",
-      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
-      "stars": 39014,
-      "stars_today": 953,
-      "language": "TypeScript"
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 291115,
+      "stars_today": 1165,
+      "language": "JavaScript"
     },
     {
       "full_name": "NVIDIA/SkillSpector",
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-      "stars": 22664,
-      "stars_today": 932,
+      "stars": 22808,
+      "stars_today": 953,
       "language": "Python"
+    },
+    {
+      "full_name": "gitroomhq/postiz-app",
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "stars": 39637,
+      "stars_today": 951,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "stars": 74147,
+      "stars_today": 934,
+      "language": "TypeScript"
     },
     {
       "full_name": "togg53192-cmd/jailbreaks",
       "url": "https://github.com/togg53192-cmd/jailbreaks",
       "description": "LIST OF ALL MY JAILBREAKS",
-      "stars": 5060,
-      "stars_today": 890,
+      "stars": 5977,
+      "stars_today": 902,
       "language": "—"
     },
     {
       "full_name": "nightly-labs/openbot",
       "url": "https://github.com/nightly-labs/openbot",
       "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-      "stars": 2040,
-      "stars_today": 794,
+      "stars": 2677,
+      "stars_today": 777,
       "language": "TypeScript"
+    },
+    {
+      "full_name": "AgriciDaniel/claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "stars": 22884,
+      "stars_today": 711,
+      "language": "Python"
     },
     {
       "full_name": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-      "stars": 90265,
-      "stars_today": 654,
+      "stars": 90623,
+      "stars_today": 659,
       "language": "JavaScript"
     },
     {
       "full_name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": 306073,
-      "stars_today": 608,
+      "stars": 306698,
+      "stars_today": 617,
       "language": "Shell"
     },
     {
       "full_name": "pollen-robotics/microduck",
       "url": "https://github.com/pollen-robotics/microduck",
       "description": "A Tiny biped duck robot 🦆",
-      "stars": 12707,
-      "stars_today": 575,
+      "stars": 12810,
+      "stars_today": 599,
       "language": "Rust"
     },
     {
       "full_name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
-      "stars": 74612,
-      "stars_today": 529,
+      "stars": 74790,
+      "stars_today": 424,
       "language": "Python"
+    },
+    {
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": 100427,
+      "stars_today": 415,
+      "language": "Rust"
     },
     {
       "full_name": "remotion-dev/remotion",
       "url": "https://github.com/remotion-dev/remotion",
       "description": "🎥 Make videos programmatically with React",
-      "stars": 68140,
-      "stars_today": 417,
+      "stars": 68366,
+      "stars_today": 387,
       "language": "TypeScript"
     },
     {
-      "full_name": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": "",
-      "stars": 30714,
-      "stars_today": 348,
-      "language": "TypeScript"
-    },
-    {
-      "full_name": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "stars": 103615,
-      "stars_today": 337,
-      "language": "TypeScript"
-    },
-    {
-      "full_name": "521xueweihan/HelloGitHub",
-      "url": "https://github.com/521xueweihan/HelloGitHub",
-      "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
-      "stars": 184955,
-      "stars_today": 333,
-      "language": "Python"
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 111240,
+      "stars_today": 346,
+      "language": "JavaScript"
     }
   ],
-  "count": 79,
-  "fetched_at": "2026-10-27T23:17:26+08:00"
+  "count": 80,
+  "fetched_at": "2026-10-28T14:47:26+08:00"
 }
