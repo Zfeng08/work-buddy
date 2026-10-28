@@ -669,9 +669,11 @@ function renderTrendChart() {
 
   if (days.length < 2) {
     if (meta) meta.textContent = `已记录 ${days.length} 天`;
+    el.style.height = "auto";
     el.innerHTML = `<div class="empty">还需要至少 2 天数据才能画出曲线（当前 ${days.length} 天）</div>`;
     return;
   }
+  el.style.height = "";
 
   const points = days.map((d) => [
     d.date,
@@ -696,7 +698,7 @@ function renderTrendChart() {
       data: points.map((p) => p[0].slice(5)),
       axisLine: { lineStyle: { color: CHART.border } },
       axisTick: { show: false },
-      axisLabel: { color: CHART.dim, fontSize: 10 },
+      axisLabel: { color: CHART.dim, fontSize: 10, interval: 2 },
     },
     yAxis: {
       type: "value",
