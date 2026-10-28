@@ -64,14 +64,14 @@ function applyTheme(t, { persist = true, redraw = true } = {}) {
   syncThemeUI(t);
   if (redraw && typeof echarts !== "undefined") {
     if (state.data.finance) renderFinanceChart();
-    if (state.data.trends) renderTrendsChart();
+    if (state.data.trends_history) renderTrendChart();
     if (state.data.knowledge) renderGraph();
     resizeCharts();
   }
 }
 
 /* ---------- 数据加载 ---------- */
-const DATASETS = ["news", "finance", "weather", "jobs", "dramas", "trends", "knowledge"];
+const DATASETS = ["news", "finance", "weather", "jobs", "dramas", "trends", "trends_history", "knowledge"];
 
 // 数据源优先级：
 //   1) data/knowledge.local.json —— 本机构建的完整版（含私有笔记），线上没有此文件会自然跳过
@@ -79,6 +79,10 @@ const DATASETS = ["news", "finance", "weather", "jobs", "dramas", "trends", "kno
 //   3) 同源相对路径             —— 兜底（本机预览、网络受限场景）
 const RAW_BASE =
   "https://raw.githubusercontent.com/Zfeng08/work-buddy/main/data/";
+
+// 热榜数据由独立数据仓产出（抓取 + 翻译 + 30 天历史都在那边），这里直接读 raw。
+const TRENDS_BASE =
+  "https://raw.githubusercontent.com/Zfeng08/zhufeng-data/main/data/";
 
 const IS_LOCAL =
   location.hostname === "localhost" || location.hostname === "127.0.0.1";
@@ -93,6 +97,10 @@ async function fetchJSON(url) {
 function dataCandidates(name) {
   const urls = [];
   if (name === "knowledge") urls.push("data/knowledge.local.json");
+  if (name === "trends" || name === "trends_history") {
+    urls.push(TRENDS_BASE + name + ".json", `data/${name}.json`);
+    return urls;
+  }
   if (IS_LOCAL) {
     urls.push(`data/${name}.json`, RAW_BASE + name + ".json");
   } else {
@@ -652,6 +660,69 @@ function renderTrends() {
   }).join("") || `<li class="empty">暂无数据</li>`;
 }
 
+/* ---------- 近 30 天曲线 ---------- */
+function renderTrendChart() {
+  const el = $("#trends-chart");
+  if (!el) return;
+  const days = (state.data.trends_history?.days || []).slice(-30);
+  const meta = $("#trend-chart-meta");
+
+  if (days.length < 2) {
+    if (meta) meta.textContent = `已记录 ${days.length} 天`;
+    el.innerHTML = `<div class="empty">还需要至少 2 天数据才能画出曲线（当前 ${days.length} 天）</div>`;
+    return;
+  }
+
+  const points = days.map((d) => [
+    d.date,
+    (d.repos || []).reduce((s, r) => s + (r.stars_today || 0), 0),
+  ]);
+  const total = points.reduce((s, p) => s + p[1], 0);
+  if (meta) {
+    meta.textContent = `${days.length} 天 · 累计 +${total.toLocaleString("zh-CN")} 星 · 日均 +${Math.round(total / points.length).toLocaleString("zh-CN")}`;
+  }
+
+  const chart = initChart(el);
+  chart.setOption({
+    backgroundColor: "transparent",
+    tooltip: {
+      trigger: "axis",
+      valueFormatter: (v) => "+" + Number(v).toLocaleString("zh-CN"),
+    },
+    grid: { left: 58, right: 18, top: 18, bottom: 28 },
+    xAxis: {
+      type: "category",
+      boundaryGap: false,
+      data: points.map((p) => p[0].slice(5)),
+      axisLine: { lineStyle: { color: CHART.border } },
+      axisTick: { show: false },
+      axisLabel: { color: CHART.dim, fontSize: 10 },
+    },
+    yAxis: {
+      type: "value",
+      scale: true,
+      axisLabel: { color: CHART.dim, fontSize: 10 },
+      splitLine: { lineStyle: { color: CHART.grid } },
+    },
+    series: [{
+      type: "line",
+      smooth: true,
+      symbol: "none",
+      data: points.map((p) => p[1]),
+      lineStyle: { color: CHART.accent, width: 2 },
+      areaStyle: {
+        color: {
+          type: "linear", x: 0, y: 0, x2: 0, y2: 1,
+          colorStops: [
+            { offset: 0, color: `rgba(${CHART.accentRGB},0.22)` },
+            { offset: 1, color: `rgba(${CHART.accentRGB},0)` },
+          ],
+        },
+      },
+    }],
+  });
+}
+
 /* ---------- 趋势分析：把热榜数据读成几条结论 ---------- */
 function fmtNum(n) { return (n || 0).toLocaleString("zh-CN"); }
 
@@ -964,7 +1035,7 @@ function esc(s) {
 
 function renderAll() {
   renderOverview(); renderWeek(); renderNews(); renderFinance(); renderWeather();
-  renderJobs(); renderDramas(); renderTrends(); renderTrendAnalysis(); renderKnowledge(); renderGraph();
+  renderJobs(); renderDramas(); renderTrends(); renderTrendChart(); renderTrendAnalysis(); renderKnowledge(); renderGraph();
 }
 
 /* ---------- 自动刷新 ---------- */

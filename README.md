@@ -19,11 +19,15 @@
 
 ```
 GitHub Actions (cron, 每天北京时间 9/13/17 点)
-  → scripts/fetch_*.py 采集 资讯/行情/天气/趋势/岗位
+  → scripts/fetch_*.py 采集 资讯/行情/天气/岗位
   → scripts/build_knowledge.py 分析知识库笔记与关联
   → git commit 回本仓库
   → deploy.yml 自动更新 Pages 页面
 ```
+
+GitHub 热榜（趋势栏）不在这里采集：抓取、中文简介翻译和 30 天历史都在独立数据仓
+[`Zfeng08/zhufeng-data`](https://github.com/Zfeng08/zhufeng-data)，本仓库前端直接读它的 raw 文件。
+改翻译术语白名单请改那个仓库的 `glossary.json`。
 
 ## 定制
 

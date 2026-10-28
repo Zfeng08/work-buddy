@@ -48,10 +48,6 @@ jobs:
         run: python scripts/fetch_weather.py
         continue-on-error: true
 
-      - name: 采集趋势
-        run: python scripts/fetch_trends.py
-        continue-on-error: true
-
       - name: 采集岗位
         run: python scripts/fetch_jobs.py
         continue-on-error: true
