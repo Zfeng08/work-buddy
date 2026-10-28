@@ -328,6 +328,15 @@ $("#tabs").addEventListener("click", (e) => {
   window.dispatchEvent(new Event("resize")); // ECharts 自适应
 });
 
+/* 版块内的跳转（例如「完整榜单」）复用同一套目录切换逻辑 */
+document.addEventListener("click", (e) => {
+  const link = e.target.closest("[data-goto]");
+  if (!link) return;
+  e.preventDefault();
+  const btn = document.querySelector(`.tabs button[data-tab="${link.dataset.goto}"]`);
+  if (btn) btn.click();
+});
+
 /* ---------- 总览 ---------- */
 
 /* 天气详情页：中国天气网（页面上的数字仍来自 Open-Meteo 采集，点过去看的是同一城市的预报页）。
@@ -619,34 +628,162 @@ function dramaCard(it, platsMeta) {
   </a>`;
 }
 
-/* ---------- 趋势 ---------- */
+/* ---------- 趋势（榜单 + 解读） ---------- */
 function renderTrends() {
-  const repos = state.data.trends?.repos || [];
-  $("#trends-list").innerHTML = repos.map((r) => `
-    <li><a href="${r.url}" target="_blank" rel="noopener">${esc(r.full_name)}</a>
+  const t = state.data.trends;
+  const repos = t?.repos || [];
+  const tracking = t?.tracking_days || 0;
+  const meta = $("#trends-meta");
+  if (meta) {
+    meta.textContent = `${repos.length} 个 · 采集于 ${fmtDateTime(t?.fetched_at)}${tracking >= 2 ? ` · 已追踪 ${tracking} 天` : ""}`;
+  }
+  $("#trends-list").innerHTML = repos.map((r) => {
+    const desc = r.description_zh || r.description || "";
+    let badge = "";
+    if (tracking >= 2) {
+      if (r.is_new) badge = `<span class="trend-badge new">新上榜</span>`;
+      else if ((r.streak || 1) >= 2) badge = `<span class="trend-badge">连续 ${r.streak} 天</span>`;
+    }
+    const week = r.stars_7d ? `<span>7 日 +${fmtNum(r.stars_7d)}</span>` : "";
+    return `<li><a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.full_name)}</a>
     <div class="meta"><span class="tag">${esc(r.language)}</span>
-    <span>★ ${r.stars.toLocaleString()}</span><span>今日 +${r.stars_today}</span></div>
-    <div class="meta" style="margin-top:2px">${esc(r.description || "")}</div></li>`).join("")
-    || `<li class="empty">暂无数据</li>`;
-  renderTrendsChart();
+    <span>★ ${fmtNum(r.stars)}</span><span>今日 +${fmtNum(r.stars_today)}</span>${week}${badge}</div>
+    ${desc ? `<div class="meta" style="margin-top:2px">${esc(desc)}</div>` : ""}</li>`;
+  }).join("") || `<li class="empty">暂无数据</li>`;
 }
-function renderTrendsChart() {
-  const el = $("#trends-chart");
-  const repos = (state.data.trends?.repos || []).slice(0, 12);
-  if (!repos.length) { el.innerHTML = `<div class="empty">暂无数据</div>`; return; }
-  const chart = initChart(el);
-  chart.setOption({
-    backgroundColor: "transparent",
-    tooltip: { trigger: "axis", axisPointer: { type: "shadow" } },
-    grid: { left: 220, right: 40, top: 10, bottom: 30 },
-    xAxis: { type: "value", axisLabel: { color: CHART.dim }, splitLine: { lineStyle: { color: CHART.grid } } },
-    yAxis: { type: "category", data: repos.map((r) => r.full_name).reverse(),
-      axisLabel: { color: CHART.text, fontSize: 11 } },
-    series: [{ type: "bar", data: repos.map((r) => r.stars_today).reverse(),
-      itemStyle: { color: { type: "linear", x: 0, y: 0, x2: 1, y2: 0,
-        colorStops: [{ offset: 0, color: CHART.accent }, { offset: 1, color: CHART.gradB }] },
-        borderRadius: [0, 6, 6, 0] }, barWidth: 14 }],
+
+/* ---------- 趋势分析：把热榜数据读成几条结论 ---------- */
+function fmtNum(n) { return (n || 0).toLocaleString("zh-CN"); }
+
+/* 榜单的横截面指标，总览和趋势共用一份算法 */
+function trendStats(repos) {
+  const totalToday = repos.reduce((s, r) => s + (r.stars_today || 0), 0);
+  const fastest = repos.slice().sort((a, b) => b.stars_today - a.stars_today);
+
+  const langCount = {};
+  repos.forEach((r) => {
+    const raw = (r.language || "").trim();
+    const k = (!raw || raw === "—" || raw === "-") ? "未标注" : raw;
+    langCount[k] = (langCount[k] || 0) + 1;
   });
+  const langs = Object.entries(langCount).sort((a, b) => b[1] - a[1]);
+
+  const scales = [
+    { name: "不足 1 万星", n: repos.filter((r) => r.stars < 10000).length },
+    { name: "1 万 – 5 万星", n: repos.filter((r) => r.stars >= 10000 && r.stars < 50000).length },
+    { name: "5 万星以上", n: repos.filter((r) => r.stars >= 50000).length },
+  ];
+
+  // 爆发度：今日增量占总星数比例，过滤掉日增太小的噪声
+  const breakout = repos
+    .filter((r) => r.stars > 0 && r.stars_today >= 100)
+    .map((r) => ({ ...r, ratio: r.stars_today / r.stars }))
+    .sort((a, b) => b.ratio - a.ratio)
+    .slice(0, 6);
+
+  return {
+    totalToday,
+    fastest,
+    langs,
+    scales,
+    breakout,
+    newCount: repos.filter((r) => r.is_new).length,
+    weekGained: repos.reduce((s, r) => s + (r.stars_7d || 0), 0),
+    streakTop: repos.slice().sort((a, b) => (b.streak || 1) - (a.streak || 1))[0],
+  };
+}
+
+function renderDist(sel, rows) {
+  const el = $(sel);
+  if (!el) return;
+  if (!rows.length) { el.innerHTML = `<div class="empty">暂无数据</div>`; return; }
+  const max = Math.max(1, ...rows.map((r) => r.n));
+  let lead = 0;
+  rows.forEach((r, i) => { if (r.n > rows[lead].n) lead = i; });
+  el.innerHTML = rows.map((r, i) => `
+    <div class="dist-row${i === lead ? " lead" : ""}">
+      <span class="dist-name">${esc(r.name)}</span>
+      <span class="dist-bar"><i style="width:${Math.max(3, Math.round(r.n / max * 100))}%"></i></span>
+      <span class="dist-num">${r.n}</span>
+    </div>`).join("");
+}
+
+function renderTrendAnalysis() {
+  const t = state.data.trends;
+  const repos = (t?.repos || []).slice();
+  const meta = $("#wind-meta");
+  if (!repos.length) {
+    if (meta) meta.textContent = "";
+    ["#wind-insights", "#wind-langs", "#wind-scales", "#wind-fastest", "#wind-breakout"].forEach((s) => {
+      const el = $(s);
+      if (el) el.innerHTML = `<li class="empty">暂无热榜数据</li>`;
+    });
+    return;
+  }
+  const tracking = t?.tracking_days || 0;
+  if (meta) {
+    meta.textContent = `${repos.length} 个仓库 · 采集于 ${fmtDateTime(t.fetched_at)}${tracking >= 2 ? ` · 已追踪 ${tracking} 天` : ""}`;
+  }
+
+  const { totalToday, fastest, langs, scales, breakout, newCount } = trendStats(repos);
+
+  const lines = [];
+  lines.push(`<b>${repos.length}</b> 个热榜仓库今天合计新增 <b>${fmtNum(totalToday)}</b> 星，平均每个 <b>+${fmtNum(Math.round(totalToday / repos.length))}</b>。`);
+  lines.push(`语言上 <b>${esc(langs[0][0])}</b> 最多，${langs[0][1]} 个（${Math.round(langs[0][1] / repos.length * 100)}%）${langs[1] ? `，其次是 ${esc(langs[1][0])}（${langs[1][1]} 个）` : ""}。`);
+  if (fastest.length >= 2) {
+    lines.push(`增长最快的是 <b>${esc(fastest[0].full_name)}</b>（+${fmtNum(fastest[0].stars_today)} 星 / 日），${esc(fastest[1].full_name)} 紧随其后（+${fmtNum(fastest[1].stars_today)}）。`);
+  }
+  lines.push(`结构上 ${scales[2].n} 个是 5 万星以上的成熟项目，${scales[0].n} 个还不足 1 万星${tracking >= 2 ? `；今天 ${newCount} 个新上榜` : ""}。`);
+  if (breakout.length && breakout[0].ratio >= 0.12) {
+    lines.push(`今日增量占自身总星数最高的是 <b>${esc(breakout[0].full_name)}</b>（${Math.round(breakout[0].ratio * 100)}%），属于短期爆发型。`);
+  }
+  $("#wind-insights").innerHTML = lines.map((s) => `<li>${s}</li>`).join("");
+
+  renderDist("#wind-langs", langs.slice(0, 6).map(([name, n]) => ({ name, n })));
+  renderDist("#wind-scales", scales);
+
+  $("#wind-fastest").innerHTML = fastest.slice(0, 6).map((r) => `
+    <li><a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.full_name)}</a>
+    <span class="val">+${fmtNum(r.stars_today)}</span></li>`).join("");
+
+  $("#wind-breakout").innerHTML = breakout.length ? breakout.map((r) => `
+    <li><a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.full_name)}</a>
+    <span class="val">${Math.round(r.ratio * 100)}%</span></li>`).join("")
+    : `<li class="empty">暂无明显爆发项目</li>`;
+}
+
+/* ---------- 总览 · 本周观察（趋势分析的浓缩版） ---------- */
+function renderWeek() {
+  const t = state.data.trends;
+  const repos = (t?.repos || []).slice();
+  const meta = $("#week-meta");
+  const box = $("#week-insights");
+  if (!box) return;
+  if (!repos.length) {
+    if (meta) meta.textContent = "";
+    box.innerHTML = `<li class="empty">暂无热榜数据</li>`;
+    return;
+  }
+  const tracking = t?.tracking_days || 0;
+  const { totalToday, fastest, langs, newCount, weekGained, streakTop } = trendStats(repos);
+  const lines = [];
+
+  if (weekGained > 0) {
+    lines.push(`最近一周热榜累计 <b>+${fmtNum(weekGained)}</b> 星，现在还有 ${repos.length} 个项目在榜。`);
+  } else {
+    lines.push(`热榜 ${repos.length} 个项目今日合计 <b>+${fmtNum(totalToday)}</b> 星。`);
+  }
+  if (fastest.length) {
+    lines.push(`增长最快的是 <b>${esc(fastest[0].full_name)}</b>（+${fmtNum(fastest[0].stars_today)} 星 / 日）。`);
+  }
+  if (tracking >= 2) {
+    lines.push(`今天 <b>${newCount}</b> 个新上榜；<b>${esc(streakTop.full_name)}</b> 已连续在榜 ${streakTop.streak} 天。`);
+  } else {
+    lines.push(`语言上 <b>${esc(langs[0][0])}</b> 最多（${langs[0][1]} 个），从今天开始记录在榜天数。`);
+  }
+
+  if (meta) meta.textContent = tracking >= 2 ? `已追踪 ${tracking} 天` : "首日追踪";
+  box.innerHTML = lines.map((s) => `<li>${s}</li>`).join("");
 }
 
 /* ---------- 知识库 ---------- */
@@ -826,8 +963,8 @@ function esc(s) {
 }
 
 function renderAll() {
-  renderOverview(); renderNews(); renderFinance(); renderWeather();
-  renderJobs(); renderDramas(); renderTrends(); renderKnowledge(); renderGraph();
+  renderOverview(); renderWeek(); renderNews(); renderFinance(); renderWeather();
+  renderJobs(); renderDramas(); renderTrends(); renderTrendAnalysis(); renderKnowledge(); renderGraph();
 }
 
 /* ---------- 自动刷新 ---------- */

@@ -1,0 +1,134 @@
+{
+  "days": [
+    {
+      "date": "2026-10-28",
+      "repos": [
+        {
+          "full_name": "hmjz100/LinkSwift",
+          "stars": 33477,
+          "stars_today": 3209
+        },
+        {
+          "full_name": "Nutlope/hallmark",
+          "stars": 39460,
+          "stars_today": 2830
+        },
+        {
+          "full_name": "debpalash/VoiceStudio",
+          "stars": 91833,
+          "stars_today": 2621
+        },
+        {
+          "full_name": "TauricResearch/TradingAgents",
+          "stars": 117494,
+          "stars_today": 1735
+        },
+        {
+          "full_name": "Panniantong/Agent-Reach",
+          "stars": 105123,
+          "stars_today": 1632
+        },
+        {
+          "full_name": "HKUDS/DeepTutor",
+          "stars": 46573,
+          "stars_today": 1598
+        },
+        {
+          "full_name": "makecindy/cindy",
+          "stars": 7684,
+          "stars_today": 1465
+        },
+        {
+          "full_name": "pbakaus/impeccable",
+          "stars": 90980,
+          "stars_today": 1449
+        },
+        {
+          "full_name": "elayadesign/ai-design-skills",
+          "stars": 9974,
+          "stars_today": 1395
+        },
+        {
+          "full_name": "JetBrains/thinkrail",
+          "stars": 4336,
+          "stars_today": 1204
+        },
+        {
+          "full_name": "YuJunZhiXue/dsh-purge",
+          "stars": 11380,
+          "stars_today": 1201
+        },
+        {
+          "full_name": "affaan-m/ECC",
+          "stars": 291115,
+          "stars_today": 1165
+        },
+        {
+          "full_name": "NVIDIA/SkillSpector",
+          "stars": 22808,
+          "stars_today": 953
+        },
+        {
+          "full_name": "gitroomhq/postiz-app",
+          "stars": 39637,
+          "stars_today": 951
+        },
+        {
+          "full_name": "heygen-com/hyperframes",
+          "stars": 74147,
+          "stars_today": 934
+        },
+        {
+          "full_name": "togg53192-cmd/jailbreaks",
+          "stars": 5977,
+          "stars_today": 902
+        },
+        {
+          "full_name": "nightly-labs/openbot",
+          "stars": 2677,
+          "stars_today": 777
+        },
+        {
+          "full_name": "AgriciDaniel/claude-seo",
+          "stars": 22884,
+          "stars_today": 711
+        },
+        {
+          "full_name": "tt-a1i/archify",
+          "stars": 90623,
+          "stars_today": 659
+        },
+        {
+          "full_name": "obra/superpowers",
+          "stars": 306698,
+          "stars_today": 617
+        },
+        {
+          "full_name": "pollen-robotics/microduck",
+          "stars": 12810,
+          "stars_today": 599
+        },
+        {
+          "full_name": "rohitg00/ai-engineering-from-scratch",
+          "stars": 74790,
+          "stars_today": 424
+        },
+        {
+          "full_name": "ruvnet/RuView",
+          "stars": 100427,
+          "stars_today": 415
+        },
+        {
+          "full_name": "remotion-dev/remotion",
+          "stars": 68366,
+          "stars_today": 387
+        },
+        {
+          "full_name": "addyosmani/agent-skills",
+          "stars": 111240,
+          "stars_today": 346
+        }
+      ]
+    }
+  ]
+}

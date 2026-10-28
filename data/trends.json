@@ -6,7 +6,9 @@
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "stars": 33477,
       "stars_today": 3209,
-      "language": "JavaScript"
+      "language": "JavaScript",
+      "streak": 1,
+      "is_new": true
     },
     {
       "full_name": "Nutlope/hallmark",
@@ -14,15 +16,21 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "stars": 39460,
       "stars_today": 2830,
-      "language": "CSS"
+      "language": "CSS",
+      "description_zh": "Claude Code、Cursor和Codex的防AI倾斜设计技能。",
+      "streak": 1,
+      "is_new": true
     },
     {
       "full_name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "stars": 91833,
       "stars_today": 2621,
-      "language": "Python"
+      "language": "Python",
+      "description_zh": "VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。",
+      "streak": 1,
+      "is_new": true
     },
     {
       "full_name": "TauricResearch/TradingAgents",
@@ -30,15 +38,21 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "stars": 117494,
       "stars_today": 1735,
-      "language": "Python"
+      "language": "Python",
+      "description_zh": "TradingAgent ：多代理LLM金融交易框架",
+      "streak": 1,
+      "is_new": true
     },
     {
       "full_name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "stars": 105123,
       "stars_today": 1632,
-      "language": "Python"
+      "language": "Python",
+      "description_zh": "让您的人工智能代理看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu —一个CLI ，无API费用。",
+      "streak": 1,
+      "is_new": true
     },
     {
       "full_name": "HKUDS/DeepTutor",
@@ -46,7 +60,10 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "stars": 46573,
       "stars_today": 1598,
-      "language": "Python"
+      "language": "Python",
+      "description_zh": "DeepTutor ：终身个性化辅导。https://deeptutor.info/。",
+      "streak": 1,
+      "is_new": true
     },
     {
       "full_name": "makecindy/cindy",
@@ -54,7 +71,10 @@
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "stars": 7684,
       "stars_today": 1465,
-      "language": "TypeScript"
+      "language": "TypeScript",
+      "description_zh": "考虑一下吧。开箱即用的开源AI代理· 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "streak": 1,
+      "is_new": true
     },
     {
       "full_name": "pbakaus/impeccable",
@@ -62,7 +82,10 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "stars": 90980,
       "stars_today": 1449,
-      "language": "Rust"
+      "language": "Rust",
+      "description_zh": "您的编码代理的设计词汇。大胆引导，通过批评和审核进行评审，在AI SLOP出货前抓住它。",
+      "streak": 1,
+      "is_new": true
     },
     {
       "full_name": "elayadesign/ai-design-skills",
@@ -70,7 +93,9 @@
       "description": "",
       "stars": 9974,
       "stars_today": 1395,
-      "language": "—"
+      "language": "—",
+      "streak": 1,
+      "is_new": true
     },
     {
       "full_name": "JetBrains/thinkrail",
@@ -78,7 +103,10 @@
       "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
       "stars": 4336,
       "stars_today": 1204,
-      "language": "TypeScript"
+      "language": "TypeScript",
+      "description_zh": "轻量级的真实IDE中带有pi的Vibe代码，可根据您的工作方式自行定制—您需要的Vibe",
+      "streak": 1,
+      "is_new": true
     },
     {
       "full_name": "YuJunZhiXue/dsh-purge",
@@ -86,7 +114,9 @@
       "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
       "stars": 11380,
       "stars_today": 1201,
-      "language": "JavaScript"
+      "language": "JavaScript",
+      "streak": 1,
+      "is_new": true
     },
     {
       "full_name": "affaan-m/ECC",
@@ -94,7 +124,10 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "stars": 291115,
       "stars_today": 1165,
-      "language": "JavaScript"
+      "language": "JavaScript",
+      "description_zh": "座席线束性能优化系统。Claude Code、Codex、Opencode、Cursor等的技能、本能、记忆、安全和研究优先开发。",
+      "streak": 1,
+      "is_new": true
     },
     {
       "full_name": "NVIDIA/SkillSpector",
@@ -102,7 +135,10 @@
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "stars": 22808,
       "stars_today": 953,
-      "language": "Python"
+      "language": "Python",
+      "description_zh": "人工智能代理技能的安全扫描仪。在安装之前，检测Claude Code、Codex和MCP技能中的漏洞、恶意模式、安全风险、提示注入、数据泄露和供应链风险。",
+      "streak": 1,
+      "is_new": true
     },
     {
       "full_name": "gitroomhq/postiz-app",
@@ -110,7 +146,10 @@
       "description": "📨 The ultimate agentic social media scheduling tool 🤖",
       "stars": 39637,
       "stars_today": 951,
-      "language": "TypeScript"
+      "language": "TypeScript",
+      "description_zh": "📨 终极代理社交媒体调度工具 🤖",
+      "streak": 1,
+      "is_new": true
     },
     {
       "full_name": "heygen-com/hyperframes",
@@ -118,7 +157,10 @@
       "description": "Write HTML. Render video. Built for agents.",
       "stars": 74147,
       "stars_today": 934,
-      "language": "TypeScript"
+      "language": "TypeScript",
+      "description_zh": "编写HTML。渲染视频。专为客服代表打造。",
+      "streak": 1,
+      "is_new": true
     },
     {
       "full_name": "togg53192-cmd/jailbreaks",
@@ -126,7 +168,10 @@
       "description": "LIST OF ALL MY JAILBREAKS",
       "stars": 5977,
       "stars_today": 902,
-      "language": "—"
+      "language": "—",
+      "description_zh": "我所有的JAILBREAK列表",
+      "streak": 1,
+      "is_new": true
     },
     {
       "full_name": "nightly-labs/openbot",
@@ -134,7 +179,10 @@
       "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "stars": 2677,
       "stars_today": 777,
-      "language": "TypeScript"
+      "language": "TypeScript",
+      "description_zh": "持久性AI队友的本地首选桌面工作区。使用专用工作区、任务队列、文件共享、浏览器控制和代理间协作运行Codex、Claude和Grok。",
+      "streak": 1,
+      "is_new": true
     },
     {
       "full_name": "AgriciDaniel/claude-seo",
@@ -142,7 +190,10 @@
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "stars": 22884,
       "stars_today": 711,
-      "language": "Python"
+      "language": "Python",
+      "description_zh": "适用于Claude Code的通用SEO技能。26个子技能+ 19个子代理，涵盖技术SEO、E-E-A-T、SCHEMA、GEO/AEO、代理就绪性（ Lighthouse Agentic Browsing、WebMCP、llms.txt ）、反向链接、本地SEO、电子商务、国际SEO、Google API和PDF/Excel报告。9个实时SEO数据的可选扩展。",
+      "streak": 1,
+      "is_new": true
     },
     {
       "full_name": "tt-a1i/archify",
@@ -150,15 +201,21 @@
       "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
       "stars": 90623,
       "stars_today": 659,
-      "language": "JavaScript"
+      "language": "JavaScript",
+      "description_zh": "将任何想法、计划或代码库转换为漂亮的交互式图表。Claude Code、Codex等的代理技能。",
+      "streak": 1,
+      "is_new": true
     },
     {
       "full_name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "description": "An agentic skills framework & software development methodology that works.",
       "stars": 306698,
       "stars_today": 617,
-      "language": "Shell"
+      "language": "Shell",
+      "description_zh": "有效的代理技能框架和软件开发方法。",
+      "streak": 1,
+      "is_new": true
     },
     {
       "full_name": "pollen-robotics/microduck",
@@ -166,7 +223,10 @@
       "description": "A Tiny biped duck robot 🦆",
       "stars": 12810,
       "stars_today": 599,
-      "language": "Rust"
+      "language": "Rust",
+      "description_zh": "微型双足鸭机器人 🦆",
+      "streak": 1,
+      "is_new": true
     },
     {
       "full_name": "rohitg00/ai-engineering-from-scratch",
@@ -174,7 +234,10 @@
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "stars": 74790,
       "stars_today": 424,
-      "language": "Python"
+      "language": "Python",
+      "description_zh": "学习人工智能工程！学习它。建造它。为别人运送它。",
+      "streak": 1,
+      "is_new": true
     },
     {
       "full_name": "ruvnet/RuView",
@@ -182,7 +245,10 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "stars": 100427,
       "stars_today": 415,
-      "language": "Rust"
+      "language": "Rust",
+      "description_zh": "π RuView将商用WiFi信号转化为实时空间智能、生命体征监测和存在检测--所有这些都无需一个像素的视频。",
+      "streak": 1,
+      "is_new": true
     },
     {
       "full_name": "remotion-dev/remotion",
@@ -190,7 +256,10 @@
       "description": "🎥 Make videos programmatically with React",
       "stars": 68366,
       "stars_today": 387,
-      "language": "TypeScript"
+      "language": "TypeScript",
+      "description_zh": "🎥 使用React以编程方式制作视频",
+      "streak": 1,
+      "is_new": true
     },
     {
       "full_name": "addyosmani/agent-skills",
@@ -198,9 +267,14 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "stars": 111240,
       "stars_today": 346,
-      "language": "JavaScript"
+      "language": "JavaScript",
+      "description_zh": "AI编码代理的生产级工程技能。",
+      "streak": 1,
+      "is_new": true
     }
   ],
-  "count": 80,
-  "fetched_at": "2026-10-28T14:47:26+08:00"
+  "count": 25,
+  "fetched_at": "2026-10-28T14:47:26+08:00",
+  "tracking_days": 1,
+  "date": "2026-10-28"
 }

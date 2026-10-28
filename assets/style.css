@@ -409,6 +409,7 @@ main {
 
 /* ---------- 双栏（竖排分隔线） ---------- */
 .cols { display: grid; grid-template-columns: 1.5fr 1fr; column-gap: 0; }
+.cols.even { grid-template-columns: 1fr 1fr; }
 .cols > .card:first-child { padding-right: 44px; }
 .cols > .card:last-child { padding-left: 44px; border-left: 1px solid var(--rule); }
 
@@ -766,6 +767,81 @@ main {
 .card.side { border-right: 1px solid var(--rule); padding-right: 36px; }
 .card.main-col { padding-left: 40px; }
 
+/* ---------- 风向（热榜解读） ---------- */
+.insight-list { list-style: none; counter-reset: ins; padding-top: 2px; }
+.insight-list li {
+  position: relative; padding: 13px 0 13px 42px;
+  border-bottom: 1px solid var(--rule);
+  font-size: 13.5px; line-height: 1.85; color: var(--text-dim);
+  letter-spacing: 0.01em;
+}
+.insight-list li:last-child { border-bottom: 0; }
+.insight-list li::before {
+  counter-increment: ins; content: counter(ins, decimal-leading-zero);
+  position: absolute; left: 0; top: 16px;
+  font-size: 10px; letter-spacing: 0.08em; color: var(--accent);
+  font-variant-numeric: tabular-nums;
+}
+.insight-list b { color: var(--text); font-weight: 600; }
+
+.card-note { padding: 12px 0 2px; font-size: 11.5px; color: var(--text-faint); letter-spacing: 0.02em; }
+.card-note a {
+  color: var(--accent); text-decoration: none;
+  border-bottom: 1px solid rgba(var(--accent-rgb), 0.35);
+  transition: border-color 0.15s ease;
+}
+.card-note a:hover { border-bottom-color: var(--accent); }
+
+.dist { padding: 16px 0 6px; }
+.dist-row {
+  display: grid; grid-template-columns: 98px minmax(0, 1fr) 30px;
+  align-items: center; gap: 12px; padding: 7px 0;
+}
+.dist-name {
+  font-size: 12px; color: var(--text-dim); letter-spacing: 0.02em;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.dist-bar { height: 3px; background: var(--rule); border-radius: 2px; overflow: hidden; }
+.dist-bar i { display: block; height: 100%; background: var(--text-faint); }
+.dist-row.lead .dist-bar i { background: var(--accent); }
+.dist-num {
+  font-size: 12px; color: var(--text); text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.rank-list { list-style: none; counter-reset: rk; padding-top: 4px; }
+.rank-list li {
+  display: grid; grid-template-columns: 22px minmax(0, 1fr) auto;
+  gap: 10px; align-items: baseline;
+  padding: 10px 0; border-bottom: 1px solid var(--rule);
+}
+.rank-list li:last-child { border-bottom: 0; }
+.rank-list li::before {
+  counter-increment: rk; content: counter(rk, decimal-leading-zero);
+  font-size: 10px; letter-spacing: 0.06em; color: var(--text-faint);
+  font-variant-numeric: tabular-nums;
+}
+.rank-list a {
+  font-size: 13px; font-weight: 500; color: var(--text); text-decoration: none;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  transition: color 0.14s ease;
+}
+.rank-list a:hover { color: var(--accent); }
+.rank-list .val {
+  font-size: 12px; color: var(--text-dim);
+  font-variant-numeric: tabular-nums;
+}
+
+/* 榜单里的纵向标记（新上榜 / 连续在榜） */
+.trend-badge {
+  font-size: 10px; letter-spacing: 0.06em; line-height: 1.8;
+  padding: 0 6px; border-radius: var(--radius-sm);
+  border: 1px solid var(--rule-strong); color: var(--text-dim);
+}
+.trend-badge.new {
+  color: var(--accent); border-color: rgba(var(--accent-rgb), 0.38);
+}
+
 /* ---------- 空态 / 页脚 ---------- */
 .empty {
   color: var(--text-faint); font-size: 12px; padding: 32px 0;
@@ -802,6 +878,7 @@ footer .sep { opacity: 0.45; }
   .ledger .stat:nth-child(3n + 1) { border-left: 0; padding-left: 0; }
   .ledger .stat:nth-child(n + 4) { border-top: 1px solid var(--rule); }
   .cols { grid-template-columns: 1fr; }
+  .cols.even { grid-template-columns: 1fr; }
   .cols > .card:first-child { padding-right: 0; }
   .cols > .card:last-child {
     padding-left: 0; border-left: 0; border-top: 1px solid var(--rule-strong);

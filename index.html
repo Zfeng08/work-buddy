@@ -77,6 +77,12 @@
     <div class="ledger" id="stat-grid"></div>
 
     <section class="card band">
+      <h2>本周观察 <span class="badge" id="week-meta"></span></h2>
+      <ol class="insight-list" id="week-insights"></ol>
+      <p class="card-note"><a href="#" data-goto="trends">完整分析在「07 趋势」→</a></p>
+    </section>
+
+    <section class="card band">
       <h2>天气速览 <span class="badge">每日 3 次采集</span><a class="badge-link" href="https://www.weather.com.cn/" target="_blank" rel="noopener">中国天气网 ↗</a></h2>
       <div class="weather-band" id="ov-weather"></div>
     </section>
@@ -145,11 +151,34 @@
   <!-- 趋势 -->
   <section id="tab-trends" class="panel">
     <div class="card full">
-      <h2>GitHub Trending</h2>
-      <div id="trends-chart" class="chart"></div>
+      <h2>本期观察 <span class="badge" id="wind-meta"></span></h2>
+      <ol class="insight-list" id="wind-insights"></ol>
     </div>
+
+    <div class="cols even">
+      <section class="card">
+        <h2>语言分布</h2>
+        <div class="dist" id="wind-langs"></div>
+      </section>
+      <section class="card">
+        <h2>规模结构</h2>
+        <div class="dist" id="wind-scales"></div>
+      </section>
+    </div>
+
+    <div class="cols even">
+      <section class="card">
+        <h2>今日增速 <span class="badge">星 / 日</span></h2>
+        <ol class="rank-list" id="wind-fastest"></ol>
+      </section>
+      <section class="card">
+        <h2>短期爆发 <span class="badge">今日增量 ÷ 总星数</span></h2>
+        <ol class="rank-list" id="wind-breakout"></ol>
+      </section>
+    </div>
+
     <div class="card full">
-      <h2>仓库列表</h2>
+      <h2>完整榜单 <span class="badge" id="trends-meta"></span></h2>
       <ul class="list" id="trends-list"></ul>
     </div>
   </section>
