@@ -698,7 +698,7 @@ function renderTrendChart() {
       data: points.map((p) => p[0].slice(5)),
       axisLine: { lineStyle: { color: CHART.border } },
       axisTick: { show: false },
-      axisLabel: { color: CHART.dim, fontSize: 10, interval: 2 },
+      axisLabel: { color: CHART.dim, fontSize: 10, interval: days.length > 10 ? 2 : 0 },
     },
     yAxis: {
       type: "value",
