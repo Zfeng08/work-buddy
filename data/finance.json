@@ -2,37 +2,37 @@
   "quotes": [
     {
       "name": "上证指数",
-      "price": 3599.02,
-      "change": -52.41,
-      "change_pct": -1.44
+      "price": 3631.33,
+      "change": 32.31,
+      "change_pct": 0.9
     },
     {
       "name": "深证成指",
-      "price": 10833.78,
-      "change": -304.42,
-      "change_pct": -2.73
+      "price": 11007.92,
+      "change": 174.14,
+      "change_pct": 1.61
     },
     {
       "name": "创业板指",
-      "price": 2413.63,
-      "change": -103.96,
-      "change_pct": -4.13
+      "price": 2458.37,
+      "change": 44.74,
+      "change_pct": 1.85
     },
     {
       "name": "恒生指数",
-      "price": 23294.42,
-      "change": 335.77,
-      "change_pct": 1.46
+      "price": 23417.67,
+      "change": 123.25,
+      "change_pct": 0.53
     },
     {
       "name": "腾讯控股",
-      "price": 383.6,
-      "change": 6.0,
-      "change_pct": 1.59
+      "price": 393.6,
+      "change": 10.0,
+      "change_pct": 2.61
     },
     {
       "name": "美元人民币",
-      "price": 6.654,
+      "price": 6.647,
       "change": -0.007,
       "change_pct": -0.11
     }
@@ -1964,7 +1964,48 @@
           "change_pct": -0.11
         }
       ]
+    },
+    {
+      "date": "2026-11-02",
+      "quotes": [
+        {
+          "name": "上证指数",
+          "price": 3631.33,
+          "change": 32.31,
+          "change_pct": 0.9
+        },
+        {
+          "name": "深证成指",
+          "price": 11007.92,
+          "change": 174.14,
+          "change_pct": 1.61
+        },
+        {
+          "name": "创业板指",
+          "price": 2458.37,
+          "change": 44.74,
+          "change_pct": 1.85
+        },
+        {
+          "name": "恒生指数",
+          "price": 23417.67,
+          "change": 123.25,
+          "change_pct": 0.53
+        },
+        {
+          "name": "腾讯控股",
+          "price": 393.6,
+          "change": 10.0,
+          "change_pct": 2.61
+        },
+        {
+          "name": "美元人民币",
+          "price": 6.647,
+          "change": -0.007,
+          "change_pct": -0.11
+        }
+      ]
     }
   ],
-  "fetched_at": "2026-11-01T23:56:37+08:00"
+  "fetched_at": "2026-11-02T14:54:54+08:00"
 }
