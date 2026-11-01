@@ -5,14 +5,14 @@
       "note": "北京",
       "cn_id": "101010100",
       "current": {
-        "temperature": 16.4,
-        "apparent": 11.9,
-        "humidity": 25,
-        "wind_speed": 12.8,
+        "temperature": 14.2,
+        "apparent": 10.3,
+        "humidity": 30,
+        "wind_speed": 9.6,
         "weather_code": 0,
-        "pm25": 17.2,
-        "pm10": 32.6,
-        "time": "2026-11-01T15:15"
+        "pm25": 41.1,
+        "pm10": 54.2,
+        "time": "2026-11-01T17:15"
       },
       "daily": [
         {
@@ -57,14 +57,14 @@
       "note": "上海",
       "cn_id": "101020100",
       "current": {
-        "temperature": 24.3,
-        "apparent": 25.6,
-        "humidity": 69,
-        "wind_speed": 11.1,
-        "weather_code": 3,
-        "pm25": 39.7,
-        "pm10": 41.4,
-        "time": "2026-11-01T15:15"
+        "temperature": 18.7,
+        "apparent": 18.2,
+        "humidity": 84,
+        "wind_speed": 17.3,
+        "weather_code": 51,
+        "pm25": 44.4,
+        "pm10": 44.7,
+        "time": "2026-11-01T17:15"
       },
       "daily": [
         {
@@ -109,14 +109,14 @@
       "note": "广东",
       "cn_id": "101280101",
       "current": {
-        "temperature": 33.1,
-        "apparent": 34.5,
-        "humidity": 40,
-        "wind_speed": 9.2,
-        "weather_code": 2,
-        "pm25": 33.9,
-        "pm10": 41.2,
-        "time": "2026-11-01T15:15"
+        "temperature": 31.6,
+        "apparent": 32.7,
+        "humidity": 45,
+        "wind_speed": 12.6,
+        "weather_code": 1,
+        "pm25": 35.5,
+        "pm10": 41.3,
+        "time": "2026-11-01T17:15"
       },
       "daily": [
         {
@@ -161,14 +161,14 @@
       "note": "四川",
       "cn_id": "101270101",
       "current": {
-        "temperature": 20.1,
-        "apparent": 18.1,
-        "humidity": 39,
-        "wind_speed": 6.6,
+        "temperature": 19.6,
+        "apparent": 19.0,
+        "humidity": 51,
+        "wind_speed": 2.4,
         "weather_code": 3,
-        "pm25": 20.0,
-        "pm10": 30.2,
-        "time": "2026-11-01T15:15"
+        "pm25": 21.4,
+        "pm10": 31.2,
+        "time": "2026-11-01T17:15"
       },
       "daily": [
         {
@@ -213,14 +213,14 @@
       "note": "浙江",
       "cn_id": "101210101",
       "current": {
-        "temperature": 24.6,
-        "apparent": 25.6,
-        "humidity": 69,
-        "wind_speed": 14.8,
+        "temperature": 19.7,
+        "apparent": 18.7,
+        "humidity": 80,
+        "wind_speed": 21.1,
         "weather_code": 51,
-        "pm25": 31.2,
-        "pm10": 32.0,
-        "time": "2026-11-01T15:15"
+        "pm25": 18.0,
+        "pm10": 18.0,
+        "time": "2026-11-01T17:15"
       },
       "daily": [
         {
@@ -261,5 +261,5 @@
       ]
     }
   ],
-  "fetched_at": "2026-11-01T15:22:40+08:00"
+  "fetched_at": "2026-11-01T17:19:42+08:00"
 }
