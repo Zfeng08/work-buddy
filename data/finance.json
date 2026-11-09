@@ -2,39 +2,39 @@
   "quotes": [
     {
       "name": "上证指数",
-      "price": 3660.79,
-      "change": 11.61,
-      "change_pct": 0.32
+      "price": 3669.93,
+      "change": 9.14,
+      "change_pct": 0.25
     },
     {
       "name": "深证成指",
-      "price": 11145.49,
-      "change": -30.29,
-      "change_pct": -0.27
+      "price": 11242.91,
+      "change": 97.42,
+      "change_pct": 0.87
     },
     {
       "name": "创业板指",
-      "price": 2458.56,
-      "change": -6.67,
-      "change_pct": -0.27
+      "price": 2498.62,
+      "change": 40.06,
+      "change_pct": 1.63
     },
     {
       "name": "恒生指数",
-      "price": 24448.95,
-      "change": -32.91,
-      "change_pct": -0.13
+      "price": 24531.24,
+      "change": 82.29,
+      "change_pct": 0.34
     },
     {
       "name": "腾讯控股",
-      "price": 418.4,
-      "change": -1.4,
-      "change_pct": -0.33
+      "price": 418.0,
+      "change": -0.4,
+      "change_pct": -0.1
     },
     {
       "name": "美元人民币",
-      "price": 6.6721,
-      "change": -0.0005,
-      "change_pct": -0.01
+      "price": 6.671,
+      "change": -0.0011,
+      "change_pct": -0.02
     }
   ],
   "history": [
@@ -2292,7 +2292,48 @@
           "change_pct": -0.01
         }
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "quotes": [
+        {
+          "name": "上证指数",
+          "price": 3669.93,
+          "change": 9.14,
+          "change_pct": 0.25
+        },
+        {
+          "name": "深证成指",
+          "price": 11242.91,
+          "change": 97.42,
+          "change_pct": 0.87
+        },
+        {
+          "name": "创业板指",
+          "price": 2498.62,
+          "change": 40.06,
+          "change_pct": 1.63
+        },
+        {
+          "name": "恒生指数",
+          "price": 24531.24,
+          "change": 82.29,
+          "change_pct": 0.34
+        },
+        {
+          "name": "腾讯控股",
+          "price": 418.0,
+          "change": -0.4,
+          "change_pct": -0.1
+        },
+        {
+          "name": "美元人民币",
+          "price": 6.671,
+          "change": -0.0011,
+          "change_pct": -0.02
+        }
+      ]
     }
   ],
-  "fetched_at": "2026-11-10T03:43:33+08:00"
+  "fetched_at": "2026-11-10T10:57:15+08:00"
 }
