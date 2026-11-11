@@ -1,124 +1,140 @@
 {
   "items": [
     {
-      "title": "元太升级 Spectra 6 彩色电子纸，基础色彩从 6 种扩展至 9 种",
-      "link": "https://www.ithome.com/1/025/551.htm",
-      "summary": "IT之家 11 月 11 日消息，元太科技 (E Ink) 今日宣布推出 Spectra 6 彩色电子纸的升级版，将该技术平台的基础色彩从六个原色扩展至九色，在黑、白、红、黄、蓝、绿之外扩充橘、青、浅绿。更多的基础色彩能实现更丰富的色彩组合，从而呈现更细致的色彩变化，使影像过渡更加平顺，并减少像素化现象。采用 Spectra 6 九色系统的设备需搭配 SoC 及元太的电子纸 TCON（时序控制芯片",
+      "title": "谷歌 DeepMind 发布 AlphaGenome 2 基因序列模型：识别致病变异能力提升近一倍",
+      "link": "https://www.ithome.com/1/025/822.htm",
+      "summary": "IT之家 11 月 11 日消息，谷歌 DeepMind 发布新一代 DNA 序列模型 AlphaGenome 2，可预测 DNA 序列及其变异对特定人体细胞类型的影响，为科研人员挖掘疾病的细胞驱动因素提供全新工具。人体每个细胞携带相同的 DNA 蓝图，但不同细胞类型会通过开关不同基因完成特定功能。全球的人类细胞图谱项目已对数百万细胞的基因表达进行绘制，但预测细微 DNA 变异如何影响细胞基因表达",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Wed, 11 Nov 2026 07:40:57 GMT"
+      "published": "Wed, 11 Nov 2026 15:19:51 GMT"
     },
     {
-      "title": "智能体叫车、点外卖“水土不服”，优步、DoorDash 高管称没多少人用",
-      "link": "https://www.ithome.com/1/025/550.htm",
-      "summary": "IT之家 11 月 11 日消息，据《商业内幕》今天（11 日）凌晨报道，外界预测 AI 智能体将彻底改变网络购物方式，但海外两大巨头优步和 DoorDash 在最近的财报电话会议上透露，通过 Meta 的 Muse、Instinct 等 AI 智能体下达的订单仅有数百笔。相比两家公司每天数以百万计的网约车和外卖订单，AI 智能体带来的业务量几乎可以忽略不计。IT之家从报道中获悉，本月早些时候，优",
+      "title": "Xbox 版《GTA 6》预载文件出现 AMD FSR 4.1 线索，首发未必支持",
+      "link": "https://www.ithome.com/1/025/821.htm",
+      "summary": "IT之家 11 月 11 日消息，数据挖掘者最近一直在研究 Xbox 版《GTA 6》的预载文件，而近期发现的两项线索，让这款游戏的运行表现有了更多值得期待的地方。IT之家注意到，在数据挖掘者 Tex2 分享的文件包中，出现了两个库文件，分别名为 amd_fidelityfx_loader_xbox.dll 和 amd_fidelityfx_upscaler_xbox.dll。这两个文件的名称与微",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Wed, 11 Nov 2026 07:39:03 GMT"
+      "published": "Wed, 11 Nov 2026 15:02:56 GMT"
     },
     {
-      "title": "漫威新剧《幻视任务》今日完结：绯红女巫旺达现身片尾彩蛋，或将在《复仇者联盟 5》回归",
-      "link": "https://www.ithome.com/1/025/549.htm",
-      "summary": "IT之家 11 月 11 日消息，《旺达幻视》三部曲终章 —— 漫威新剧《幻视任务》已于今年 10 月 14 日在 Disney+ 开播。本片在今日迎来了大结局完结篇《永远》，本集时长约 72 分钟，讲述了幻视拥抱真实自我的探寻之旅，至此落下帷幕。IT之家注意到，目前《幻视任务》片尾彩蛋也已曝光，讲述了绯红女巫摧毁多元宇宙所有《黑暗神书》之后的剧情。如观众所期待的，旺达并死去，在山体崩塌之后，毁灭",
+      "title": "保时捷 CEO 骆明楷批评特斯拉 Roadster 发布会：我们不想搞任何特效或表演",
+      "link": "https://www.ithome.com/1/025/820.htm",
+      "summary": "IT之家 11 月 11 日消息，据彭博社今天（11 日）晚间报道，保时捷 CEO 骆明楷（Michael Leiters）批评特斯拉 Roadster 发布会过于追求噱头，并指出特斯拉展示的飞行汽车与保时捷 Mission S 概念车面向不同的消费群体。骆明楷在柏林出席一场会议时直言：“我们不想搞任何特效或表演。”同时，他强调，保时捷希望通过新车展示真正的技术创新。特斯拉与保时捷都在当地时间 1",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Wed, 11 Nov 2026 07:38:23 GMT"
+      "published": "Wed, 11 Nov 2026 15:01:31 GMT"
     },
     {
-      "title": "纽约推出 AI 监管新规，OpenAI、Anthropic 需 72 小时内上报安全事故",
-      "link": "https://www.ithome.com/1/025/548.htm",
-      "summary": "IT之家 11 月 11 日消息，纽约州正准备实施美国最重要的人工智能安全法规之一。该州周二正式开放了一个监管登记平台，Anthropic、OpenAI 等大型前沿 AI 开发商必须在 2027 年 1 月 1 日前完成注册。这项名为《负责任人工智能安全与教育法案》（RAISE Act）的法规，是纽约州推出的一项 AI 安全与透明度法案，将于 2027 年初正式生效。根据规定，年营收超过 5 亿美",
+      "title": "553mm 超薄机身：卡萨帝热泵洗烘一体机 10498 → 5500 元破冰新低",
+      "link": "https://www.ithome.com/1/025/819.htm",
+      "summary": "卡萨帝 · 揽光 GLD 热泵洗烘一体机 10kg，型号 CE AB10LWUGLDU1。日常售价 10498 元，今日叠加 PLUS 立减 + 15% 国补后仅需 6104.2 元：领 8.5 折洗衣机券：点此查看售价下方可选“家电组合购”任选 1 件家电一起加购下单下单时选择“以旧换新 → 个护健康 → 普通牙刷（无需回收）”洗衣机实付 5900 元，今日下单官方返 300 元红包。参与家电家",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Wed, 11 Nov 2026 07:36:55 GMT"
+      "published": "Wed, 11 Nov 2026 14:55:17 GMT"
     },
     {
-      "title": "全球首个“语音控制卫星”纪录诞生，喊话成功启动《毁灭战士》游戏",
-      "link": "https://www.ithome.com/1/025/546.htm",
-      "summary": "IT之家 11 月 11 日消息，挪威奥斯陆业余无线电小组（LA4O）于 11 月 9 日发布博文，宣布其小组成员通过地面无线电发送语音指令，成功让在轨的 OPS-SAT PRETTY 卫星启动经典游戏《毁灭战士》。团队称，这是全球首次通过无线电链路，让卫星自主识别并执行口头指令。该实验由太空机器学习技术公司 Tanagra Space 牵头，联合欧洲航天局、格拉茨理工大学及业余无线电爱好者完成。",
+      "title": "以旧换新 3999 → 2291 元：小米米家智能净烟机 3 Pro 国补直降，7 级大风力",
+      "link": "https://www.ithome.com/1/025/818.htm",
+      "summary": "【京东活动可能随时变更，需以实付款为准】小米 · 米家智能净烟机 3 Pro 开售于 2026 年 8 月，官方定价 3999 元。京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 2291 元：领 8.7 折券：点此查看。下单时选择“以旧换新 → 个护健康 → 普通牙刷（无需回收）”补贴 200 元。参与“多买多返”活动返 30 元 E 卡，晒单返 50 ",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Wed, 11 Nov 2026 07:34:50 GMT"
+      "published": "Wed, 11 Nov 2026 14:49:11 GMT"
     },
     {
-      "title": "冒充自己的诈骗广告充斥 Facebook，日本亿万富翁前泽友作起诉 Meta 索赔 1 日元遭地方法院驳回",
-      "link": "https://www.ithome.com/1/025/544.htm",
-      "summary": "IT之家 11 月 11 日消息，据日媒 ITmedia 今天报道，日本亿万富翁前泽友作近日起诉美国 Meta 公司，诉讼涉及 Facebook 等社交媒体投放的冒用形象诈骗广告，但东京地方裁判所（法院）已经将他的诉讼驳回。据报道，从 2023 年 6 月开始，Facebook 和 Instagram 上出现了未经授权冒用前泽友作姓名、照片的广告。这些广告声称“两天内将 5,000 日元（现汇率约",
+      "title": "俄罗斯月球核电站新计划：明年选定方案、本世纪 30 年代中期运行",
+      "link": "https://www.ithome.com/1/025/817.htm",
+      "summary": "IT之家 11 月 11 日消息，据央视新闻报道，当地时间 10 日，俄罗斯国家原子能公司首席执行官利哈乔夫表示，该公司计划于 2027 年选定月球核电站方案。利哈乔夫在当日举行的政府航天发展战略会议后透露，俄罗斯国家原子能公司正在研究 5 种月球核电站方案，将于 2027 年选定其中一种。当前，国家原子能公司、俄罗斯库尔恰托夫研究所与俄罗斯科学院正在联合研究相关课题。他进一步表示：“这里说的是功",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Wed, 11 Nov 2026 07:31:33 GMT"
+      "published": "Wed, 11 Nov 2026 14:46:46 GMT"
     },
     {
-      "title": "Omdia：6G 时代将于 2029 年开启，中国首批部署，用户普及速度将慢于 5G",
-      "link": "https://www.ithome.com/1/025/309.htm",
-      "summary": "IT之家 11 月 11 日消息，Omdia 今日发布预测报告，全球首次 6G 商用部署将于 2029 年落地，开启新一代移动通信技术周期。Omdia 预计首批 6G 将在 2029 年推出，标准将在 2028 年底 / 2029 年初实现。初期启动可能采用多重 RAT 频谱共享（MRSS），这将使运营商能够在 5G 和 6G 之间共享现有频谱分配，消除了等待新频谱上线的时间。根据 Omdia 测",
+      "title": "热泵洗烘一体机破冰新低：海信 12kg 洗 +8kg 烘 6199 → 3238 元限 1 小时",
+      "link": "https://www.ithome.com/1/025/816.htm",
+      "summary": "12kg 洗 + 8kg 烘海信 · 大薄荷 E3S 热泵洗烘一体机灰白双色可选，日常大促价 6199 元。今日 11.11 下单仅需 3668 元，11 月 11 日下单返 400 元 E 卡，折合仅需 3268 元。京东家电“多买多返”返 30 元 E 卡（售价下方可见活动标签），折合仅需 3238 元官方好价：下单时需选择“以旧换新” → 家庭小电 → 普通餐具：京东海信 热泵洗烘一体机大薄",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Wed, 11 Nov 2026 07:29:12 GMT"
+      "published": "Wed, 11 Nov 2026 14:46:10 GMT"
     },
     {
-      "title": "李斌：蔚来 ES9 第 4 万台交付，连续五个月位居 50 万级纯电销量第一",
-      "link": "https://www.ithome.com/1/025/529.htm",
-      "summary": "IT之家 11 月 11 日消息，蔚来创始人、董事长、CEO 李斌今日宣布，蔚来 ES9 第 4 万台交付，核力欣健董事长张文杰先生成为车主。蔚来 ES9 持续刷新中国 50 万级高端纯电交付纪录，连续五个月位居 50 万级纯电销量第一，感谢大家支持，我们继续努力，一起加电！据IT之家此前报道，蔚来 ES9 旗舰 SUV 于 5 月 27 日上市，整车购买价格为 49.8 万-62.8 万起，租电",
+      "title": "Adobe 公布四项 AI 实验项目：照片秒变 3D 场景，还能通过聊天设计 AI 角色",
+      "link": "https://www.ithome.com/1/025/815.htm",
+      "summary": "IT之家 11 月 11 日消息，每年举办的 Adobe MAX 大会上，Adobe 展示的最令人印象深刻的技术之一，往往是那些仍处于实验阶段、尚未正式推出的创新功能。今天，该公司公布了最新一批实验项目：它们能够将普通图片转换为可探索的 3D 场景，通过与 AI 角色对话来设计角色形象，还能让照片编辑变成简单的复制粘贴操作。首先是非常奇特的 Project Screen Test 项目，其旨在让用",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Wed, 11 Nov 2026 07:27:50 GMT"
+      "published": "Wed, 11 Nov 2026 14:32:05 GMT"
     },
     {
-      "title": "IDC：2030 年，全球数据中心机柜量将达 5800 万架",
-      "link": "https://www.ithome.com/1/025/483.htm",
-      "summary": "IT之家 11 月 11 日消息，IDC《全球半年度数据中心设施跟踪报告》数据显示，全球已配置机柜数量预计将从 2026 年的约 2500 万架增长至 2030 年的 5800 万架。同期，全球数据中心年度能源消耗预计将从 2025 年的 519 太瓦时（TWh）增长至 2030 年的 1308 太瓦时；全球数据中心设施资本支出预计将从 2025 年的 2,760 亿美元（IT之家注：现汇率约合 ",
+      "title": "贴脸开大：当着 XBOX 高层的面，前《铁拳》总监原田胜弘直言希望别再推出 XSS 这样的主机",
+      "link": "https://www.ithome.com/1/025/814.htm",
+      "summary": "IT之家 11 月 11 日消息，前《铁拳》系列总监、现任 VS Studio CEO 原田胜弘向来说话毫不客气。最近，他又在一场开发者座谈会上当着 XBOX 团队成员的面直言，希望微软别再推出 XBOX Series S 这样的主机。当地时间 9 日，据外媒 Inven Global 报道，原田胜弘出席了在韩国举行的 2026 年主机游戏开发者大会。座谈会由前索尼总裁吉田修平主持，参与讨论的还有",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Wed, 11 Nov 2026 07:12:30 GMT"
+      "published": "Wed, 11 Nov 2026 14:31:08 GMT"
     },
     {
-      "title": "消息称 Anthropic 承销商考虑上调 IPO 发行价，估值或突破 1.5 万亿美元",
-      "link": "https://www.ithome.com/1/025/526.htm",
-      "summary": "IT之家 11 月 11 日消息，据英国《金融时报》报道，在投资者认购需求异常旺盛的推动下，Anthropic 的承销商正在考虑提高这家人工智能公司的首次公开募股（IPO）发行价。就在不到一天前，Anthropic 刚刚披露，公司计划于下周上市，目标估值约为 1.4 万亿美元（IT之家注：现汇率约合 9.36 万亿元人民币）。据五位知情人士透露，承销商已表示，预计将把股价上调至周二早些时候提交的文",
+      "title": "11.11 倒数 1 小时：友望 S20 洗地机 2499 → 375 元再降价，推入式基站更方便",
+      "link": "https://www.ithome.com/1/025/813.htm",
+      "summary": "友望 S20 灵犀洗地机上市价 2499 元，官方日常大促价 699 元。今日京东直降至 491 元（点击下方卡片，系统自动弹出 8.8 折券，需手动领券），晒单返 100 元 E 卡。售价下方可选“京东组合购”，选择任意电器一起下单（凑单品付款后可立即退款），洗地机实付 475 元，返卡后折合 375 元。京东友望 S20 灵犀推入式洗地机 180° 躺平 毛发防缠绕系统组合购 475 元直达链",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Wed, 11 Nov 2026 07:23:54 GMT"
+      "published": "Wed, 11 Nov 2026 14:21:28 GMT"
     },
     {
-      "title": "英监管机构：AI 已让老师几乎无法判断课程作业能否反映大学生真实水平",
-      "link": "https://www.ithome.com/1/025/506.htm",
-      "summary": "IT之家 11 月 11 日消息，据英国《卫报》今天（11 日）下午报道，英格兰高等教育监管机构学生事务办公室（OfS）的一项调查指出，AI 的普及让大学教师几乎无法判断学生的课程作业是否反映真实水平，高校应重新采用传统考试和现场汇报等方式考核学生。学生事务办公室警告，学生在课程论文、学位论文和开卷考试中大量使用 AI，正威胁英格兰大学学位的公信力。一些受访学生还透露，有同学甚至炫耀自己使用 AI",
+      "title": "路虎卫士新增 6 款 Atlas 系列车漆，灵感来自世界各地自然景观",
+      "link": "https://www.ithome.com/1/025/812.htm",
+      "summary": "IT之家 11 月 11 日消息，据外媒 motor1 报道，当地时间 10 日，路虎卫士宣布新增 6 款 Atlas 系列车漆，灵感来自世界各地的自然景观，分别借鉴肯尼亚西南部的草原、意大利火山岛、爱尔兰、英格兰湖区，以及澳大利亚蓝山地区的地下洞穴。六款车漆中，“马拉红”和“潘泰莱里亚蓝”由卫士昔日的经典颜色重新设计而来，“戈尔韦绿”和“白金汉蓝”则属于经典配色回归，“艾拉绿”和“杰诺兰金”是首",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Wed, 11 Nov 2026 07:19:46 GMT"
+      "published": "Wed, 11 Nov 2026 14:19:05 GMT"
     },
     {
-      "title": "索尼 MDR-3R 复古头戴式有线耳机日本预定火爆，发货可能延迟",
-      "link": "https://www.ithome.com/1/025/505.htm",
-      "summary": "IT之家 11 月 11 日消息，Sony（索尼）当地时间昨日在日本官网刊发注意事项，指出本月早些时候公布的 MDR-3R 头戴式有线耳机预定订单数量远超此前预期，可能会出现发货延迟的情况。索尼正在努力满足客户各种需求，希望用户多耐心等待一段时间。MDR-3R 是对 1979 年推出的原版 MDR-3 的现代复刻，保留了奠定随身音乐文化的经典造型，随附标志性的蓝色和橙色耳垫。其搭载 23mm 驱动",
+      "title": "DeepL 推出旗下最逼真语音 AI 翻译模型 Aure，实时复现说话者语气起伏、情绪流转等",
+      "link": "https://www.ithome.com/1/025/810.htm",
+      "summary": "IT之家 11 月 11 日消息，当地时间 11 月 11 日，DeepL 推出语音 AI 翻译模型 Aure，官方称这是其迄今最具动态感、表现最逼真的语音 AI（Voice AI）模型，不过该模型暂不支持中文。据介绍，作为 DeepL Voice 的底层驱动核心，Aure 能够持续动态适配翻译语音，实时复现说话者的语气起伏、情绪流转、重音强调及语速快慢。使得语音翻译不仅局限于传递字面词句，更能完",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Wed, 11 Nov 2026 07:19:16 GMT"
+      "published": "Wed, 11 Nov 2026 14:06:51 GMT"
     },
     {
-      "title": "华为 MateBook Fold S 鸿蒙小折叠电脑配件曝光：实体键盘也可折，左边按键右边触控板",
-      "link": "https://www.ithome.com/1/025/503.htm",
-      "summary": "IT之家 11 月 11 日消息，华为官方昨日宣布全新鸿蒙小折叠电脑 —— MateBook Fold S 将于 11 月 14 日 10:08 开启预订。博主 @爱叨叨的Steven 今日曝光了这款电脑的键盘设计：延续了正代旗舰的虚拟键盘 + 实体键盘双方案 —— 虚拟键盘拥有专属适配和设计，做了单独延展虚拟触控板；实体键盘也做了折叠设计，左边按键、右边触控板，可以收纳进女士挎包。据IT之家此前",
+      "title": "马斯克旗下 Grok 被指生成儿童色情图像，xAI 面临多起集体诉讼",
+      "link": "https://www.ithome.com/1/025/809.htm",
+      "summary": "IT之家 11 月 11 日消息，据彭博社报道，简 · 多伊（Jane Doe）已经多年没有想起过自己的初中毕业典礼，直到一名执法调查人员拿出当年庆祝活动的一张照片，开始向她询问相关情况。照片中的她当时只有 14 岁，身穿黄色碎花连衣裙，面带笑容，双臂搭在几名朋友的肩膀上。其中一些朋友，她如今已经很少联系。调查人员告诉她，照片中一名同学的成年哥哥，曾利用埃隆 · 马斯克（Elon Musk）旗下的",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Wed, 11 Nov 2026 07:18:36 GMT"
+      "published": "Wed, 11 Nov 2026 13:56:44 GMT"
     },
     {
-      "title": "苹果计划限制 Apple Intelligence 云端 AI 使用额度：可订阅 iCloud+ 套餐扩容，Logic Pro 已单独售卖用量包",
-      "link": "https://www.ithome.com/1/025/502.htm",
-      "summary": "IT之家 11 月 11 日消息，苹果计划对部分 Apple Intelligence 云端 AI 功能实施使用额度限制，用户未来可以付费获得更多使用额度。根据苹果发布的支持文档，部分依赖服务器端模型的 Apple Intelligence 功能将受到使用限制，涉及 Siri AI、图乐园、照片应用中的智能编辑工具，以及「快捷指令」中的 AFM 3 Cloud 和 AFM 3 Cloud Pro ",
+      "title": "骁龙 8 至尊 + 165Hz 高刷：一加 Ace 6 手机 12+256G 国补后 2363 元",
+      "link": "https://www.ithome.com/1/025/808.htm",
+      "summary": "【京东活动可能随时变更，需以实付款为准】一加 Ace 6 发布于 2025 年 10 月 30 日，搭载骁龙 8 至尊版处理器、配备 165Hz 高刷屏，12GB+256GB 定价 2599 元。京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 2363.06 元：领 3000-690 元直播券：点此查看。领 100 元立打 9 折券：商品详情页价格处下拉可",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Wed, 11 Nov 2026 07:18:35 GMT"
+      "published": "Wed, 11 Nov 2026 13:50:48 GMT"
     },
     {
-      "title": "亚马逊日本被指限制卖家自主定价权，官方承诺进行整改",
-      "link": "https://www.ithome.com/1/025/500.htm",
-      "summary": "IT之家 11 月 11 日消息，日本公平贸易委员会今日宣布，依据《反垄断法》（全称《禁止私人垄断和确保公正交易法》）的相关规定，结束对亚马逊日本的相关调查，并批准了亚马逊提交的自主改善计划（确约程序）。亚马逊日本运营的电商平台“亚马逊商城”交易总额位居日本国内在线零售市场之首。该国反垄断部门认定，亚马逊日本不正当限制卖家的自主定价权，涉嫌构成《反垄断法》所禁止的“附约束条件的交易”。据悉，自 2",
+      "title": "沐曦和优必选联姻造具身芯片，消息称合资公司曦选创智融资 5 亿元",
+      "link": "https://www.ithome.com/1/025/807.htm",
+      "summary": "IT之家 11 月 11 日消息，据 21 世纪经济报道消息，曦选创智科技（无锡）有限公司（以下简称“曦选创智”）近期完成 5 亿元人民币天使轮融资。本轮融资由纪源资本、经纬创投联合领投。据悉，本轮资金计划主要用于核心芯片与计算平台研发、软件工具链建设、研发团队扩充，以及与机器人厂商和行业客户开展联合验证，完成量产交付。IT之家查询官网获悉，曦选创智成立于 2026 年 5 月，是由国产 GPU“",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Wed, 11 Nov 2026 07:17:31 GMT"
+      "published": "Wed, 11 Nov 2026 13:46:31 GMT"
+    },
+    {
+      "title": "城市漫步指南 | 安特卫普，时尚就在生活中",
+      "link": "https://sspai.com/post/118781",
+      "summary": "原本今年夏天的旅行是要在佛罗伦萨结束的，但突发状况导致我不用上班了，就顺势使用了我的国际机票退改券，增加了一段安特卫普的行程。打卡安特卫普的理由跟意大利一样奇怪——因为这个地方举办过好几届体操世锦赛（ ...查看全文",
+      "source": "少数派",
+      "category": "效率工具",
+      "published": "Wed, 11 Nov 2026 17:30:00 +0800"
+    },
+    {
+      "title": "从优胜美地到金门大桥：跟着 macOS 游览加州",
+      "link": "https://sspai.com/post/118175",
+      "summary": "陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？查看全文",
+      "source": "少数派",
+      "category": "效率工具",
+      "published": "Wed, 11 Nov 2026 14:50:39 +0800"
     },
     {
       "title": "RetroSweeper Go：复古外观、更有手感的扫雷游戏",
@@ -161,14 +177,6 @@
       "published": "Tue, 10 Nov 2026 11:00:25 +0800"
     },
     {
-      "title": "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
-      "link": "https://sspai.com/post/118854",
-      "summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...查看全文",
-      "source": "少数派",
-      "category": "效率工具",
-      "published": "Tue, 10 Nov 2026 08:24:40 +0800"
-    },
-    {
       "title": "派评 | 近期值得关注的 App",
       "link": "https://sspai.com/post/118833",
       "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
@@ -193,12 +201,84 @@
       "published": "Mon, 09 Nov 2026 15:40:22 +0800"
     },
     {
-      "title": "天花板上的白色盒子，是怎样保护我们的安全的？",
-      "link": "https://sspai.com/post/118029",
-      "summary": "2026 年 11 月 9 日是第 35 个全国消防日。我们来学点消防知识。查看全文",
-      "source": "少数派",
-      "category": "效率工具",
-      "published": "Mon, 09 Nov 2026 15:02:44 +0800"
+      "title": "假如地球没有诞生生命？",
+      "link": "https://www.solidot.org/story?sid=85862",
+      "summary": "假如地球没有诞生生命，它会变成什么模样？华盛顿大学团队进行了计算机模拟，他们将生命的因素彻底抽离，但完整保留了地核、地函、大气、海洋以及太阳辐射等 19 项关键物理变数，模拟这颗没有生命的地球从 45 亿年前诞生至今、乃至未来 5 亿年的演化史。在长达数十亿年的岁月里，这颗死寂的地球除了因为没有植物进行光合作用而极度缺乏氧气外，其地表温度与液态水量竟然与我们今天的真实地球相差无几。在天文学的定义中",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Wed, 11 Nov 2026 22:43:47 +0800"
+    },
+    {
+      "title": "Firefox 内置 VPN 服务在三个月内不限制流量",
+      "link": "https://www.solidot.org/story?sid=85861",
+      "summary": "Mozilla 宣布，为迎接年底的假期 Firefox 内置的 VPN 服务从 11 月 10 日到 2027 年 1 月 31 日之间不限制流量。Firefox 内置的 VPN 不同于 Mozilla VPN，前者设计通过 Mozilla 管理的服务器路由浏览器的流量隐藏用户的真实 IP 地址；后者则是独立的付费订阅服务，可同时在五台设备上使用。Firefox 内置 VPN 服务尚未向全球推广，",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Wed, 11 Nov 2026 22:33:18 +0800"
+    },
+    {
+      "title": "苹果关闭支持社区",
+      "link": "https://www.solidot.org/story?sid=85860",
+      "summary": "苹果突然宣布关闭其支持社区 Support Community：它将于 2026 年 11 月 20 日永久关闭，即日起进入只读模式，用户无法再发新帖。想要获得帮助的苹果用户可访问 Apple Support 网站，但他们将无法互相交流。苹果支持社区创建于 1998 年，是一个用户互相交流和讨论问题的论坛，它的关闭标志着三十年积累的建议、故障排查经验以及未获解答问题都戛然而止，苹果未说明支持社区存",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Wed, 11 Nov 2026 22:16:09 +0800"
+    },
+    {
+      "title": "黑猩猩后天习得部分叫声",
+      "link": "https://www.solidot.org/story?sid=85859",
+      "summary": "长期以来，人们认为野生黑猩猩的发声完全由遗传决定，无需学习。发表于 PNAS 期刊上的一项研究挑战了这一观点，首次发现了野生黑猩猩中存在任意性、习得性发声惯例的证据。该发现缩小了黑猩猩交流与人类交流之间的差距。词语在人类语言中具有任意性和习得性。这里的任意性指一个词语在不同背景或领域里含义可能完全不同。词语在使用过程中的任意性，最终形成了因社群而异的语言惯例。一个人之所以遵循这些惯例，是因为同伴都",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Wed, 11 Nov 2026 19:12:10 +0800"
+    },
+    {
+      "title": "刚果埃博拉病例突破 1.1 万例",
+      "link": "https://www.solidot.org/story?sid=85858",
+      "summary": "刚果政府周三宣布该国的埃博拉病例突破 1.1 万例达到 11,042 例，有 5,387 人死亡，这是刚果至今最致命的埃博拉疫情，感染者中近半数死亡。这场疫情已成为有记录以来扩散速度最快的埃博拉病毒爆发，其规模有可能超过 2014-2016 年席卷西非的埃博拉疫情——该波疫情有逾 1.1 万人死亡。这起疫情的病毒是罕见的 Bundibugyo 毒株，目前没有针对该毒株的获批疫苗或疗法。",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Wed, 11 Nov 2026 18:55:55 +0800"
+    },
+    {
+      "title": "AI 生成的代码并不可靠",
+      "link": "https://www.solidot.org/story?sid=85857",
+      "summary": "一位 100% 依赖 AI 生成代码的资深开发者认为 AI 生成的代码库无法满足高可用、高扩展性 SaaS 应用的需求。原因包括：AI 写的测试过于简单，无法覆盖真正重要的使用场景；AI 写的代码过于复杂，经常引入两三个辅助方法，实际上一个就够了，这种复杂性增加了理解代码或进行调试的难度；人类程序员难以理解 AI 生成的代码库，一家企业依赖 AI 生成代码库的时间越长，真正理解代码库的程序员就越少",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Wed, 11 Nov 2026 18:43:22 +0800"
+    },
+    {
+      "title": "CERN 如何为 LHC 研发下一代磁体",
+      "link": "https://www.solidot.org/story?sid=85856",
+      "summary": "CERN 的大强子对撞机（LHC）利用极其强大的磁体，使粒子接近光速发生碰撞，将粒子撞碎成更小的组成部分以供研究。当前状态下的 LHC 每秒能让约 60 个粒子发生碰撞，碰撞频率高达每秒 4000 万次。这一能力已经促成了本世纪粒子物理学领域一些最重要的发现。CERN 的科学家并没有止步。他们正对 LHC 进行升级，为计划于 2030&nbsp; 年之后开始的实验做准备。新一代粒子对撞机被称为高亮",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Wed, 11 Nov 2026 16:20:35 +0800"
+    },
+    {
+      "title": "猫围着你叫是叫你去解决问题",
+      "link": "https://www.solidot.org/story?sid=85855",
+      "summary": "当猫不停喵喵声时，它们不只是表达对世界的不满，更多是刻意引起你的注意，希望你能去解决问题。没留意到也没关系，毕竟人类向来以难以理解猫想要表达什么而著称。一项新研究发现，在猫的生活中，人类扮演着问题解决者的角色。巴西的研究人员针对 38 只宠物猫调查了人类主人在场和不在场时的行为。结果显示，人类铲屎官在场时，猫发出喵喵叫的次数增至四倍。结果表明，喵喵叫确实在人猫互动中起到了沟通交流的作用。在实验中，",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Wed, 11 Nov 2026 15:41:22 +0800"
+    },
+    {
+      "title": "英伟达股价 2 天暴跌 10%",
+      "link": "https://www.solidot.org/story?sid=85854",
+      "summary": "英伟达股价两天暴跌 10%。市场担忧该公司对黄仁勋的高度依赖，围绕“关键人物风险”的警惕情绪令相关股票走势分化。英伟达缺乏继任者并非始于今日。黄仁勋自公司创立以来已领导企业 30 多年，且不设董事长职务的治理结构。这对于如此规模的美国大型企业实属罕见。美国调查公司伯恩斯坦研究公司的 Stacy Rasgon 指出：“英伟达不是一家普通公司。黄仁勋也不是一位普通 CEO”。 分析师预测，如果英伟达出",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Wed, 11 Nov 2026 15:11:17 +0800"
+    },
+    {
+      "title": "Michael John Harrison 成为首位获得布克奖的科幻作家",
+      "link": "https://www.solidot.org/story?sid=85853",
+      "summary": "81 岁的哈里森（Michael John Harrison）成为首位获得布克奖的科幻作家，也是获得布克奖的最年长作家。他的获奖作品是末日小说《The End of Everything》，故事设定在一场无人能正确解释的灾难后数十年，地点是英国的肯特郡海岸，讲诉了 Phillip Tennent 和年迈的姑姑 Marnie 在神秘的 iGhetti 带来的威胁下艰难求生。Ghetti 是一种庞大且",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Wed, 11 Nov 2026 15:02:26 +0800"
     },
     {
       "title": "AMD 公布 Zen 6 CPU 细节",
@@ -241,86 +321,6 @@
       "published": "Tue, 10 Nov 2026 19:18:31 +0800"
     },
     {
-      "title": "生成式 AI 过度美化现实",
-      "link": "https://www.solidot.org/story?sid=85847",
-      "summary": "生成式 AI 如 ChatGPT 正融入日常生活，成为人们获取信息和辅助决策的重要工具。然而大模型中嵌入的错误信息和偏见引发了一系列伦理方面的担忧。以往的研究已揭示出 AI 在涉及人类特征的内容上存在偏见，例如肤色、性别以及地理文化背景等。为减轻文本生成图像（Text-to-Image）生成式模型中的偏见，OpenAI 等公司引入了提示词修订（Prompt Revision）机制。一种隐性的处理过",
-      "source": "奇客 Solidot",
-      "category": "技术",
-      "published": "Tue, 10 Nov 2026 19:04:32 +0800"
-    },
-    {
-      "title": "Epic Games 计划支持尽可能多的 Linux 发行版",
-      "link": "https://www.solidot.org/story?sid=85846",
-      "summary": "Epic Games 通讯主管 Jake Jones 表示，新 Epic Games 启动器目前处于预览阶段。Epic Games 计划支持尽可能多的 Linux 发行版，包括 Fedora、SteamOS、CachyOS、Omarchy 等，目前正在测试和评估各种打包格式，将于本月恢复对 AppImage 的支持。如果 Epic Games 支持 Flatpak 打包格式并将其发布到 Flath",
-      "source": "奇客 Solidot",
-      "category": "技术",
-      "published": "Tue, 10 Nov 2026 17:09:26 +0800"
-    },
-    {
-      "title": "幼儿园小学初中学龄人口已达到峰值",
-      "link": "https://www.solidot.org/story?sid=85845",
-      "summary": "国家发展改革委社会发展司副司长黄玮茹在周二的新闻发布会上表示，从全国层面看，目前幼儿园、小学、初中学龄人口已经达峰，高中和高等教育学龄人口还在持续增长，对资源配置提出了新的要求。十四五时期，我国幼儿园、小学、初中在校生减少将近 1700 万人。2021 年—2025 年，我国基础教育城镇和乡村在校生之比由约 8：2 提高到约 9：1，越来越多的孩子进城读书。根据教育部数据，去年全国幼儿园、小学和初",
-      "source": "奇客 Solidot",
-      "category": "技术",
-      "published": "Tue, 10 Nov 2026 16:08:03 +0800"
-    },
-    {
-      "title": "科学家在碲化锰观察到交替磁性证据",
-      "link": "https://www.solidot.org/story?sid=85844",
-      "summary": "科学家在碲化锰中观测到一种被称为“手性交替磁振子”的集体自旋运动，为交替磁性这一新型磁态提供了关键实验证据，也意味着未来芯片和信息存储技术有了新的可能。交替磁性被认为是介于铁磁与反铁磁之间的第三类磁有序。普通磁铁内部电子自旋像一排同向排列的小磁针，整体产生明显磁场；反铁磁体中相邻自旋方向相反，磁性彼此抵消。交替磁体同样没有明显外磁场，却因原子空间排列方式特殊，保留了一些通常只在铁磁体里出现的电子自",
-      "source": "奇客 Solidot",
-      "category": "技术",
-      "published": "Tue, 10 Nov 2026 15:30:38 +0800"
-    },
-    {
-      "title": "FDA 警告 GLP-1 减肥药可能增加突然失明风险",
-      "link": "https://www.solidot.org/story?sid=85843",
-      "summary": "FDA 周一表示，GLP-1 药物生产商须在产品标签上增加一项可能导致突然失明的警示。被称为非动脉炎性前部缺血性视神经病变(nonarteritic anterior ischemic optic neuropathy，NAION)的眼部疾病会影响视神经——负责将信号从眼睛传输至大脑的神经。当流向视神经的血液减少或受阻时，可能导致视力突然丧失，这种损伤是永久性的，目前无已知疗法。2024 年《JA",
-      "source": "奇客 Solidot",
-      "category": "技术",
-      "published": "Tue, 10 Nov 2026 14:35:14 +0800"
-    },
-    {
-      "title": "法国称伊朗黑客组织攻击了超市的制冷控制器",
-      "link": "https://www.solidot.org/story?sid=85842",
-      "summary": "法国网络危机协调中心周一发表报告，称上个月对逾 700 家超市制冷控制器发动网络攻击的黑客组织是伊朗的 Shahid Kaveh aka Cyber​​Av3ngers。报告称，受影响的零售集团包括了 Casino、Leclerc、Coopérative U、Metro、Carrefour 和 Intermarché，攻击引发了至少 15 起火灾，造成了数千万欧元的食品损失。法国欧洲与外交部在一份",
-      "source": "奇客 Solidot",
-      "category": "技术",
-      "published": "Tue, 10 Nov 2026 13:31:35 +0800"
-    },
-    {
-      "title": "火星发现存在活火山的证据",
-      "link": "https://www.solidot.org/story?sid=85841",
-      "summary": "科学家将通常由岩浆产生的气体证据与在火星表面新发现的裂缝联系起来，指出火星可能存在火山活动。这一发现可谓寻找生命过程中的好消息，因为要使微生物免受火星表面严寒温度的侵害，就需要持续的热源。科学家已发现火星在过去几百万年间存在火山活动的证据，地震活动也暗示其中一些火山可能仍然活跃，但此前从未发现过熔岩流动或喷发的证据。2019 年，欧空局“微量气体火星轨道器”在火星大气中探测到了氯化氢的存在。这种气",
-      "source": "奇客 Solidot",
-      "category": "技术",
-      "published": "Mon, 09 Nov 2026 21:19:02 +0800"
-    },
-    {
-      "title": "世界大城市都在沉降",
-      "link": "https://www.solidot.org/story?sid=85840",
-      "summary": "北大 Lijun Wang 等人在《Nature Cities》期刊上发表了一篇论文，利用卫星雷达对地面微小位移的测量分析了全世界人口超过百万的 465 座城市的地面沉降。数据显示，10 座地面沉降最严重的城市分别是：墨西哥的托雷翁、墨西哥城和托卢卡，巴西的弗洛里亚诺波利斯、伊朗的伊斯法罕、孟加拉国的吉大港、缅甸的仰光、印尼的棉兰和万隆，以及中国的天津。地面沉降现象在东南亚、西亚、中亚和北美地区最",
-      "source": "奇客 Solidot",
-      "category": "技术",
-      "published": "Mon, 09 Nov 2026 21:08:27 +0800"
-    },
-    {
-      "title": "30 公斤的巨鼠曾在三千万年前生活在今天的泰国",
-      "link": "https://www.solidot.org/story?sid=85839",
-      "summary": "科学家根据两枚化石牙齿识别出一种体重约 30 公斤的巨型啮齿动物曾在 3300 万至 3500 万年前活跃于今天的泰国南部地区。泰国矿产资源部地质学家于 2004 年在甲米省一处煤矿中发现的一枚臼齿和一枚门齿。甲米盆地此前曾出土过古代灵长类、食肉动物和有蹄类哺乳动物的化石。当时研究团队缺乏足够的证据和技术手段确定该物种的身份。二十多年后泰国、法国和加拿大的研究人员对牙齿进行详细分析，确定该动物的体",
-      "source": "奇客 Solidot",
-      "category": "技术",
-      "published": "Mon, 09 Nov 2026 20:41:39 +0800"
-    },
-    {
-      "title": "高盛限制交易员和银行家使用第三方 AI 智能体",
-      "link": "https://www.solidot.org/story?sid=85838",
-      "summary": "高盛限制交易员和银行家使用 Anthropic 的 Claude Code 和微软的 GitHub，此举主要是出于风险方面的考虑。AI 编程工具主要提供给软件工程师，以及负责交易、量化研究和软件工程等的策略师。交易员将无法再使用这些工具监控客户交易流、模拟市场走势和持仓，以及制作文字和图表。此次限制适用于能独立编写和运行代码的第三方智能体。以 Claude Code 为例，它能读取文件、编写程序并",
-      "source": "奇客 Solidot",
-      "category": "技术",
-      "published": "Mon, 09 Nov 2026 19:04:21 +0800"
-    },
-    {
       "title": "科技爱好者周刊（第 418 期）：如果科技停止在21世纪初",
       "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html",
       "summary": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -345,17 +345,49 @@
       "published": "2026-10-23T00:06:16Z"
     },
     {
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "link": "https://pietromiotti.com/latest/maya-site/?maya",
+      "summary": "Article URL: https://pietromiotti.com/latest/maya-site/?maya Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 683 # Comments: 257",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Wed, 11 Nov 2026 12:05:22 +0000"
+    },
+    {
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "summary": "Article URL: https://gatezh.com/posts/macos-secure-enclave-ssh-keys/ Comments URL: https://news.ycombinator.com/item?id=50449748 Points: 346 # Comments: 123",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Wed, 11 Nov 2026 04:28:57 +0000"
+    },
+    {
+      "title": "A great old-timey game-programming hack (2013)",
+      "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "summary": "Article URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html Comments URL: https://news.ycombinator.com/item?id=50448921 Points: 237 # Comments: 54",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Wed, 11 Nov 2026 01:56:31 +0000"
+    },
+    {
       "title": "Tracking Anthropic-discovered vulnerabilities",
       "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-      "summary": "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 388 # Comments: 179",
+      "summary": "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 438 # Comments: 210",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Tue, 10 Nov 2026 22:17:56 +0000"
     },
     {
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 445 # Comments: 462",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Tue, 10 Nov 2026 21:25:03 +0000"
+    },
+    {
       "title": "Six Math Essentials",
       "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
-      "summary": "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 216 # Comments: 39",
+      "summary": "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 318 # Comments: 58",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Tue, 10 Nov 2026 20:58:44 +0000"
@@ -363,7 +395,7 @@
     {
       "title": "Scion is back and is going to sell a kei truck in America",
       "link": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-      "summary": "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 444 # Comments: 304",
+      "summary": "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 538 # Comments: 372",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Tue, 10 Nov 2026 19:50:46 +0000"
@@ -371,7 +403,7 @@
     {
       "title": "Starlink Mini 2",
       "link": "https://starlink.com/mini-2",
-      "summary": "Article URL: https://starlink.com/mini-2 Comments URL: https://news.ycombinator.com/item?id=50444129 Points: 375 # Comments: 393",
+      "summary": "Article URL: https://starlink.com/mini-2 Comments URL: https://news.ycombinator.com/item?id=50444129 Points: 488 # Comments: 547",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Tue, 10 Nov 2026 18:22:32 +0000"
@@ -379,7 +411,7 @@
     {
       "title": "Synaptics patent claims stop work on DisplayLink drivers",
       "link": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 371 # Comments: 217",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 463 # Comments: 257",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Tue, 10 Nov 2026 18:02:02 +0000"
@@ -393,9 +425,17 @@
       "published": "Tue, 10 Nov 2026 18:01:15 +0000"
     },
     {
+      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "summary": "Article URL: https://claude.com/resources/articles/sheets-whiteboards-data Comments URL: https://news.ycombinator.com/item?id=50443716 Points: 271 # Comments: 204",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Tue, 10 Nov 2026 17:55:07 +0000"
+    },
+    {
       "title": "Val Town is winding down",
       "link": "https://blog.val.town/winding-down",
-      "summary": "Article URL: https://blog.val.town/winding-down Comments URL: https://news.ycombinator.com/item?id=50443427 Points: 366 # Comments: 93",
+      "summary": "Article URL: https://blog.val.town/winding-down Comments URL: https://news.ycombinator.com/item?id=50443427 Points: 416 # Comments: 100",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Tue, 10 Nov 2026 17:31:14 +0000"
@@ -403,7 +443,7 @@
     {
       "title": "AMD's Zen 6 Family: Feeding the Beast",
       "link": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
-      "summary": "Article URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast Comments URL: https://news.ycombinator.com/item?id=50443090 Points: 222 # Comments: 88",
+      "summary": "Article URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast Comments URL: https://news.ycombinator.com/item?id=50443090 Points: 252 # Comments: 108",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Tue, 10 Nov 2026 17:02:32 +0000"
@@ -411,7 +451,7 @@
     {
       "title": ".name Grandfathered",
       "link": "https://neil.fraser.name/news/2026/11/10/",
-      "summary": "Previously: .name Termination - https://news.ycombinator.com/item?id=49550772 - Sept 2026 (547 comments) Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 785 # Comments: 171",
+      "summary": "Previously: .name Termination - https://news.ycombinator.com/item?id=49550772 - Sept 2026 (547 comments) Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 910 # Comments: 197",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Tue, 10 Nov 2026 16:37:44 +0000"
@@ -419,54 +459,14 @@
     {
       "title": "Blender 5.3 released with Gaussian Splat support",
       "link": "https://www.blender.org/download/releases/5-3/",
-      "summary": "Article URL: https://www.blender.org/download/releases/5-3/ Comments URL: https://news.ycombinator.com/item?id=50442426 Points: 459 # Comments: 69",
+      "summary": "Article URL: https://www.blender.org/download/releases/5-3/ Comments URL: https://news.ycombinator.com/item?id=50442426 Points: 478 # Comments: 71",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Tue, 10 Nov 2026 16:15:43 +0000"
-    },
-    {
-      "title": "Gemini 4 Carbon is now available",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/ Comments URL: https://news.ycombinator.com/item?id=50442303 Points: 283 # Comments: ",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Tue, 10 Nov 2026 16:07:15 +0000"
-    },
-    {
-      "title": "Smart home devices should work without the internet",
-      "link": "https://docodethatmatters.com/home-automation-overnight-success/",
-      "summary": "Article URL: https://docodethatmatters.com/home-automation-overnight-success/ Comments URL: https://news.ycombinator.com/item?id=50441707 Points: 867 # Comments: 312",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Tue, 10 Nov 2026 15:25:20 +0000"
-    },
-    {
-      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
-      "link": "https://tinyvalencia.com/",
-      "summary": "Article URL: https://tinyvalencia.com/ Comments URL: https://news.ycombinator.com/item?id=50441518 Points: 226 # Comments: 55",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Tue, 10 Nov 2026 15:12:16 +0000"
-    },
-    {
-      "title": "Ableton Live 13",
-      "link": "https://www.ableton.com/en/live/",
-      "summary": "Article URL: https://www.ableton.com/en/live/ Comments URL: https://news.ycombinator.com/item?id=50439695 Points: 303 # Comments: 319",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Tue, 10 Nov 2026 12:58:04 +0000"
-    },
-    {
-      "title": "What's new in the .NET 11 runtime",
-      "link": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
-      "summary": "Article URL: https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime Comments URL: https://news.ycombinator.com/item?id=50439284 Points: 250 # Comments: 1",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Tue, 10 Nov 2026 12:20:07 +0000"
     }
   ],
   "count": 58,
   "sources_ok": 5,
   "errors": [],
-  "fetched_at": "2026-11-11T15:41:13+08:00"
+  "fetched_at": "2026-11-12T01:02:03+08:00"
 }
