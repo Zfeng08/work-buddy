@@ -2456,7 +2456,48 @@
           "change_pct": 0.01
         }
       ]
+    },
+    {
+      "date": "2026-11-14",
+      "quotes": [
+        {
+          "name": "上证指数",
+          "price": 3634.35,
+          "change": -21.48,
+          "change_pct": -0.59
+        },
+        {
+          "name": "深证成指",
+          "price": 10968.79,
+          "change": -229.19,
+          "change_pct": -2.05
+        },
+        {
+          "name": "创业板指",
+          "price": 2426.08,
+          "change": -83.35,
+          "change_pct": -3.32
+        },
+        {
+          "name": "恒生指数",
+          "price": 23637.6,
+          "change": -370.95,
+          "change_pct": -1.55
+        },
+        {
+          "name": "腾讯控股",
+          "price": 386.6,
+          "change": -12.2,
+          "change_pct": -3.06
+        },
+        {
+          "name": "美元人民币",
+          "price": 6.671,
+          "change": 0.001,
+          "change_pct": 0.01
+        }
+      ]
     }
   ],
-  "fetched_at": "2026-11-14T01:07:32+08:00"
+  "fetched_at": "2026-11-14T14:23:43+08:00"
 }
