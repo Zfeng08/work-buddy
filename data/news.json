@@ -1,124 +1,132 @@
 {
   "items": [
     {
-      "title": "HMD 2320 Flip 4G 功能机曝光：紫光展锐 T127 芯片，1.77 英寸外屏",
-      "link": "https://www.ithome.com/1/027/151.htm",
-      "summary": "IT之家 11 月 14 日消息，消息源 smashx_60 发文，曝光了 HMD 2320 Flip 4G 翻盖功能机规格信息，该机外观预计和 HMD 2360 Flip 大致相同。该机配备 1.77 英寸外屏和 2.4 英寸 LCD 内屏，内置 0.3Mp 摄像头。使用紫光展锐 T127 芯片，匹配 64MB RAM 和 128GB 存储空间，搭载 1450mAh 电池（支持 2.75W 充电",
+      "title": "导致全美航班停飞的“罪魁祸首”找到了？FAA 调查指向 20 年历史路由器",
+      "link": "https://www.ithome.com/1/027/246.htm",
+      "summary": "IT之家 11 月 14 日消息，美国 CBS 电视台交通记者克里斯 · 范 · 克利夫在 X 平台发文称，收到一位美国政府高级官员的消息：导致全美航班地面停飞的故障设备已被查明并隔离。克利夫援引官员的话说，美国联邦航空管理局（FAA）认为，故障仅涉及一种“特定型号”的 20 年历史老路由器。“（系统）基本上是被负载压垮了，不过具体原因尚不清楚。”初步信息显示，路由器过载后开始传输不同步的数据，造",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 14 Nov 2026 07:23:19 GMT"
+      "published": "Sat, 14 Nov 2026 15:06:32 GMT"
     },
     {
-      "title": "新西兰最大零售商 The Warehouse 爆发员工抗议：如厕时间都用 AI 管",
-      "link": "https://www.ithome.com/1/027/150.htm",
-      "summary": "IT之家 11 月 14 日消息，当地时间 13 日，据英国《独立报》报道，新西兰最大零售商 The Warehouse 集团的员工指控，公司利用 AI 监控如厕时间，导致部分员工不得不在配送中心的通道里大小便。本周，The Warehouse 集团位于奥克兰和基督城的配送中心有 300 多名员工举行抗议，担心 AI 监控侵犯隐私，以及新技术的应用可能引发大规模裁员。员工认为，公司对机器人的重视程",
+      "title": "英特尔官网确认酷睿 Ultra 7 处理器 260K 规格，最大睿频频率 5.4GHz",
+      "link": "https://www.ithome.com/1/027/245.htm",
+      "summary": "IT之家 11 月 14 日消息，根据 Intel（英特尔）官网页面，此前悄然上市的酷睿 Ultra 7 处理器 260K 实际上早在 2026 年第 3 季度就已发行。而从规格上来看，其大致相当于 Ultra 7 265K 的降频版。英特尔酷睿 Ultra 7 处理器 260K 的最大睿频频率为 5.4GHz、性能核最大睿频频率为 5.3GHz、能效核最大睿频频率为 4.5GHz，这三项数据均比",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 14 Nov 2026 07:16:26 GMT"
+      "published": "Sat, 14 Nov 2026 14:51:22 GMT"
     },
     {
-      "title": "日产中国：今年合资公司的产品将会出口到 30 多个国家，明年将再翻一倍",
-      "link": "https://www.ithome.com/1/027/149.htm",
-      "summary": "IT之家 11 月 14 日消息，11 月 13 日，由日产（中国）、东风日产、郑州日产共同打造的 NISSAN DAY 在珠海国际会展中心举行。据介绍，2026 年，日产汽车已经实现多款在中国研发制造的车型发运到海外，包括已在墨西哥和菲律宾启动销售的锋坦 Frontier Pro 和在菲律宾上市的 N7。IT之家从官方新闻稿获悉，今年，合资公司的产品将会出口到 30 多个国家，明年将再翻一倍。届",
+      "title": "“黑苹果”有望卷土重来，新项目探索将 macOS 搬上骁龙和 x86 架构电脑",
+      "link": "https://www.ithome.com/1/027/244.htm",
+      "summary": "IT之家 11 月 14 日消息，过去几十年里，不想花钱买 Mac、却又希望使用 macOS 的用户，可以通过组装“黑苹果”电脑实现。不过，自从苹果改用自研 Arm 芯片后，黑苹果的安装难度大幅提高。据外媒 TechSpot 今天（14 日）晚间报道，近期出现的至少两个新项目，则试图让 macOS 登陆骁龙和 x86 平台。其中一个项目开发了 Arm 转 x86 指令翻译层，计划让大多数较新的英特",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 14 Nov 2026 07:14:18 GMT"
+      "published": "Sat, 14 Nov 2026 14:49:44 GMT"
     },
     {
-      "title": "清华大学发布单细胞蛋白组基础模型 ProtCell，利用摩尔线程 S5000 智算卡成功完成“虚拟细胞”预训练复现",
-      "link": "https://www.ithome.com/1/027/148.htm",
-      "summary": "IT之家 11 月 14 日消息，据摩尔线程公众号，近日，清华大学自动化系江瑞课题组发布了面向单细胞蛋白组的基础模型 ProtCell，完成了论文《ProtCell:a foundation model for single-cell proteomics》。该模型汇集约 3.8 亿个细胞、98 个公开数据集用于预训练与评估，能够精准映射细胞状态、推断未测蛋白表达，为药物研发与前沿“虚拟细胞”构建",
+      "title": "OPPO 展示 Reno17 系列手机洛天依联动定制主题，11 月 16 日发布",
+      "link": "https://www.ithome.com/1/027/243.htm",
+      "summary": "IT之家 11 月 14 日消息，OPPO 官方微博发文，展示了 OPPO Reno17 系列手机提供的洛天依定制主题，相应主题仅限 Reno17 系列机型使用，包含 4 款专属锁屏 + 壁纸，提供洛天依三色全新造型及 Q 版形象锁屏。除此之外，相应主题包括时间、待办、步数等多种趣味组件及跟手粒子、下雪动效、充电动画等专属交互动效。IT之家注意到，先前相应手机规格已曝光，具体参数如下：OPPO R",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 14 Nov 2026 07:09:10 GMT"
+      "published": "Sat, 14 Nov 2026 14:43:21 GMT"
     },
     {
-      "title": "《巫师 3》新 DLC 杰洛特波兰语配音演员中风后声音沙哑，CDPR 利用 AI 技术还原其早期声线",
-      "link": "https://www.ithome.com/1/027/147.htm",
-      "summary": "IT之家 11 月 14 日消息，CD Projekt Red 确认，《巫师 3：狂猎》新剧情扩展包《Songs of the Past》杰洛特的波兰语配音将采用 Respeecher 的 AI 语音转换技术进行处理。IT之家获悉，自 2007 年首部《巫师》游戏推出以来，演员 Jacek Rozenek 一直担任杰洛特的波兰语配音演员，但在 2019 年其中风后声音变得低沉、沙哑。对此，CDPR",
+      "title": "华硕 ROG 带来龙鳞 2 Ace Mini 鼠标，\"Demon1\" 联名款同步亮相",
+      "link": "https://www.ithome.com/1/027/242.htm",
+      "summary": "IT之家 11 月 14 日消息，华硕 (ASUS) 今日公布了鼠标新品 ROG 龙鳞 (Harpe) 2 Ace Mini。这一型号由华硕与《无畏契约》世界冠军选手 Max \"Demon1\" Mazanov 共同打造，结合最新硬件和面向抓握与指握用户的紧凑型半对称模具。龙鳞 2 Ace Mini 三维 118.2 × 61.3 × 40.2 (mm)，质量 47g；配备 ROG AimPoint",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 14 Nov 2026 07:05:48 GMT"
+      "published": "Sat, 14 Nov 2026 14:40:04 GMT"
     },
     {
-      "title": "车内没有导航的另类解决方案？美车企 Slate 为“2.5 万美元极简皮卡”推出纸质地图",
-      "link": "https://www.ithome.com/1/027/145.htm",
-      "summary": "IT之家 11 月 14 日消息，据外媒 motor1 报道，美国初创车企 Slate 为旗下主打极简配置的纯电皮卡推出了一款“无屏幕 GPS”：无需开机、不用支付订阅费，电池永远不会耗尽，更不可能把驾驶员引向正在施工的工地。所谓的“无屏幕 GPS”，其实就是一本纸质地图集。当地时间 12 日，Slate 在官方商城上架了 Rand McNally 出版的《2027 年公路地图集》，售价 30 美",
+      "title": "受空管系统故障影响，11 月 14 日美国仍有超 3300 架次航班被取消",
+      "link": "https://www.ithome.com/1/027/241.htm",
+      "summary": "IT之家 11 月 14 日消息，据央视新闻报道，当地时间 11 月 14 日，航班追踪网站 FlightAware 的数据显示，在 13 日空管系统出现通信故障、导致全美所有飞机停飞后，14 日，美国境内及往返美国的航班已有超过 3300 架次被取消。截至美国东部时间 14 日 6 时 15 分（IT之家注：北京时间 14 日 19 时 15 分），达美航空已取消当日计划航班的 19%，联合航空",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 14 Nov 2026 07:04:31 GMT"
+      "published": "Sat, 14 Nov 2026 14:25:29 GMT"
     },
     {
-      "title": "小特朗普支持的公司称未来 5~10 年大多数战争将由机器人来打",
-      "link": "https://www.ithome.com/1/027/144.htm",
-      "summary": "IT之家 11 月 14 日消息，由埃里克 · 特朗普（Eric Trump）投资支持机器人公司 Foundation 的联合创始人迈克 · 勒布朗（Mike LeBlanc）表示，未来 5~10 年内，全球大部分主要战斗将由机器完成。在接受福克斯新闻数字版（Fox News Digital）采访时，勒布朗表示：“我预计未来五到十年，人形机器人、地面车辆和无人机将承担大部分主要作战任务，人类只负责",
+      "title": "曝小米与“AMG 之父”创办的 HWA 秘密合作，希望打造“载入史册”新车",
+      "link": "https://www.ithome.com/1/027/240.htm",
+      "summary": "IT之家 11 月 14 日消息，当地时间 11 月 5 日，意媒 Quattroruote 援引不具名知情人士消息称，小米与 HWA 或在秘密合作开发一款超高性能汽车，部分知名零部件供应商也有望参与其中。IT之家注：HWA 由 AMG 创始人汉斯 · 维尔纳 · 奥夫雷希特创办，脱胎于 AMG，长期负责奔驰的赛车项目，这其中就包括德国房车大师赛（DTM）。双方据称希望打造一款性能前所未有、足以载",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 14 Nov 2026 07:02:25 GMT"
+      "published": "Sat, 14 Nov 2026 14:20:53 GMT"
     },
     {
-      "title": "OPPO Reno17 系列参数曝光：2 亿像素主摄，11 月 16 日发布",
-      "link": "https://www.ithome.com/1/027/143.htm",
-      "summary": "IT之家 11 月 14 日消息，博主 @数码闲聊站 今日对 OPPO Reno17 系列手机参数进行了爆料汇总，新机将于 11 月 16 日 19:00 正式发布。IT之家附曝光配置如下：OPPO Reno176.56 英寸 1.5K LTPS 直屏骁龙 7 Gen4 处理器前置 50Mp 镜头，后置 50Mp 主摄 +50Mp 超广角 +50Mp 3.5X 潜望长焦8000mAh 电池 +80",
+      "title": "11.11 过后迎全年探底：bilibili 超级大会员年卡 388 → 124 元，支持电视端",
+      "link": "https://www.ithome.com/1/027/165.htm",
+      "summary": "bilibili 超级大会员双年卡官方售价为 776 元，今日天猫官旗直降至 248 元。活动仅限 11 月 14 日 10 点 ~11 月 15 日 23 点 59 分，约为官方 3.2 折。适用平台：支持电视端 / 手机 / 平板 / 电脑。天猫哔哩哔哩 超级大会员 双年卡支持电视端券后 248 元领 528 元券填写手机号自动充值（不支持 QQ、微信号等第三方账号充值，不支持海外、港澳手机号",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 14 Nov 2026 07:00:13 GMT"
+      "published": "Sat, 14 Nov 2026 08:14:18 GMT"
     },
     {
-      "title": "TCL 华星赵军：武汉 t12 产线产能已提升至 9K 大板，首款印刷 OLED 产品良率超 70%",
-      "link": "https://www.ithome.com/1/027/142.htm",
-      "summary": "IT之家 11 月 14 日消息，2026 年 TCL 华星全球显示生态大会（DTC2026）昨日（13 日）举行，推出印刷 OLED 氧化物内补 QHD 500Hz 电竞显示 (27\")。据财联社报道，TCL 科技集团高级副总裁、TCL 华星首席执行官赵军接受采访时表示，该产品正在进行相应的开发和进一步完善，具体上市时间需根据品牌客户的产品规划节奏确定。对于市场关注的印刷 OLED 产线爬坡情况",
+      "title": "“像一大群蜜蜂”：亚马逊 Prime Air 送货无人机噪音过大，遭当地居民投诉",
+      "link": "https://www.ithome.com/1/027/239.htm",
+      "summary": "IT之家 11 月 14 日消息，据休斯顿纪事报报道，亚马逊旗下的超快无人机配送服务 Prime Air 曾承诺，无论是午间零食、日用百货还是紧急医疗用品，只要重量在 5 磅（IT之家注：约 2.3 千克）以内，最快都能在 30 分钟内通过空中直送消费者家门口，然而当地居民对该服务并不买账。在亚马逊开展该项服务的得克萨斯州各社区中，噪音污染已成为居民频繁投诉的焦点。“刚推出时，这确实挺酷、挺新奇的",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 14 Nov 2026 06:58:27 GMT"
+      "published": "Sat, 14 Nov 2026 14:09:32 GMT"
     },
     {
-      "title": "谷歌 Gemini 个人智能功能接入 Google Wallet 钱包应用：可为用户消费习惯提供个性化分析建议",
-      "link": "https://www.ithome.com/1/027/141.htm",
-      "summary": "IT之家 11 月 14 日消息，谷歌宣布 Gemini 的 Personal Intelligence（个人智能）功能已正式支持 Google Wallet 钱包，用户在完成授权后，Gemini 便能根据谷歌 Gemini 个人智能功能接入 Google Wallet：可为用户消费习惯提供个性化分析建议。谷歌表示，用户只需在 Gemini 对话中输入 @Google Wallet，即可询问个人财",
+      "title": "智能体帮你联络商家或保险公司，Meta 旗下 Muse 上线代打电话功能",
+      "link": "https://www.ithome.com/1/027/238.htm",
+      "summary": "IT之家 11 月 14 日消息，Meta 旗下 AI 智能体 Muse 推出代打电话功能，开通高级付费订阅后，用户就能让 Muse 代自己联系美国商家。Meta 称，Muse 可以帮助用户处理各种烦琐事务，完成待办事项。13 日凌晨，Meta 首席 AI 官汪滔在 X 上发文宣布：“Muse 能帮你打完所有不想亲自打的电话。”据悉，用户可以借助 Muse 联系保险公司或有线电视服务商、预约美国车",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 14 Nov 2026 06:57:17 GMT"
+      "published": "Sat, 14 Nov 2026 13:46:56 GMT"
     },
     {
-      "title": "谷歌利用多个专业 AI 智能体打造 Teamwork 系统，成功验证多项复杂数学证明",
-      "link": "https://www.ithome.com/1/027/140.htm",
-      "summary": "IT之家 11 月 14 日消息，谷歌宣布进一步扩展旗下 Antigravity 多智能体系统，利用多个由 Gemini 模型驱动的专业智能体组成 Teamwork 系统，号称可解决“长期悬而未决的数学难题”、“验证复杂数学证明”，并优化各种软件系统性能。例如，谷歌已成功对韦伊猜想（Weil conjectures）进行形式化证明。这是一组关于有限域上多项式方程解的数量的重要数学结论，最初由数学家",
+      "title": "黄仁勋辞任 CEO 后，英伟达诞生地丹尼餐厅移除纪念铭牌、又宣布将重新挂回",
+      "link": "https://www.ithome.com/1/027/233.htm",
+      "summary": "IT之家 11 月 14 日消息，据 NBC News 报道，在一家丹尼餐厅（Denny’s）路边店内，硅谷历史的一角仿佛凭空消失了。30 多年前，黄仁勋与两位好友正是在这里构想出了英伟达，而如今纪念这一确切位置的牌匾已不翼而飞。牌匾上的铭文曾写道：“开启一家万亿美元公司的卡座”，如今只剩下一片空荡荡的砖墙和剥落的墙漆。两名店员证实，牌匾已被撤下。▲ 2023 年，丹尼餐厅 CEO Kelli V",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 14 Nov 2026 06:53:32 GMT"
+      "published": "Sat, 14 Nov 2026 13:31:05 GMT"
     },
     {
-      "title": "堪比蓝屏“灭霸”事件：微软 2026 最严重宕机重创全球金融业，交易员被迫改用传真",
-      "link": "https://www.ithome.com/1/027/138.htm",
-      "summary": "IT之家 11 月 14 日消息，据新加坡《商业时报》昨日（11 月 13 日）报道，受微软多项软件服务全球性故障影响，全球金融业务遭受重创，部分交易员被迫改用电话、WhatsApp，甚至重新启用传真机维持业务运转。从东京到休斯敦，各交易台都用不了邮件系统，而交易确认、价格报告和客户联络都要靠它。新加坡交易员反映，一些银行无法完成融资交易；泛欧交易所、纳斯达克和德意志交易所均报告电子邮件问题。印度",
+      "title": "荷兰皇家航空前 CEO 被曝机上违规使用充电宝引发火情，公司提请指控",
+      "link": "https://www.ithome.com/1/027/231.htm",
+      "summary": "IT之家 11 月 14 日消息，据央视新闻今天（14 日）晚间报道，荷兰皇家航空公司前首席执行官（CEO）卡米尔 · 厄尔林斯 9 月在该公司一架客机上违规使用充电宝引发火情，荷航日前已就此事向检方提请指控厄尔林斯。荷航 13 日在一份声明中说：“如果乘客严重违反安全规定，危及航班、乘客或机组人员安全，公司方面会提出指控，这是标准做法。”荷航没有公布当事人身份。消息人士称，受指控的是厄尔林斯。多",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 14 Nov 2026 06:48:54 GMT"
+      "published": "Sat, 14 Nov 2026 13:28:26 GMT"
     },
     {
-      "title": "微博官方 11.11 返场：会员年卡 49.4 元、SVIP 年卡 117 元大促",
-      "link": "https://www.ithome.com/1/027/137.htm",
-      "summary": "微博会员年卡日常售价 120 元，11.11 大促活动价 60 元，领券立减 10 元 + 可用淘金币抵扣 0.6 元，到手仅需 49.4 元。约合 4.12 元 / 月。天猫新浪微博会员 年卡 12 个月 0.6 元淘金币券后 49.4 元领 10 元券微博 SVIP 会员年卡日常售价 258 元，11.11 大促活动价 129 元，领券立减 10 元 + 可用淘金币抵扣 1.29 元，到手仅需",
+      "title": "华大九天联合大湾区基金完成国产数字前端 EDA 专业化整合，新公司“新禹思”成立",
+      "link": "https://www.ithome.com/1/027/230.htm",
+      "summary": "IT之家 11 月 14 日消息，在第二十三届中国国际半导体博览会（IC China）期间，北京华大九天科技股份有限公司与粤港澳大湾区科技创新产业投资基金，在北京 · 国家会议中心联合举行“国产数字前端 EDA 新平台发布会”，宣布亚科鸿禹与思尔芯合并重组，新平台公司“新禹思”（HyperS2C）正式成立。官方表示，此次思尔芯与亚科鸿禹的整合并非简单的企业合并，而是国内两大头部数字 EDA 企业的",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 14 Nov 2026 06:47:59 GMT"
+      "published": "Sat, 14 Nov 2026 13:07:04 GMT"
     },
     {
-      "title": "百万级 CAR-T 抗癌药首次纳入我国基本医保，患者自付降至 10 万元以内",
-      "link": "https://www.ithome.com/1/027/136.htm",
-      "summary": "IT之家 11 月 14 日消息，据科创板日报报道，在今天举办的 2026 创新药高质量发展大会上，最新版国家医保药品目录及商保创新药目录同步公布。IT之家获悉，新版基本医保目录中，有 2 款创新药由此前首版商保创新药目录转入基本医保，体现“医保 + 商保”双目录协同衔接的进一步深化。其中，百万级 CAR-T 抗癌疗法迎来历史性突破，药明巨诺瑞基奥仑赛注射液（商品名：倍诺达 ®）首次被纳入基本医保",
+      "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+      "link": "https://www.ithome.com/1/027/229.htm",
+      "summary": "IT之家 11 月 14 日消息，据彭博社报道，当地时间 13 日，美国政府新设的“超级智能工作组”在白宫开会，建议联邦机构放宽网络安全事件的问责政策，鼓励 AI 企业主动报告重大安全事件。一名不愿具名的政府官员透露，工作组认为，过去处理网络安全事件时采用的监管处罚标准可能不再适用，甚至会让企业不敢分享重要的安全信息。工作组因此敦促各机构，未来 12 个月内应限制企业因安全事件承担的监管责任，并考",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 14 Nov 2026 06:46:21 GMT"
+      "published": "Sat, 14 Nov 2026 13:03:22 GMT"
     },
     {
-      "title": "部分玩家反馈自己购买的《GTA6》游戏实体盒装版并未随附游戏兑换码，向经销商退款遭拒",
-      "link": "https://www.ithome.com/1/027/135.htm",
-      "summary": "IT之家 11 月 14 日消息，据外媒 Notebook Check 报道，部分玩家发现自己购买的《GTA6》游戏实体包装盒内竟然没有 Xbox 或 PlayStation Store 游戏兑换码。相应玩家尝试向 Rockstar Games 及零售商申请退款，但均未能成功。X 平台上流传的贴文显示，一名 PS5 版《GTA 6》购买者拆开包装后发现，原本应该印有游戏兑换码的内页只有一条灰色印刷",
+      "title": "英伟达副总裁卡坦扎罗否认签署要求前 CEO 黄仁勋复职的公开信，表态支持董事会和临时 CEO 克雷斯",
+      "link": "https://www.ithome.com/1/027/228.htm",
+      "summary": "IT之家 11 月 14 日消息，英伟达应用深度学习研究副总裁布莱恩 · 卡坦扎罗（Bryan Catanzaro）在社交平台 X 上公开发文辟谣，否认自己参与签署网传要求前 CEO 黄仁勋复职的公开信，称该信件系伪造，并明确表态支持英伟达董事会及临时 CEO 科莱特 · 克雷斯（Colette Kress）。布莱恩 · 卡坦扎罗声称，即便（公开信）是真的，他也不会签字。IT之家注意到，黄仁勋离任",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sat, 14 Nov 2026 06:39:48 GMT"
+      "published": "Sat, 14 Nov 2026 12:45:55 GMT"
+    },
+    {
+      "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+      "link": "https://sspai.com/post/118276",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+      "source": "少数派",
+      "category": "效率工具",
+      "published": "Sat, 14 Nov 2026 15:40:21 +0800"
     },
     {
       "title": "本周看什么 | 最近值得一看的 10 部作品",
@@ -193,12 +201,28 @@
       "published": "Wed, 11 Nov 2026 17:30:00 +0800"
     },
     {
-      "title": "从优胜美地到金门大桥：跟着 macOS 游览加州",
-      "link": "https://sspai.com/post/118175",
-      "summary": "陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？查看全文",
-      "source": "少数派",
-      "category": "效率工具",
-      "published": "Wed, 11 Nov 2026 14:50:39 +0800"
+      "title": "天问四号将尝试登陆木卫四",
+      "link": "https://www.solidot.org/story?sid=85887",
+      "summary": "11 月 13 日，探月与航天工程中心发布通知，天问四号有效载荷研制方案开展征集。天问四号任务将执行环绕木星、环绕木卫四、着陆木卫四三大任务。木卫四或 Callisto 是太阳系第三大卫星，也是木星第二大卫星，仅次于木卫三。木卫四的直径为水星直径的 99%，但是质量只有它的三分之一。木卫四由近乎等量的岩石和水所构成，其表面下 100 公里处可能有一个液态水构成的地下海洋，可能具有孕育生命的基本条件",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Sat, 14 Nov 2026 22:12:32 +0800"
+    },
+    {
+      "title": "微软云服务宕机持续逾 24 小时",
+      "link": "https://www.solidot.org/story?sid=85886",
+      "summary": "微软周六表示，影响各国企业和政府所用 Microsoft 365 应用的全球服务中断已经结束，这次中断持续了超过 24 小时。微软在 X 上发文说：“我们已完成解决这一事件根本问题的工作，并为其余受影响的客户和地区恢复了服务。”Teams、Outlook 和 Copilot 等微软应用都受到了这次服务中断的影响，导致数十个国家出现通信问题。微软表示，“没有发现”任何可能导致这次服务中断的外部干扰，",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Sat, 14 Nov 2026 21:55:50 +0800"
+    },
+    {
+      "title": "美国历史上第三次航班大停飞",
+      "link": "https://www.solidot.org/story?sid=85884",
+      "summary": "美国 FAA 本周五宣布了其历史上第三次全国航班停飞，持续 4.5 小时后解除。此举导致近 1 万架次航班被取消。FAA 历史上第一次全国航班停飞是 2001 年的 911 事件，第二次是 2023 年 1 月 11 日，持续不到 2 小时。对于最新的事件，美国交通部长 Sean Duffy 给出的理由是空管系统依赖的仍是几十年前的模拟设备，已完全无法满足 21 世纪的需求。但也有报道称此次事件与",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Sat, 14 Nov 2026 21:24:23 +0800"
     },
     {
       "title": "旅行者 1 号距离地球的距离达到一光日",
@@ -297,30 +321,6 @@
       "published": "Thu, 12 Nov 2026 22:03:11 +0800"
     },
     {
-      "title": "BMI 误判数百万人肥胖",
-      "link": "https://www.solidot.org/story?sid=85871",
-      "summary": "中外研究团队基于中国、英国、美国、西班牙4国、超 84 万人的数据研究证实，肥胖诊断不能只看体重，更不能单凭BMI(体重除以身高的平方)“一刀切”。长期以来，全球普遍以 BMI 作为筛查和判定肥胖的核心指标。但论文第一作者及共同通讯作者、华中科技大学同济医学院公共卫生学院教授潘安指出，BMI 存在天然缺陷——它只能算出体重与身高的关系，却无法区分增加的究竟是肌肉还是脂肪，更无法判断积累的脂肪是否已",
-      "source": "奇客 Solidot",
-      "category": "技术",
-      "published": "Thu, 12 Nov 2026 22:01:40 +0800"
-    },
-    {
-      "title": "天文学家发现一个恒星系统每八分钟发射一次射电信号",
-      "link": "https://www.solidot.org/story?sid=85870",
-      "summary": "天文学家发现一个不同寻常的双星系统 GPM J071507−114153，由一颗白矮星——一颗恒星死亡后留下的致密核心——和一颗类太阳 G 型恒星组成。白矮星自转一周八分钟，它每八分钟发射一次射电信号。这是首次在绕类太阳恒星运行的白矮星中探测到射电脉冲。此类双星属于被称为长周期瞬变天体（long-period transients，LPT）的天体。天文学家至今共探测到十多个 LPT 天体。天文学家",
-      "source": "奇客 Solidot",
-      "category": "技术",
-      "published": "Thu, 12 Nov 2026 21:55:08 +0800"
-    },
-    {
-      "title": "《Big Walk》开发商利用 AI 修 Bug 引起争议",
-      "link": "https://www.solidot.org/story?sid=85869",
-      "summary": "热门独游《Big Walk》开发商 House House 承认在生成式 AI 帮助下修 bug，结果在独立游戏节（Independent Games Festival，IGF）上引发了激烈争议。IGF 评委团的多名成员周一发表联合声明，强烈反对使用生成式 AI 的游戏，并督促官方制定强有力的反 AI 政策。《Big Walk》是一款非常受欢迎的合作冒险游戏，使用了 Unity 引擎开发，开发商发",
-      "source": "奇客 Solidot",
-      "category": "技术",
-      "published": "Thu, 12 Nov 2026 21:27:09 +0800"
-    },
-    {
       "title": "科技爱好者周刊（第 419 期）：机房来了，写字楼走了",
       "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html",
       "summary": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -345,17 +345,41 @@
       "published": "2026-10-30T00:13:03Z"
     },
     {
-      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "title": "Monkey Island: all 13 versions side by side",
+      "link": "https://monkeyisland.pages.dev/",
+      "summary": "Article URL: https://monkeyisland.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50493904 Points: 304 # Comments: 90",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Sat, 14 Nov 2026 04:23:30 +0000"
+    },
+    {
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
       "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 392 # Co",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 855 # Co",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Sat, 14 Nov 2026 02:52:59 +0000"
     },
     {
+      "title": "Ggml v1.0.0",
+      "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 351 # Comments: 53",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Sat, 14 Nov 2026 02:28:29 +0000"
+    },
+    {
+      "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
+      "summary": "Article URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html Comments URL: https://news.ycombinator.com/item?id=50492993 Points: 206 # Comments: 49",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Sat, 14 Nov 2026 02:21:36 +0000"
+    },
+    {
       "title": "FAA lifted National Ground Stop at 0119Z",
       "link": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
-      "summary": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&amp;advn=5 Comments URL: https://news.ycombinator.com/item?id=50492601 Points: 208 # Comments: 2",
+      "summary": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&amp;advn=5 Comments URL: https://news.ycombinator.com/item?id=50492601 Points: 209 # Comments: 2",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Sat, 14 Nov 2026 01:30:01 +0000"
@@ -363,18 +387,42 @@
     {
       "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
       "link": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
-      "summary": "Article URL: https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html Comments URL: https://news.ycombinator.com/item?id=50492456 Points: 233 # Comments: 149",
+      "summary": "Article URL: https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html Comments URL: https://news.ycombinator.com/item?id=50492456 Points: 281 # Comments: 183",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Sat, 14 Nov 2026 01:10:22 +0000"
     },
     {
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "link": "https://unsloth.ai/docs/models/qwen3.8",
+      "summary": "Article URL: https://unsloth.ai/docs/models/qwen3.8 Comments URL: https://news.ycombinator.com/item?id=50491980 Points: 209 # Comments: 63",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Sat, 14 Nov 2026 00:06:04 +0000"
+    },
+    {
+      "title": "Terminal borders that don't cost a cell",
+      "link": "https://www.joshka.net/cell-borders/",
+      "summary": "Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 351 # Comments: 151",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Fri, 13 Nov 2026 23:06:40 +0000"
+    },
+    {
       "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
       "link": "https://orcasairband.com/",
-      "summary": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 254 # Comments: 59",
+      "summary": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 285 # Comments: 66",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 13 Nov 2026 22:04:24 +0000"
+    },
+    {
+      "title": "All US airports are currently ground stopped",
+      "link": "https://twitter.com/flightradar24/status/2121347654714077605",
+      "summary": "Article URL: https://twitter.com/flightradar24/status/2121347654714077605 Comments URL: https://news.ycombinator.com/item?id=50489652 Points: 207 # Comments: 41",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Fri, 13 Nov 2026 21:06:52 +0000"
     },
     {
       "title": "FAA issues national ground stop – lifted 4.5 hours later",
@@ -387,86 +435,38 @@
     {
       "title": "Big tech is here to let us down",
       "link": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
-      "summary": "Article URL: https://blog.jsweeting.me/big-tech-is-here-to-let-us-down Comments URL: https://news.ycombinator.com/item?id=50489083 Points: 211 # Comments: 196",
+      "summary": "Article URL: https://blog.jsweeting.me/big-tech-is-here-to-let-us-down Comments URL: https://news.ycombinator.com/item?id=50489083 Points: 214 # Comments: 200",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 13 Nov 2026 20:20:30 +0000"
     },
     {
+      "title": "No AI Slop: A Manifesto",
+      "link": "https://www.slopmanifesto.com/",
+      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 207 # Comments: 124",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Fri, 13 Nov 2026 19:51:56 +0000"
+    },
+    {
+      "title": "Found: A protein that drives ageing without unleashing inflammation",
+      "link": "https://www.nature.com/articles/d41586-026-03638-3",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-03638-3 Comments URL: https://news.ycombinator.com/item?id=50488470 Points: 231 # Comments: 59",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Fri, 13 Nov 2026 19:25:21 +0000"
+    },
+    {
       "title": "FM-1 Workbench",
       "link": "https://open.m-vave.com/fm1-workbench",
-      "summary": "Article URL: https://open.m-vave.com/fm1-workbench Comments URL: https://news.ycombinator.com/item?id=50488325 Points: 220 # Comments: 147",
+      "summary": "Article URL: https://open.m-vave.com/fm1-workbench Comments URL: https://news.ycombinator.com/item?id=50488325 Points: 255 # Comments: 168",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Fri, 13 Nov 2026 19:14:02 +0000"
-    },
-    {
-      "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-      "link": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
-      "summary": "Article URL: https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas Comments URL: https://news.ycombinator.com/item?id=50487864 Points: 339",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Fri, 13 Nov 2026 18:40:44 +0000"
-    },
-    {
-      "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
-      "link": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
-      "summary": "Article URL: https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/ Comments URL: https://news.ycombinator.com/item?id=50487522 Points: 337 # Comments: 1",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Fri, 13 Nov 2026 18:18:37 +0000"
-    },
-    {
-      "title": "After 600 experiments, here's what I discovered about JEPA world models",
-      "link": "https://haddyalchaer.com/jepa",
-      "summary": "Article URL: https://haddyalchaer.com/jepa Comments URL: https://news.ycombinator.com/item?id=50487185 Points: 246 # Comments: 40",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Fri, 13 Nov 2026 17:55:28 +0000"
-    },
-    {
-      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=504867",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Fri, 13 Nov 2026 17:30:10 +0000"
-    },
-    {
-      "title": "LibreOffice actually works 365 days a year",
-      "link": "https://twitter.com/LibreOffice/status/2121205272479998268",
-      "summary": "Article URL: https://twitter.com/LibreOffice/status/2121205272479998268 Comments URL: https://news.ycombinator.com/item?id=50486482 Points: 867 # Comments: 269",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Fri, 13 Nov 2026 17:09:58 +0000"
-    },
-    {
-      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-      "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 247 # Comments: 248",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Fri, 13 Nov 2026 15:08:44 +0000"
-    },
-    {
-      "title": "Why Zig over C for Systems Programming",
-      "link": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
-      "summary": "Article URL: https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/ Comments URL: https://news.ycombinator.com/item?id=50483611 Points: 216 # Comments: 209",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Fri, 13 Nov 2026 14:01:13 +0000"
-    },
-    {
-      "title": "Eli Lilly CEO pushes back on Dario Amodei's medical claims",
-      "link": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
-      "summary": "Article URL: https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest Comments URL: https://news.ycombinator.com/item?id=50483480 Points: 266 # Comments: 367",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Fri, 13 Nov 2026 13:51:27 +0000"
     }
   ],
   "count": 58,
   "sources_ok": 5,
   "errors": [],
-  "fetched_at": "2026-11-14T15:31:17+08:00"
+  "fetched_at": "2026-11-14T23:44:04+08:00"
 }
