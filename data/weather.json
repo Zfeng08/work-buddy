@@ -5,14 +5,14 @@
       "note": "北京",
       "cn_id": "101010100",
       "current": {
-        "temperature": 5.9,
+        "temperature": 5.8,
         "apparent": 1.8,
-        "humidity": 36,
-        "wind_speed": 7.2,
-        "weather_code": 0,
+        "humidity": 37,
+        "wind_speed": 6.5,
+        "weather_code": 2,
         "pm25": 50.1,
         "pm10": 52.2,
-        "time": "2026-11-22T15:15"
+        "time": "2026-11-22T15:45"
       },
       "daily": [
         {
@@ -57,14 +57,14 @@
       "note": "上海",
       "cn_id": "101020100",
       "current": {
-        "temperature": 14.7,
-        "apparent": 11.5,
-        "humidity": 44,
-        "wind_speed": 10.3,
+        "temperature": 14.3,
+        "apparent": 11.3,
+        "humidity": 47,
+        "wind_speed": 9.4,
         "weather_code": 1,
         "pm25": 29.9,
         "pm10": 34.5,
-        "time": "2026-11-22T15:15"
+        "time": "2026-11-22T15:45"
       },
       "daily": [
         {
@@ -109,14 +109,14 @@
       "note": "广东",
       "cn_id": "101280101",
       "current": {
-        "temperature": 21.2,
-        "apparent": 20.2,
-        "humidity": 52,
+        "temperature": 20.9,
+        "apparent": 19.9,
+        "humidity": 54,
         "wind_speed": 9.1,
         "weather_code": 3,
         "pm25": 24.6,
         "pm10": 26.0,
-        "time": "2026-11-22T15:15"
+        "time": "2026-11-22T15:45"
       },
       "daily": [
         {
@@ -161,14 +161,14 @@
       "note": "四川",
       "cn_id": "101270101",
       "current": {
-        "temperature": 15.6,
-        "apparent": 14.4,
+        "temperature": 15.8,
+        "apparent": 14.5,
         "humidity": 56,
-        "wind_speed": 2.9,
+        "wind_speed": 3.5,
         "weather_code": 2,
         "pm25": 42.6,
         "pm10": 43.3,
-        "time": "2026-11-22T15:15"
+        "time": "2026-11-22T15:45"
       },
       "daily": [
         {
@@ -213,14 +213,14 @@
       "note": "浙江",
       "cn_id": "101210101",
       "current": {
-        "temperature": 17.1,
-        "apparent": 14.0,
-        "humidity": 36,
-        "wind_speed": 8.6,
+        "temperature": 16.6,
+        "apparent": 14.1,
+        "humidity": 42,
+        "wind_speed": 7.0,
         "weather_code": 0,
         "pm25": 22.4,
         "pm10": 24.4,
-        "time": "2026-11-22T15:15"
+        "time": "2026-11-22T15:45"
       },
       "daily": [
         {
@@ -261,5 +261,5 @@
       ]
     }
   ],
-  "fetched_at": "2026-11-22T15:28:57+08:00"
+  "fetched_at": "2026-11-22T15:55:54+08:00"
 }
