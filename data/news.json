@@ -1,124 +1,148 @@
 {
   "items": [
     {
-      "title": "美国初创企业公布 AI 自研 CPU 架构 Frostbite，能效是传统处理器的 4.59 倍",
-      "link": "https://www.ithome.com/1/030/717.htm",
-      "summary": "IT之家 11 月 22 日消息，美国加利福尼亚州帕洛阿尔托的初创公司 Architect Labs 在一篇研究博客中宣布，其人工智能系统已经自主发现、设计并验证了一款名为 Frostbite 的通用 CPU。这款处理器采用全新的指令集，从底层开始重新设计，试图摆脱传统 CPU 的部分架构限制。在 25 项工作负载测试中，由 4 个计算单元组成的 Frostbite 集群，每瓦性能达到一款尺寸相近",
+      "title": "开源工具 OLEDTextFix 公布，可改善 Windows 系统在 OLED 面板下文字清晰度不足、彩边等问题",
+      "link": "https://www.ithome.com/1/030/964.htm",
+      "summary": "IT之家 11 月 23 日消息，据外媒 Wccftech 报道，近期有开发者推出一款免费开源 Windows 工具 OLEDTextFix，尝试通过 GPU 图像处理技术改善 Windows 系统在 OLED 面板下出现文字清晰度不足、彩边等问题，IT之家附项目地址（https://github.com/oguz463/OLEDTextFix?utm_source=chatgpt.com）。外媒",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 22 Nov 2026 15:15:55 GMT"
+      "published": "Mon, 23 Nov 2026 08:33:13 GMT"
     },
     {
-      "title": "研华 ASR-A505 单板计算机曝光，搭载英特尔 \"Nova Lake H\" 处理器",
-      "link": "https://www.ithome.com/1/030/716.htm",
-      "summary": "IT之家 11 月 22 日消息，根据研华 (Advantech) 泄露到网络上的一份演示文稿，该企业正在开发一款基于英特尔第 4 代酷睿 Ultra 处理器 \"Nova Lake H\" 的“四英寸级”单板计算机 (SBC) ASR-A505。该 SBC 板载一颗 \"8P+4E+4LE\" 的 16 核心 16 线程 CPU，配备 18MB 的 LLC 缓存，基频 2.0GHz、睿频可达 4.8GH",
+      "title": "日本工业机器人制造商安川电机：AI 人形机器人将在 2030 年正式推出",
+      "link": "https://www.ithome.com/1/030/954.htm",
+      "summary": "IT之家 11 月 23 日消息，日本工业机器人制造商安川电机 (YASAKAWA) 人工智能机器人统括部长久保田由美惠当地时间本月 20 日接受日本共同社采访时表示，该企业计划在人形机器人领域追赶当前领先的美中企业。久保田由美惠称，安川电机正在开发中的 AI 人形机器人将在 2030 年正式推出，具体投放时间也可能根据客户实际需求提前。安川电机目标让人形机器人承担现有机器人无法实现自动化的作业，",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 22 Nov 2026 14:45:34 GMT"
+      "published": "Mon, 23 Nov 2026 08:30:50 GMT"
     },
     {
-      "title": "Oracle：已确保履行与 OpenAI 合同全部所需资金",
-      "link": "https://www.ithome.com/1/030/715.htm",
-      "summary": "IT之家 11 月 22 日消息，Oracle（甲骨文）当地时间本月 20 日表示，该企业已在本月初筹集到了履行与 OpenAI 交易的全部所需资金，与供应商进行的任何进一步私下讨论仅为补充选项。▲ AbileneOracle 称其与 OpenAI 在 AI 基础设施合作方面的进展迅速：位于美国得克萨斯州 Abilene 的园区已用于 GPT-6 Astra 的训练，整体接近完工；下一个 GW 级",
+      "title": "挑战比亚迪，科尼赛克 Jesko Absolut 计划冲击 532 公里 / 小时极速",
+      "link": "https://www.ithome.com/1/030/947.htm",
+      "summary": "IT之家 11 月 23 日消息，比亚迪凭借电动超跑刷新量产车极速纪录后，科尼赛克（Koenigsegg）并不打算轻易让出极速桂冠。公司创始人兼 CEO 克里斯蒂安 · 冯 · 科尼赛克（Christian von Koenigsegg）表示，旗下 Jesko Absolut 仍在筹备冲击极速纪录，理论最高时速有望达到 330 英里（约 532 公里）。不过，目前横亘在这一目标面前的最大障碍，是寻",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 22 Nov 2026 14:24:17 GMT"
+      "published": "Mon, 23 Nov 2026 08:26:33 GMT"
     },
     {
-      "title": "R 星：《GTA 6》亲密戏份制作难度高，随主角关系动态变化",
-      "link": "https://www.ithome.com/1/030/714.htm",
-      "summary": "IT之家 11 月 22 日消息，据游戏开发商 Rockstar Games 介绍，为《侠盗猎车手 6》（GTA 6）设计真实可信的性爱与亲密互动场景，并不是一件容易的事。作为一款《GTA》系列游戏，同时也是一部爱情故事，《GTA 6》中出现大量性爱和亲密互动场景并不令人意外。不过，如何恰当地把握这些内容的尺度，对开发团队而言是一项不小的挑战。IT之家注意到，Rockstar 动画副总裁马克 · ",
+      "title": "张雪机车拍卖 53 号冠军赛车超 10 万人围观：张雪本人 300 万元拿下，德比斯期待首个中国队友",
+      "link": "https://www.ithome.com/1/030/946.htm",
+      "summary": "IT之家 11 月 23 日消息，据深圳广电集团都市频道《第一现场》栏目报道，张雪机车于 11 月 22 日正式拍卖 2026 赛季跑完整个赛季的 53 号主赛车，以及一座冠军奖杯、同站圈速奖牌。竞拍在“张雪机车”直播间同步进行，起拍价 50 万元，每次加价 10 万元。有网友出价到 250 万元，最终张雪决定出资 300 万元购回，今后放入张雪机车博物馆永久收藏。张雪机车现场介绍，资金将全额注入",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 22 Nov 2026 14:19:27 GMT"
+      "published": "Mon, 23 Nov 2026 08:23:50 GMT"
     },
     {
-      "title": "签约后也能涨价：消息称 AI 服务器厂商交付前提价，涨幅最高达 45%",
-      "link": "https://www.ithome.com/1/030/713.htm",
-      "summary": "IT之家 11 月 22 日消息，据金融时报报道，随着人工智能基础设施成本飙升并向下游客户传导，销售数据中心设备的科技公司正在与买家签署合同数月后，大幅上调搭载英伟达芯片的人工智能服务器价格。包括戴尔、慧与科技（HPE）、联想和超微电脑（Supermicro）在内的供应商，向自建数据中心的客户销售服务器，其中包含 GPU、内存芯片和网络设备等组件。此类交易通常在交付前很早就已达成协议。然而据知情人",
+      "title": "第三方开发者推出 RageForge 开源工具：用于逆向分析泄露的 XBOX 版《GTA6》游戏地图",
+      "link": "https://www.ithome.com/1/030/945.htm",
+      "summary": "IT之家 11 月 23 日消息，开发者 nullbrik 先前在 GitHub 公开 RageForge 开源工具，主要用于研究和逆向分析 Cyberleek 泄露的 XBOX 版《GTA6》游戏文件。不过截至IT之家发稿，该项目已不可见，目前尚不确定是 R 星版权诉讼还是开发者自行删除了存储库。综合 Playground 等媒体报道信息，该工具采用.NET 10 编写，支持 Windows x",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 22 Nov 2026 14:00:48 GMT"
+      "published": "Mon, 23 Nov 2026 08:22:05 GMT"
     },
     {
-      "title": "MiniMax 利用最新内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录",
-      "link": "https://www.ithome.com/1/030/711.htm",
-      "summary": "IT之家 11 月 22 日消息，MiniMax 今日宣布，近期，MiniMax 研究团队利用 MiniMax 最新内部模型对现代密码方案开展了系统性的自动化密码分析。在测试中，模型发掘出了多处此前未知的算法构造缺陷，并将多项原本仅停留在论文理论层面的攻击，推进到了秒级至分钟级的可执行破解。IT之家获悉，相关进展主要涵盖三个方面：针对历届 NIST（美国国家标准与技术研究院）国际密码标准化竞赛，该",
+      "title": "雷军：小米澎程系列车主提车后，纯电行驶里程占比大约 9 成",
+      "link": "https://www.ithome.com/1/030/944.htm",
+      "summary": "IT之家 11 月 23 日消息，小米创办人、董事长兼 CEO 雷军今日分享了一组数据。他透露，小米澎程系列大电池增程车型，车主提车后纯电行驶里程占比大约 9 成，相比以前用油非常划算。据IT之家了解，小米澎程 N70 Max 提供两款增程专用电池包，分别为 52kWh 磷酸铁锂、76kWh 三元锂，CLTC 最高纯电续航 505km，百公里 CLTC 最低电耗 15.85kWh。澎程 N90 M",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 22 Nov 2026 13:23:38 GMT"
+      "published": "Mon, 23 Nov 2026 08:22:00 GMT"
     },
     {
-      "title": "苹果首款折叠屏手机 iPhone Duo 开启百亿补贴，电商平台优惠千元到手 14499 元起",
-      "link": "https://www.ithome.com/1/030/710.htm",
-      "summary": "IT之家 11 月 22 日消息，苹果首款折叠屏手机 iPhone Duo 于 10 月 23 日发售，上市约一个月后，目前该机已陆续开始在电商平台开始补贴，以拼多多为例，目前该机已开启百亿补贴，相对于上市价（15999 元起）优惠千元，到手价 14499 元起。参考IT之家先前报道，有消息称苹果 iPhone Duo 折叠屏手机首销期（首销日 + 后三天）的 SO（销量）接近 200K（20 万",
+      "title": "《GTA6》页面占位符现身 Steam 平台，消息称系第三方山寨游戏",
+      "link": "https://www.ithome.com/1/030/943.htm",
+      "summary": "IT之家 11 月 23 日消息，据外媒 NoteBook Check 报道，Steam 商店近日出现了一个《GTA 6》可疑占位符页面。不过，该页面并不像正常的 Steam 游戏商店页面，不仅没有游戏截图，也未提供开发者和发行商信息，甚至将游戏标记为免费游玩（Free-to-Play），与 Rockstar Games 旗下新作的商业模式明显不符。更值得注意的是，该页面并非近期才创建。根据 St",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 22 Nov 2026 13:17:56 GMT"
+      "published": "Mon, 23 Nov 2026 08:14:50 GMT"
     },
     {
-      "title": "Nomadic 无人机停高压电线上就能充电，每架可负责监测 25 公里电网线路",
-      "link": "https://www.ithome.com/1/030/708.htm",
-      "summary": "IT之家 11 月 22 日消息，科技初创公司 Nomadic 本周展示了旗下的 NOMAD 无人机，同时宣布完成 600 万美元（IT之家注：现汇率约合 4,016 万元人民币）种子轮融资。这款四旋翼无人机有一项与其名字相呼应的独特能力：几乎可以一直飞行，无需返回基地。NOMAD 无人机能够停靠在高压输电线上，直接从线路获取电能并为自身充电，随后继续执行下一项任务。此前外界鲜有关于 NOMAD ",
+      "title": "荣耀 YOYO · 豆包手机助手曝光，支持语音唤醒、连续对话、全局记忆等能力",
+      "link": "https://www.ithome.com/1/030/942.htm",
+      "summary": "IT之家 11 月 23 日消息，博主 @阿兴XZai 今日发布视频，分享了荣耀的 YOYO · 豆包手机助手的功能页面。画面显示，荣耀 YOYO · 豆包手机助手支持语音唤醒、连续对话、全局记忆等能力。据IT之家此前报道，今年 4 月，有消息称荣耀与字节跳动就“豆包手机”相关合作展开接洽。字节跳动在与中兴通讯合作推出第一代豆包手机之前，最先接触的手机厂商其实是荣耀。不过，荣耀当时对此态度较为谨慎",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 22 Nov 2026 12:56:39 GMT"
+      "published": "Mon, 23 Nov 2026 08:14:47 GMT"
     },
     {
-      "title": "雷诺集团 CEO 福兰反思职业生涯最大失误：当年未能指出在华销量目标不切实际",
-      "link": "https://www.ithome.com/1/030/707.htm",
-      "summary": "IT之家 11 月 22 日消息，据欧洲汽车新闻报道，雷诺集团首席执行官福兰（Francois Provost）直言，当年未能向时任首席执行官卡洛斯 · 戈恩（Carlos Ghosn）指出其在华销量目标不切实际，是自己职业生涯中最大的失误。福兰于 2025 年 7 月出任雷诺首席执行官，他曾在 2016 年和 2017 年负责该车企在华业务运营。戈恩则于 2005 年至 2019 年 1 月期间",
+      "title": "福特汽车重返日本市场，主打政务定制车型",
+      "link": "https://www.ithome.com/1/030/941.htm",
+      "summary": "IT之家 11 月 23 日消息，据 Carscoops 报道，福特汽车出口经销商 Global Fleet Sales 将与日本横滨企业 Space Factory 合作，向日本引进多款福特车型，这意味着福特汽车正式重返日本市场（福特于 2016 年退出日本一般乘用车市场）。不过，相应车辆暂时不会面向日本普通消费者销售，主要客户将是日本政务部门。其中，车辆改装工作将由位于泰国的 RMA Spec",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 22 Nov 2026 12:47:05 GMT"
+      "published": "Mon, 23 Nov 2026 08:10:23 GMT"
     },
     {
-      "title": "韩国最大电力公司韩电再曝大规模数据泄露，152 万人信息外泄",
-      "link": "https://www.ithome.com/1/030/706.htm",
-      "summary": "IT之家 11 月 22 日消息，韩国最大电力公司韩国电力公社（IT之家注：KEPCO，简称“韩电”）今日表示，已确认发生另一起涉及约 152 万用户个人信息的数据泄露事件。上个月，该公司披露了一起影响 35,528 名内部员工、退休人员及合作方员工的信息泄露事件。据介绍，本次泄露的信息中大量包含了居民登录号码（韩国身份证号）、电话号码、地址、账号、卡号等。此次确认发生信息泄露的地方，是提供电费查",
+      "title": "孩子买回一套“纸质版短剧”：没广告、不用充电，14 元轻松拿下 24 台 N 折叠",
+      "link": "https://www.ithome.com/1/030/940.htm",
+      "summary": "IT之家 11 月 23 日消息，据河南广播电视台都市频道今日报道，有家长发现孩子买回一套新奇的“纸质版短剧”。从视频可以看到，册子做成巴掌大小，外形模仿手机模样，封面复刻手机屏幕界面，内页印满短剧截图，按集数翻页就能追剧。妈妈翻看之后哭笑不得。网友纷纷调侃：这就是新一代小人书，没有广告、不用充电，还不费眼睛。有博主表示，“纸质版短剧”价格还蛮便宜，一套 24 本才 14 块钱。根据 QuestM",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 22 Nov 2026 12:24:05 GMT"
+      "published": "Mon, 23 Nov 2026 08:07:40 GMT"
     },
     {
-      "title": "日本零售业接连爆发数据泄露事件，塔唱片约 1020 万账户信息遭窃",
-      "link": "https://www.ithome.com/1/030/704.htm",
-      "summary": "IT之家 11 月 22 日消息，据彭博社报道，日本音乐零售商塔唱片（Tower Records Japan Inc.）表示，公司遭遇未经授权的访问，导致客户信息泄露。这使塔唱片成为近期披露数据泄露事件的又一家日本零售企业。塔唱片在周日更新的一份声明中表示，此次事件导致约 1020 万个账户的登录信息泄露，包括电子邮件地址和用户 ID。公司称，已于周四发现这起未经授权的访问事件。IT之家注意到，塔",
+      "title": "LG U+ 围绕 AI 调整企业业务架构，新设基础设施 / 平台部门",
+      "link": "https://www.ithome.com/1/030/938.htm",
+      "summary": "IT之家 11 月 23 日消息，据韩媒 The Elec 报道，LG U+ 正围绕人工智能（AI）基础设施和平台业务调整企业业务架构，计划将相关业务划分为 AI 基础设施部门和 AI 平台部门，分别负责 AI 数据中心及有线、无线通信网络，以及 AI 客户联络中心和智能体服务。在企业事业部门下，公司将新设 AI 基础设施部门，整合 AI 数据中心运营业务与通信基础设施服务；同时设立 AI 平台部",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 22 Nov 2026 12:10:44 GMT"
+      "published": "Mon, 23 Nov 2026 08:06:21 GMT"
     },
     {
-      "title": "微星推出“PRO MP272L”27 英寸显示器：1080P 100Hz，599 元",
-      "link": "https://www.ithome.com/1/030/703.htm",
-      "summary": "IT之家 11 月 22 日消息，微星现已在京东上架“PRO MP272L”27 英寸显示器，该机为 1080P 100Hz 规格，定价为 599 元。京东微星 PRO MP272L 显示器 599 元直达链接该机配备一块 1920x1080 分辨率 100Hz IPS 面板，MPRT 响应速度 1ms，显示器亮度 250 尼特。显示器支架支持俯仰，本体支持 VESA 100x100mm 壁挂，提",
+      "title": "荣耀推出 HONOR LIFE FlyPods X10 Pro 半入耳降噪耳机，国补价 179.1 元",
+      "link": "https://www.ithome.com/1/030/937.htm",
+      "summary": "IT之家 11 月 23 日消息，在今天的荣耀 700 系列追光之旅暨全场景新品发布会上，荣耀官宣推出 HONOR LIFE FlyPods X10 Pro 半入耳式降噪耳机，建议零售价 199 元、国补价 179.1 元。京东 HONOR LIFE FlyPods X10 Pro 蓝牙耳机降噪 199 元直达链接据介绍，HONOR LIFE FlyPods X10 Pro 半入耳式降噪耳机严格遵",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 22 Nov 2026 11:56:09 GMT"
+      "published": "Mon, 23 Nov 2026 08:04:46 GMT"
     },
     {
-      "title": "B站就“AI 大肥鱼”智能体账号泛滥发布调查问卷，征集治理意见",
-      "link": "https://www.ithome.com/1/030/702.htm",
-      "summary": "IT之家 11 月 22 日消息，近期B站出现大量爱好者设置的 AI 智能体账号，这些账号通常以“大肥鱼”“小飞鲸”等昵称，使用 DeepSeek 鲸鱼娘等形象作为头像，在评论区广泛活跃。对此，B站官方账号“哔哩哔哩社区小管家”于 11 月 20 日发布《关于 AI“大肥鱼”你怎么看？》治理意见征询，面向用户征集对 AI 账号及相关行为的意见，并表示将根据反馈推进后续治理行动。IT之家注意到，AI",
+      "title": "AI 大模型周榜：谷歌 Gemini 4 Neon 新登综合第 3，阿里 Qwen4-Max 智能体首秀第 18",
+      "link": "https://www.ithome.com/1/030/935.htm",
+      "summary": "IT之家 11 月 23 日消息，Arena（arena.ai）现已发布第 47 周（2026 年 11 月 16 日至 22 日）周榜。本周综合榜迎来三款重量级新模型首秀：谷歌 Gemini 4 Neon (High) 以 ELO 1513 分直接空降第 3 名，Anthropic Claude Fable 5.2 (Max) 以 1503 分入榜第 7 名，谷歌 Gemini 4 Hydrog",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 22 Nov 2026 11:44:18 GMT"
+      "published": "Mon, 23 Nov 2026 08:00:44 GMT"
     },
     {
-      "title": "699 → 278 元办公人用过就回不去了：罗技 MX Master 3S Lite 鼠标政府补贴大破价",
-      "link": "https://www.ithome.com/1/030/701.htm",
-      "summary": "【手小慎拍，此款适合大多数男性手掌握持。】罗技 Logitech MX Master 3s &nbsp;Lite（国行称为菁英版）在去年 10 月上市，官方定价 699 元。今日京东 PLUS 会员国补后低至 323 元，大多数小伙伴点击下方卡片后，京东 App 上部会自动弹出 51-50 元加码券，手动点击“领券”后仅需 278 元破冰新低：京东罗技 MX Master 3S 菁英版大师系列手动",
+      "title": "目标一项测试覆盖 40 年 CPU，CrystalDiskInfo 开发者公布新项目企划",
+      "link": "https://www.ithome.com/1/030/934.htm",
+      "summary": "IT之家 11 月 23 日消息，存储检测工具 CrystalDiskInfo 开发者 hiyohiyo (@openlibsys) 当地时间本月 22 日庆祝其 PC 实用工具品牌 Crystal Dew World 诞生 28 周年，并宣布了新软件 CrystalMark CPUix 的开发计划。CrystalMark CPUix 目标以单一的性能评分系统覆盖 40 年前至未来的 CPU。为实",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 22 Nov 2026 11:28:24 GMT"
+      "published": "Mon, 23 Nov 2026 07:55:39 GMT"
     },
     {
-      "title": "贝尔金推出新款 40W 单 USB-C 充电头：支持 PD 3.2/PPS 协议，77 元",
-      "link": "https://www.ithome.com/1/030/700.htm",
-      "summary": "IT之家 11 月 22 日消息，贝尔金现已在京东上架新款 40W 单 USB-C 充电头，定价为 77 元。京东贝尔金 40W 充电头 77 元直达链接该产品采用柔和沙色配色，整体造型圆润，尺寸为 34x38x33mm，重量为 57g，匹配可折叠插脚，正面提供一个 USB-C 40W 接口，支持 PD 3.2 和 PPS 协议。IT之家附产品参数：",
+      "title": "SK 集团会长崔泰源决定支付全部 9440 亿韩元财产分割款，以终结离婚纠纷",
+      "link": "https://www.ithome.com/1/030/933.htm",
+      "summary": "IT之家 11 月 23 日消息，SK 集团（SK Group）会长崔泰源（Chey Tae-won）计划按照上诉法院的判决，向前妻卢素英（Roh Soh-yeong）支付全部 9,440 亿韩元（IT之家注：现汇率约合 47.23 亿元人民币）的财产分割款，以此结束这场持续近十年的法律纠纷。据消息人士周一透露，崔泰源已作出这一决定。崔泰源的法律代理人已向韩国最高法院提交申请，请求法院建议双方通过",
       "source": "IT之家",
       "category": "科技商业",
-      "published": "Sun, 22 Nov 2026 11:27:34 GMT"
+      "published": "Mon, 23 Nov 2026 07:51:30 GMT"
+    },
+    {
+      "title": "养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验",
+      "link": "https://sspai.com/post/119023",
+      "summary": "今年8月，小米推出了全新的米家智能鱼缸2Pro。米家智能鱼缸系列目前已经推出了三款产品，分别是一代、桌面版（二代）和最新的2Pro。这一系列产品始终围绕一体化设计和智能养鱼展开，降低入门级用户养鱼的门 ...查看全文",
+      "source": "少数派",
+      "category": "效率工具",
+      "published": "Mon, 23 Nov 2026 15:12:24 +0800"
+    },
+    {
+      "title": "新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」",
+      "link": "https://sspai.com/post/118705",
+      "summary": "曲线救国，旧的 Apple 设备也能拥有了「充电上限」功能。查看全文",
+      "source": "少数派",
+      "category": "效率工具",
+      "published": "Mon, 23 Nov 2026 14:00:53 +0800"
+    },
+    {
+      "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
+      "link": "https://sspai.com/post/119418",
+      "summary": "Anthropic 研究员宣称用 Claude 证明黎曼猜想OpenAI 公布反蒸馏举措黄仁勋据称将攻击下属作为管理方式GTA 6 首日销售额近 40 亿美元特斯拉升级 FSD，推出实景渲染功能AMD 股票被做空看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+      "source": "少数派",
+      "category": "效率工具",
+      "published": "Mon, 23 Nov 2026 07:34:27 +0800"
     },
     {
       "title": "从深圳到上海，少数派的共创故事还在继续",
@@ -177,28 +201,20 @@
       "published": "Thu, 19 Nov 2026 18:25:05 +0800"
     },
     {
-      "title": "新玩意 256｜少数派的编辑们最近买了啥？",
-      "link": "https://sspai.com/post/119287",
-      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
-      "source": "少数派",
-      "category": "效率工具",
-      "published": "Thu, 19 Nov 2026 17:16:00 +0800"
+      "title": "GTA 6 如何在游戏中刻画电动汽车？",
+      "link": "https://www.solidot.org/story?sid=85961",
+      "summary": "GTA 系列以镜像复制现实世界著称。2013 年上市的 GTA 5 中电动汽车还是恶搞的对象，开车速度太快还会过热。但上周上市的 GTA 6 中电动汽车已经成为司空见惯的东西了，被恶搞的反而是尝试将皮卡停在充电位试图加油的人了。GTA 6 是以现实中的美国佛罗里达州（在游戏中虚构为 Leonida）以及迈阿密（Vice City）为蓝图刻画的。和现实中一样，城里的电动汽车比岛礁区 Keys 更常见",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Mon, 23 Nov 2026 15:09:41 +0800"
     },
     {
-      "title": "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制",
-      "link": "https://sspai.com/prime/story/system-app-protection-override-macos-27-3",
-      "summary": "[......]查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-      "source": "少数派",
-      "category": "效率工具",
-      "published": "Thu, 19 Nov 2026 15:34:11 +0800"
-    },
-    {
-      "title": "徒步旅行指南 | 玉龙虎跳峡与天堂雨崩",
-      "link": "https://sspai.com/post/119039",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-      "source": "少数派",
-      "category": "效率工具",
-      "published": "Thu, 19 Nov 2026 10:58:08 +0800"
+      "title": "PostgreSQL 19 释出",
+      "link": "https://www.solidot.org/story?sid=85960",
+      "summary": "PostgreSQL 项目释出了 v19。主要变化包括：新 REPACK 命令回收磁盘空间重组表内容，提升查询性能，REPACK(CONCURRENTLY)命令则能在不中断现有操作的情况下优化表；pg_plan_advice 扩展能更好控制计划稳定性和提升查询性能；改进 I/O 工作进程数量自动伸缩、外键检查、规划与执行优化等方面的性能；当 wal_level 设为 replica 时无需重启服务",
+      "source": "奇客 Solidot",
+      "category": "技术",
+      "published": "Mon, 23 Nov 2026 14:30:29 +0800"
     },
     {
       "title": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料",
@@ -305,22 +321,6 @@
       "published": "Fri, 20 Nov 2026 20:48:17 +0800"
     },
     {
-      "title": "无限滚动自动播放有害社会",
-      "link": "https://www.solidot.org/story?sid=85946",
-      "summary": "根据发表在《The Lancet Psychiatry》期刊上的一篇报告，全球逾十分之一人口可能受到问题性互联网使用的影响，每年由此带来的经济和社会成本可能高达数十亿美元。问题性互联网使用包括了：强迫性使用社交媒体、过度沉迷游戏、网络赌博、强迫性网购、问题性色情内容消费，以及反复搜索加剧焦虑的健康信息。无限滚动的信息流、视频自动播放、个性化推荐以及各类通知等都在诱导用户不断回到社交应用和平台中。报",
-      "source": "奇客 Solidot",
-      "category": "技术",
-      "published": "Fri, 20 Nov 2026 18:50:51 +0800"
-    },
-    {
-      "title": "三名胰腺癌患者在注射病毒后遏制了肿瘤继续发展",
-      "link": "https://www.solidot.org/story?sid=85945",
-      "summary": "在美国的一项临床试验中，三名胰腺癌患者在注射病毒后成功遏制肿瘤继续发展。项目领导者、明尼苏达大学的 Masato Yamamoto 表示临床试验注射的剂量仅为最终目标剂量的十分之一，因此疗效超出了预期。研究人员将对另外 15 名患者使用更高剂量的药物以确定最佳给药水平。胰腺癌被称为最致命的癌症，原因之一是症状出现较晚，此时癌症已扩散无法通过手术切除。一旦确诊，患者生存期为三到六个月左右。另一大原因",
-      "source": "奇客 Solidot",
-      "category": "技术",
-      "published": "Fri, 20 Nov 2026 18:27:28 +0800"
-    },
-    {
       "title": "科技爱好者周刊（第 420 期）：最分心的一年",
       "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html",
       "summary": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -345,9 +345,97 @@
       "published": "2026-11-05T23:43:55Z"
     },
     {
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "link": "https://github.com/AFK-surf/xnulinux",
+      "summary": "Article URL: https://github.com/AFK-surf/xnulinux Comments URL: https://news.ycombinator.com/item?id=50607261 Points: 240 # Comments: 105",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Mon, 23 Nov 2026 03:49:24 +0000"
+    },
+    {
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "link": "https://spelunkr.tv",
+      "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 478 # Comments: 74",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Mon, 23 Nov 2026 01:13:51 +0000"
+    },
+    {
+      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 226 # Comments: 167",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Sun, 22 Nov 2026 23:12:10 +0000"
+    },
+    {
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 469 # Comments: 196",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Sun, 22 Nov 2026 21:01:16 +0000"
+    },
+    {
+      "title": "A miniature San Francisco with live buses, planes and boats",
+      "link": "https://smallsf.com/",
+      "summary": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 258 # Comments: 90",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Sun, 22 Nov 2026 20:33:23 +0000"
+    },
+    {
+      "title": "What Happened to Silicon Valley?",
+      "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "summary": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 632 # Comments: 337",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Sun, 22 Nov 2026 19:20:15 +0000"
+    },
+    {
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "summary": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 480 # Comments: 236",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Sun, 22 Nov 2026 19:10:34 +0000"
+    },
+    {
+      "title": "Perplexity and Intelligence",
+      "link": "https://openai.com/index/perplexity-and-intelligence/",
+      "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 571 # Comments: 394",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Sun, 22 Nov 2026 17:06:27 +0000"
+    },
+    {
+      "title": "Open Social Web Alliance",
+      "link": "https://osw-alliance.net/en/",
+      "summary": "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator.com/item?id=50600511 Points: 241 # Comments: 226",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Sun, 22 Nov 2026 15:24:32 +0000"
+    },
+    {
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "link": "https://github.com/gulivan/worker755",
+      "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 313 # Comments: 76",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Sun, 22 Nov 2026 13:56:58 +0000"
+    },
+    {
+      "title": "Masullo on the Riemann Hypothesis",
+      "link": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+      "summary": "Article URL: https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50598441 Points: 203 # Comments: 137",
+      "source": "Hacker News 精选",
+      "category": "技术",
+      "published": "Sun, 22 Nov 2026 10:59:56 +0000"
+    },
+    {
       "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
       "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-      "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 480 # Comments: 56",
+      "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 962 # Comments: 94",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Sun, 22 Nov 2026 08:57:34 +0000"
@@ -355,7 +443,7 @@
     {
       "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
       "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-      "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 933 # Comments: 545",
+      "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 1281 # Comments: 699",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Sun, 22 Nov 2026 04:04:56 +0000"
@@ -363,110 +451,22 @@
     {
       "title": "Data Processing Incidents on Inference Providers",
       "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-      "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 245 # Comments: 84",
+      "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 285 # Comments: 99",
       "source": "Hacker News 精选",
       "category": "技术",
       "published": "Sun, 22 Nov 2026 02:14:14 +0000"
     },
     {
-      "title": "Sandwich Simulator",
-      "link": "https://stulle.app/",
-      "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 444 # Comments: 153",
+      "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+      "link": "https://github.com/ItsNotRexed/Leonida",
+      "summary": "Article URL: https://github.com/ItsNotRexed/Leonida Comments URL: https://news.ycombinator.com/item?id=50595168 Points: 218 # Comments: 177",
       "source": "Hacker News 精选",
       "category": "技术",
-      "published": "Sun, 22 Nov 2026 00:07:59 +0000"
-    },
-    {
-      "title": "Advice for the next 100 Rust GUIs",
-      "link": "https://linebender.org/blog/next-100-guis/",
-      "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 234 # Comments: 119",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Sat, 21 Nov 2026 21:17:53 +0000"
-    },
-    {
-      "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
-      "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 532 # Comments: 128",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Sat, 21 Nov 2026 18:02:19 +0000"
-    },
-    {
-      "title": "Lean verification of the Riemann Hypothesis",
-      "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 1156 # Comments: 958",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Sat, 21 Nov 2026 14:36:45 +0000"
-    },
-    {
-      "title": "Detonating a pile of lead azide",
-      "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-      "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 670 # Comments: 409",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Sat, 21 Nov 2026 13:23:14 +0000"
-    },
-    {
-      "title": "My monitor was cutting my download speed by 75%",
-      "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-      "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 655 # Comments: 303",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Sat, 21 Nov 2026 10:36:32 +0000"
-    },
-    {
-      "title": "GnuPG Security Advisory for GPGME",
-      "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-      "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 262 # Comments: 113",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Sat, 21 Nov 2026 08:32:58 +0000"
-    },
-    {
-      "title": "Backblaze Notice at Collection and Privacy Policy",
-      "link": "https://www.backblaze.com/company/policy/privacy",
-      "summary": "Article URL: https://www.backblaze.com/company/policy/privacy Comments URL: https://news.ycombinator.com/item?id=50585593 Points: 247 # Comments: 90",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Sat, 21 Nov 2026 03:23:16 +0000"
-    },
-    {
-      "title": "Clojure will affect the way you think about programming (2017)",
-      "link": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-      "summary": "Article URL: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/ Comments URL: https://news.ycombinator.com/item?id=50585376 Points: 201 # Comments: 92",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Sat, 21 Nov 2026 02:40:39 +0000"
-    },
-    {
-      "title": "Re: Riemann",
-      "link": "https://borretti.me/article/re-riemann",
-      "summary": "Article URL: https://borretti.me/article/re-riemann Comments URL: https://news.ycombinator.com/item?id=50583982 Points: 215 # Comments: 232",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Fri, 20 Nov 2026 23:42:44 +0000"
-    },
-    {
-      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-      "link": "https://news.ycombinator.com/item?id=50583761",
-      "summary": "I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 y",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Fri, 20 Nov 2026 23:18:32 +0000"
-    },
-    {
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "link": "https://ninlive.com/",
-      "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 378 # Comments: 109",
-      "source": "Hacker News 精选",
-      "category": "技术",
-      "published": "Fri, 20 Nov 2026 22:30:47 +0000"
+      "published": "Sun, 22 Nov 2026 00:57:26 +0000"
     }
   ],
   "count": 58,
   "sources_ok": 5,
   "errors": [],
-  "fetched_at": "2026-11-23T01:02:58+08:00"
+  "fetched_at": "2026-11-23T16:53:00+08:00"
 }
