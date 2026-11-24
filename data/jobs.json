@@ -1198,25 +1198,6 @@
       "source": "猎聘·供应链"
     },
     {
-      "title": "供应链总监",
-      "salary": "40-70k·15薪",
-      "city": "苏州",
-      "district": "苏州",
-      "exp": "10年以上",
-      "edu": "本科",
-      "company": "某知名公司",
-      "industry": "学术/科研",
-      "domain": "其他/未标注",
-      "level": "总监/负责人",
-      "link": "https://www.liepin.com/a/82240627.shtml",
-      "job_id": "82240627",
-      "tier": "related",
-      "matched": [
-        "供应链"
-      ],
-      "source": "猎聘·供应链"
-    },
-    {
       "title": "类别采购员 Commodity Buyer",
       "salary": "10-15k·14薪",
       "city": "苏州",
@@ -1234,6 +1215,25 @@
         "供应链"
       ],
       "source": "猎聘·采购"
+    },
+    {
+      "title": "供应链总监",
+      "salary": "40-70k·15薪",
+      "city": "苏州",
+      "district": "苏州",
+      "exp": "10年以上",
+      "edu": "本科",
+      "company": "某知名公司",
+      "industry": "学术/科研",
+      "domain": "其他/未标注",
+      "level": "总监/负责人",
+      "link": "https://www.liepin.com/a/82240627.shtml",
+      "job_id": "82240627",
+      "tier": "related",
+      "matched": [
+        "供应链"
+      ],
+      "source": "猎聘·供应链"
     },
     {
       "title": "采购经理",
@@ -4296,10 +4296,10 @@
     },
     {
       "title": "生产计划主管",
-      "salary": "10-11k",
+      "salary": "12-18k",
       "city": "常州",
       "district": "常州-潞城",
-      "exp": "1-3年",
+      "exp": "3-5年",
       "edu": "本科",
       "company": "日盈电子",
       "industry": "汽车零部件及配件",
@@ -6829,5 +6829,5 @@
     "专家/资深": 15
   },
   "errors": [],
-  "fetched_at": "2026-11-24T05:12:52+08:00"
+  "fetched_at": "2026-11-24T18:50:16+08:00"
 }
