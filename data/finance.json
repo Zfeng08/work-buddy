@@ -32,8 +32,8 @@
     },
     {
       "name": "美元人民币",
-      "price": 6.6537,
-      "change": -0.0063,
+      "price": 6.6541,
+      "change": -0.0059,
       "change_pct": -0.09
     }
   ],
@@ -3025,12 +3025,53 @@
         },
         {
           "name": "美元人民币",
-          "price": 6.6537,
-          "change": -0.0063,
+          "price": 6.6541,
+          "change": -0.0059,
+          "change_pct": -0.09
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "quotes": [
+        {
+          "name": "上证指数",
+          "price": 3606.49,
+          "change": 129.61,
+          "change_pct": 3.73
+        },
+        {
+          "name": "深证成指",
+          "price": 10814.02,
+          "change": 729.98,
+          "change_pct": 7.24
+        },
+        {
+          "name": "创业板指",
+          "price": 2443.96,
+          "change": 254.14,
+          "change_pct": 11.61
+        },
+        {
+          "name": "恒生指数",
+          "price": 22694.77,
+          "change": 467.89,
+          "change_pct": 2.11
+        },
+        {
+          "name": "腾讯控股",
+          "price": 352.0,
+          "change": 11.0,
+          "change_pct": 3.23
+        },
+        {
+          "name": "美元人民币",
+          "price": 6.6541,
+          "change": -0.0059,
           "change_pct": -0.09
         }
       ]
     }
   ],
-  "fetched_at": "2026-11-27T17:36:03+08:00"
+  "fetched_at": "2026-11-28T12:16:44+08:00"
 }
